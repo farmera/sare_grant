@@ -1,6 +1,6 @@
 ### Kites, Balloons, and Drones
 
-##### Aerial Photography
+#### Aerial Photography
 * Aerial photography is a primary data source for precision agriculture.
 * The goal in aerial data capture is to produce consistent, stable images.
 * Cameras in flight are inherently unstable.
@@ -17,7 +17,7 @@ Whichever airborne method is used the object remains to position one or more cam
 them down (or as close to nadir as possible), get the shot, and return the camera safely to the ground. No method 
 discussed here performs in every way without producing some kind of error. 
 
-##### Kites
+#### Kites
 * Kites are easy to understand.
 * In certain conditions kites are incredibly stable and will fly for extended periods.
 * Kites can play a role in agricultural photography but only to a point. 
@@ -37,7 +37,7 @@ can't prevent the camera from being jostled about during flight. The result is o
 a few good captures having the right orientation.       
 
 
-##### Balloons
+#### Balloons
 
 * A helium-filled balloon provides an accessible solution for suspending cameras.
 * Balloons can serve as an alternative to kites on wind-less days.
@@ -64,7 +64,7 @@ use for non-critical purposes. Helium is naturally released from fossil fuel pro
 and stored. However, after use it's not easily re-captured but ultimately escapes into space forever. 
 
 
-##### Unmanned Aerial Vehicles (i.e. Drones)
+#### Unmanned Aerial Vehicles (i.e. Drones)
 
 * Aerial drones (UAVs) are unique among the other methods discussed.
 * UAVs provide stability and reproducibility over individual flights.
@@ -111,14 +111,14 @@ practice. When we began our study the autonomous drone was not an option unless 
 background in aviation. Two years ago their use was limited and largely theoretical. Since then UAVs have quickly evolved 
 and become firmly established as a new norm in agriculture.   
  
-##### A Segue into Light, Cameras, Action
+#### A Segue into Light, Cameras, Action
 
 Our discussion into various flying methods, while interesting in itself, is only a means to an end of placing a camera into 
 position in order to capture the right light at the right time of day. Before venturing into the core methods used 
 in our study and the results obtained we first set the stage by discussing some earlier methods that were used and why 
 they did not succeed.  
 
-##### Resolving Images
+#### Resolving Images
 Whether one uses a kite, a balloon, a drone, or a pidgeon, once the images have been taken and the craft returned safely to ground,
 all images must be gathered and 'stitched' together to create a final representation of the area of interest. 
 
@@ -145,7 +145,7 @@ refers to the area of ground covered by an individual pixel. With regard to a di
 number of pixels in the sensor.  Hereinafter, when using the term 'resolution' we usually mean the ground sample distance. 
 We cover this in greater detail in [Section 8](study_results_balloons.md) when discussing the results of kites and balloons.   
 
-##### Vegetation Index With a Single or Dual-Camera System
+#### Vegetation Index With a Single or Dual-Camera System
 
 It is possible to create a vegetation index image using only a single consumer digital camera as almost all consumer camera sensors are
 sensitive in the near infrared range. If the camera is modified to remove the IR blocking filter and a dual band pass filter is 
@@ -175,7 +175,7 @@ using these and similar methods.
 [Bottom line is kites, balloons, single or dual camera systems are good for some things not good 
 for others.]
 
-##### Summary
+#### Summary
 Of all aerial methods discussed thus far UAVs prove to be the most capable in that they allow...
 Small and large growers alike may benefit from the steep reduction in price and complexity of these wondrous devices. 
 Using these tools growers can farm more economically and acquire the most valuable forms of data as need and suited to their
