@@ -1,6 +1,6 @@
-#### Through the Eyes of a Plant
+### Through the Eyes of a Plant
 
-###### Basic Plant Biology
+##### Basic Plant Biology
 
 * Plants use chlorophyll, water, and carbon dioxide to synthesize sugar.
 * Sugars make roots, leaves, flowers, seeds.
@@ -30,9 +30,7 @@ locus of the photosynthetic process. If a plant's chloroplasts are compromised t
 and its ability to photosynthesize and produce sugar will likewise be diminished.  
 
 ![](img/one.png) 
-
-__Figure 1.__
-
+######Figure 1. 
    
 In addition to absorbing red (and blue) and reflecting green, most (healthy) plants tend to reflect away almost all of 
 the NIR light that hits them. This tendency is shown in the graph above. NIR light is not in the visible spectrum 
