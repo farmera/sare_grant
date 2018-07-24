@@ -1,6 +1,6 @@
-#### Kites, Balloons, and Drones
+### Kites, Balloons, and Drones
 
-###### Aerial Photography
+##### Aerial Photography
 * Aerial photography is a primary data source for precision agriculture.
 * The goal in aerial data capture is to produce consistent, stable images.
 * Cameras in flight are inherently unstable.
@@ -10,15 +10,14 @@ parachutes and kites, pigeons and personal drones. All have been set aloft with 
 attached and tools to trigger them either remotely or automatically. The French caricaturist Gaspard-Félix Tournachon (known as 'Nadar') 
 was first to fly and photograph the city of Paris from above in 1858.
 
-![](/Users/geraldmc/2018Code/sare/sare_grant/readme_resources/img/nadar.png)
-
-__Figure 1.__ Gaspard-Félix Tournachon hangs on, making history. 
+![](img/nadar.png)
+###### Figure 1. Gaspard-Félix Tournachon hangs on, making history. 
 
 Whichever airborne method is used the object remains to position one or more cameras at sufficient height, point 
 them down (or as close to nadir as possible), get the shot, and return the camera safely to the ground. No method 
 discussed here performs in every way without producing some kind of error. 
 
-###### Kites
+##### Kites
 * Kites are easy to understand.
 * In certain conditions kites are incredibly stable and will fly for extended periods.
 * Kites can play a role in agricultural photography but only to a point. 
@@ -28,9 +27,8 @@ known as a Picavet. The Picavet (named for French inventor Pierre Picavet) attac
 line that flies the kite. The Picavet consists of a rigid cross 
 suspended below the kite line from two points and serves to stabilize the camera against random motion.
 
-![](/Users/geraldmc/2018Code/sare/sare_grant/readme_resources/img/kite.png)
-
-__Figure 2.__ A camera system suspended via Picavet from a Delta-style kite. 
+![](img/kite.png)
+###### Figure 2. A camera system suspended via Picavet from a Delta-style kite. 
 
 Kites represent an easy and accessible approach to suspending cameras in the air. A kite has the advantage that,
 given a strong and stable wind, it's easy to fly and will remain suspended for long periods. 
@@ -39,7 +37,7 @@ can't prevent the camera from being jostled about during flight. The result is o
 a few good captures having the right orientation.       
 
 
-###### Balloons
+##### Balloons
 
 * A helium-filled balloon provides an accessible solution for suspending cameras.
 * Balloons can serve as an alternative to kites on wind-less days.
@@ -51,9 +49,8 @@ straight up unless a wind is pushing it elsewhere. Helium balloons are sensitive
 course quite easily by it. On wind-less days they rise easily to great altitudes and can remain steadily in place for 
 several hours.    
  
-![](/Users/geraldmc/2018Code/sare/sare_grant/readme_resources/img/balloons.png)
-
-__Figure 3.__ A helium-filled balloon suspends a dual-camera system. 
+![](img/balloons.png)
+###### Figure 3. A helium-filled balloon suspends a dual-camera system. 
 
 Balloons and kites are a practical tools where high-resolution imagery is required. When using balloons, weather conditions 
 are important to consider since winds may impact the flight plan. The caveat of never putting into the air anything you 
@@ -67,7 +64,7 @@ use for non-critical purposes. Helium is naturally released from fossil fuel pro
 and stored. However, after use it's not easily re-captured but ultimately escapes into space forever. 
 
 
-###### Unmanned Aerial Vehicles (i.e. Drones)
+##### Unmanned Aerial Vehicles (i.e. Drones)
 
 * Aerial drones (UAVs) are unique among the other methods discussed.
 * UAVs provide stability and reproducibility over individual flights.
@@ -86,9 +83,8 @@ expense. While a number of turnkey services provide all-in-one flight and data s
 understanding the steps involved and the actual value-add is crucial for success.  
 
 
-![](/Users/geraldmc/2018Code/sare/sare_grant/readme_resources/img/drone.png)
-
-__Figure 4.__ A 3DR Solo drone in mid-flight. The Solo was used by this study. 
+![](img/drone.png)
+###### Figure 4. A 3DR Solo drone in mid-flight. The Solo was used in this study. 
 
 Here are some ways that aerial drone technology is being applied in agriculture:
 
@@ -115,14 +111,14 @@ practice. When we began our study the autonomous drone was not an option unless 
 background in aviation. Two years ago their use was limited and largely theoretical. Since then UAVs have quickly evolved 
 and become firmly established as a new norm in agriculture.   
  
-###### A Segue into Light, Cameras, Action
+##### A Segue into Light, Cameras, Action
 
 Our discussion into various flying methods, while interesting in itself, is only a means to an end of placing a camera into 
 position in order to capture the right light at the right time of day. Before venturing into the core methods used 
 in our study and the results obtained we first set the stage by discussing some earlier methods that were used and why 
 they did not succeed.  
 
-###### Resolving Images
+##### Resolving Images
 Whether one uses a kite, a balloon, a drone, or a pidgeon, once the images have been taken and the craft returned safely to ground,
 all images must be gathered and 'stitched' together to create a final representation of the area of interest. 
 
@@ -139,18 +135,17 @@ The resolution of the image data gathered and stitched together ultimately rests
 representing a point in the overall process where error may be introduced.    
 
 
-![](/Users/geraldmc/2018Code/sare/sare_grant/readme_resources/img/Map-Stiching-Example.gif)
-
-__Figure 5.__
+![](img/Map-Stiching-Example.gif)
+###### Figure 5.
 
 In turn, the resolution of the final image __analyzed__ depends on the stability of the capture event, on the resolution 
 of the camera at that given moment, and on the stitching process that brings the separate images together. Of interest is the __resolution per pixel__ since each pixel ultimately represents an 
 area of the total crop section. With regard to aerial photography, resolution (also called ground sample distance) 
 refers to the area of ground covered by an individual pixel. With regard to a digital camera, resolution may also refer to the 
 number of pixels in the sensor.  Hereinafter, when using the term 'resolution' we usually mean the ground sample distance. 
-We cover this in greater detail in [Section 8](readme_resources/study_results_balloons.md) when discussing the results of kites and balloons.   
+We cover this in greater detail in [Section 8](study_results_balloons.md) when discussing the results of kites and balloons.   
 
-###### Vegetation Index With a Single or Dual-Camera System
+##### Vegetation Index With a Single or Dual-Camera System
 
 It is possible to create a vegetation index image using only a single consumer digital camera as almost all consumer camera sensors are
 sensitive in the near infrared range. If the camera is modified to remove the IR blocking filter and a dual band pass filter is 
@@ -167,21 +162,20 @@ As an example of a dual-camera system, the composite image in __Figure 6__ repre
 captured with a pair of consumer digital cameras. The NIR photo on the top-right was taken using a modified Canon A590, 
 from which the internal IR block filter has been removed.  
 
-![](/Users/geraldmc/2018Code/sare/sare_grant/readme_resources/img/fastie-results.png)
-
-__Figure 6.__
+![](img/fastie-results.png)
+###### Figure 6.
 
 In the bottom row are two images after post-processing the top 
 two. On the left is a false color IR image (also known as an NRG image) with varying tones of red representing the near 
 infrared band. In the bottom-right is a 'normalized difference vegetation index' __NDVI__ image which 
-has been created using the pair above. In [Section 8](readme_resources/study_results_balloons.md) and 
-[Section 9](readme_resources/study_results_drones.md) we will take a closer look at results obtained when
+has been created using the pair above. In [Section 8](study_results_balloons.md) and 
+[Section 9](study_results_drones.md) we will take a closer look at results obtained when
 using these and similar methods. 
 
 [Bottom line is kites, balloons, single or dual camera systems are good for some things not good 
 for others.]
 
-###### Summary
+##### Summary
 Of all aerial methods discussed thus far UAVs prove to be the most capable in that they allow...
 Small and large growers alike may benefit from the steep reduction in price and complexity of these wondrous devices. 
 Using these tools growers can farm more economically and acquire the most valuable forms of data as need and suited to their

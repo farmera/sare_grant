@@ -68,8 +68,7 @@ While consumer cameras can be 'hacked' such that they absorb both visible and NI
 demonstrated by the following graphic:
 
 ![](img/two.png)
-
-__Figure 2.__
+###### Figure 2.
 
 The above highlights the spectral characteristic of a generic consumer camera. The first thing to recognize is the 
 degree of overlap between the color bands. Consumer cameras are not designed to separate these bands which is perfectly 
@@ -85,8 +84,7 @@ An alternative to consumer-grade RGB cameras is a more expensive
 camera designed from the ground up to function as a truly narrow-band multi-spectral instrument. 
 
 ![](img/three.png)
-
-__Figure 3.__
+###### Figure 3.
 
 Specialized multispectral cameras contain 'band-pass' filters which whittle down the wavelengths of light to more 
 narrow bands. Having access to these narrower bands provides a far more precise estimate of the luminosity of 
@@ -100,4 +98,6 @@ tools exist to make these tasks more accessible to the average user.
 
 
 ###### References
+
+Images...
  
