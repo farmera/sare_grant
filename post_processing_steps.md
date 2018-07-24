@@ -1,6 +1,6 @@
-#### Post-Processing Spectral Imagery
+### Post-Processing Spectral Imagery
 
-###### Introduction
+#### Introduction
 
 This section describes in detail some tools and methods used to generate and interpret 
 statistics from multi-spectral indices. These and other post-processing steps have formed a large 
@@ -15,7 +15,7 @@ It's an under-appreciated fact that growers are, as a rule, quite adept at picki
 Often they have had to be. 
 
 
-###### Open Source Automation Tools
+#### Open Source Automation Tools
 
 * A range of open source tools is available to assist in processing multi-spectral imagery. 
 * Automation of the processing steps is both possible and desirable using open source tools.
@@ -31,7 +31,7 @@ open-source Linux operating system, i.e. one may login, get a command prompt, an
 In any part of a multi-step process looms the spectre of error. This is especially true if the process relies on 
 manual execution of a number of steps. In every phase of this project we have sought to minimize error by __automating__ as much of the work as possible.   
   
-###### Post-Processing Steps
+#### Post-Processing Steps
 
 The automated system designed for the project consists of six steps. The first four are required to prepare the raw image 
 data prior to analysis. The fifth and sixth are post-processing steps that are performed subsequently. In this section we 
@@ -45,7 +45,7 @@ consider steps five and six.
 6. __Extraction of image-derived statistics.__
 
 
-###### Practical Examples
+#### Practical Examples
 
 * Seasonal variation in spectral data can be addressed through basic machine learning techniques.
 * Different spectral indices offer alternate views of the same data. 
@@ -67,19 +67,17 @@ order to derive a better sense of the sensitivity of a particular index, and to 
 pair. However, at least half of the visible area in these images of early sugar cane is composed of __soil__ which should not 
 be included in the averaged NDVI value (e.g. since soil is _not_ photosynthetic).
 
-![](/Users/geraldmc/2018Code/sare/sare_grant/readme_resources/img/04-25_ndvi.png)
-![](/Users/geraldmc/2018Code/sare/sare_grant/readme_resources/img/05-25_ndvi.png)
-
-_Figure 1._ Comparison of NDVI images. 
+![](img/04-25_ndvi.png)
+![](img/05-25_ndvi.png)
+###### Figure 2. Comparison of NDVI images. 
 
 Thus the task is to remove pixels from an image where those pixel values represent soil. How might one accomplish this? 
 One way is to open up each image in an editor, examine every pixel and guess, based on color, whether it should be 
 included in the final average or not. Each of these particular section images contains ~30,000 pixels and there are 30 
 sections in each dataset. That's roughly 900,000 pixel decisions to make for each.  
 
-![](/Users/geraldmc/2018Code/sare/sare_grant/readme_resources/img/ndvi_compare_1_with_hist.png)
-
-_Figure 2._ Histogram of uncorrected NDVI values.  
+![](img/ndvi_compare_1_with_hist.png)
+###### Figure 2. Histogram of uncorrected NDVI values.
 
 Instead of counting pixels, another approach is to look more closely at how the two images stack-up. To do this we 
 can plot them as 'dual' histograms, as is done in __Figure 2__. Note that there are multiple peaks in each histogram (one 
@@ -95,19 +93,17 @@ are used to calculate an optimum threshold to separate the two. In plain English
 we're automatically masked the more prevalent pixel value (in this case the non-photosynthetic parts) in a manner that is repeatable, 
 i.e. it is not based solely on one individual's personal judgement.        
 
-![](/Users/geraldmc/2018Code/sare/sare_grant/readme_resources/img/ndvi_1_corrected.png)
-
-_Figure 3._ Histogram of 'corrected' NDVI values.  
+![](img/ndvi_1_corrected.png)
+###### Figure 4. Histogram of 'corrected' NDVI values.
 
 The result of applying minimum threshold is seen in a second set of images and in a histogram generated from the 
 'thresholded' data (see __Figure 3__). No longer do we see the prominent peaks (the 'soil' pixels are replaced 
 by 'neutral' white). The second set of averages more accurately reflects the actual NDVI values of the 
 crop, minus the noise. These values (in the 'corrected' versions for 04/25 and 05/25) are 0.42 and 0.65, respectively.
 
-![](/Users/geraldmc/2018Code/sare/sare_grant/readme_resources/img/uncorrected_ndvi_three.png)
-![](/Users/geraldmc/2018Code/sare/sare_grant/readme_resources/img/corrected_ndvi_three.png)
-
-_Figure 4._ Set of uncorrected and corrected NDVI images.
+![](img/uncorrected_ndvi_three.png)
+![](img/corrected_ndvi_three.png)
+###### Figure 4. Set of uncorrected and corrected NDVI images.
 
 This straightforward use of machine learning serves to illustrate how automating a single step in the 
 process chain reduces error. __Figure 4__ shows a set of three uncorrected/corrected NDVI images from May 25, 2017. The nitrogen treatments are, from left 
@@ -115,7 +111,7 @@ to right, 40 lbs N, 60 lbs N and 80lbs N. In the top row the unbiased standard d
 respectively, while in the corrected versions they are 0.9 across. In this case we've managed to remove some of the 'noise' 
 from the samples which proves to be of significance when a final interpretation of these data is made.  
 
-###### Section III
+#### Section III
 
 * Early versus late crop interpretation
 * Lorem ipsum dolor sit amet
