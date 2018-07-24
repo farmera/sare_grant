@@ -56,27 +56,27 @@ two-year study on the feasibility of using a variety of different multi-spectral
 
 1. __Introduction__
     * This documemt.
-2. [__Through the Eyes of a Plant__](readme_resources/how_plants_see.md)
+2. [__Through the Eyes of a Plant__](how_plants_see.md)
     * A gentle introduction to the biology of plant life ...
-3. [__Kites, Balloons, and Drones__](readme_resources/kites_balloons_drones.md)
+3. [__Kites, Balloons, and Drones__](kites_balloons_drones.md)
     * A description of various aerial options available at low-cost ...
-4. [__Study Methods__](readme_resources/study_methods.md)
+4. [__Study Methods__](study_methods.md)
     * An overview of some of the approaches considered by this study ...
-5. [__Varieties of Spectral Index__](readme_resources/spectral_indices.md)
+5. [__Varieties of Spectral Index__](spectral_indices.md)
     * An in-depth look at the types of vegetation index used in this study ...
-6. [__Pre-Processing Steps__](readme_resources/pre_processing_steps.md)
+6. [__Pre-Processing Steps__](pre_processing_steps.md)
     * How we prepared the image data for analysis ...
-7. [__Post-Processing Steps__](readme_resources/pre_processing_steps.md)
+7. [__Post-Processing Steps__](pre_processing_steps.md)
     * Analyzing the image data ...
-8. [__Study Results I - Balloons and Kites__](readme_resources/study_results_balloons.md)
+8. [__Study Results I - Balloons and Kites__](study_results_balloons.md)
     * Expected results when using  balloons and kites...
-9. [__Study Results II - Aerial Drones__](readme_resources/study_results_balloons.md)
+9. [__Study Results II - Aerial Drones__](study_results_balloons.md)
     * Results when using drones ...
-10. [__Summary__](readme_resources/summary.md)
+10. [__Summary__](summary.md)
     * Summary of our results ...
-11. [__Closing Remarks__](readme_resources/final_notes.md)
+11. [__Closing Remarks__](final_notes.md)
     * What we've learned thus far ...
-12. [__References__](readme_resources/summary.md)
+12. [__References__](summary.md)
     * Lorem ipsum dolor sit amet ...
 
 ###### References
