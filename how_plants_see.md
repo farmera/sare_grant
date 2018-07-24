@@ -29,7 +29,7 @@ it tends to absorb. This tendency is directly related to the functional health o
 locus of the photosynthetic process. If a plant's chloroplasts are compromised then it will absorb less red light
 and its ability to photosynthesize and produce sugar will likewise be diminished.  
 
-![](/Users/geraldmc/2018Code/sare/sare_grant/readme_resources/img/one.png) 
+![](img/one.png) 
 
 __Figure 1.__
 
@@ -69,7 +69,7 @@ high degree of often unrealized sophistication.
 While consumer cameras can be 'hacked' such that they absorb both visible and NIR light, a problem in doing this is 
 demonstrated by the following graphic:
 
-![](/Users/geraldmc/2018Code/sare/sare_grant/readme_resources/img/two.png)
+![](img/two.png)
 
 __Figure 2.__
 
@@ -86,7 +86,7 @@ fine in the context of taking pictures of kittens. When the intended goal is to 
 An alternative to consumer-grade RGB cameras is a more expensive 
 camera designed from the ground up to function as a truly narrow-band multi-spectral instrument. 
 
-![](/Users/geraldmc/2018Code/sare/sare_grant/readme_resources/img/three.png)
+![](img/three.png)
 
 __Figure 3.__
 
