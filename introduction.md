@@ -8,7 +8,7 @@ decades have seen a drop in Louisiana sugarcane acreage, crop values have remain
 yield. Significant increase in yield is attributable to the addition of nitrogen (N) fertilizer beyond any other 
 agricultural input. [fn]
 
-![](img/saccharum_officinarum.jpg)
+![](img/sugarcane.png)
 ###### Figure 1.  Saccharum officinarum. [1]
 
 #### Problem
