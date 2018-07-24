@@ -1,6 +1,6 @@
 ### Through the Eyes of a Plant
 
-##### Basic Plant Biology
+#### Basic Plant Biology
 
 * Plants use chlorophyll, water, and carbon dioxide to synthesize sugar.
 * Sugars make roots, leaves, flowers, seeds.
@@ -17,7 +17,7 @@ plants contain photosynthetic engines known as chloroplasts. When the sun's rays
 mainly contained in the leafy portions of the plant, cells absorb the red and blue wavelengths while reflecting away 
 most others. This filtered light, along with water and carbon dioxide, produces sugar and oxygen.
 
-###### Red, Blue and Near Infra Red (NIR)
+#### Red, Blue and Near Infra Red (NIR)
 
 * Healthy plants absorb red but reflect away most of the NIR.
 * NIR is higher energy light, most plants cannot use it.
