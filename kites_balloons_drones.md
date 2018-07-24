@@ -135,7 +135,7 @@ The resolution of the image data gathered and stitched together ultimately rests
 representing a point in the overall process where error may be introduced.    
 
 
-![](img/Map-Stiching-Example.gif)
+![](img/map-stitch.gif)
 ###### Figure 5.
 
 In turn, the resolution of the final image __analyzed__ depends on the stability of the capture event, on the resolution 
