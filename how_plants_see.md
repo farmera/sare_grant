@@ -67,7 +67,7 @@ high degree of often unrealized sophistication.
 While consumer cameras can be 'hacked' such that they absorb both visible and NIR light, a problem in doing this is 
 demonstrated by the following graphic:
 
-![](img/two.png)
+![](img/consumer.png)
 ###### Figure 2.
 
 The above highlights the spectral characteristic of a generic consumer camera. The first thing to recognize is the 
@@ -83,7 +83,7 @@ fine in the context of taking pictures of kittens. When the intended goal is to 
 An alternative to consumer-grade RGB cameras is a more expensive 
 camera designed from the ground up to function as a truly narrow-band multi-spectral instrument. 
 
-![](img/three.png)
+![](img/sequoia.png)
 ###### Figure 3.
 
 Specialized multispectral cameras contain 'band-pass' filters which whittle down the wavelengths of light to more 
