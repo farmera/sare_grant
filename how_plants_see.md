@@ -30,6 +30,7 @@ locus of the photosynthetic process. If a plant's chloroplasts are compromised t
 and its ability to photosynthesize and produce sugar will likewise be diminished.  
 
 ![](img/one.png) 
+
 ######Figure 1. 
    
 In addition to absorbing red (and blue) and reflecting green, most (healthy) plants tend to reflect away almost all of 
