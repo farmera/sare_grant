@@ -31,7 +31,7 @@ and its ability to photosynthesize and produce sugar will likewise be diminished
 
 ![](img/one.png) 
 
-######Figure 1. 
+###### Figure 1. 
    
 In addition to absorbing red (and blue) and reflecting green, most (healthy) plants tend to reflect away almost all of 
 the NIR light that hits them. This tendency is shown in the graph above. NIR light is not in the visible spectrum 
