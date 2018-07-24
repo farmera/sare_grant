@@ -17,7 +17,7 @@ plants contain photosynthetic engines known as chloroplasts. When the sun's rays
 mainly contained in the leafy portions of the plant, cells absorb the red and blue wavelengths while reflecting away 
 most others. This filtered light, along with water and carbon dioxide, produces sugar and oxygen.
 
-#### Red, Blue and Near Infra Red (NIR)
+#### Green, Red and Near Infra Red (NIR)
 
 * Healthy plants absorb red but reflect away most of the NIR.
 * NIR is higher energy light, most plants cannot use it.
@@ -48,7 +48,7 @@ health while red demonstrates unhealth. Note that an unhealthy plant absorbs les
 and red parts of the spectrum while absorbing more (reflecting less) in the NIR portion.   
  
 
-###### Modified RGB Cameras
+#### Modified RGB Cameras
 * Spectral bands collected by RGB cameras overlap. 
 * Spectral overlap leads to contaminated values.
 * Modified RGB cameras are difficult to calibrate.
@@ -75,7 +75,7 @@ degree of overlap between the color bands. Consumer cameras are not designed to 
 fine in the context of taking pictures of kittens. When the intended goal is to provide separation between bands 
 (for purposes of quantifying values) it's not helpful. 
 
-###### Professional Multi-Spectral Cameras
+#### Professional Multi-Spectral Cameras
 
 * Multispectral cameras are tuned to capture multiple, narrow bands of light.
 * The 'spectral signature' of a plant helps indicate its productivity.

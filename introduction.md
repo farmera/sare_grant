@@ -1,7 +1,7 @@
-#### Introduction
+### Introduction
 
 
-###### Background
+#### Background
 First introduced into Louisiana in 1751, sugarcane (_Saccharum officinarum_) is the highest valued row-crop in the state. 
 Its continuous production is an important historic and economic component of Louisiana's overall economy. While recent 
 decades have seen a drop in Louisiana sugarcane acreage, crop values have remained stable due to increases in sucrose 
@@ -9,27 +9,26 @@ yield. Significant increase in yield is attributable to the addition of nitrogen
 agricultural input. [fn]
 
 ![](img/saccharum_officinarum.jpg)
+###### Figure 1.  Saccharum officinarum. [1]
 
-__Figure 1__. Saccharum officinarum. [1]
-
-###### Problem
+#### Problem
 As gross tonnage of harvested sugarcane declines, sugarcane farmers in Louisiana are under pressure to boost operational 
 efficiency in order to sustain this economically vital crop. It is essential that producers apply new and proven technology 
 in order to mitigate the cost of production, maximize yield, and limit impact on the environment.
 
-###### Current Methods
+#### Current Methods
 Intensive agricultural production systems, such as sugarcane, typically require higher nitrogen (N) rates to achieve 
 sufficient biomass and yield. Along with N rate optimization, N application timing is also an important consideration. 
 Development of effective and affordable N management systems is essential to maintain sustainable sugarcane agriculture 
 in Louisiana, both from an economic and environmental perspective.
 
-###### Study Goals
+#### Study Goals
 Methods currently employed to determine crop N status in sugarcane include visual inspection, tissue analysis, and 
 chlorophyll meters. Soil N analysis is also utilized to gauge N soil content, but the reliability of soil sampling 
 techniques is inconclusive due to challenges associated with the nature of soil N - especially in the humid alluvial 
 soils of southern Louisiana.
 
-###### The Value of Spectral Indices
+#### The Value of Spectral Indices
 The Normative Difference Vegetation Index (NDVI) is a form of hyper-spectral imaging that collects and processes 
 information across specific wavelengths of the electromagnetic spectrum. The purpose of NDVI image processing is to 
 obtain a spectral index of each pixel in an image. In agriculture, the goal of NDVI imaging is to detect the relative 
@@ -38,7 +37,7 @@ that the entire spectrum may be acquired at every point without prior knowledge 
 information in the dataset to be mined in any number of ways after the fact. The primary disadvantage of traditional 
 methods is their cost and complexity.
 
-###### Access to Technology
+#### Access to Technology
 Studies on Louisiana sugarcane growth have shown that remote sensing methods like NDVI are effective in predicting sucrose 
 yield in response to applied N fertilizer. Yet access to these technologies by farmers is limited; acquiring, processing 
 and interpreting such data is costly and time-consuming. While high resolution aerial imagery such as NDVI holds the 
@@ -49,7 +48,7 @@ amounts and estimating crop yield are two of the potential benefits to Louisiana
 problem exists in allocating time and resources necessary for technology that has yet to be been proven in the field. Our 
 study intends to make these tools available, in order to refine and measure their effectiveness.
 
-###### What Follows
+#### What Follows
 
 This report is organized into twelve sections each of which describes in various ways the background and results of a 
 two-year study on the feasibility of using a variety of different multi-spectral indices:  
