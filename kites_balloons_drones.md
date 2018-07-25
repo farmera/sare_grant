@@ -188,3 +188,5 @@ specific needs.
 * Alan McConchie https://www.flickr.com/photos/almccon/
 * Sam Pepple, Sample Cartography (stiched map image)
 * Chris Fastie, Courtesy of the [Public Lab](https://publiclab.org/).
+
+![](img/sugar_button.png) 

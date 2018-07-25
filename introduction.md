@@ -80,3 +80,5 @@ two-year study on the feasibility of using a variety of different multi-spectral
 
 ###### References
 [1] Image source: [Wikipedia](https://commons.wikimedia.org/wiki/File:Saccharum_officinarum_-_K%C3%B6hler%E2%80%93s_Medizinal-Pflanzen-125.jpg)
+
+![](img/sugar_button.png) 
