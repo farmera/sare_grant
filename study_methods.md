@@ -8,7 +8,7 @@ has been to test the viability of low-cost methods for acquiring and processing 
 
 Our primary goal was to determine to what extent low-cost aerial multi-spectral data could be correlated with variable 
 nitrogen (N) rates when applied to sugarcane. NDVI is a popular vegetation index which has been shown to be effective in 
-predicting crop yield potentials (YP) in wheat, sorghum and in other plant species. __[fn]__  Yet acquisition and interpretation 
+predicting crop yield potentials (YP) in wheat, sorghum and in other plant species. __[fn]__ Yet acquisition and interpretation 
 of these data for sugarcane using traditional methods is expensive, error prone, and often beyond reach of most 
 Louisiana growers.
 
@@ -27,6 +27,7 @@ control of height and nadir positioning of the cameras. Wind also impacts the pe
 Additional factors to consider are payload weight and total flight time. 
 
 ![](img/kite_image_fastie_lut.png)
+###### Figure 1.
 
 __Figure 1__ illustrates a typical NDVI result using a kite-suspension system with two consumer-grade cameras modified 
 for NDVI. The image in the center of the figure represents a color LUT (i.e. a look-up table) which is a table of 
@@ -65,9 +66,7 @@ factor in whether or not our data was meaningful.
 
 #### Consumer-grade versus Professional Cameras
 
-  
-
-###### More on Plant Biology
+#### More on Plant Biology
 
 * Creating an effective spectral index means capturing the right sort of light, at the right time of day. 
 * Interpreting spectral indices requires capturing data at the right time in the growing season.
@@ -79,8 +78,7 @@ these principles allow us to manipulate the captured bands in order to reveal mo
 Here we will focus on general principles which makes all of this possible. 
 
 ![](img/ndvi_biology.png) 
-
-__Figure 1.__
+###### Figure 2.
 
 Earlier we learned about a set of images that were captured using a pair of consumer cameras. These were later processed to produce both an NRG
 image along with a final index image, known as an NDVI index. The mathematical expression used to create an NDVI index 
@@ -109,13 +107,13 @@ light while reflecting away a good portion of the red. Recall that plants use re
 light presents a physiological burden to them. This is another generic spectral pattern that we can use: _lower NDVI values correlate with unhealthy, distressed plants_. 
 
 
-###### Section II
+#### Section II
 
 * The Spectral Sensitivity of Cameras
 * Lorem ipsum dolor sit amet
 * Lorem ipsum dolor sit amet
 
-###### Section III
+#### Section III
 
 * Lorem ipsum dolor sit amet
 * Lorem ipsum dolor sit amet
