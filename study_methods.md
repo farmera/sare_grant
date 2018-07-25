@@ -1,11 +1,36 @@
-### Study Methods
+### Study Goals and Methods
 
 #### Introduction
 
-This section provides a general description of the variety of tools and methods used to assess the most productive means of 
-acquiring and interpreting multi-spectral data in sugar cane. We also describe some of the challenges involved in 
-gathering and interpreting such data. The final results of our study are presented in [Section 8](study_results_balloons.md) 
-and [Section 9](readme_resources/study_results_drones.md). 
+This section provides a description of the various of tools and methods used to generate and assess multi-spectral data in 
+sugar cane. We also describe some of the challenges involved in gathering such data. Throughout this study our objective 
+has been to test the viability of low-cost methods of acquiring and processing aerial multi-spectral data. 
+
+Our primary goal was to determine to what extent low-cost aerial multi-spectral data could be correlated with variable 
+nitrogen (N) rates when applied to sugarcane. NDVI is a popular vegetation index which has been shown to be effective in 
+predicting crop yield potentials (YP) in wheat, sorghum and other plant species. __[fn]__  We wanted to know if and to what 
+degree this might be the case for sugarcane. Yet acquisition and interpretation of these kinds data with traditional methods 
+is often expensive and may be prone to error.
+
+The systems proposed at the outset of this study were both affordable and accessible. How accurately they might correlate 
+NDVI values to known nitrogen (N) rates was unknown.
+
+To what degree do variable nitrogen (N) rates applied to sugarcane correlate with low-cost NDVI measurements?
+
+Is our in-season model predictive of sugarcane yield potential, based on time-series analysis of low-cost aerial NDVI?
+
+Early in the project we experimented with various capture systems and suspension methods using kites and 
+balloons. The challenges facing any aerial photography system based on wind power are variability in the control of height 
+and nadir position of the cameras; weight of the camera rig; getting consistent results over time. 
+
+demonstrates output of a kite-suspension system using two consumer-grade cameras modified for NDVI. The images are 
+JPEG-compressed and white-balanced prior to capture according to a methodology which will be fully reported.  
+We will describe elsewhere the importance of calibration in NDVI photography along with this method. While these results 
+are useful for determining general patterns over time they are hard to replicate. One of our goals is to accurately 
+determine trends over time using low cost methods. 
+ 
+The final results of our study are 
+presented in [Section 8](study_results_balloons.md) and [Section 9](readme_resources/study_results_drones.md). 
 
 In general, acquiring accurate aerial image data requires consideration of two fundamental questions: 
 
@@ -19,10 +44,11 @@ In general, acquiring accurate aerial image data requires consideration of two f
     * The phrase 'sufficient spectral detail' will be unpacked but essentially this means clear separation of the 
     individual bands of light.  
     
-It became apparent during our study that the ability to capture narrow bands of light with minimum distortion was critical. 
-In addition, the ability to place that camera in relatively steady position These ideas are covered in detail in this section.  
+It became apparent during our study that an ability to capture a narrow bands of light with minimum distortion was critical. 
+In addition, the ability to place a camera in a relatively steady position for sufficient periods of time was a determining 
+factor in whether or not our data was meaningful.
 
-#### A Consumer-grade versus Professional Camera
+#### Consumer-grade versus Professional Cameras
 
   
 
