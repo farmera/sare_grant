@@ -13,8 +13,8 @@ photosynthesis is a process that plants use to synthesize sugar from carbon diox
 
 The leaves of plants contain photosynthetic engines called chloroplasts. When sunlight hits these chloroplasts, which are 
 contained mainly in the leafy portions, the cells absorb the red and blue wavelengths while reflecting away 
-most other wavelengths. Thus __filtered light__, along with water and carbon dioxide, produces sugar for the plant and 
-and oxygen to the environment.
+most others. Thus it is __filtered light__, along with water and carbon dioxide, that produces sugar for the plant and 
+and oxygen for the environment.
 
 #### Green, Red and Near Infra Red (NIR)
 
