@@ -8,16 +8,18 @@ has been to test the viability of low-cost methods of acquiring and processing a
 
 Our primary goal was to determine to what extent low-cost aerial multi-spectral data could be correlated with variable 
 nitrogen (N) rates when applied to sugarcane. NDVI is a popular vegetation index which has been shown to be effective in 
-predicting crop yield potentials (YP) in wheat, sorghum and other plant species. __[fn]__  We wanted to know if and to what 
-degree this might be the case for sugarcane. Yet acquisition and interpretation of these kinds data with traditional methods 
-is often expensive and may be prone to error.
+predicting crop yield potentials (YP) in wheat, sorghum and other plant species. __[fn]__  Yet acquisition and interpretation 
+of these kinds data with traditional methods is often expensive, error prone, and beyond the reach of most cane 
+Louisiana growers.
 
-The systems proposed at the outset of this study were both affordable and accessible. How accurately they might correlate 
+The systems we proposed at the outset of this study were both affordable and accessible. How accurately they might correlate 
 NDVI values to known nitrogen (N) rates was unknown.
 
-To what degree do variable nitrogen (N) rates applied to sugarcane correlate with low-cost NDVI measurements?
+We asked two question:
 
-Is our in-season model predictive of sugarcane yield potential, based on time-series analysis of low-cost aerial NDVI?
+* To what degree do variable nitrogen (N) rates applied to sugarcane correlate with low-cost NDVI measurements?
+
+* Are in-season models predictive of sugarcane yield potential, based on time-series analysis of low-cost NDVI?
 
 Early in the project we experimented with various capture systems and suspension methods using kites and 
 balloons. The challenges facing any aerial photography system based on wind power are variability in the control of height 
