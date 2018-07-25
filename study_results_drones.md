@@ -1,3 +1,5 @@
+![](img/sugar_button.png)
+
 ### Results Using Drones
 
 #### Section I
