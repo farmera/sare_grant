@@ -122,6 +122,8 @@ _gndvi_
 _ndre_
 ###### Figure 9. Regression plots of index values versus yield, April to November 2017.
 
+![](img/ndvi/ndvi_animated_2017.gif)
+
 
 ![](img/ndvi/ndvi_correlation.png)
 
