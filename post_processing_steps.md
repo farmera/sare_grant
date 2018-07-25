@@ -105,8 +105,7 @@ crop, minus the noise. These values (in the 'corrected' versions for 04/25 and 0
 ![](img/corrected_ndvi_three.png)
 ###### Figure 4. Set of uncorrected and corrected NDVI images.
 
-This straightforward use of machine learning serves to illustrate how automating a single step in the 
-process chain reduces error. __Figure 4__ shows a set of three uncorrected/corrected NDVI images from May 25, 2017. The nitrogen treatments are, from left 
+This example use of machine learning illustrates how automating a single step in the chain reduces error. __Figure 4__ shows a set of three uncorrected/corrected NDVI images from May 25, 2017. The nitrogen treatments are, from left 
 to right, 40 lbs N, 60 lbs N and 80lbs N. In the top row the unbiased standard deviations are 0.17, 0.17, and 0.18, 
 respectively, while in the corrected versions they are 0.9 across. In this case we've managed to remove some of the 'noise' 
 from the samples which proves to be of significance when a final interpretation of these data is made.  
