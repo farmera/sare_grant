@@ -13,7 +13,7 @@ of these data using traditional methods is expensive, error prone, and often bey
 
 The systems we proposed at the outset of our study were both affordable and accessible. How accurately they might correlate 
 NDVI other vegetation indices to known nitrogen (N) rates was unknown. Over the course of our study a third option became 
-tenable and was explored in depth in the second year of the grant.
+tenable (UAV's) and was explored in depth in the second year of the grant.
 
 We asked two questions:
 
@@ -25,6 +25,11 @@ Early in the project we experimented with various capture systems (automatically
 using kites and balloons. The central challenge of an aerial system based on wind alone is variability in the 
 control of height and nadir positioning of the camera. Wind also impacts the performance of balloons during flight. 
 Additional factors to consider are payload weight and total flight time. 
+
+[Section 3](kites_balloons_drones.md) discussed the various bands of reflected and captured light and how these 
+may be used to facilitate an understanding about crop health. In [Section 5]() we will consider in greater detail how 
+such principles allow us to manipulate the captured bands and reveal more interesting and specific patterns. 
+In this section we will focus on general principles which makes all of this possible. 
 
 ![](img/kite_image_fastie_lut.png)
 ###### Figure 1.
@@ -52,13 +57,14 @@ In general, acquiring accurate aerial image data requires consideration of two f
 
 1. Placing a camera at the correct height and orientation for a sufficient period of time.
 
-    * In [Section 3](kites_balloons_drones.md) we considered three possible methods for positioning a camera 
-    in the air: a kite, a helium-filled balloon, and an aerial drone. Each has its advantages and disadvantages.
+    * In [Section 3](kites_balloons_drones.md) three possible methods for positioning a camera 
+    in the air (a kite, a helium-filled balloon, and an aerial drone) are considered. Each has its advantages and 
+    disadvantages.
     
 2. Acquiring sufficient spectral detail from a camera such that the data may be usefully analyzed.
 
     * The phrase 'sufficient spectral detail' will be unpacked but essentially means clear separation of the 
-    individual bands of light captured.  
+    individual bands of captured light.  
     
 It became apparent during our study that the ability to place a camera in a relatively steady position for sufficient 
 periods of time was a determining factor in whether or not our data would be meaningful for more than a qualitative assessment
@@ -73,11 +79,6 @@ was critical.
 * Creating an effective spectral index means capturing the right sort of light, at the right time of day. 
 * Interpreting spectral indices requires capturing data at the right time in the growing season.
 * Thoughts on qualitative versus quantitative science.
-
-In [Section 3](kites_balloons_drones.md) we learned about the various bands of reflected and captured light and how these 
-may be used to facilitate an understanding about crop health. In a [Section 5]() we will consider in greater detail how 
-these principles allow us to manipulate the captured bands in order to reveal more interesting and specific patterns. 
-Here we will focus on general principles which makes all of this possible. 
 
 ![](img/ndvi_biology.png) 
 ###### Figure 2.
