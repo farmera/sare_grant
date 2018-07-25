@@ -23,7 +23,7 @@ We asked two questions:
 
 Early in the project we experimented with various capture systems and suspension methods using kites and 
 balloons. The central challenge of an aerial system based on wind power alone is variability in the 
-control of the height and nadir positioning of the cameras. Wind also impacts the performance of balloons during flight. 
+control of height and nadir positioning of the cameras. Wind also impacts the performance of balloons during flight. 
 Additional factors to consider are payload weight and total flight time. 
 
 ![](img/kite_image_fastie_lut.png)
@@ -39,8 +39,10 @@ well developed on the lower left compared with the right.
 An index image like this is a useful tool for identifying potential trouble spots in a developing crop. Later 
 on in the season a flight like this might quickly point out regions of the field that are underdeveloped or have been damaged. 
 While these results are certainly useful and can be achieved for a few hundred dollars and perhaps a 
-weekend of practice, they are largely __qualitative__ and __not quantitative__. If the goal is to determine general patterns 
-over time they are hard to replicate. One of our goals is to accurately determine trends over time using low cost methods. 
+weekend of practice, they are largely __qualitative__ and __not quantitative__. If the goal was to determine more precisely 
+a general pattern over time then this would present a challenge. Using a kite or a balloon these images would be hard to 
+replicate at this exact height and angle without effort. Since one of our stated goals was to accurately determine crop 
+trends over time using low cost methods. 
  
 The final results of our study are 
 presented in [Section 8](study_results_balloons.md) and [Section 9](readme_resources/study_results_drones.md). 
