@@ -1,13 +1,13 @@
-#### Pre-Processing Spectral Imagery
+### Pre-Processing Spectral Imagery
 
-###### Introduction
+#### Introduction
 
 This section describes various software tools and methodologies used to take raw captured images 
 and transform them into a multi-spectral index suitable for statistical analysis.  
 
 A central issue in the capture and transformation of large volumes of digital ...
 
-###### Pre-Processing Steps
+#### Pre-Processing Steps
 
 * Defining the initial processing steps. 
 * On site management of digital assets. 
@@ -29,18 +29,18 @@ the expense of licensing and training for their use is often prohibitive. The in
 to process multi-spectral data presents a great opportunity for individuals and small teams to develop workflows 
 for image processing that can be adapted to specific purposes for little or no cost when the need arises. 
 
-###### Mosaicking
+#### Mosaicking
 
 Mosaicking is the process of taking two or more raster datasets (i.e. images) and combining them into a single, seamless image. 
 Mosaicking can be accomplished using open-source applications such as QGIS, GDAL, or the Orfeo Toolbox. For our case several 
 scripts based on GDAL were developed to  accomplish a number of tasks, such as extracting metadata from 
 uploaded images, managing cases where overlapped image pixels conflicted, or managing the coordinate system.   
 
-![](/Users/geraldmc/2018Code/sare/sare_grant/readme_resources/img/mosaic.png)
+![](img/mosaic.png)
 
 __Figure 1.__ Example of a photo-mosiac. 
 
-###### Atmospheric Corrections
+#### Atmospheric Corrections
 
 Because the atmosphere intervenes between sun and ground it can distort the spectral distribution of light as it impinges upon 
 the Earth. In the past, acquisition of spectral imagery was mainly limited to that acquired from aircraft or satellite, 
@@ -53,7 +53,7 @@ patch of meandering cumulus passing in and out of the camera's frame. In this ci
 so critical to getting consistent results from one shot to the next is lost. An otherwise perfect day's flight can be 
 compromised by a single pesky cloud. 
 
-###### Geometric Corrections
+#### Geometric Corrections
 
 When aerial images are used in agriculture every feature of every image must accurately represent a true and consistent 
 position on the ground. For purposes of this study the requirement carries weight since the tolerance for error is 
@@ -71,11 +71,11 @@ of the camera. Each time a drone doubles-back in flight to cover another section
 with respect to the ground. It may also lose nadir at any point in the flight on a windy day. In either case, the necessary 
 geometric corrections were performed using scripts that make use of GDAL functionality.        
   
-![](/Users/geraldmc/2018Code/sare/sare_grant/readme_resources/img/ortho.png)
+![](img/ortho.png)
 
 __Figure 2.__  Orthorectification using a digital elevation model (DEM). 
 
-###### Image Co-Registration
+#### Image Co-Registration
 
 One goal in our study was to consider the evolution of a spectral index over time as a means of making predictions about yield.
 When the intention is to study two or more images of a time series then image co-registration is required. Co-registration 
@@ -88,8 +88,7 @@ same object. Both the modified consumer camera and the Sequoia camera use multip
 camera we performed 'band-to-band' image alignment (a form or co-registration) in order to account for the distortion effects 
 of multiple lens. 
 
-###### Summary
-
+#### Summary
 
 Very little man-made infrastructure was present in our study area thus the images generated throughout were dependent 
 for their alignment on invariant structures occupying known positions in the field. In addition, we set up ground 
