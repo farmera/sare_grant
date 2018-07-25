@@ -40,9 +40,10 @@ An index image like this is a useful tool for identifying potential trouble spot
 on in the season a flight like this might quickly point out regions of the field that are underdeveloped or damaged. 
 While these results are certainly useful and can be achieved for a few hundred dollars and perhaps a 
 weekend of practice, they are largely __qualitative__ and __not quantitative__. If the goal was to determine more precisely 
-a general pattern over time then this method would present challenges. Using a kite or a balloon these images would be hard to 
-replicate at this exact height and angle without effort. Since one of our stated goals was to accurately determine crop 
-trends over time using low cost methods. 
+a general pattern over time then this method would present challenges. While not impossible, it is difficult to replicate 
+the exact height and vantage point of a image taken during a flight with a kite or a balloon. On another day under different 
+conditions these images would be hard to precisely duplicate. Since one of our stated goals was to accurately determine crop 
+trends over time using low cost methods we decided to look at other methods. 
  
 The final results of our study are 
 presented in [Section 8](study_results_balloons.md) and [Section 9](readme_resources/study_results_drones.md). 
