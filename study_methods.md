@@ -22,8 +22,8 @@ We asked two question:
 * Are in-season models predictive of sugarcane yield potential, based on time-series analysis of low-cost NDVI?
 
 Early in the project we experimented with various capture systems and suspension methods using kites and 
-balloons. The challenges facing any aerial photography system based on wind power are variability in the control of height 
-and nadir position of the cameras; weight of the camera rig; getting consistent results over time. 
+balloons. The central challenge facing any aerial photography system based on wind power alone is variability in the 
+control of the height and nadir position of the cameras. The vagaries of wind also impact the performance of balloons. weight of the camera rig; getting consistent results over time. 
 
 demonstrates output of a kite-suspension system using two consumer-grade cameras modified for NDVI. The images are 
 JPEG-compressed and white-balanced prior to capture according to a methodology which will be fully reported.  
