@@ -7,7 +7,7 @@ decades have seen a drop in Louisiana sugarcane acreage, crop values have remain
 yield. Significant increase in yield is attributable to the addition of nitrogen (N) fertilizer beyond any other 
 agricultural input. [fn]
 
-![](img/sugar_cane.png)
+![](img/sugarcane3.png)
 ###### Figure 1.  Saccharum officinarum. [1]
 
 #### Problem
@@ -79,7 +79,5 @@ two-year study on the feasibility of using a variety of different multi-spectral
 
 ###### References
 [1] Image source: [Wikipedia](https://commons.wikimedia.org/wiki/File:Saccharum_officinarum_-_K%C3%B6hler%E2%80%93s_Medizinal-Pflanzen-125.jpg)
-
-![](img/sugarcane.png)
 
 ![](img/farmera.png) 
