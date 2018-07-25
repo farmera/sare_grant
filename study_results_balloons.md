@@ -1,6 +1,6 @@
-#### Results Using Balloons and Kites
+### Results Using Balloons and Kites
 
-###### Section I
+#### Section I
 
 * The Issue with Resolution
 * Lorem ipsum dolor sit amet
@@ -31,7 +31,7 @@ __Figure 4__ NDVI image with Fastie color LUT. Captured with a Delta kite at hei
 
 
 
-###### Section III
+#### Section III
 
 * Lorem ipsum dolor sit amet
 
@@ -42,3 +42,5 @@ __Figure 5__ Ground resolution of 2.7 centimeters (~1 inch) per pixel.
 
 
 ###### References
+
+![](img/farmera.png) 

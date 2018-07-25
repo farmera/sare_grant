@@ -55,7 +55,8 @@ To calculate NDVI from an image we do the following:
 2. Add all NIR values in each pixel to all the Red values.
 3. Calculate the ratio between the calculated difference (in the numerator) and the calculated sum (in the denominator). 
 
-   ![](img/7.png)
+![](img/7.png)
+###### Figure 1.
     
 An NDVI index is simply a ratio of the difference and the sum of two narrow bands of light. A ratio is taken in order to 
 *normalize* the values with the effect that this binds them between -1 and 1. Plant NDVI values can range from 0 to 1 but 
@@ -71,6 +72,7 @@ Thus, the NIR band is contained in one layer while the red is held in another. M
 according to a mathematical expression, produces a third layer which is the NDVI image itself. 
 
 ![](img/9.png)
+###### Figure 2.
  
 In addition to analyzing many pixels we need a way to efficiently separate individual bands of light as arrays.
 In order to provide actionable information to farmers we'll need to scale these sorts of manipulations up to potentially 
@@ -78,7 +80,8 @@ __millions and millions__ of pixels covering __hundreds and hundreds__ of megaby
 
  
 ![](img/8.png)
- 
+###### Figure 3.
+
 
 In coming sections we'll discuss how to achieve this degree of scaling along with strategies for interpreting 
 various vegetation indices under differing environmental conditions. Luckily, open-source software and image processing 
@@ -87,4 +90,4 @@ tools exist to make these tasks accessible to the average user.
 ###### References
 Pinter, Jr., Paul J.; Hatfield, Jerry L.; Schepers, James S.; Barnes, Edward M.; Moran, M. Susan; Daughtry, Craig S.T.; Upchurch, Dan R. (2003). "Remote Sensing for Crop Management". Photogrammetric Engineering & Remote Sensing. 69 (6): 647–664. doi:10.14358/PERS.69.6.647. ISSN 0099-1112.
 
-![](img/sugar_button.png) 
+![](img/farmera.png) 

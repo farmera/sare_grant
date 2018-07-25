@@ -81,4 +81,4 @@ light presents a physiological burden to them. This is another generic spectral 
 ###### References
 __Figure 1__ Image source: https://earthobservatory.nasa.gov/Features/MeasuringVegetation/measuring_vegetation_2.php
 
-![](img/sugar_button.png) 
+![](img/farmera.png) 

@@ -101,4 +101,4 @@ since part of the study objective
 
 Image references: 1, 2 http://www.pcigeomatics.com/
 
-![](img/sugar_button.png) 
+![](img/farmera.png) 

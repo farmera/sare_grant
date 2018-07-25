@@ -189,4 +189,4 @@ specific needs.
 * Sam Pepple, Sample Cartography (stiched map image)
 * Chris Fastie, Courtesy of the [Public Lab](https://publiclab.org/).
 
-![](img/sugar_button.png) 
+![](img/farmera.png) 
