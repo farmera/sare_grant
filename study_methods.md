@@ -17,9 +17,9 @@ NDVI other vegetation indices to known nitrogen (N) rates was unknown.
 
 We asked two questions:
 
-* To what degree do variable nitrogen (N) rates applied to sugarcane correlate with low-cost NDVI measurements?
+* __To what degree do variable nitrogen (N) rates applied to sugarcane correlate with low-cost NDVI measurements?__
 
-* Are in-season models predictive of sugarcane yield potential, based on time-series analysis of the acquired imagery?
+* __Are in-season models predictive of sugarcane yield potential, based on time-series analysis of the acquired imagery?__
 
 Early in the project we experimented with various capture systems and suspension methods using kites and 
 balloons. The central challenge facing any aerial photography system - based on wind power alone - is variability in the 
