@@ -4,8 +4,7 @@
 First introduced into Louisiana in 1751, sugarcane (_Saccharum officinarum_) is the highest valued row-crop in the state. 
 Its continuous production is an important historic and economic component of Louisiana's overall economy. While recent 
 decades have seen a drop in Louisiana sugarcane acreage, crop values have remained stable due to increases in sucrose 
-yield. Significant increase in yield is attributable to the addition of nitrogen (N) fertilizer beyond any other 
-agricultural input. [fn]
+yield. Significant increases in yield are attributable to the addition of nitrogen (N) fertilizer.
 
 ![](img/sugar_cane.png)
 ###### Figure 1.  Saccharum officinarum (Sugar Cane).
