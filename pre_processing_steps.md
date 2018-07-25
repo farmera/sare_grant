@@ -93,8 +93,7 @@ of multiple lens.
 Very little man-made infrastructure was present in our study area thus the images generated throughout were dependent 
 for their alignment on invariant structures occupying known positions in the field. In addition, we set up ground 
 control points based on known latitude and longitude coordinates and on elevations. There was a very mild down-slope from one
- end of our study area to the other of about 0.5 meters Often these landmarks were unnecessary
-since part of the study objective 
+end of our study area to the other of about 0.5 meters Often these landmarks were unnecessary since part of the study objective 
 
 
 ###### References

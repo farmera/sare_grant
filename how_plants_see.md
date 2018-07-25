@@ -98,6 +98,6 @@ Luckily, open-source software and image processing tools exist to make these tas
 
 ###### References
 
-Images...
+[TBD]
  
 ![](img/farmera.png) 

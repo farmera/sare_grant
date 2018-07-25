@@ -82,7 +82,7 @@ __millions and millions__ of pixels covering __hundreds and hundreds__ of megaby
 ![](img/8.png)
 ###### Figure 3.
 
-
+#### Summary
 In coming sections we'll discuss how to achieve this degree of scaling along with strategies for interpreting 
 various vegetation indices under differing environmental conditions. Luckily, open-source software and image processing 
 tools exist to make these tasks accessible to the average user.
