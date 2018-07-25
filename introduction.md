@@ -80,14 +80,11 @@ was used in this study will be harvested 12-14 months later.
     * Lorem ipsum dolor sit amet ...
 
 ### Acknowledgements
-This work was funded by grant generously provided by the __Sustainable Agriculture Research & Education__ program at USDA 
-(known as SARE). SARE is the primary USDA grant and outreach provider program for farmers, researchers and educators who seek 
-to develop innovations that improve farm profitability while protecting water and land, and revitalizing communities. 
-This work was made possible through a SARE Producer Grant. 
-
-The goal of the ARE Producer Grant program is to allow working farmers an opportunity to conduct projects that solve challenges 
-develop information on what works and doesn’t work. A core mission is to provide information to other farmers 
-who may be facing similar challenges who cmight benefit from the results of the funded project.
+This work was funded by the __Sustainable Agriculture Research & Education__ program at USDA (also known as SARE). 
+SARE is the primary USDA granting and outreach provider for farmers, researchers and educators seeking to develop innovative
+projects. The goal of the SARE Producer Grant program is to provide the working farmer an opportunity to conduct projects 
+that address specific challenges while developing information on what works and doesn’t work. A core mission is to provide 
+information to other farmers who may be facing similar challenges.
 
 ###### References
 [1] Image source: [Wikipedia](https://commons.wikimedia.org/wiki/File:Saccharum_officinarum_-_K%C3%B6hler%E2%80%93s_Medizinal-Pflanzen-125.jpg)
