@@ -79,6 +79,11 @@ was used in this study will be harvested 12-14 months later.
 12. [__References__](summary.md)
     * Lorem ipsum dolor sit amet ...
 
+Acknowledgement
+This work was funded through a grant by the Sustainable Agriculture Research & Education program known as SARE. SARE is 
+the primary USDA grant and outreach provider program for farmers, researchers and educators who want to develop innovations 
+that improve farm profitability, protect water and land, and revitalize communities.
+
 ###### References
 [1] Image source: [Wikipedia](https://commons.wikimedia.org/wiki/File:Saccharum_officinarum_-_K%C3%B6hler%E2%80%93s_Medizinal-Pflanzen-125.jpg)
 
