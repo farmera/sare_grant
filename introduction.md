@@ -49,11 +49,12 @@ study intends to make these tools available, in order to refine and measure thei
 
 #### What Follows
 
-This report is organized into twelve sections. In each we provide in varying levels of detail both background and 
+This report is organized into twelve sections. In provides in varying levels of detail both background and 
 results from a two-year study on the feasibility of using different multi-spectral indices to predict sucrose yield 
-in sugar cane. Sugar has a longer season than do other crops; a crop may be planted between August and March 
+in sugar cane. Sugar has a longer season than most other crops; it is planted anywhere between August and March 
 depending on the variety and age of the cultivar (i.e. a first year 'plant' cane or a second, third or fourth year 
-'stubble').
+'stubble'). Following planting, a first year 'plant cane' cultivar such as was used in this study is harvested 12-14 
+months later. 
 
 1. __Introduction__
     * This documemt.
