@@ -111,19 +111,23 @@ The graph in Figure [x] above shows NDVI values during the first month of the gr
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
 
-
-![](img/ndvi/ndvi_all_spectral_data.png)
 _ndvi_
-![](img/ndvic/ndvic_all_spectral_data.png)
+![](img/ndvi/ndvi_all_spectral_data.png)
 _corrected ndvi_
-![](img/gndvi/gndvi_all_spectral_data.png)
+![](img/ndvic/ndvic_all_spectral_data.png)
 _gndvi_
-![](img/ndre/ndre_all_spectral_data.png)
+![](img/gndvi/gndvi_all_spectral_data.png)
 _ndre_
+![](img/ndre/ndre_all_spectral_data.png)
 ###### Figure 9. Regression plots of index values versus yield, April to November 2017.
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
 
 ![](img/ndvi/ndvi_animated_2017.gif)
 
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
 
 ![](img/ndvi/ndvi_correlation.png)
 
