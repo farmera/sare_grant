@@ -28,9 +28,9 @@ Additional factors are payload weight and total flight time.
 
 ![](img/kite_image_fastie_lut.png)
 
-__Figure 1__ illustartes the typical output of a kite-suspension system using two consumer-grade cameras modified for NDVI. The images are 
-JPEG-compressed and white-balanced prior to capture according to a methodology which will be fully reported.  
-We will describe elsewhere the importance of calibration in NDVI photography along with this method. While these results 
+__Figure 1__ illustrates a typical NDVI result using a kite-suspension system with two consumer-grade cameras modified 
+for NDVI. The image in the center of the figure represents a color LUT (i.e. a look-up table) which is simply a table of 
+numbers used to apply a color transform on the image. An index image such as this one   with this method. While these results 
 are useful for determining general patterns over time they are hard to replicate. One of our goals is to accurately 
 determine trends over time using low cost methods. 
  

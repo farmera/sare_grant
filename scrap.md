@@ -33,3 +33,6 @@ __millions and millions__ of pixels covering __hundreds and hundreds__ of megaby
 
  
 ![](/Users/geraldmc/2018Code/sare/sare_grant/readme_resources/img/8.png) _5._
+
+JPEG-compressed and white-balanced prior to capture according to a methodology which will be fully reported.  
+We will describe elsewhere the importance of calibration in NDVI photography along 
