@@ -53,7 +53,7 @@ This report is organized into twelve sections. In provides in varying levels of 
 results from a two-year study on the feasibility of using different multi-spectral indices to predict sucrose yield 
 in sugar cane. Sugar has a longer season than most other crops; it is planted anywhere between August and March 
 depending on the variety and age of the cultivar (i.e. a first year 'plant' cane or a second, third or fourth year 
-'stubble'). Following planting, a first year 'plant cane' cultivar such as was used in this study is harvested 12-14 
+'stubble'). From the time of planting, a first year 'plant cane' cultivar such as was used in this study will be harvested 12-14 
 months later. 
 
 1. __Introduction__
