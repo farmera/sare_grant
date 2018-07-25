@@ -3,29 +3,32 @@
 #### Introduction
 
 This section provides a description of the various of tools and methods used to generate and assess multi-spectral data in 
-sugar cane. We also describe some of the challenges involved in gathering such data. Throughout this study our objective 
+sugar cane. We also describe some of the challenges faced in gathering such data. Throughout this study our objective 
 has been to test the viability of low-cost methods of acquiring and processing aerial multi-spectral data. 
 
 Our primary goal was to determine to what extent low-cost aerial multi-spectral data could be correlated with variable 
 nitrogen (N) rates when applied to sugarcane. NDVI is a popular vegetation index which has been shown to be effective in 
-predicting crop yield potentials (YP) in wheat, sorghum and other plant species. __[fn]__  Yet acquisition and interpretation 
-of these kinds data with traditional methods is often expensive, error prone, and beyond the reach of most cane 
+predicting crop yield potentials (YP) in wheat, sorghum and in other plant species. __[fn]__  Yet acquisition and interpretation 
+of these kinds data for sugarcane using traditional methods is often expensive, error prone, and beyond reach of most 
 Louisiana growers.
 
-The systems we proposed at the outset of this study were both affordable and accessible. How accurately they might correlate 
-NDVI values to known nitrogen (N) rates was unknown.
+The systems we proposed at the outset were both affordable and accessible. How accurately they might correlate 
+NDVI other vegetation indices to known nitrogen (N) rates was unknown.
 
-We asked two question:
+We asked two questions:
 
 * To what degree do variable nitrogen (N) rates applied to sugarcane correlate with low-cost NDVI measurements?
 
-* Are in-season models predictive of sugarcane yield potential, based on time-series analysis of low-cost NDVI?
+* Are in-season models predictive of sugarcane yield potential, based on time-series analysis of the acquired imagery?
 
 Early in the project we experimented with various capture systems and suspension methods using kites and 
-balloons. The central challenge facing any aerial photography system based on wind power alone is variability in the 
-control of the height and nadir position of the cameras. The vagaries of wind also impact the performance of balloons. weight of the camera rig; getting consistent results over time. 
+balloons. The central challenge facing any aerial photography system - based on wind power alone - is variability in the 
+control of the height and nadir positioning of the cameras. Wind also impacts the performance of balloons during flight. 
+Additional factors are payload weight and total flight time. 
 
-demonstrates output of a kite-suspension system using two consumer-grade cameras modified for NDVI. The images are 
+![](img/kite_image_fastie_lut.png)
+
+__Figure 1__ illustartes the typical output of a kite-suspension system using two consumer-grade cameras modified for NDVI. The images are 
 JPEG-compressed and white-balanced prior to capture according to a methodology which will be fully reported.  
 We will describe elsewhere the importance of calibration in NDVI photography along with this method. While these results 
 are useful for determining general patterns over time they are hard to replicate. One of our goals is to accurately 
