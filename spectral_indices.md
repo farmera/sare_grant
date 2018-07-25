@@ -1,6 +1,6 @@
-#### Varieties of Spectral Index
+### Varieties of Spectral Index
 
-###### What's A Vegetation Index?
+#### What's A Vegetation Index?
 
 * A multi-spectral index is a simple mathematical expression relating two bands of light energy reflected from an 
 object (e.g. a plant).
@@ -14,7 +14,7 @@ index used in agriculture for gauging the health of plants is an index known as
 [NDVI](https://en.wikipedia.org/wiki/Normalized_difference_vegetation_index) ('Normalized Difference Vegetation Index'.) 
 
  
-###### Calculating a Vegetation Index
+#### Calculating a Vegetation Index
 
 Calculating a VI requires conversion of an image or set of images into a set of  *rasters* - rectangular grids of 
 pixels or points of color. Each pixel contains a set of values corresponding to the captured bands of light. In familiar RGB 
@@ -62,7 +62,7 @@ An NDVI index is simply a ratio of the difference and the sum of two narrow band
 usually lie somewhere between 0.2 and 0.8. [fn]
 
 
-###### Generating NDVI (and other spectral indices)
+#### Generating NDVI (and other spectral indices)
 
 Thus far we've discussed simple calculations applied to single image pixels. In practice, generating a vegetative index
 over an entire field or crop involves more effort. For example, in order to calculate NDVI over a captured image, one must 
