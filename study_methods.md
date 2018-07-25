@@ -45,8 +45,7 @@ the exact height and vantage point of a image taken during a flight with a kite 
 conditions these images would be hard to precisely duplicate. Since one of our stated goals was to accurately determine crop 
 trends over time using low cost methods we decided to look at other methods. 
  
-The final results of our study are 
-presented in [Section 8](study_results_balloons.md) and [Section 9](readme_resources/study_results_drones.md). 
+More detailed results from balloon and kite methods are presented in [Section 8](study_results_balloons.md). 
 
 In general, acquiring accurate aerial image data requires consideration of two fundamental questions: 
 
