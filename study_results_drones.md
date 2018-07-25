@@ -113,11 +113,14 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 
 ![](img/ndvi/ndvi_all_spectral_data.png)
+_ndvi_
 ![](img/ndvic/ndvic_all_spectral_data.png)
+_corrected ndvi_
 ![](img/gndvi/gndvi_all_spectral_data.png)
+_gndvi_
 ![](img/ndre/ndre_all_spectral_data.png)
-NDVI, NDVIC, GNDVI, NDRE
-
+_ndre_
+###### Figure 9. Regression plots of index values versus yield, April to November 2017.
 
 
 ![](img/ndvi/ndvi_correlation.png)
