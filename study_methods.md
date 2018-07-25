@@ -37,7 +37,7 @@ areas of photosynthetic activity on the upper right. Also shown are developing a
 
 An index image like this can be a useful tool to identify potential trouble spots in a developing crop. Later 
 in the season a flight can quickly point out regions of the field that may be suffering or have been damaged. 
-However, while these results may be useful and may be achieved for no more than a few hundred dollars and perhaps a 
+While these results are certainly useful and may be achieved for no more than a few hundred dollars and perhaps a 
 weekend of practice, they are largely qualitative and not quantitative. If the goal is to determine general patterns 
 over time they are hard to replicate. One of our goals is to accurately determine trends over time using low cost methods. 
  
