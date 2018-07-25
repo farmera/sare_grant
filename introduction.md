@@ -8,7 +8,7 @@ yield. Significant increase in yield is attributable to the addition of nitrogen
 agricultural input. [fn]
 
 ![](img/sugar_cane.png)
-###### Figure 1.  Saccharum officinarum.
+###### Figure 1.  Saccharum officinarum (Sugar Cane).
 
 #### Problem
 As gross tonnage of harvested sugarcane declines, sugarcane farmers in Louisiana are under pressure to boost operational 
