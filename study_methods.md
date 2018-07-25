@@ -22,9 +22,9 @@ We asked two questions:
 * __Are in-season models predictive of sugarcane yield potential, based on time-series analysis of the acquired imagery?__
 
 Early in the project we experimented with various capture systems and suspension methods using kites and 
-balloons. The central challenge facing any aerial photography system - based on wind power alone - is variability in the 
+balloons. The central challenge of an aerial system based on wind power alone is variability in the 
 control of the height and nadir positioning of the cameras. Wind also impacts the performance of balloons during flight. 
-Additional factors are payload weight and total flight time. 
+Additional factors to consider are payload weight and total flight time. 
 
 ![](img/kite_image_fastie_lut.png)
 
@@ -33,12 +33,12 @@ for NDVI. The image in the center of the figure represents a color LUT (i.e. a l
 numbers used to apply a color transform to the image. Applying this transform allows us to visualize the light that 
 otherwise we would be incapable of seeing. In this image the LUT has been prominently displayed to indicate that a full 
 range of values is captured by the image - from dry, sandy soil on the upper left (with an NDVI value of -1)to very active 
-areas of photosynthetic activity on the upper right. Also shown are developing areas in the young sugar cane crop. 
+areas of photosynthetic activity on the upper right. Also shown are the developing areas in the young crop. 
 
-An index image like this can be a useful tool for identifying potential areas of trouble in an early developing crop. Later 
-in the season a flight can quickly point out regions of the field that may be suffering in some way or have been damaged. 
-with this method. However while these results are useful in determining general patterns over time they are hard to replicate. 
-One of our goals is to accurately determine trends over time using low cost methods. 
+An index image like this can be a useful tool to identify potential trouble spots in a developing crop. Later 
+in the season a flight can quickly point out regions of the field that may be suffering or have been damaged. 
+However, while these results may be useful and may be achieved for no more than a few hundred dollars and perhaps a 
+weekend of study to learn them, in determining general patterns over time they are hard to replicate. One of our goals is to accurately determine trends over time using low cost methods. 
  
 The final results of our study are 
 presented in [Section 8](study_results_balloons.md) and [Section 9](readme_resources/study_results_drones.md). 
