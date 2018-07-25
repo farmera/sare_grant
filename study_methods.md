@@ -37,10 +37,10 @@ areas of photosynthetic activity on the upper right. Also visible are regions of
 well developed on the lower left compared with the right. 
 
 An index image like this is a useful tool for identifying potential trouble spots in a developing crop. Later 
-on in the season a flight like this might quickly point out regions of the field that are underdeveloped or have been damaged. 
+on in the season a flight like this might quickly point out regions of the field that are underdeveloped or damaged. 
 While these results are certainly useful and can be achieved for a few hundred dollars and perhaps a 
 weekend of practice, they are largely __qualitative__ and __not quantitative__. If the goal was to determine more precisely 
-a general pattern over time then this would present a challenge. Using a kite or a balloon these images would be hard to 
+a general pattern over time then this method would present challenges. Using a kite or a balloon these images would be hard to 
 replicate at this exact height and angle without effort. Since one of our stated goals was to accurately determine crop 
 trends over time using low cost methods. 
  
