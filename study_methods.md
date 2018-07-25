@@ -29,16 +29,17 @@ Additional factors to consider are payload weight and total flight time.
 ![](img/kite_image_fastie_lut.png)
 
 __Figure 1__ illustrates a typical NDVI result using a kite-suspension system with two consumer-grade cameras modified 
-for NDVI. The image in the center of the figure represents a color LUT (i.e. a look-up table) which is simply a table of 
-numbers used to apply a color transform to the image. Applying this transform allows us to visualize the light that 
-otherwise we would be incapable of seeing. In this image the LUT has been prominently displayed to indicate that a full 
-range of values is captured in the image - from dry, sandy soil on the upper left (with an NDVI value of -1) to very active 
-areas of photosynthetic activity on the upper right. Also shown are developing areas of the young crop. 
+for NDVI. The image in the center of the figure represents a color LUT (i.e. a look-up table) which is a table of 
+numbers used to apply a color transform to an image. Applying this transform allows us to visualize reflected light that 
+otherwise would be impossible to see. In this image the LUT is prominently displayed in order to indicate that a full 
+range of values has been captured by this image - from dry, sandy soils on the upper left (with an NDVI value of -1) to very active 
+areas of photosynthetic activity on the upper right. Also visible are regions of the young crop which are less 
+well developed on the lower left compared with the right. 
 
-An index image like this can be a useful tool to identify potential trouble spots in a developing crop. Later 
-in the season a flight can quickly point out regions of the field that may be suffering or have been damaged. 
-While these results are certainly useful and may be achieved for no more than a few hundred dollars and perhaps a 
-weekend of practice, they are largely qualitative and not quantitative. If the goal is to determine general patterns 
+An index image like this is a useful tool for identifying potential trouble spots in a developing crop. Later 
+on in the season a flight like this might quickly point out regions of the field that are underdeveloped or have been damaged. 
+While these results are certainly useful and can be achieved for a few hundred dollars and perhaps a 
+weekend of practice, they are largely __qualitative__ and __not quantitative__. If the goal is to determine general patterns 
 over time they are hard to replicate. One of our goals is to accurately determine trends over time using low cost methods. 
  
 The final results of our study are 
