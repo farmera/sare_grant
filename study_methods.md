@@ -27,12 +27,14 @@ control of height and nadir positioning of the camera. Wind also impacts the per
 Additional factors to consider are payload weight and total flight time. 
 
 [Section 3](kites_balloons_drones.md) discussed the various bands of reflected and captured light and how these 
-may be used to facilitate an understanding about crop health. In [Section 5]() we will consider in greater detail how 
+may be used to facilitate an understanding of crop health. In [Section 5]() we will consider in greater detail how 
 such principles allow us to manipulate the captured bands and reveal more interesting and specific patterns. 
 In this section we will focus on general principles which makes all of this possible. 
 
 ![](img/kite_image_fastie_lut.png)
 ###### Figure 1.
+
+#### Base Requirements
 
 __Figure 1__ illustrates a typical NDVI result using a kite-suspension system with two consumer-grade cameras modified 
 for NDVI. The image in the center of the figure represents a color LUT (i.e. a look-up table) which is a table of 
