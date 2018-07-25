@@ -6,24 +6,24 @@ This section provides a description of the various of tools and methods used to 
 sugar cane. We also describe some of the challenges faced in gathering such data. Throughout this study our objective 
 has been to test the viability of low-cost methods for acquiring and processing aerial multi-spectral data. 
 
-Our primary goal was to determine to what extent low-cost aerial multi-spectral data could be correlated with variable 
-nitrogen (N) rates when applied to sugarcane. NDVI is a popular vegetation index which has been shown to be effective in 
-predicting crop yield potentials (YP) in wheat, sorghum and in other plant species. __[fn]__ Yet acquisition and interpretation 
-of these data for sugarcane using traditional methods is expensive, error prone, and often beyond reach of most 
-Louisiana growers.
+Our primary goal was to determine to what extent low-cost aerial multi-spectral data can be correlated with variable 
+nitrogen (N) rates applied to sugarcane. NDVI is a popular vegetation index which has been shown to be effective in 
+predicting crop yield potentials (YP) in wheat, sorghum and other plant species. __[fn]__ Yet acquisition and interpretation 
+of these data using traditional methods is expensive, error prone, and often beyond reach of most Louisiana sugar cane growers.
 
-The systems we proposed at the outset were both affordable and accessible. How accurately they might correlate 
-NDVI other vegetation indices to known nitrogen (N) rates was unknown.
+The systems we proposed at the outset of our study were both affordable and accessible. How accurately they might correlate 
+NDVI other vegetation indices to known nitrogen (N) rates was unknown. Over the course of our study a third option became 
+tenable and was explored in depth in the second year of the grant.
 
 We asked two questions:
 
 * __To what degree do variable nitrogen (N) rates applied to sugarcane correlate with low-cost NDVI measurements?__
 
-* __Are in-season models predictive of sugarcane yield potential, based on time-series analysis of the acquired imagery?__
+* __Are in-season models predictive of sugarcane yield potential based on time-series analysis of the acquired imagery?__
 
-Early in the project we experimented with various capture systems and suspension methods using kites and 
-balloons. The central challenge of an aerial system based on wind power alone is variability in the 
-control of height and nadir positioning of the cameras. Wind also impacts the performance of balloons during flight. 
+Early in the project we experimented with various capture systems (automatically-triggered cameras) and suspension methods 
+using kites and balloons. The central challenge of an aerial system based on wind alone is variability in the 
+control of height and nadir positioning of the camera. Wind also impacts the performance of balloons during flight. 
 Additional factors to consider are payload weight and total flight time. 
 
 ![](img/kite_image_fastie_lut.png)
@@ -48,21 +48,23 @@ trends over time using low cost methods we decided to look at other methods.
  
 More detailed results from balloon and kite methods are presented in [Section 8](study_results_balloons.md). 
 
-In general, acquiring accurate aerial image data requires consideration of two fundamental questions: 
+In general, acquiring accurate aerial image data requires consideration of two fundamental issues: 
 
-1. How to place a camera at the correct height and orientation for a sufficient period of time.
+1. Placing a camera at the correct height and orientation for a sufficient period of time.
 
     * In [Section 3](kites_balloons_drones.md) we considered three possible methods for positioning a camera 
     in the air: a kite, a helium-filled balloon, and an aerial drone. Each has its advantages and disadvantages.
     
-2. How to acquire sufficient spectral detail from a camera such that the data may be usefully analyzed.
+2. Acquiring sufficient spectral detail from a camera such that the data may be usefully analyzed.
 
-    * The phrase 'sufficient spectral detail' will be unpacked but essentially this means clear separation of the 
-    individual bands of light.  
+    * The phrase 'sufficient spectral detail' will be unpacked but essentially means clear separation of the 
+    individual bands of light captured.  
     
-It became apparent during our study that an ability to capture a narrow bands of light with minimum distortion was critical. 
-In addition, the ability to place a camera in a relatively steady position for sufficient periods of time was a determining 
-factor in whether or not our data was meaningful.
+It became apparent during our study that the ability to place a camera in a relatively steady position for sufficient 
+periods of time was a determining factor in whether or not our data would be meaningful for more than a qualitative assessment
+of a field. Likewise it became clear during the study that the ability to capture in the narrow band, with minimum distortion, 
+was critical. 
+
 
 #### Consumer-grade versus Professional Cameras
 
