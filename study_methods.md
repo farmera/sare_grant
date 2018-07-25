@@ -4,12 +4,12 @@
 
 This section provides a description of the various of tools and methods used to generate and assess multi-spectral data in 
 sugar cane. We also describe some of the challenges faced in gathering such data. Throughout this study our objective 
-has been to test the viability of low-cost methods of acquiring and processing aerial multi-spectral data. 
+has been to test the viability of low-cost methods for acquiring and processing aerial multi-spectral data. 
 
 Our primary goal was to determine to what extent low-cost aerial multi-spectral data could be correlated with variable 
 nitrogen (N) rates when applied to sugarcane. NDVI is a popular vegetation index which has been shown to be effective in 
 predicting crop yield potentials (YP) in wheat, sorghum and in other plant species. __[fn]__  Yet acquisition and interpretation 
-of these kinds data for sugarcane using traditional methods is often expensive, error prone, and beyond reach of most 
+of these data for sugarcane using traditional methods is expensive, error prone, and often beyond reach of most 
 Louisiana growers.
 
 The systems we proposed at the outset were both affordable and accessible. How accurately they might correlate 
@@ -30,7 +30,9 @@ Additional factors are payload weight and total flight time.
 
 __Figure 1__ illustrates a typical NDVI result using a kite-suspension system with two consumer-grade cameras modified 
 for NDVI. The image in the center of the figure represents a color LUT (i.e. a look-up table) which is simply a table of 
-numbers used to apply a color transform on the image. An index image such as this one   with this method. While these results 
+numbers used to apply a color transform to the image. Applying this transform allows us to visualize the light that 
+otherwise we would be incapable of seeing. In this image the LUT has been prominently displayed to indicate that a full 
+range of values in the image have been captured - from dusty soul  An index image such as this one  with this method. While these results 
 are useful for determining general patterns over time they are hard to replicate. One of our goals is to accurately 
 determine trends over time using low cost methods. 
  
