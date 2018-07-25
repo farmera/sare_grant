@@ -131,4 +131,4 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 1. N. A. Streck, J. G. Hanauer, L. F. Gabriel, T. C. Buske, and J. A. Langner, “Leaf development and growth of selected sugarcane clones in a subtropical environment,” Pesquisa Agropecuária Brasileira, vol. 45, no. 10, pp. 1049–1057, 2010.
 
-![](img/sugar_button.png) 
+![](img/farmera.png) 
