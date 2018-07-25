@@ -1,21 +1,20 @@
-### Through the Eyes of a Plant
+### Seen Through the Eyes of a Plant
 
 #### Basic Plant Biology
 
-* Plants use chlorophyll, water, and carbon dioxide to synthesize sugar.
-* Sugars make roots, leaves, flowers, seeds.
-* Chloroplasts are cells containing chlorophyll. Chlorophyll absorbs light mainly in red and blue wavelengths.
-* Green light is absorbed less and is reflected away (thus plants are green).
+* Plants use chlorophyll, water, and carbon dioxide to synthesize sugar. Sugars make the plant.
+* Chloroplasts cells contain chlorophyll which absorbs light, mainly in red and blue wavelengths.
+* Green light is absorbed less and is reflected away (that's why plants are green).
 
-While our study's purpose is to provide a 'proof of concept' regarding use of aerial tools to determine the health 
-and productivity of sugar cane, before discussing whether a certain approach is valid,  we should first understand 
-the basics of what such systems actually measure and how they achieve this. As most learn in middle school, 
+While our study's purpose is to provide an assessment regarding use of aerial tools to determine the health 
+and productivity of sugar cane, before discussing whether a certain approach is valid or not, we should first understand 
+the basics of what such systems measure and how they achieve their results. As most learn in middle school, 
 photosynthesis is a process that plants use to synthesize sugar from carbon dioxide and water. 
 
-The leaves of 
-plants contain photosynthetic engines known as chloroplasts. When the sun's rays hit these chloroplasts, which are 
-mainly contained in the leafy portions of the plant, cells absorb the red and blue wavelengths while reflecting away 
-most others. This filtered light, along with water and carbon dioxide, produces sugar and oxygen.
+The leaves of plants contain photosynthetic engines called chloroplasts. When sunlight hits these chloroplasts, which are 
+contained mainly in the leafy portions, the cells absorb the red and blue wavelengths while reflecting away 
+most other wavelengths. Thus __filtered light__, along with water and carbon dioxide, produces sugar for the plant and 
+and oxygen to the environment.
 
 #### Green, Red and Near Infra Red (NIR)
 
