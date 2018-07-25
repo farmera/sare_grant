@@ -12,8 +12,7 @@ accessible to non-technical users. A primary goal of this study is to provide in
 for working farmers, not technical people. Of course there will always be specialized knowledge and one cannot
 be expected to know all of it. Still, much of this work is accessible, more so than might appear on first blush.
 It's an under-appreciated fact that growers are, as a rule, quite adept at picking up a new technology. 
-Often they have had to be. 
-
+Often they have had to be.
 
 #### Open Source Automation Tools
 

@@ -89,12 +89,12 @@ Specialized multispectral cameras contain 'band-pass' filters which whittle down
 narrow bands. Having access to these narrower bands provides a far more precise estimate of the luminosity of 
 light reflecting off of plants.    
 
+#### Summary
+
 In sections to come we go into greater detail about specific low and high end multi-spectral cameras including examples 
 of each in action. We'll also discuss how to scale and manage large volumes of image data in this sort of workflow.  Finally, 
 we'll consider along with strategies for interpreting various vegetation indices under differing environmental conditions. 
-Luckily, open-source software and image processing 
-tools exist to make these tasks more accessible to the average user.
-
+Luckily, open-source software and image processing tools exist to make these tasks more accessible to the average user.
 
 ###### References
 
