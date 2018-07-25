@@ -1,8 +1,8 @@
-#### Results Using Drones
+### Results Using Drones
 
-###### Section I
+#### Section I
 
-* An aerial drone (described in [Study Methods](./study_methods.md)) was flown regularly during the growing season.  
+* An aerial drone (described in [Study Methods](study_methods.md)) was flown regularly during the growing season.  
 * The study area comprised a section of second-year 'stubble' cane measuring 1000 ft by 180 ft. (_Figure 1_).
 * A total of 30 sections were treated with variable amounts of N fertilizer. 
 
@@ -10,9 +10,8 @@ Once planted, a stand of sugar cane may be harvested up to four times in as many
 and after each harvest the cane remaining in the ground sends up new shoots. While successive harvests give decreasing 
 yields, the crop used in this study (a second-year 'stubble') is an ideal 'nitrogen-absorber' and was thus well-suited. 
 
-![](/Users/geraldmc/2018Code/sare/sare_grant/readme_resources/img/study_area.png)
-
-_Figure 1 - The study area._
+![](img/study_area.png)
+###### Figure 1. Study Area. 
 
 We performed drone flights over the study area over two successive growing seasons. The results presented are for the 
 second season only. In an area measuring roughly 1000 ft by 180 ft we randomly-selected 30 individual plots measuring 
@@ -23,12 +22,10 @@ flight. This advantage is clearly demonstrated in __Figure 2__ of the area taken
 two 100ft x 60 ft sections in perspective. Here the precision offered by semi-autonomous, programmable drones easily 
 outshines the other aerial methods used.  
 
-![](/Users/geraldmc/2018Code/sare/sare_grant/readme_resources/img/RGB_SARE-Cropped.png)
+![](img/RGB_SARE-Cropped.png)
+###### Figure 2. Individual Sections.   
 
-_Figure 2. Individual sections._
-  
-
-###### Section II
+#### Section II
 
 * After pre-processing, each flight yields a single composite image.
 * The composite is divided into thirty individual section images.  
@@ -43,9 +40,8 @@ data and then projecting those data onto a map. The mosaicing process is facilit
 longitude tags which are embedded into each image captured by the camera. This allows us to create a much larger image 
 containing a much broader field of view. 
 
-![](/Users/geraldmc/2018Code/sare/sare_grant/readme_resources/img/NGR_highlight.png)
-
-_Figure 3. Sections in a NRG composite image._
+![](img/NGR_highlight.png)
+###### Figure 3. Sections in a NRG composite image.   
 
 As mentioned, the composite image contains geotags which form part of the image's metadata. One of the challenges of 
 precision mapping is to correctly match a partial image - which may have been distorted in the process of capture - with an 
@@ -55,9 +51,8 @@ process was aided by using a camera that accurately records latitude and longitu
 accurately matched in the final composite. A single GCP was used throughout the study, physically placed into the ground 
 and referenced from a known surveyor's benchmark. The GCP is located in the right-most part of the following image near the intersection of two white lines.     
 
-![](/Users/geraldmc/2018Code/sare/sare_grant/readme_resources/img/NGR_SARE-Cropped.png)
-
-_Figure 4. Section grids in a composite NRG image._
+![](img/NGR_SARE-Cropped.png)
+###### Figure 4. Section grids in a composite NRG image.   
 
 _Figure 4_ shows results of a flight which occurred on July 28, 2017. This image has been rendered as an NRG 
 for practical reasons since the original raw geotiff from which it was produced is not easily visualized. The image clearly shows, as red light, the 
@@ -75,7 +70,7 @@ Our treatment schedule for 2017 was as follows:
 These amounts were chosen as they reflect a sensible range around the recommended treatment for this particular species (80 lbs 
 per hectare).
 
-###### Section III
+#### Section III
 
 * Individual treaments (per section) were analyzed using semi-automatic methods in order to enhance reproducibilty of results.
 * Care was taken to analyze young versus mature crop and to normalize these different conditions for comparison.
@@ -85,15 +80,18 @@ interception of solar energy for photosynthesis. This leads to the accumulation 
 yield [1]. Canopy closure in sugar cane represents that point in the growth season where the adjoining tops of two rows come
 together and obscure from above the cane stalks below.   
  
-![](/Users/geraldmc/2018Code/sare/sare_grant/readme_resources/img/NGR-segment.png)
+![](img/NGR-segment.png)
+###### Figure 5.
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
 
-![](/Users/geraldmc/2018Code/sare/sare_grant/readme_resources/img/NDVI-segment.png)
+![](img/NDVI-segment.png)
+###### Figure 6.
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
 
-![](/Users/geraldmc/2018Code/sare/sare_grant/readme_resources/img/NGR-segment-mature.png)
+![](img/NGR-segment-mature.png)
+###### Figure 7.
 
 
 All graphs shown below represent NDVI or other index values from each of thirty test plots (as single data points) 
@@ -102,26 +100,27 @@ As an example the graph in Figure [x] below shows NDVI values on July 28th, 2017
 growing season. At this time in the season is when the highest degree of correlation between each set of treatment values and 
 the ultimate sucrose yield for that section occurred. 
 
-![](/Users/geraldmc/2018Code/sare/sare_grant/figures/ndvi/ndvi_winner.png)
+![](img/ndvi/ndvi_winner.png)
+###### Figure 8.
 
 The graph in Figure [x] above shows NDVI values during the first month of the growing season, from late April, 2017 
 (one week following application of N fertilizer) to late May.
 
-![](/Users/geraldmc/2018Code/sare/sare_grant/figures/ndvi/ndvi_one2three.png)
-![](/Users/geraldmc/2018Code/sare/sare_grant/figures/ndvi/ndvi_four2six.png)
+![](img/ndvi/ndvi_one2three.png)
+![](img/ndvi/ndvi_four2six.png)
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
 
 
-![](/Users/geraldmc/2018Code/sare/sare_grant/figures/ndvi/ndvi_all_spectral_data.png)
-![](/Users/geraldmc/2018Code/sare/sare_grant/figures/ndvic/ndvic_all_spectral_data.png)
-![](/Users/geraldmc/2018Code/sare/sare_grant/figures/gndvi/gndvi_all_spectral_data.png)
-![](/Users/geraldmc/2018Code/sare/sare_grant/figures/ndre/ndre_all_spectral_data.png)
+![](img/ndvi/ndvi_all_spectral_data.png)
+![](img/ndvic/ndvic_all_spectral_data.png)
+![](img/gndvi/gndvi_all_spectral_data.png)
+![](img/ndre/ndre_all_spectral_data.png)
 NDVI, NDVIC, GNDVI, NDRE
 
 
 
-![](/Users/geraldmc/2018Code/sare/sare_grant/figures/ndvi/ndvi_correlation.png)
+![](img/ndvi/ndvi_correlation.png)
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
 
