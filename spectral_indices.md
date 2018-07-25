@@ -55,12 +55,11 @@ To calculate NDVI from an image we do the following:
 2. Add all NIR values in each pixel to all the Red values.
 3. Calculate the ratio between the calculated difference (in the numerator) and the calculated sum (in the denominator). 
 
-   ![](/Users/geraldmc/2018Code/sare/sare_grant/readme_resources/img/7.png)
+   ![](img/7.png)
     
 An NDVI index is simply a ratio of the difference and the sum of two narrow bands of light. A ratio is taken in order to 
 *normalize* the values with the effect that this binds them between -1 and 1. Plant NDVI values can range from 0 to 1 but 
 usually lie somewhere between 0.2 and 0.8. [fn]
-
 
 
 ###### Generating NDVI (and other spectral indices)
@@ -71,14 +70,14 @@ first create and manipulate two separate images (pixel grids) each containing li
 Thus, the NIR band is contained in one layer while the red is held in another. Manipulating each pixel, of each layer, 
 according to a mathematical expression, produces a third layer which is the NDVI image itself. 
 
-![](/Users/geraldmc/2018Code/sare/sare_grant/readme_resources/img/9.png)
+![](img/9.png)
  
 In addition to analyzing many pixels we need a way to efficiently separate individual bands of light as arrays.
 In order to provide actionable information to farmers we'll need to scale these sorts of manipulations up to potentially 
 __millions and millions__ of pixels covering __hundreds and hundreds__ of megabytes of image data.
 
  
-![](/Users/geraldmc/2018Code/sare/sare_grant/readme_resources/img/8.png)
+![](img/8.png)
  
 
 In coming sections we'll discuss how to achieve this degree of scaling along with strategies for interpreting 

@@ -69,7 +69,7 @@ be included in the averaged NDVI value (e.g. since soil is _not_ photosynthetic)
 
 ![](img/04-25_ndvi.png)
 ![](img/05-25_ndvi.png)
-###### Figure 2. Comparison of NDVI images. 
+###### Figure 1. Comparison of NDVI images. 
 
 Thus the task is to remove pixels from an image where those pixel values represent soil. How might one accomplish this? 
 One way is to open up each image in an editor, examine every pixel and guess, based on color, whether it should be 
