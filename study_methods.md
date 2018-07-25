@@ -32,9 +32,10 @@ __Figure 1__ illustrates a typical NDVI result using a kite-suspension system wi
 for NDVI. The image in the center of the figure represents a color LUT (i.e. a look-up table) which is simply a table of 
 numbers used to apply a color transform to the image. Applying this transform allows us to visualize the light that 
 otherwise we would be incapable of seeing. In this image the LUT has been prominently displayed to indicate that a full 
-range of values in the image have been captured - from dusty soul  An index image such as this one  with this method. While these results 
-are useful for determining general patterns over time they are hard to replicate. One of our goals is to accurately 
-determine trends over time using low cost methods. 
+range of values in the image is captured by the image - from dry, sandy soil on the upper left (with an NDVI value of -1)
+to very active areas of photosynthetic activity on the upper right. An index image such as this one  with this method. 
+While these results are useful for determining general patterns over time they are hard to replicate. One of our goals 
+is to accurately determine trends over time using low cost methods. 
  
 The final results of our study are 
 presented in [Section 8](study_results_balloons.md) and [Section 9](readme_resources/study_results_drones.md). 
