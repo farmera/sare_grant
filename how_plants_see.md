@@ -101,4 +101,4 @@ tools exist to make these tasks more accessible to the average user.
 
 Images...
  
-![](img/sugar_button.png) 
+![](img/farmera.png) 
