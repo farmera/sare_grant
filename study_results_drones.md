@@ -61,11 +61,11 @@ treated with variable amounts of nitrogen.
 
 Our treatment schedule for 2017 was as follows: 
 
-* __1__ -   0 lbs N per hectare (6 sections)
-* __2__ -  40 lbs N per hectare (6 sections)
-* __3__ -  60 lbs N per hectare (6 sections)
-* __4__ -  80 lbs N per hectare (6 sections)
-* __5__ - 120 lbs N per hectare (6 sections)
+* __1__ -   0 lbs N per acre (6 sections)
+* __2__ -  40 lbs N per acre (6 sections)
+* __3__ -  80 lbs N per acre (6 sections)
+* __4__ - 120 lbs N per acre (6 sections)
+* __5__ - 180 lbs N per acre (6 sections)
 
 These amounts were chosen as they reflect a sensible range around the recommended treatment for this particular species (80 lbs 
 per hectare).
