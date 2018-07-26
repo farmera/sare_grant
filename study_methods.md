@@ -72,7 +72,7 @@ light presents a physiological burden to them. This is another generic spectral 
 
 #### Interpreting Spectral Indices 
 
-Interpreting a spectral index begins with acquiring accurate aerial image data. Doing so requires consideration of two fundamental issues: 
+Interpreting a spectral index starts with acquiring accurate aerial image data. Doing that requires consideration of two fundamental issues: 
 
 1. Placing a camera at the correct height and orientation for a sufficient period of time.
 
