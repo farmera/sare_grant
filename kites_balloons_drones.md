@@ -110,67 +110,6 @@ assessment of the health of a crop) these and other efforts like them have creat
 practice. When we began our study the autonomous drone was not an option unless one had very deep pockets and a 
 background in aviation. Two years ago their use was limited and largely theoretical. Since then UAVs have quickly evolved 
 and become firmly established as a new norm in agriculture.   
- 
-#### A Segue into Light, Cameras, Action
-
-Our discussion into various flying methods, while interesting in itself, is only a means to an end of placing a camera into 
-position in order to capture the right light at the right time of day. Before venturing into the core methods used 
-in our study and the results obtained we first set the stage by discussing some earlier methods that were used and why 
-they did not succeed.  
-
-#### Resolving Images
-Whether one uses a kite, a balloon, a drone, or a pidgeon, once the images have been taken and the craft returned safely to ground,
-all images must be gathered and 'stitched' together to create a final representation of the area of interest. 
-
-__Figure 5__ shows the result of stitching a half-dozen images from a balloon flight. This task is commonly 
-performed by software but here an application provided by the citizen science group 
-[Public Lab](https://publiclab.org/) is used to visually stitch each image over a map of the areal extent. 
-This approach reveals how an image is often stretched and distorted in order to make it fit orthogonally onto a planar map. Achieving a 
-seamless result requires exact overlap with identical exposure times between images. 
-
-The ultimate goal of stitching images together is to form a reflectance map - a mosaic of the area of interest where 
-each pixel in the image represents the reflectance of the imaged area. This process is generally known as photogrammetry.
-
-The resolution of the image data gathered and stitched together ultimately rests on a range of factors, each 
-representing a point in the overall process where error may be introduced.    
-
-
-![](img/map-stitch.gif)
-###### Figure 5.
-
-In turn, the resolution of the final image __analyzed__ depends on the stability of the capture event, on the resolution 
-of the camera at that given moment, and on the stitching process that brings the separate images together. Of interest is the __resolution per pixel__ since each pixel ultimately represents an 
-area of the total crop section. With regard to aerial photography, resolution (also called ground sample distance) 
-refers to the area of ground covered by an individual pixel. With regard to a digital camera, resolution may also refer to the 
-number of pixels in the sensor.  Hereinafter, when using the term 'resolution' we usually mean the ground sample distance. 
-We cover this in greater detail in [Section 8](study_results_balloons.md) when discussing the results of kites and balloons.   
-
-#### Vegetation Index With a Single or Dual-Camera System
-
-It is possible to create a vegetation index image using only a single consumer digital camera as almost all consumer camera sensors are
-sensitive in the near infrared range. If the camera is modified to remove the IR blocking filter and a dual band pass filter is 
-substituted (such that one channel captures visible light and either of the other two channels captures NIR light) this leaves either 
-the green or the blue channel available for capturing NIR. However, in this scenario choosing which of the blue or the green channel 
-to use has a direct impact on the final result. Furthermore, neither channel is likely to generate a result that 
-is comparable to another image taken on a different day under different lighting conditions.  
-
-An improved solution is to use a dual-camera system where one camera captures red light while another captures the NIR. 
-In such systems special band pass filters are used to narrow the red and NIR bands captured so that there is less contamination 
-between the two. 
- 
-As an example of a dual-camera system, the composite image in __Figure 6__ represents an RGB/NIR pair in the top row (left/right) 
-captured with a pair of consumer digital cameras. The NIR photo on the top-right was taken using a modified Canon A590, 
-from which the internal IR block filter has been removed.  
-
-![](img/fastie-results.png)
-###### Figure 6.
-
-In the bottom row are two images after post-processing the top 
-two. On the left is a false color IR image (also known as an NRG image) with varying tones of red representing the near 
-infrared band. In the bottom-right is a 'normalized difference vegetation index' __NDVI__ image which 
-has been created using the pair above. In [Section 8](study_results_balloons.md) and 
-[Section 9](study_results_drones.md) we will take a closer look at results obtained when
-using these and similar methods. 
 
 [Bottom line is kites, balloons, single or dual camera systems are good for some things not good 
 for others.]
