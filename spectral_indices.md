@@ -26,6 +26,15 @@ with healthy green vegetation.
 ![](img/rasterbands.gif)
 ###### Figure 1. Raster arrays representing different bands of light.  
 
+To calculate NDVI from an image we do the following: 
+1. Subtract the NIR band reflectance values in all pixels from all the Red values. 
+2. Add all NIR values in each pixel to all the Red values.
+3. Calculate the ratio between the calculated difference (in the numerator) and the calculated sum (in the denominator). 
+    
+An NDVI index is simply a ratio of the difference and the sum of two narrow bands of light. A ratio is taken in order to 
+*normalize* the values with the effect that this binds them between -1 and 1. Plant NDVI values can range from 0 to 1 but 
+usually lie somewhere between 0.2 and 0.8. [fn]
+
 Some common vegetation indices explored during our study:
 
 1. __NDVI__ = (NIR - RED) / (NIR + RED)
@@ -49,16 +58,9 @@ this sort of issue by use of a masking technique discussed in [Section 9](readme
 4. __NDRE__ = (NIR - RE) / (NIR + RE)
     * NDRE is available only in cameras that are sensitive to the 'Red Edge' band of spectral light. It's a better 
     general indicator of plant health for mid to late season growth when compared to NDVI. NDRE is also thought to be 
-    capable of mapping variability in foliar Nitrogen levels, which we were interested in. Green and red-edge bands penetrate the leafy part of the plant more so than the blue or red bands. Thus red-edge is more sensitive to chlorophyll content and to nitrogen contained in the leaf. We used this index extensively. 
-  
-To calculate NDVI from an image we do the following: 
-1. Subtract the NIR band reflectance values in all pixels from all the Red values. 
-2. Add all NIR values in each pixel to all the Red values.
-3. Calculate the ratio between the calculated difference (in the numerator) and the calculated sum (in the denominator). 
-    
-An NDVI index is simply a ratio of the difference and the sum of two narrow bands of light. A ratio is taken in order to 
-*normalize* the values with the effect that this binds them between -1 and 1. Plant NDVI values can range from 0 to 1 but 
-usually lie somewhere between 0.2 and 0.8. [fn]
+    capable of mapping variability in foliar Nitrogen levels, which we were interested in. Green and red-edge bands 
+    penetrate the leafy part of the plant more so than the blue or red bands. Thus red-edge is more sensitive to 
+    chlorophyll content and to nitrogen contained in the leaf. We used this index extensively. 
 
 #### Generating NDVI (and other spectral indices)
 
