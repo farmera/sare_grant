@@ -41,8 +41,8 @@ for NDVI. The image in the center of the figure represents a color LUT (i.e. a l
 numbers used to apply a color transform to an image. Applying this transform allows us to visualize reflected light that 
 otherwise would be impossible to see. In this image the LUT is prominently displayed in order to indicate that a full 
 range of values has been captured by this image - from dry, sandy soils on the upper left (with an NDVI value of -1) to very active 
-areas of photosynthetic activity on the upper right. Also visible are regions of the young crop which are less 
-well developed on the lower left compared with the right. 
+areas of photosynthetic activity on the upper right. Also visible are regions of immature crop which are less 
+developed on the lower left when compared with the right. 
 
 An index image like this is a useful tool for identifying potential trouble spots in a developing crop. Later 
 on in the season a flight like this might quickly point out regions of the field that are underdeveloped or damaged. 
@@ -70,17 +70,13 @@ In general, acquiring accurate aerial image data requires consideration of two f
     
 It became apparent during our study that the ability to place a camera in a relatively steady position for sufficient 
 periods of time was a determining factor in whether or not our data would be meaningful for more than a qualitative assessment
-of a field. Likewise it became clear during the study that the ability to capture in the narrow band, with minimum distortion, 
+at a single point in time. Likewise it became clear that the ability to capture in the narrow band, with minimum distortion, 
 was critical. 
-
-
-#### Consumer-grade versus Professional Cameras
 
 #### More on Plant Biology
 
 * Creating an effective spectral index means capturing the right sort of light, at the right time of day. 
 * Interpreting spectral indices requires capturing data at the right time in the growing season.
-* Thoughts on qualitative versus quantitative science.
 
 ![](img/ndvi_biology.png) 
 ###### Figure 2.
@@ -111,8 +107,11 @@ Compared with the tree on the left, this one is doing poorly. It's absorbing mor
 light while reflecting away a good portion of the red. Recall that plants use red light to power photosynthesis while NIR 
 light presents a physiological burden to them. This is another generic spectral pattern that we can use: _lower NDVI values correlate with unhealthy, distressed plants_. 
 
+#### Consumer-grade versus Professional Cameras
 
-#### Section II
+
+#### Qualitative versus Quantitative Science.
+
 
 * The Spectral Sensitivity of Cameras
 * Lorem ipsum dolor sit amet

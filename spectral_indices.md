@@ -55,7 +55,7 @@ To calculate NDVI from an image we do the following:
 2. Add all NIR values in each pixel to all the Red values.
 3. Calculate the ratio between the calculated difference (in the numerator) and the calculated sum (in the denominator). 
 
-![](img/7.png)
+\![](img/7.png)
 ###### Figure 1.
     
 An NDVI index is simply a ratio of the difference and the sum of two narrow bands of light. A ratio is taken in order to 
@@ -71,7 +71,7 @@ first create and manipulate two separate images (pixel grids) each containing li
 Thus, the NIR band is contained in one layer while the red is held in another. Manipulating each pixel, of each layer, 
 according to a mathematical expression, produces a third layer which is the NDVI image itself. 
 
-![](img/9.png)
+\![](img/9.png)
 ###### Figure 2.
  
 In addition to analyzing many pixels we need a way to efficiently separate individual bands of light as arrays.
