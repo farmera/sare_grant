@@ -31,8 +31,8 @@ To calculate NDVI from an image we do the following:
 2. Add all NIR values in each pixel to all the Red values.
 3. Calculate the ratio between the calculated difference (in the numerator) and the calculated sum (in the denominator). 
 
-To calculate NDVI over a captured image, one first creates and manipulates two separate images (pixel arrays) 
-each containing light from a separate wavelength. The NIR band is contained in one layer while the red 
+Calculating the NDVI requires first creating and manipulating two separate images (pixel arrays) 
+each of which contains light from a separate wavelength. The NIR band is contained in one layer while the red 
 is held in another. Manipulating each pixel, of each layer, according to a mathematical expression, produces a third raster 
 layer which is the NDVI image itself. All of this is accomplished using software designed to perform matrix arithmetic over
 large arrays.  
