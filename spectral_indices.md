@@ -31,7 +31,7 @@ To calculate NDVI from an image we do the following:
 2. Add all NIR values in each pixel to all the Red values.
 3. Calculate the ratio between the calculated difference (in the numerator) and the calculated sum (in the denominator). 
 
-Calculating the NDVI requires first creating and manipulating two separate images (pixel arrays) 
+Calculating NDVI requires first creating and manipulating two separate images (pixel arrays) 
 each of which contains light from a separate wavelength. The NIR band is contained in one layer while the red 
 is held in another. Manipulating each pixel, of each layer, according to a mathematical expression, produces a third raster 
 layer which is the NDVI image itself. All of this is accomplished using software designed to perform matrix arithmetic over
@@ -40,6 +40,10 @@ large arrays.
 An NDVI index is simply a ratio of the difference and the sum of two narrow bands of light. A ratio is taken in order to 
 *normalize* the values with the effect that this binds them between -1 and 1. Plant NDVI values can range from 0 to 1 but 
 usually lie somewhere between 0.2 and 0.8. [fn]
+
+All indices are “normalized” by measuring sun energy for each measurement, taking into account sun angle and cloud cover.  
+This allows “apples-to-apples” comparison throughout the season, and season-to-season.
+
 
 Some common vegetation indices explored during our study:
 
@@ -68,26 +72,22 @@ this sort of issue by use of a masking technique discussed in [Section 9](readme
     penetrate the leafy part of the plant more so than the blue or red bands. Thus red-edge is more sensitive to 
     chlorophyll content and to nitrogen contained in the leaf. We used this index extensively. 
 
-#### Generating NDVI (and other spectral indices)
+5. __GNDVI__ = (NIR - Green) / (NIR + Green)
+    * As indicated by the name, the Green Normalized Difference Vegetation Index is related to NDVI (or RNDVI) in that 
+    it's an index of 'greenness' and by that measure of photosynthetic activity. It is sensitive specifically to the 
+    variation of chlorophyll content in plants.
 
-Thus far we've discussed simple calculations applied to single image pixels. In practice, generating a vegetative index
-over an entire field or crop involves more effort. 
-
- 
-In addition to analyzing many pixels we need a way to efficiently separate individual bands of light as arrays.
-In order to provide actionable information to farmers we'll need to scale these sorts of manipulations up to potentially 
-__millions and millions__ of pixels covering __hundreds and hundreds__ of megabytes of image data.
 
 
 #### Summary
+Thus far we've discussed simple calculations applied to single image pixels. In practice, generating a vegetative index
+over an entire field or crop involves much more effort. In addition to separate individual bands of light as arrays we 
+need to scale these sorts of manipulations up to potentially __millions and millions__ of pixels covering __hundreds 
+and hundreds__ of megabytes of image data.
+
 In coming sections we'll discuss how to achieve this degree of scaling along with strategies for interpreting 
 various vegetation indices under differing environmental conditions. Luckily, open-source software and image processing 
 tools exist to make these tasks accessible to the average user.
-
-
-All indices are “normalized” by measuring sun energy for each measurement, taking into account sun angle and cloud cover.  
-This allows “apples-to-apples” comparison throughout the season, and season-to-season.
-
 
 ###### References
 Pinter, Jr., Paul J.; Hatfield, Jerry L.; Schepers, James S.; Barnes, Edward M.; Moran, M. Susan; Daughtry, Craig S.T.; Upchurch, Dan R. (2003). "Remote Sensing for Crop Management". Photogrammetric Engineering & Remote Sensing. 69 (6): 647–664. doi:10.14358/PERS.69.6.647. ISSN 0099-1112.
