@@ -70,9 +70,7 @@ light presents a physiological burden to them. This is another generic spectral 
 Doing so requires capturing data at the right time in the growing season...
 
 ![](img/kite_image_fastie_lut.png)
-###### Figure 1.
-
-#### Base Requirements
+###### Figure 1. Low cost NDVI
 
 __Figure 1__ illustrates a typical NDVI result using a kite-suspension system with two consumer-grade cameras modified 
 for NDVI. The image in the center of the figure represents a color LUT (i.e. a look-up table) which is a table of 
