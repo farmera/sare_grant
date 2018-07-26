@@ -107,16 +107,29 @@ Compared with the tree on the left, this one is doing poorly. It's absorbing mor
 light while reflecting away a good portion of the red. Recall that plants use red light to power photosynthesis while NIR 
 light presents a physiological burden to them. This is another generic spectral pattern that we can use: _lower NDVI values correlate with unhealthy, distressed plants_. 
 
-#### Consumer-grade versus Professional Cameras
+#### Consumer-grade versus Professional Systems
 
+* The Spectral Sensitivity of Cameras
+
+![](img/canon_s100.png)
+###### Figure 1. A modified Canon S100 consumer camera.
+
+For agricultural purposes, the broadband sensors contained in a modified camera such as the Canon s100 in __Figure 1__ are 
+suited to qualitative 'big picture' views of a crop's current status. However, the information provided by such cameras
+is limited and does not permit detailed analysis of a crop over time.
 
 ![](img/kite_mount.png)
 ###### Figure 1. Dual-camera system with harness and Picavet. 
 
+As discussed in [Section 3](kites_balloons_drones.md) a kite or a helium-filled balloon may serve a useful purpose in 
+providing a quick overview of a crop but the results produced are often variable and may be difficult to reproduce. 
+
 ![](img/solo_camera_mount.png)
 ###### Figure 2. Sequoia camera (bottom left) with power supply (right) and Sun sensor (top) attached to the 3DR Solo. 
 
-* The Spectral Sensitivity of Cameras
+After an initial year of ups and downs using the systems originally proposed for this work it became apparent that 
+for a small investment one could use an aerial drone instead. We were among the first 'beta-testers' to fly
+a 3DR Solo drone with a Sequoia camera.  
 
 Center wavelength and bandwidth specs for the Sequoia camera are: 
 
@@ -128,8 +141,6 @@ Center wavelength and bandwidth specs for the Sequoia camera are:
 | Red Edge  |           735          |       10       |
 | Near IR   |           790          |       40       |
 
-* Lorem ipsum dolor sit amet
-* Lorem ipsum dolor sit amet
 
 #### Qualitative versus Quantitative Science.
 
