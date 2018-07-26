@@ -74,7 +74,7 @@ this sort of issue by use of a masking technique discussed in [Section 9](readme
     sensitive to photosynthetic activity, specifically to the variation of chlorophyll content in plants.
     
 6. __CIR Composite (Color Infrared)__ 
-    * While a CIR Composite image is not an index (it's a composite) it does 
+    * While a CIR Composite image is not strictly an index (it's a composite) it does 
 
 
 #### When Choosing an Index
