@@ -29,7 +29,7 @@ with healthy green vegetation.
 As an example of a vegetation index we calculate NDVI from an image in the following way: 
 1. Subtract the NIR band reflectance values in all pixels from all the Red values. 
 2. Add all NIR values in each pixel to all the Red values.
-3. Calculate the ratio between the calculated difference (in the numerator) and the calculated sum (in the denominator). 
+3. Calculate the ratio between the calculated difference (the numerator) and the calculated sum (the denominator). 
 
 Calculating NDVI requires first creating and manipulating two separate images (pixel arrays) 
 each of which contains light from a separate wavelength. The NIR band is contained in one layer while the red 
