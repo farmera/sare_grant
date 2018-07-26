@@ -43,8 +43,8 @@ characteristic - may influence and alter the index.
 ![](img/ndvi_biology.png) 
 ###### Figure 2.
 
-Creating an effective spectral index means no less than capturing the right kind of light, at the right time of day, under the best 
-possible conditions. In [Section 3](kites_balloons_drones.md) we learned about a set of images that were captured using a pair of consumer cameras. These were later processed to produce both an NRG
+Thus creating an effective spectral index means no less than capturing the right kind of light, at the right time of day
+and season, under the best possible conditions. In [Section 3](kites_balloons_drones.md) we learned about a set of images that were captured using a pair of consumer cameras. These were later processed to produce both an NRG
 image along with a final index image, known as an NDVI index. The mathematical expression used to create an NDVI index 
 is as follows:
 
