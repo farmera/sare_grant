@@ -109,9 +109,7 @@ periods of time was a determining factor in whether or not our data would be mea
 at a single point in time. Likewise it became clear that the ability to capture in the narrow band, with minimum distortion, 
 was critical. 
 
-#### A Segue into Light, Cameras, Action
-
-Our discussion into various flying methods, while interesting in itself, is only a means to an end of placing a camera into 
+Various flying methods, while interesting in themselves, are only a means to the end of placing a camera into 
 position in order to capture the right light at the right time of day. Before venturing into the core methods used 
 in our study and the results obtained we first set the stage by discussing some earlier methods that were used and why 
 they did not succeed.  
