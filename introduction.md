@@ -81,7 +81,7 @@ was used in this study will be harvested 12-14 months later.
 
 ### Acknowledgements
 This work was funded by the __Sustainable Agriculture Research & Education__ program at USDA (also known as __SARE__). 
-SARE is a primary USDA granting and outreach provider for farmers, researchers and educators seeking to develop innovative
+SARE is a USDA granting and outreach provider for farmers, researchers and educators seeking to develop innovative
 projects. The goal of the SARE Producer Grant program is to provide the working farmer an opportunity to conduct projects 
 that address specific challenges while developing information on what works and doesn’t work. A core mission is to provide 
 information to other farmers who may be facing similar challenges.
