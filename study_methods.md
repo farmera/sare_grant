@@ -23,7 +23,7 @@ We asked two questions:
 
 Early in the project we experimented with various capture systems (automatically-triggered cameras) and suspension methods 
 using kites and balloons. The central challenge of an aerial system based on wind alone is variability in the 
-control of height and nadir positioning of the camera. Wind also impacts the performance of balloons during flight. 
+control of height and nadir positioning of the camera. Wind can also impact the performance of a balloon during flight. 
 Additional factors to consider are payload weight and total flight time. 
 
 [Section 3](kites_balloons_drones.md) discussed the various bands of reflected and captured light and how these 
