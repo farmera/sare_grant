@@ -74,10 +74,8 @@ this sort of issue by use of a masking technique discussed in [Section 9](readme
 
 5. __GNDVI__ = (NIR - Green) / (NIR + Green)
     * As indicated by the name, the Green Normalized Difference Vegetation Index is related to NDVI (or RNDVI) in that 
-    it's an index of 'greenness' and by that measure of photosynthetic activity. It is sensitive specifically to the 
-    variation of chlorophyll content in plants.
-
-
+    it uses the green band where NDVI uses the red. GNDVI is an index of 'greenness' and by that measure it is more 
+    sensitive to photosynthetic activity, specifically to the variation of chlorophyll content in plants.
 
 #### Summary
 Thus far we've discussed simple calculations applied to single image pixels. In practice, generating a vegetative index
@@ -91,5 +89,5 @@ tools exist to make these tasks accessible to the average user.
 
 ###### References
 Pinter, Jr., Paul J.; Hatfield, Jerry L.; Schepers, James S.; Barnes, Edward M.; Moran, M. Susan; Daughtry, Craig S.T.; Upchurch, Dan R. (2003). "Remote Sensing for Crop Management". Photogrammetric Engineering & Remote Sensing. 69 (6): 647–664. doi:10.14358/PERS.69.6.647. ISSN 0099-1112.
-
+Gitelson, A., and M. Merzlyak. "Remote Sensing of Chlorophyll Concentration in Higher Plant Leaves." Advances in Space Research 22 (1998): 689-692.
 ![](img/farmera.png) 
