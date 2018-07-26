@@ -24,7 +24,7 @@ used in this study make use of an inverse relationship between red and near infr
 with healthy green vegetation. 
 
 ![](img/rasterbands.gif)
-###### Figure 1.
+###### Figure 1. Raster arrays representing different bands of light.  
 
 Some common vegetation indices explored during our study:
 
