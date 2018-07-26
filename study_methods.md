@@ -39,7 +39,7 @@ Doing so means capturing the right sort of light, at the right time of day...
 ![](img/ndvi_biology.png) 
 ###### Figure 2.
 
-Earlier we learned about a set of images that were captured using a pair of consumer cameras. These were later processed to produce both an NRG
+In [Section 3](kites_balloons_drones.md) we learned about a set of images that were captured using a pair of consumer cameras. These were later processed to produce both an NRG
 image along with a final index image, known as an NDVI index. The mathematical expression used to create an NDVI index 
 is as follows:
 
