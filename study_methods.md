@@ -61,11 +61,6 @@ light while reflecting away a good portion of the red. Recall that plants use re
 light presents a physiological burden to them. This is another generic spectral pattern that we can use: _lower NDVI values correlate with unhealthy, distressed plants_. 
 
 
-[Section 3](kites_balloons_drones.md) discussed the various bands of reflected and captured light and how these 
-may be used to facilitate an understanding of crop health. In [Section 5]() we will consider in greater detail how 
-such principles allow us to manipulate the captured bands and reveal more interesting and specific patterns. 
-In this section we will focus on general principles which makes all of this possible. 
-
 ![](img/kite_image_fastie_lut.png)
 ###### Figure 1.
 
@@ -87,8 +82,11 @@ a general pattern over time then this method would present challenges. While not
 the exact height and vantage point of a image taken during a flight with a kite or a balloon. On another day under different 
 conditions these images would be hard to precisely duplicate. Since one of our stated goals was to accurately determine crop 
 trends over time using low cost methods we decided to look at other methods. 
- 
-More detailed results from balloon and kite methods are presented in [Section 8](study_results_balloons.md). 
+
+[Section 3](kites_balloons_drones.md) discussed the various bands of reflected and captured light and how these 
+may be used to facilitate an understanding of crop health. In [Section 5]() we will consider in greater detail how 
+such principles allow us to manipulate the captured bands and reveal more interesting and specific patterns. 
+In this section we will focus on general principles which makes all of this possible. More detailed results from balloon and kite methods are presented in [Section 8](study_results_balloons.md). 
 
 In general, acquiring accurate aerial image data requires consideration of two fundamental issues: 
 
