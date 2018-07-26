@@ -3,7 +3,7 @@
 #### What's A Vegetation Index?
 
 * A multi-spectral index is a mathematical expression relating two bands of light energy reflecting from an 
-object (e.g. a plant).
+object.
 * Narrow bands of light reflect from particular objects in distinctive ways.
 
 There are a [hundred different ways](https://www.indexdatabase.de/db/i.php) to create a spectral index, all sharing the 
