@@ -34,6 +34,12 @@ and kite methods are presented in [Section 8](study_results_balloons.md).
 
 #### Creating an Effective Spectral Index 
 
+The steps required to create a useful spectral index requires knowledge of a host of different input variables along with 
+an understanding of the external environment. How does the age of a crop - its 'architectural' characteristics - influence 
+and alter an index value. While vegetation indices are intended to extract the reflected light signal from the plant only, 
+the soil background, moisture condition, solar zenith angle, view angle, as well as the atmosphere, alter the index values 
+in complex ways.
+
 Doing so means capturing the right sort of light, at the right time of day... 
 
 ![](img/ndvi_biology.png) 
@@ -68,6 +74,7 @@ light presents a physiological burden to them. This is another generic spectral 
 #### Interpreting Spectral Indices 
 
 Doing so requires capturing data at the right time in the growing season...
+
 
 ![](img/kite_image_fastie_lut.png)
 ###### Figure 1. Low cost NDVI
@@ -203,10 +210,7 @@ Center wavelength and bandwidth specs for the Sequoia camera are:
 
 #### Qualitative versus Quantitative Science.
 
-* Lorem ipsum dolor sit amet
-* Lorem ipsum dolor sit amet
-* Lorem ipsum dolor sit amet
-
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
 
 #### Summary
 
