@@ -120,7 +120,7 @@ suited to qualitative 'big picture' views of a crop's current status. However, t
 is limited and does not permit detailed analysis of a crop over time.
 
 ![](img/kite_mount.png)
-###### Figure 1. Dual-camera system with harness and Picavet. 
+###### Figure 1. Dual-camera system with harness and Picavet (now available from [The Kaptery](http://kaptery.com/)). 
 
 As discussed in [Section 3](kites_balloons_drones.md) a kite or a helium-filled balloon may serve a useful purpose in 
 providing a quick overview of a crop but the results produced are often variable and may be difficult to reproduce. 
@@ -128,7 +128,7 @@ providing a quick overview of a crop but the results produced are often variable
 ![](img/solo_camera_mount.png)
 ###### Figure 2. Sequoia camera (bottom left) with power supply (right) and Sun sensor (top) attached to the 3DR Solo. 
 
-After an initial year of ups and downs using the systems originally proposed for this work it became apparent that 
+After an initial year of ups and downs using the systems originally proposed it became apparent that 
 for a small investment one could use an aerial drone instead. We were among the first 'beta-testers' to fly
 a 3DR Solo drone with a Sequoia camera.  
 
