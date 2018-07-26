@@ -43,8 +43,8 @@ characteristic - can influence and alter an index.
 ![](img/ndvi_biology.png) 
 ###### Figure 1. Mechanics of Light Absorption in Plants
 
-Thus creating an effective spectral index means no less than capturing the right kind of light, at the right time of day
-and season, under the best possible conditions. In [Section 3](kites_balloons_drones.md) we learned about a set of images that were captured using a pair of consumer cameras. These were later processed to produce both an NRG
+Creating an effective spectral index means no less than capturing the right kind of light, at the right time of day,
+during the right part of the season, under optimum weather conditions. In [Section 3](kites_balloons_drones.md) we learned about a set of images that were captured using a pair of consumer cameras. These were later processed to produce both an NRG
 image along with a final index image, known as an NDVI index. The mathematical expression used to create an NDVI index 
 is as follows:
 
@@ -164,10 +164,9 @@ from which the internal IR block filter has been removed.
 ![](img/fastie-results.png)
 ###### Figure 4.
 
-In the bottom row are two images after post-processing the top 
-two. On the left is a false color IR image (also known as an NRG image) with varying tones of red representing the near 
-infrared band. In the bottom-right is a 'normalized difference vegetation index' __NDVI__ image which 
-has been created using the pair above. In [Section 8](study_results_balloons.md) and 
+In the bottom row are two images after post-processing the top two. On the left is a false color IR image (also known as 
+an NRG image) with varying tones of red representing the near infrared band. In the bottom-right is a 'normalized 
+difference vegetation index' __NDVI__ image which has been created using the pair above. In [Section 8](study_results_balloons.md) and 
 [Section 9](study_results_drones.md) we will take a closer look at results obtained when
 using these and similar methods. 
 
@@ -208,8 +207,9 @@ Center wavelength and bandwidth specs for the Sequoia camera are:
 
 #### Qualitative versus Quantitative Science.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Qualitative Research is primarily exploratory research. It is used to gain an understanding of underlying reasons, opinions, and motivations. It provides insights into the problem or helps to develop ideas or hypotheses for potential quantitative research. Qualitative Research is also used to uncover trends in thought and opinions, and dive deeper into the problem. Qualitative data collection methods vary using unstructured or semi-structured techniques. Some common methods include focus groups (group discussions), individual interviews, and participation/observations. The sample size is typically small, and respondents are selected to fulfil a given quota.
 
+Quantitative Research is used to quantify the problem by way of generating numerical data or data that can be transformed into usable statistics. It is used to quantify attitudes, opinions, behaviors, and other defined variables – and generalize results from a larger sample population. Quantitative Research uses measurable data to formulate facts and uncover patterns in research. Quantitative data collection methods are much more structured than Qualitative data collection methods. Quantitative data collection methods include various forms of surveys – online surveys, paper surveys, mobile surveys and kiosk surveys, face-to-face interviews, telephone interviews, longitudinal studies, website interceptors, online polls, and systematic observations.
 #### Summary
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
