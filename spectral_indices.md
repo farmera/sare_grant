@@ -51,10 +51,6 @@ this sort of issue by use of a masking technique discussed in [Section 9](readme
     general indicator of plant health for mid to late season growth when compared to NDVI. NDRE is also thought to be 
     capable of mapping variability in foliar Nitrogen levels, which we were interested in. Green and red-edge bands penetrate the leafy part of the plant more so than the blue or red bands. Thus red-edge is more sensitive to chlorophyll content and to nitrogen contained in the leaf. We used this index extensively. 
   
-
-All indices are “normalized” by measuring sun energy for each measurement, taking into account sun angle and cloud cover.  
-This allows “apples-to-apples” comparison throughout the season, and season-to-season.
-
 To calculate NDVI from an image we do the following: 
 1. Subtract the NIR band reflectance values in all pixels from all the Red values. 
 2. Add all NIR values in each pixel to all the Red values.
@@ -82,6 +78,11 @@ __millions and millions__ of pixels covering __hundreds and hundreds__ of megaby
 In coming sections we'll discuss how to achieve this degree of scaling along with strategies for interpreting 
 various vegetation indices under differing environmental conditions. Luckily, open-source software and image processing 
 tools exist to make these tasks accessible to the average user.
+
+
+All indices are “normalized” by measuring sun energy for each measurement, taking into account sun angle and cloud cover.  
+This allows “apples-to-apples” comparison throughout the season, and season-to-season.
+
 
 ###### References
 Pinter, Jr., Paul J.; Hatfield, Jerry L.; Schepers, James S.; Barnes, Edward M.; Moran, M. Susan; Daughtry, Craig S.T.; Upchurch, Dan R. (2003). "Remote Sensing for Crop Management". Photogrammetric Engineering & Remote Sensing. 69 (6): 647–664. doi:10.14358/PERS.69.6.647. ISSN 0099-1112.
