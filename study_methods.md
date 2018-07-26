@@ -46,7 +46,7 @@ find the quotient between the two." With this knowledge let's create a couple of
 Assume that the amount of visible red light reflected from the tree on the left in __Figure 1__ is 8% and that the amount of NIR 
 reflected is 50%. In this case we'd have the following NDVI expression: 
 
-(0.5 - 0.08)/(0.5 + 0.08) = 0.42/0.58 = __0.72__ 
+1. (0.5 - 0.08)/(0.5 + 0.08) = 0.42/0.58 = __0.72__ 
 
 An NDVI value of 0.72 (on a scale of 0 to 1.0) indicates that the tree on the left is doing well. It's reflecting 8% of the red light away while absorbing 
 the remaining 92% for photosynthesis. It's also reflecting more than half of the harmful NIR light away. 
@@ -54,7 +54,7 @@ This is a generic spectral pattern that we can use: _higher NDVI values correlat
 
 Consider the same equation applied to the tree on the right of __Figure 1__. 
   
-(0.4 - 0.3)/(0.4 + 0.3) = 0.1/0.7 = __0.14__ 
+2. (0.4 - 0.3)/(0.4 + 0.3) = 0.1/0.7 = __0.14__ 
 
 Compared with the tree on the left, this one is doing poorly. It's absorbing more than half of the NIR 
 light while reflecting away a good portion of the red. Recall that plants use red light to power photosynthesis while NIR 
