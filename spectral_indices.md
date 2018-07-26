@@ -30,6 +30,11 @@ To calculate NDVI from an image we do the following:
 1. Subtract the NIR band reflectance values in all pixels from all the Red values. 
 2. Add all NIR values in each pixel to all the Red values.
 3. Calculate the ratio between the calculated difference (in the numerator) and the calculated sum (in the denominator). 
+
+In order to calculate NDVI over a captured image, one must first create and manipulate two separate images (pixel grids) 
+each containing light from a separate bands or wavelengths. Thus, the NIR band is contained in one layer while the red 
+is held in another. Manipulating each pixel, of each layer, according to a mathematical expression, produces a third layer 
+which is the NDVI image itself.
     
 An NDVI index is simply a ratio of the difference and the sum of two narrow bands of light. A ratio is taken in order to 
 *normalize* the values with the effect that this binds them between -1 and 1. Plant NDVI values can range from 0 to 1 but 
@@ -65,10 +70,7 @@ this sort of issue by use of a masking technique discussed in [Section 9](readme
 #### Generating NDVI (and other spectral indices)
 
 Thus far we've discussed simple calculations applied to single image pixels. In practice, generating a vegetative index
-over an entire field or crop involves more effort. For example, in order to calculate NDVI over a captured image, one must 
-first create and manipulate two separate images (pixel grids) each containing light from a separate bands or wavelengths.
-Thus, the NIR band is contained in one layer while the red is held in another. Manipulating each pixel, of each layer, 
-according to a mathematical expression, produces a third layer which is the NDVI image itself. 
+over an entire field or crop involves more effort. 
 
  
 In addition to analyzing many pixels we need a way to efficiently separate individual bands of light as arrays.
