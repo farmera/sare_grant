@@ -69,12 +69,12 @@ light presents a physiological burden to them. This is another generic spectral 
 
 #### Interpreting Spectral Indices 
 
-Interpreting a spectral index starts with acquiring accurate aerial image data. Doing that requires consideration of two fundamental issues: 
+Interpreting a spectral index starts with acquiring accurate aerial image data. Doing so requires consideration of two fundamental issues: 
 
-1. Placing a camera at the correct height and orientation for a sufficient period of time.
+1. Placing the camera at the correct height and orientation for a sufficient period of time.
 
     * In [Section 3](kites_balloons_drones.md) three possible methods for positioning a camera 
-    in the air (a kite, a helium-filled balloon, and an aerial drone) are considered. Each has its advantages and 
+    in the air (a kite, a helium-filled balloon, and an aerial drone) were considered. Each has its advantages and 
     disadvantages.
     
 2. Acquiring sufficient spectral detail from a camera such that the data may be usefully analyzed.
