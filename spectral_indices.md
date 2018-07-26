@@ -81,7 +81,7 @@ this sort of issue by use of a masking technique discussed in [Section 9](readme
 
 #### Summary
 Thus far we've discussed simple calculations applied to single image pixels. In practice, generating a vegetative index
-over an entire field or crop involves much more effort. In addition to separate individual bands as arrays we 
+over an entire field or crop involves much more. In addition to separate individual bands as arrays we 
 need to scale these sorts of manipulations up to potentially __millions and millions__ of pixels covering __hundreds 
 and hundreds__ of megabytes of image data.
 
