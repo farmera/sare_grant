@@ -35,9 +35,9 @@ and kite methods are presented in [Section 8](study_results_balloons.md).
 #### Creating an Effective Spectral Index 
 
 The steps required to create a useful spectral index requires knowledge of a host of different input variables along with 
-an understanding of the external environment. How does the age of a crop - its 'architectural' characteristics - influence 
-and alter an index value. While vegetation indices are intended to extract the reflected light signal from the plant only, 
-the soil background, moisture condition, solar zenith angle, view angle, as well as the atmosphere, alter the index values 
+an understanding of the external environment. How does the age of a crop - its 'architectural' characteristic - influence 
+and alter the index value? While vegetation indices intend to extract only reflected light signals from a crop, in practice 
+other variable such as soil moisture content, solar zenith angle, viewing angle, at atmospheric effects, alter the index values 
 in complex ways.
 
 Doing so means capturing the right sort of light, at the right time of day... 
