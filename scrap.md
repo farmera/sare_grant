@@ -36,3 +36,7 @@ __millions and millions__ of pixels covering __hundreds and hundreds__ of megaby
 
 JPEG-compressed and white-balanced prior to capture according to a methodology which will be fully reported.  
 We will describe elsewhere the importance of calibration in NDVI photography along 
+
+
+All indices are “normalized” by measuring sun energy for each measurement, taking into account sun angle and cloud cover.  
+This allows “apples-to-apples” comparison throughout the season, and season-to-season.

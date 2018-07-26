@@ -41,10 +41,6 @@ An NDVI index is simply a ratio of the difference and the sum of two narrow band
 *normalize* the values with the effect that this binds them between -1 and 1. Plant NDVI values can range from 0 to 1 but 
 usually lie somewhere between 0.2 and 0.8. [fn]
 
-All indices are “normalized” by measuring sun energy for each measurement, taking into account sun angle and cloud cover.  
-This allows “apples-to-apples” comparison throughout the season, and season-to-season.
-
-
 Some common vegetation indices explored during our study:
 
 1. __NDVI__ = (NIR - RED) / (NIR + RED)
