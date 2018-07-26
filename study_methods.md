@@ -41,7 +41,7 @@ and other factors may alter the final index value. The age of a crop itself - i.
 characteristic - can influence and alter an index.
 
 ![](img/ndvi_biology.png) 
-###### Figure 2.
+###### Figure 1. Mechanics of Light Absorption in Plants
 
 Thus creating an effective spectral index means no less than capturing the right kind of light, at the right time of day
 and season, under the best possible conditions. In [Section 3](kites_balloons_drones.md) we learned about a set of images that were captured using a pair of consumer cameras. These were later processed to produce both an NRG
@@ -74,11 +74,10 @@ light presents a physiological burden to them. This is another generic spectral 
 
 Doing so requires capturing data at the right time in the growing season...
 
-
 ![](img/kite_image_fastie_lut.png)
-###### Figure 1. Low cost NDVI
+###### Figure 2. Low cost NDVI
 
-__Figure 1__ illustrates a typical NDVI result using a kite-suspension system with two consumer-grade cameras modified 
+__Figure 2__ illustrates a typical NDVI result using a kite-suspension system with two consumer-grade cameras modified 
 for NDVI. The image in the center of the figure represents a color LUT (i.e. a look-up table) which is a table of 
 numbers used to apply a color transform to an image. Applying this transform allows us to visualize reflected light that 
 otherwise would be impossible to see. In this image the LUT is prominently displayed in order to indicate that a full 
@@ -122,7 +121,7 @@ they did not succeed.
 Whether one uses a kite, a balloon, a drone, or a pidgeon, once the images have been taken and the craft returned safely to ground,
 all images must be gathered and 'stitched' together to create a final representation of the area of interest. 
 
-__Figure 5__ shows the result of stitching a half-dozen images from a balloon flight. This task is commonly 
+__Figure 3__ shows the result of stitching a dozen or so images from a balloon flight. This task is commonly 
 performed by software but here an application provided by the citizen science group 
 [Public Lab](https://publiclab.org/) is used to visually stitch each image over a map of the areal extent. 
 This approach reveals how an image is often stretched and distorted in order to make it fit orthogonally onto a planar map. Achieving a 
@@ -136,7 +135,7 @@ representing a point in the overall process where error may be introduced.
 
 
 ![](img/map-stitch.gif)
-###### Figure 5.
+###### Figure 3.
 
 In turn, the resolution of the final image __analyzed__ depends on the stability of the capture event, on the resolution 
 of the camera at that given moment, and on the stitching process that brings the separate images together. Of interest is the __resolution per pixel__ since each pixel ultimately represents an 
@@ -163,7 +162,7 @@ captured with a pair of consumer digital cameras. The NIR photo on the top-right
 from which the internal IR block filter has been removed.  
 
 ![](img/fastie-results.png)
-###### Figure 6.
+###### Figure 4.
 
 In the bottom row are two images after post-processing the top 
 two. On the left is a false color IR image (also known as an NRG image) with varying tones of red representing the near 
@@ -177,20 +176,20 @@ using these and similar methods.
 * The Spectral Sensitivity of Cameras
 
 ![](img/canon_s100.png)
-###### Figure 1. A modified Canon S100 consumer camera.
+###### Figure 5. A modified Canon S100 consumer camera.
 
 For agricultural purposes, the broadband sensors contained in a modified camera such as the Canon s100 in __Figure 1__ are 
 suited to qualitative 'big picture' views of a crop's current status. However, the information provided by such cameras
 is limited and does not permit detailed analysis of a crop over time.
 
 ![](img/kite_mount.png)
-###### Figure 1. Dual-camera system with harness and Picavet (now available from [The Kaptery](http://kaptery.com/)). 
+###### Figure 6. Dual-camera system with harness and Picavet (now available from [The Kaptery](http://kaptery.com/)). 
 
 As discussed in [Section 3](kites_balloons_drones.md) a kite or a helium-filled balloon may serve a useful purpose in 
 providing a quick overview of a crop but the results produced are often variable and may be difficult to reproduce. 
 
 ![](img/solo_camera_mount.png)
-###### Figure 2. Sequoia camera (bottom left) with power supply (right) and Sun sensor (top) attached to the 3DR Solo. 
+###### Figure 7. Sequoia camera (bottom left) with power supply (right) and Sun sensor (top) attached to the 3DR Solo. 
 
 After an initial year of ups and downs using the systems originally proposed it became apparent that 
 for a small investment one could use an aerial drone instead. We were among the first 'beta-testers' to fly
