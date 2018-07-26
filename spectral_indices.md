@@ -81,12 +81,12 @@ this sort of issue by use of a masking technique discussed in [Section 9](readme
 
 #### Summary
 Thus far we've discussed simple calculations applied to single image pixels. In practice, generating a vegetative index
-over an entire field or crop involves much more effort. In addition to separate individual bands of light as arrays we 
+over an entire field or crop involves much more effort. In addition to separate individual bands as arrays we 
 need to scale these sorts of manipulations up to potentially __millions and millions__ of pixels covering __hundreds 
 and hundreds__ of megabytes of image data.
 
 In coming sections we'll discuss how to achieve this degree of scaling along with strategies for interpreting 
-various vegetation indices under differing environmental conditions. Luckily, open-source software and image processing 
+various vegetation indices under different environmental conditions. Luckily, open-source software and image processing 
 tools exist to make these tasks accessible.
 
 ###### References
