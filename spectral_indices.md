@@ -73,7 +73,7 @@ this sort of issue by use of a masking technique discussed in [Section 9](readme
     it uses the green band where NDVI uses the red. GNDVI is an index of 'greenness' and by that measure it is more 
     sensitive to photosynthetic activity, specifically to the variation of chlorophyll content in plants.
     
-6. __CIR Composite (Color Infrared)__ 
+6. __CIR Composite__ (Color Infrared) 
     * While a CIR Composite image is not strictly an index (it's a composite) it does 
 
 
