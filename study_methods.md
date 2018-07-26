@@ -26,7 +26,9 @@ using kites and balloons. The central challenge of an aerial system based on win
 control of height and nadir positioning of the camera. Wind also impacts the performance of balloons during flight. 
 Additional factors to consider are payload weight and total flight time. 
 
-#### More on Plant Biology
+#### Creating an effective spectral index 
+
+Doing so means capturing the right sort of light, at the right time of day... 
 
 ![](img/ndvi_biology.png) 
 ###### Figure 2.
@@ -57,8 +59,7 @@ Compared with the healthy tree, the one on the right is doing poorly. It's absor
 light while reflecting away a good portion of the red. Recall that plants use red light to power photosynthesis while NIR 
 light presents a physiological burden to them. This is another generic spectral pattern that we can use: _lower NDVI values correlate with unhealthy, distressed plants_. 
 
-* Creating an effective spectral index means capturing the right sort of light, at the right time of day. 
-* Interpreting spectral indices requires capturing data at the right time in the growing season.
+#### Interpreting spectral indices requires capturing data at the right time in the growing season.
 
 ![](img/kite_image_fastie_lut.png)
 ###### Figure 1.
