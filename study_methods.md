@@ -38,7 +38,7 @@ The steps required to create a useful spectral index demands working knowledge o
 an understanding of the external environment itself. While vegetation indices intend to extract reflected light from 
 crops only, in practice other variables such as soil moisture, solar zenith angle, camera sensitivity and orientation, 
 and other factors may alter the final index value. The age of a crop itself - i.e. its 'architectural' 
-characteristic - may influence and alter the index.
+characteristic - can influence and alter an index.
 
 ![](img/ndvi_biology.png) 
 ###### Figure 2.
@@ -216,6 +216,8 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
 
 ###### References
-__Figure 1__ Image source: https://earthobservatory.nasa.gov/Features/MeasuringVegetation/measuring_vegetation_2.php
-
+###### __Figure 1__ Image source: https://earthobservatory.nasa.gov/Features/MeasuringVegetation/measuring_vegetation_2.php
+######  Jackson, R., and A. Huete. "Interpreting Vegetation Indices." Preventive Veterinary Medicine 11 (1991): 185-200.
+###### Ray, T. "A FAQ on Vegetation in Remote Sensing." http://www.yale.edu/ceo/Documentation/rsvegfaq.html, updated 13 October 1994. Accessed February 2014.
+###### Steven, M., et al. "Intercalibration of Vegetation Indices from Different Sensor Systems." Remote Sensing of Environment 88 (2003): 412-422.
 ![](img/farmera.png) 
