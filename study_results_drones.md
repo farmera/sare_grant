@@ -59,14 +59,13 @@ for practical reasons since the original raw geotiff from which it was produced 
 conditional coloring of luminosities in the near infrared band. Also visible are differences in the areas that have been
 treated with variable amounts of nitrogen.
 
-Our treatment schedule for 2017 was as follows: 
+Our treatment schedule for 2017 was as follows: ![](img/color_map_treatment.png)
 
 * __1__ -   0 lbs N per acre (6 sections)
 * __2__ -  40 lbs N per acre (6 sections)
 * __3__ -  80 lbs N per acre (6 sections)
 * __4__ - 120 lbs N per acre (6 sections)
 * __5__ - 180 lbs N per acre (6 sections)
-![](img/color_map_treatment.png)
 
 These amounts were chosen as they reflect a sensible range around the recommended treatment for this particular species (80 lbs 
 per hectare).
