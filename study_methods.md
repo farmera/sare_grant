@@ -50,10 +50,8 @@ is as follows:
 
 __(NIR - Red) / (NIR + Red) =  NDVI__
 
-This expression says "subtract the red from the NIR band in the numerator, add the same red band to the NIR in the denominator, 
-find the quotient between the two." With this knowledge let's create a couple of sample NDVI calculations:
-
-Assume that the amount of visible red light reflected from the tree on the left in __Figure 1__ is 8% and that the amount of NIR 
+In English this expression says "subtract the red from the NIR band (in the numerator), add the same red band to the NIR 
+(in the denominator), find the quotient between the two." Assume that the amount of visible red light reflected from the tree on the left in __Figure 1__ is 8% and that the amount of NIR 
 reflected is 50%. In this case we'd have the following NDVI expression: 
 
 1. (0.5 - 0.08)/(0.5 + 0.08) = 0.42/0.58 = __0.72__ 
