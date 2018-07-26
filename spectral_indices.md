@@ -2,15 +2,15 @@
 
 #### What's A Vegetation Index?
 
-* A multi-spectral index is a simple mathematical expression relating two bands of light energy reflected from an 
+* A multi-spectral index is a mathematical expression relating two bands of light energy reflecting from an 
 object (e.g. a plant).
 * Narrow bands of light reflect from particular objects in distinctive ways.
 
-There are a [hundred different ways](https://www.indexdatabase.de/db/i.php) to create a spectral index, all sharing the common property 
-of representing a *ratio*, where bands of light serve in the numerator or denominator of a simple mathematical expression. 
-A Vegetation Index (VI) is just a spectral index applied to vegetation. Generating and interpreting VIs provides a reliable way 
-to compare a plant's photosynthetic activity and structural variation over space and time. __[fn]__ A very common spectral 
-index used in agriculture for gauging the health of plants is an index known as 
+There are a [hundred different ways](https://www.indexdatabase.de/db/i.php) to create a spectral index, all sharing the 
+common property of representing a *ratio*, where bands of light serve in the numerator or denominator of a simple mathematical 
+expression. A Vegetation Index (VI) is just a spectral index applied to vegetation. Generating and interpreting VIs provides 
+a reliable way to compare a plant's photosynthetic activity and structural variation over space and time. __[fn]__ A very 
+common spectral index used in agriculture for gauging the health of plants is an index known as 
 [NDVI](https://en.wikipedia.org/wiki/Normalized_difference_vegetation_index) ('Normalized Difference Vegetation Index'.) 
 
  
@@ -19,8 +19,12 @@ index used in agriculture for gauging the health of plants is an index known as
 Calculating a VI requires conversion of an image or set of images into a set of  *rasters* - rectangular grids of 
 pixels or points of color. Each pixel contains a set of values corresponding to the captured bands of light. In familiar RGB 
 terms each pixel contains a Red, a Green and a Blue score. Such scores reflect the power, or luminosity, of electromagnetic 
-radiation for that particular band as it comes into contact with the pixel sensors of a digital camera. Most of the indices used in this study make use of an inverse relationship between red and near infra-red reflectance values 
-commonly associated with healthy green vegetation. 
+radiation for that particular band as it comes into contact with the pixel sensors of a digital camera. Most of the indices 
+used in this study make use of an inverse relationship between red and near infra-red reflectance values commonly associated 
+with healthy green vegetation. 
+
+![](img/rasterbands.gif)
+###### Figure 1.
 
 Some common vegetation indices explored during our study:
 
@@ -48,15 +52,13 @@ this sort of issue by use of a masking technique discussed in [Section 9](readme
     capable of mapping variability in foliar Nitrogen levels, which we were interested in. Green and red-edge bands penetrate the leafy part of the plant more so than the blue or red bands. Thus red-edge is more sensitive to chlorophyll content and to nitrogen contained in the leaf. We used this index extensively. 
   
 
-All indices are “normalized” by measuring sun energy for each measurement, taking into account sun angle and cloud cover.  This allows “apples-to-apples” comparison throughout the season, and season-to-season.
+All indices are “normalized” by measuring sun energy for each measurement, taking into account sun angle and cloud cover.  
+This allows “apples-to-apples” comparison throughout the season, and season-to-season.
 
 To calculate NDVI from an image we do the following: 
 1. Subtract the NIR band reflectance values in all pixels from all the Red values. 
 2. Add all NIR values in each pixel to all the Red values.
 3. Calculate the ratio between the calculated difference (in the numerator) and the calculated sum (in the denominator). 
-
-\![](img/7.png)
-###### Figure 1.
     
 An NDVI index is simply a ratio of the difference and the sum of two narrow bands of light. A ratio is taken in order to 
 *normalize* the values with the effect that this binds them between -1 and 1. Plant NDVI values can range from 0 to 1 but 
