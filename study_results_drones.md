@@ -2,9 +2,9 @@
 
 #### Section I
 
-* The study area comprised a section of second-year 'stubble' cane measuring 1000 ft by 180 ft. (_Figure 1_).
-* A total of 30 sections were treated with variable amounts of N fertilizer. 
-* An aerial drone (described in [Study Methods](study_methods.md)) was flown 11 times during the 2017 growing season.  
+* An area of second-year 'stubble' cane measuring 1000 ft by 180 ft was dedicated during the 2017 year. (_Figure 1_).
+* A series of random sections were laid out within this area and treated with variable amounts of N fertilizer. 
+* An aerial drone (described in [Section 4](study_methods.md)) was flown and captured the image data during the 2017 season.  
 
 Once planted, a stand of sugar cane may be harvested up to four times in as many seasons. A season runs about 9 months 
 and after each harvest the cane remaining in the ground sends up new shoots. While successive harvests give decreasing 
@@ -13,12 +13,13 @@ yields, the crop used in this study (a second-year 'stubble') is an ideal 'nitro
 ![](img/study_area.png)
 ###### Figure 1. Study Area. 
 
-We performed drone flights over the study area over two successive growing seasons. The results presented are for the 
+We performed kite and drone flights over the study area during two successive growth seasons. The results presented are for the 
 second season only. In an area measuring roughly 1000 ft by 180 ft we randomly-selected 30 individual plots measuring 
 100 feet by 3 rows (roughly 60 ft each). The study area was flown and captured in two separate flights (for power consumption 
-reasons ) and calibration was performed between each flight (see [section xxx]() for details). A primary advantage of 
-the drone in comparison with other aerial methods used is the ability to pre-program an exact height (250ft) and range for each 
-flight. This advantage is clearly demonstrated in __Figure 2__ of the area taken from  'nadir' perspective. It shows 
+reasons ). Calibration of the Sequoia camera was performed between each flight (see [Section 4](study_methods.md) for details). 
+
+A primary advantage of the drone compared with other methods is the ability to pre-program an exact height (250ft) and range 
+prior to each flight. This advantage is clearly demonstrated in __Figure 2__ of the area taken from  'nadir' perspective. It shows 
 two 100ft x 60 ft sections in perspective. Here the precision offered by semi-autonomous, programmable drones easily 
 outshines the other aerial methods used.  
 

@@ -2,7 +2,7 @@
 
 #### Introduction
 
-This section provides a description of the various of tools and methods used to generate and assess multi-spectral data in 
+This section provides a description of the various tools and methods used to generate and assess multi-spectral data in 
 sugar cane. We also describe some of the challenges faced in gathering such data. Throughout this study our objective 
 has been to test the viability of low-cost methods for acquiring and processing aerial multi-spectral data. 
 
@@ -110,14 +110,28 @@ light presents a physiological burden to them. This is another generic spectral 
 #### Consumer-grade versus Professional Cameras
 
 
-#### Qualitative versus Quantitative Science.
+![](img/kite_mount.png)
+###### Figure 1. Dual-camera system with harness and Picavet. 
 
+![](img/solo_camera_mount.png)
+###### Figure 2. Sequoia camera (bottom left) with power supply (right) and Sun sensor (top) attached to the 3DR Solo. 
 
 * The Spectral Sensitivity of Cameras
+
+Center wavelength and bandwidth specs for the Sequoia camera are: 
+
+
+| Band Name | Center Wavelength (nm) | Bandwidth (nm) |
+|-----------|:----------------------:|:--------------:|
+| Green     |           550          |       40       |
+| Red       |           660          |       40       |
+| Red Edge  |           735          |       10       |
+| Near IR   |           790          |       40       |
+
 * Lorem ipsum dolor sit amet
 * Lorem ipsum dolor sit amet
 
-#### Section III
+#### Qualitative versus Quantitative Science.
 
 * Lorem ipsum dolor sit amet
 * Lorem ipsum dolor sit amet
