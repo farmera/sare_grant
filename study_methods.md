@@ -26,6 +26,12 @@ using kites and balloons. The central challenge of an aerial system based on win
 control of height and nadir positioning of the camera. Wind also impacts the performance of balloons during flight. 
 Additional factors to consider are payload weight and total flight time. 
 
+[Section 3](kites_balloons_drones.md) discussed the various bands of reflected and captured light and how these 
+may be used to facilitate an understanding of crop health. In [Section 5]() we will consider in greater detail how 
+such principles allow us to manipulate the captured bands and reveal more interesting and specific patterns. 
+In this section we will focus on general principles which makes all of this possible. More detailed results from balloon 
+and kite methods are presented in [Section 8](study_results_balloons.md). 
+
 #### Creating an Effective Spectral Index 
 
 Doing so means capturing the right sort of light, at the right time of day... 
@@ -84,11 +90,6 @@ a general pattern over time then this method would present challenges. While not
 the exact height and vantage point of a image taken during a flight with a kite or a balloon. On another day under different 
 conditions these images would be hard to precisely duplicate. Since one of our stated goals was to accurately determine crop 
 trends over time using low cost methods we decided to look at other methods. 
-
-[Section 3](kites_balloons_drones.md) discussed the various bands of reflected and captured light and how these 
-may be used to facilitate an understanding of crop health. In [Section 5]() we will consider in greater detail how 
-such principles allow us to manipulate the captured bands and reveal more interesting and specific patterns. 
-In this section we will focus on general principles which makes all of this possible. More detailed results from balloon and kite methods are presented in [Section 8](study_results_balloons.md). 
 
 In general, acquiring accurate aerial image data requires consideration of two fundamental issues: 
 
