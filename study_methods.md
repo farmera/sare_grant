@@ -28,9 +28,6 @@ Additional factors to consider are payload weight and total flight time.
 
 #### More on Plant Biology
 
-* Creating an effective spectral index means capturing the right sort of light, at the right time of day. 
-* Interpreting spectral indices requires capturing data at the right time in the growing season.
-
 ![](img/ndvi_biology.png) 
 ###### Figure 2.
 
@@ -56,10 +53,12 @@ Consider the same equation applied to the tree on the right of __Figure 1__.
   
 2. (0.4 - 0.3)/(0.4 + 0.3) = 0.1/0.7 = __0.14__ 
 
-Compared with the tree on the left, this one is doing poorly. It's absorbing more than half of the NIR 
+Compared with the healthy tree, the one on the right is doing poorly. It's absorbing more than half of the NIR 
 light while reflecting away a good portion of the red. Recall that plants use red light to power photosynthesis while NIR 
 light presents a physiological burden to them. This is another generic spectral pattern that we can use: _lower NDVI values correlate with unhealthy, distressed plants_. 
 
+* Creating an effective spectral index means capturing the right sort of light, at the right time of day. 
+* Interpreting spectral indices requires capturing data at the right time in the growing season.
 
 ![](img/kite_image_fastie_lut.png)
 ###### Figure 1.
