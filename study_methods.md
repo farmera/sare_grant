@@ -19,7 +19,7 @@ We asked two questions:
 
 * __To what degree do variable nitrogen (N) rates applied to sugarcane correlate with low-cost NDVI measurements?__
 
-* __Are in-season models based on analysis over time of acquired imagery predictive of sugarcane's yield potential?__
+* __Are models based on time-series analysis of acquired imagery predictive of sugarcane's yield potential?__
 
 Early in the project we experimented with various capture systems (automatically-triggered cameras) and suspension methods 
 using kites and balloons. The central challenge of an aerial system based on wind alone is variability in the 
