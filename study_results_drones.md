@@ -101,6 +101,8 @@ growing season. At this time in the season is when the highest degree of correla
 the ultimate sucrose yield for that section occurred. 
 
 ![](img/ndvi/ndvi_winner.png)
+![](img/color_map_treatment.png)
+
 ###### Figure 8.
 
 The graph in Figure [x] above shows NDVI values during the first month of the growing season, from late April, 2017 
@@ -111,6 +113,8 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 ![](img/ndvi/ndvi_one2three.png)
 ![](img/ndvi/ndvi_four2six.png)
+![](img/color_map_treatment.png)
+
 ###### Figure 9.
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
@@ -128,6 +132,8 @@ _gndvi_
 ![](img/gndvi/gndvi_all_spectral_data.png)
 _ndvi_
 ![](img/ndvi/ndvi_all_spectral_data.png)
+![](img/color_map_treatment.png)
+
 
 ###### Figure 11. Regression 'facets' showing index values versus yield (April to November 2017).
 
