@@ -59,12 +59,11 @@ reflected is 50%. In this case we'd have the following NDVI expression:
 An NDVI value of 0.72 (on a scale of 0 to 1.0) indicates that the tree on the left is doing well. It's reflecting 8% of the red light away while absorbing 
 the remaining 92% for photosynthesis. It's also reflecting more than half of the harmful NIR light away. 
 This is a generic spectral pattern that we can use: _higher NDVI values correlate with healthier, more productive plants_. 
-
 Consider the same equation applied to the tree on the right of __Figure 1__. 
   
 2. (0.4 - 0.3)/(0.4 + 0.3) = 0.1/0.7 = __0.14__ 
 
-Compared with the healthy tree, the one on the right is doing poorly. It's absorbing more than half of the NIR 
+Compared with the healthy tree, this one is doing poorly. It's absorbing more than half of the NIR 
 light while reflecting away a good portion of the red. Recall that plants use red light to power photosynthesis while NIR 
 light presents a physiological burden to them. This is another generic spectral pattern that we can use: _lower NDVI values correlate with unhealthy, distressed plants_. 
 
