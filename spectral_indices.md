@@ -72,6 +72,12 @@ this sort of issue by use of a masking technique discussed in [Section 9](readme
     * As indicated by the name, the Green Normalized Difference Vegetation Index is related to NDVI (or RNDVI) in that 
     it uses the green band where NDVI uses the red. GNDVI is an index of 'greenness' and by that measure it is more 
     sensitive to photosynthetic activity, specifically to the variation of chlorophyll content in plants.
+    
+6. __CIR Composite (Color Infrared)__ 
+    * While a CIR Composite image is not an index (it's a composite) it does 
+
+
+#### When Choosing an Index
 
 #### Summary
 Thus far we've discussed simple calculations applied to single image pixels. In practice, generating a vegetative index
@@ -81,7 +87,7 @@ and hundreds__ of megabytes of image data.
 
 In coming sections we'll discuss how to achieve this degree of scaling along with strategies for interpreting 
 various vegetation indices under differing environmental conditions. Luckily, open-source software and image processing 
-tools exist to make these tasks accessible to the average user.
+tools exist to make these tasks accessible.
 
 ###### References
 ###### Pinter, Jr., Paul J.; Hatfield, Jerry L.; Schepers, James S.; Barnes, Edward M.; Moran, M. Susan; Daughtry, Craig S.T.; Upchurch, Dan R. (2003). "Remote Sensing for Crop Management". Photogrammetric Engineering & Remote Sensing. 69 (6): 647–664. doi:10.14358/PERS.69.6.647. ISSN 0099-1112.
