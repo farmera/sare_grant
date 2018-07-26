@@ -2,9 +2,9 @@
 
 #### Section I
 
-* An aerial drone (described in [Study Methods](study_methods.md)) was flown regularly during the growing season.  
 * The study area comprised a section of second-year 'stubble' cane measuring 1000 ft by 180 ft. (_Figure 1_).
 * A total of 30 sections were treated with variable amounts of N fertilizer. 
+* An aerial drone (described in [Study Methods](study_methods.md)) was flown 11 times during the 2017 growing season.  
 
 Once planted, a stand of sugar cane may be harvested up to four times in as many seasons. A season runs about 9 months 
 and after each harvest the cane remaining in the ground sends up new shoots. While successive harvests give decreasing 
@@ -49,30 +49,24 @@ actual landmark on the ground. Often this process is facilitated through use of 
 invariant point of reference on the ground that stitching software uses to match up points in an image. For our purposes this
 process was aided by using a camera that accurately records latitude and longitude points in each image such that they are 
 accurately matched in the final composite. A single GCP was used throughout the study, physically placed into the ground 
-and referenced from a known surveyor's benchmark. The GCP is located in the right-most part of the following image near the intersection of two white lines.     
+and referenced from a known surveyor's benchmark. The GCP is located in the right-most part of the following image near 
+the intersection of two white lines.     
 
 ![](img/NGR_SARE-Cropped.png)
 ###### Figure 4. Section grids in a composite NRG image.   
 
 _Figure 4_ shows results of a flight which occurred on July 28, 2017. This image has been rendered as an NRG 
-for practical reasons since the original raw geotiff from which it was produced is not easily visualized. The image clearly shows, as red light, the 
-conditional coloring of luminosities in the near infrared band. Also visible are differences in the areas that have been
-treated with variable amounts of nitrogen.
+for practical reasons since the original raw geotiff from which it was produced is not easily visualized. The image clearly 
+shows, as red light, the conditional coloring of luminosities in the near infrared band. Also visible are differences in 
+the areas that have been treated with variable amounts of nitrogen.
 
-Our treatment schedule for 2017 was as follows: ![](img/color_map_treatment.png)
-
-* __1__ -   0 lbs N per acre (6 sections)
-* __2__ -  40 lbs N per acre (6 sections)
-* __3__ -  80 lbs N per acre (6 sections)
-* __4__ - 120 lbs N per acre (6 sections)
-* __5__ - 180 lbs N per acre (6 sections)
-
-These amounts were chosen as they reflect a sensible range around the recommended treatment for this particular species (80 lbs 
-per hectare).
+Our treatment schedule for 2017 was __0__ lbs N per acre, __40__ lbs, __80__ lbs, __120__ lbs, and __180__ lbs per acre.
+These amounts were chosen as they reflect a sensible range around the recommended treatment for this particular species 
+(120 lbs per acre).
 
 #### Section III
 
-* Individual treaments (per section) were analyzed using semi-automatic methods in order to enhance reproducibilty of results.
+* Individual treatments (per section) were analyzed using semi-automatic methods in order to enhance reproducibilty of results.
 * Care was taken to analyze young versus mature crop and to normalize these different conditions for comparison.
 
 The development and growth of the leafy part of the sugar cane plant plays an important part in helping to maximize the 
