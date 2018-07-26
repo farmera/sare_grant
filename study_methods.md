@@ -38,7 +38,7 @@ The steps required to create a useful spectral index demands working knowledge o
 an understanding of the external environment itself. While vegetation indices intend to extract reflected light from 
 crops only, in practice other variables such as soil moisture, solar zenith angle, camera sensitivity and orientation, 
 and other factors may alter the final index value. The age of a crop itself - i.e. its 'architectural' 
-characteristic - may influence and alter an index value.
+characteristic - may influence and alter the index.
 
 ![](img/ndvi_biology.png) 
 ###### Figure 2.
