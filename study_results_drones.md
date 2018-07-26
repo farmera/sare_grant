@@ -66,6 +66,7 @@ Our treatment schedule for 2017 was as follows:
 * __3__ -  80 lbs N per acre (6 sections)
 * __4__ - 120 lbs N per acre (6 sections)
 * __5__ - 180 lbs N per acre (6 sections)
+![](img/color_map_treatment.png)
 
 These amounts were chosen as they reflect a sensible range around the recommended treatment for this particular species (80 lbs 
 per hectare).
@@ -101,7 +102,6 @@ growing season. At this time in the season is when the highest degree of correla
 the ultimate sucrose yield for that section occurred. 
 
 ![](img/ndvi/ndvi_winner.png)
-![](img/color_map_treatment.png)
 
 ###### Figure 8.
 
