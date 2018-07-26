@@ -43,8 +43,8 @@ characteristic - can influence and alter an index.
 ![](img/ndvi_biology.png) 
 ###### Figure 1. Mechanics of Light Absorption in Plants
 
-Creating an effective spectral index means no less than capturing the right kind of light, at the right time of day,
-during the right part of the season, under optimum weather conditions. In [Section 3](kites_balloons_drones.md) we learned about a set of images that were captured using a pair of consumer cameras. These were later processed to produce both an NRG
+Creating an effective spectral index means capturing the right kind of light, at the right time of day,
+during the right part of the season, under good weather conditions. In [Section 3](kites_balloons_drones.md) we learned about a set of images that were captured using a pair of consumer cameras. These were later processed to produce both an NRG
 image along with a final index image, known as an NDVI index. The mathematical expression used to create an NDVI index 
 is as follows:
 
