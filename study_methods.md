@@ -32,7 +32,7 @@ such principles allow us to manipulate the captured bands and reveal more intere
 In this section we will focus on general principles which makes all of this possible. More detailed results from balloon 
 and kite methods are presented in [Section 8](study_results_balloons.md). 
 
-#### Creating an Effective Spectral Index 
+#### Creating a Spectral Index 
 
 The steps required to create a useful spectral index demands working knowledge of a host of input variables along with 
 an understanding of the external environment itself. While vegetation indices intend to extract reflected light from 
