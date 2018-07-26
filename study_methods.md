@@ -83,7 +83,8 @@ Interpreting a spectral index begins with acquiring accurate aerial image data. 
 2. Acquiring sufficient spectral detail from a camera such that the data may be usefully analyzed.
 
     * The phrase 'sufficient spectral detail' will be unpacked but essentially means clear separation of the 
-    individual bands of captured light. 
+    individual bands of captured light.
+ 
 ![](img/kite_image_fastie_lut.png)
 ###### Figure 2. Low cost NDVI
 
