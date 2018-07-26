@@ -64,7 +64,6 @@ An NDVI index is simply a ratio of the difference and the sum of two narrow band
 *normalize* the values with the effect that this binds them between -1 and 1. Plant NDVI values can range from 0 to 1 but 
 usually lie somewhere between 0.2 and 0.8. [fn]
 
-
 #### Generating NDVI (and other spectral indices)
 
 Thus far we've discussed simple calculations applied to single image pixels. In practice, generating a vegetative index
@@ -73,16 +72,11 @@ first create and manipulate two separate images (pixel grids) each containing li
 Thus, the NIR band is contained in one layer while the red is held in another. Manipulating each pixel, of each layer, 
 according to a mathematical expression, produces a third layer which is the NDVI image itself. 
 
-\![](img/9.png)
-###### Figure 2.
  
 In addition to analyzing many pixels we need a way to efficiently separate individual bands of light as arrays.
 In order to provide actionable information to farmers we'll need to scale these sorts of manipulations up to potentially 
 __millions and millions__ of pixels covering __hundreds and hundreds__ of megabytes of image data.
 
- 
-![](img/8.png)
-###### Figure 3.
 
 #### Summary
 In coming sections we'll discuss how to achieve this degree of scaling along with strategies for interpreting 
