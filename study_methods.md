@@ -72,8 +72,18 @@ light presents a physiological burden to them. This is another generic spectral 
 
 #### Interpreting Spectral Indices 
 
-Doing so requires capturing data at the right time in the growing season...
+Interpreting a spectral index begins with acquiring accurate aerial image data. Doing so requires consideration of two fundamental issues: 
 
+1. Placing a camera at the correct height and orientation for a sufficient period of time.
+
+    * In [Section 3](kites_balloons_drones.md) three possible methods for positioning a camera 
+    in the air (a kite, a helium-filled balloon, and an aerial drone) are considered. Each has its advantages and 
+    disadvantages.
+    
+2. Acquiring sufficient spectral detail from a camera such that the data may be usefully analyzed.
+
+    * The phrase 'sufficient spectral detail' will be unpacked but essentially means clear separation of the 
+    individual bands of captured light. 
 ![](img/kite_image_fastie_lut.png)
 ###### Figure 2. Low cost NDVI
 
@@ -92,30 +102,8 @@ weekend of practice, they are largely __qualitative__ and __not quantitative__. 
 a general pattern over time then this method would present challenges. While not impossible, it is difficult to replicate 
 the exact height and vantage point of a image taken during a flight with a kite or a balloon. On another day under different 
 conditions these images would be hard to precisely duplicate. Since one of our stated goals was to accurately determine crop 
-trends over time using low cost methods we decided to look at other methods. 
-
-In general, acquiring accurate aerial image data requires consideration of two fundamental issues: 
-
-1. Placing a camera at the correct height and orientation for a sufficient period of time.
-
-    * In [Section 3](kites_balloons_drones.md) three possible methods for positioning a camera 
-    in the air (a kite, a helium-filled balloon, and an aerial drone) are considered. Each has its advantages and 
-    disadvantages.
-    
-2. Acquiring sufficient spectral detail from a camera such that the data may be usefully analyzed.
-
-    * The phrase 'sufficient spectral detail' will be unpacked but essentially means clear separation of the 
-    individual bands of captured light.  
-    
-It became apparent during our study that the ability to place a camera in a relatively steady position for sufficient 
-periods of time was a determining factor in whether or not our data would be meaningful for more than a qualitative assessment
-at a single point in time. Likewise it became clear that the ability to capture in the narrow band, with minimum distortion, 
-was critical. 
-
-Various flying methods, while interesting in themselves, are only a means to the end of placing a camera into 
-position in order to capture the right light at the right time of day. Before venturing into the core methods used 
-in our study and the results obtained we first set the stage by discussing some earlier methods that were used and why 
-they did not succeed.  
+trends over time using low cost methods we decided to look at other methods.  
+ 
 
 #### Resolving Images
 Whether one uses a kite, a balloon, a drone, or a pidgeon, once the images have been taken and the craft returned safely to ground,
@@ -212,7 +200,15 @@ Qualitative Research is primarily exploratory research. It is used to gain an un
 Quantitative Research is used to quantify the problem by way of generating numerical data or data that can be transformed into usable statistics. It is used to quantify attitudes, opinions, behaviors, and other defined variables – and generalize results from a larger sample population. Quantitative Research uses measurable data to formulate facts and uncover patterns in research. Quantitative data collection methods are much more structured than Qualitative data collection methods. Quantitative data collection methods include various forms of surveys – online surveys, paper surveys, mobile surveys and kiosk surveys, face-to-face interviews, telephone interviews, longitudinal studies, website interceptors, online polls, and systematic observations.
 #### Summary
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+It became apparent during our study that the ability to place a camera in a relatively steady position for sufficient 
+periods of time was a determining factor in whether or not our data would be meaningful for more than a qualitative assessment
+at a single point in time. Likewise it became clear that the ability to capture in the narrow band, with minimum distortion, 
+was critical. 
+
+Various flying methods, while interesting in themselves, are only a means to the end of placing a camera into 
+position in order to capture the right light at the right time of day. Before venturing into the core methods used 
+in our study and the results obtained we first set the stage by discussing some earlier methods that were used and why 
+they did not succeed. 
 
 ###### References
 ###### __Figure 1__ Image source: https://earthobservatory.nasa.gov/Features/MeasuringVegetation/measuring_vegetation_2.php
