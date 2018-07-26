@@ -37,15 +37,14 @@ and kite methods are presented in [Section 8](study_results_balloons.md).
 The steps required to create a useful spectral index demands working knowledge of a host of input variables along with 
 an understanding of the external environment itself. While vegetation indices intend to extract reflected light from 
 crops only, in practice other variables such as soil moisture, solar zenith angle, camera sensitivity and orientation, 
-and many other factors can alter the final index values. The age of a crop itself - i.e. its 'architectural' characteristic 
-- influence and alter the index value.
-
-Doing so means capturing the right sort of light, at the right time of day... 
+and many other factors can alter the final index values. The age of a crop itself - i.e. its 'architectural' 
+characteristic - may influence and alter an index value.
 
 ![](img/ndvi_biology.png) 
 ###### Figure 2.
 
-In [Section 3](kites_balloons_drones.md) we learned about a set of images that were captured using a pair of consumer cameras. These were later processed to produce both an NRG
+Creating an effective spectral index means no less than capturing the right kind of light, at the right time of day, under the best 
+possible conditions. In [Section 3](kites_balloons_drones.md) we learned about a set of images that were captured using a pair of consumer cameras. These were later processed to produce both an NRG
 image along with a final index image, known as an NDVI index. The mathematical expression used to create an NDVI index 
 is as follows:
 
