@@ -34,7 +34,7 @@ attention if it is tied off to something. On the other hand, while Picavets are 
 of a camera roughly down, they don't prevent cameras from being jostled about during flight. In the event of a 
 change in speed or wind direction the result may be many blurried images mixed in with a few good captures. Another 
 consideration is the amount of effort required to retrieve a high-flying kite when it's facing a stiff wind. For kite flying
-a heavy pair of leather gloves is always recommended. 
+a pair of heavy leather gloves is always recommended. 
 
 
 #### Balloons
@@ -46,7 +46,7 @@ __Figure 3__ shows a 2-meter wide polyethelene balloon filled with helium gas. I
 suspends a dual-camera system similar to the one shown for the kite. The main difference between balloons and kites is 
 in how each flies. Depending on size and payload (i.e. the weight of the camera plus the suspension system) a kite requires 
 sustained wind to become airborne. During this study our main rig consisted of a 12' Delta-style kite suspending nearly a 
-pound of camera and triggering gear. Getting this kite into the air required a minimum sustained wind speed of 8-10 mph. 
+pound of camera gear and triggering mechanisms. Getting this kite into the air required a minimum sustained wind speed of 8-10 mph. 
 On the other hand a helium balloon is sensitive to wind and will be guided quickly off course by even light winds. On a 
 windless day a balloon will rise easily to great altitude and remain steady in place for hours.    
  
