@@ -12,9 +12,9 @@ was first to fly and photograph the city of Paris from above in 1858.
 ![](img/nadar.png)
 ###### Figure 1. Gaspard-Félix Tournachon hangs on, makes history. 
 
-Whatever method is used the object remains the same: position one or more cameras at sufficient height, point 
-them down (or as close to nadir as possible), get the shot, and return the camera[s] safely to the ground. None of the 
-methods discussed in this report performs ideally in all situation without producing error. 
+Whatever method is used the object remains the same: position camera[s] at sufficient height, point 
+them down (or as close to nadir as possible), get the shots, and return safely to the ground. None of the 
+methods discussed here performs ideally in all situations without error. 
 
 #### Kites
 * Kites are easy to understand.
