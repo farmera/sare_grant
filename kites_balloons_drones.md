@@ -1,61 +1,62 @@
 ### III - Kites, Balloons, and Drones
 
 #### Aerial Photography
-* Aerial photography is a primary data source for precision agriculture.
 * The goal in aerial data capture is to produce consistent, stable images.
 * Cameras in flight are inherently unstable.
 
-The history of taking photos from high-flying objects is a long and storied one involving blimps, balloons, 
-parachutes and kites, pigeons and personal drones. All have been set aloft with ingenious cameras 
+The history of taking photos from high-flying objects is long and storied, involving blimps, balloons, 
+parachutes and kites, pigeons and personal drones. All these and more have been set aloft with ingenious cameras 
 attached and tools to trigger them either remotely or automatically. The French caricaturist Gaspard-Félix Tournachon (known as 'Nadar') 
 was first to fly and photograph the city of Paris from above in 1858.
 
 ![](img/nadar.png)
-###### Figure 1. Gaspard-Félix Tournachon hangs on, making history. 
+###### Figure 1. Gaspard-Félix Tournachon hangs on, makes history. 
 
-Whichever airborne method is used the object remains to position one or more cameras at sufficient height, point 
-them down (or as close to nadir as possible), get the shot, and return the camera safely to the ground. No method 
-discussed here performs in every way without producing some kind of error. 
+Whatever method is used the object remains the same: position one or more cameras at sufficient height, point 
+them down (or as close to nadir as possible), get the shot, and return the camera[s] safely to the ground. None of the 
+methods discussed in this report performs ideally in all situation without producing error. 
 
 #### Kites
 * Kites are easy to understand.
 * In certain conditions kites are incredibly stable and will fly for extended periods.
-* Kites can play a role in agricultural photography but only to a point. 
 
-In the image below (courtesy of Ron Marcisak) a camera is suspended from a kite using a device 
-known as a Picavet. The Picavet (named for French inventor Pierre Picavet) attaches the camera to the 
-line that flies the kite. The Picavet consists of a rigid cross 
-suspended below the kite line from two points and serves to stabilize the camera against random motion.
+The image in __Figure 2__ (courtesy of Ron Marcisak) shows a camera being suspended from a kite using a device 
+known as a Picavet (named for French inventor Pierre Picavet). The Picavet attaches the camera to the line that flies 
+the kite holding it more or less in place. The Picavet consists of a rigid cross suspended below the kite line from 
+two points and serves to stabilize the camera against random motion.
 
 ![](img/kite.png)
 ###### Figure 2. A camera system suspended via Picavet from a Delta-style kite. 
 
-Kites represent an easy and accessible approach to suspending cameras in the air. A kite has the advantage that,
-given a strong and stable wind, it's easy to fly and will remain suspended for long periods. 
-On the other hand, while a Picavet is good at orienting the angle of the camera roughly downward, it 
-can't prevent the camera from being jostled about during flight. The result is often many blurried images mixed with 
-a few good captures having the right orientation.       
+Kites represent an easy and accessible solution to suspending cameras in flight and almost everyone has had some experience 
+in using them.  Given a strong and stable enough wind, a flying kite will remain suspended in the air for long periods without
+attention. On the other hand, while a Picavet is good at orienting the angle of the camera roughly downwards, it won't 
+prevent the camera from being jostled during flight in the event of a change in wind speed or direction. The result may be 
+many blurried images mixed in with a few good captures. Kites are inherently fun and are great conversation starters.      
 
 
 #### Balloons
 
-* A helium-filled balloon provides an accessible solution for suspending cameras.
-* Balloons can serve as an alternative to kites on wind-less days.
-* Helium is an expensive, non-renewable resource. 
+* Balloons serve as an alternative to kites on windless days.
+* Helium is an expensive and non-renewable resource. 
 
-The image below is of a 2 meter wide polyethelene balloon filled with helium gas. It employs a Picavet system similar to 
-the one seen on the kite. It also suspends a dual-camera system. The main difference is in how a balloon flies which is 
-straight up unless a wind is pushing it elsewhere. Helium balloons are sensitive to wind and may be guided off 
-course quite easily by it. On wind-less days they rise easily to great altitudes and can remain steadily in place for 
-several hours.    
+__Figure 3__ shows a 2-meter wide polyethelene balloon filled with helium gas. It also employs a Picavet system similar to 
+the one shown with a kite from which it suspends a dual-camera system. The main difference between balloons and kites 
+is in how each flies. Depending on size and payload (i.e. the weight of the camera and suspension system) a kite requires 
+sustained wind to become airborne. Our main rig consists of a 12' Delta-style kite suspending nearly a pound of camera 
+and triggering gear. Getting our kite into the air requires a minimum sustained wind speed of about 8-10 mph. On the other hand 
+a helium balloon is sensitive to sustained winds and will be guided quickly off course by them. On wind-less days 
+a balloon rises easily to great altitude and will remain steady in place for hours.    
+
+in the air which is straight up unless a wind is pushing it elsewhere.
  
 ![](img/balloons.png)
 ###### Figure 3. A helium-filled balloon suspends a dual-camera system. 
 
-Balloons and kites are a practical tools where high-resolution imagery is required. When using balloons, weather conditions 
-are important to consider since winds may impact the flight plan. The caveat of never putting into the air anything you 
-aren't prepared to lose is especially relevant with a helium-filled balloon. If you lose control it will continue to ascend 
-and drift possibly into areas where it doesn't belong (i.e. into an airport's flight path). 
+We have found balloons and kites to be very practical and complimentary tools for aerial photography in agriculture. On windless days
+a helium balloon performs well while on a blustery day the kite is a better choice. In either case weather is paramount.
+The caveat of never putting into the air anything you aren't prepared to lose holds special meaning with a balloon. 
+If you lose control it will continue to ascend and drift possibly into areas where it doesn't belong (i.e. into an airport's flight path). 
 
 A more practical issue regarding helium-filled balloons is that the element itself is in short supply. In some areas of the 
 world use of helium is restricted to essential medical and research purposes only. A world-wide shortage of helium 
