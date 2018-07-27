@@ -1,4 +1,4 @@
-### Post-Processing Spectral Imagery
+### VII - Post-Processing Spectral Imagery
 
 #### Introduction
 
