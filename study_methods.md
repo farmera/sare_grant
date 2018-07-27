@@ -108,7 +108,7 @@ trends over time using low cost methods we decided to look at other methods.
 
 
 Whether one uses a kite, a balloon, a drone, or a pidgeon, once the images have been taken and the craft returned safely to ground,
-all images must be gathered and 'stitched' together to create a final representation of the area of interest. 
+all images must be gathered and 'stitched' to create a final representation of the area. 
 
 __Figure 3__ shows the result of stitching a dozen or so images from a balloon flight. This task is commonly 
 performed by software but here an application provided by the citizen science group 
