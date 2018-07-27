@@ -6,11 +6,11 @@
 * Chloroplasts cells contain chlorophyll which absorbs light, mainly in red and blue wavelengths.
 * Green light is absorbed less and is reflected away (that's why plants are green).
 
-While our study's purpose is to provide an assessment regarding use of aerial tools to determine the health 
-and productivity of sugar cane, before discussing whether a certain approach is valid or not, we should first understand 
-the basics of what such systems measure and how they achieve their results. As most learn in middle school, 
-photosynthesis is a process that plants use to synthesize sugar from carbon dioxide and water. 
+While our study's purpose is to provide an assessment regarding use of aerial tools for determining the health 
+and productivity of sugar cane, before discussing our approach, we first some basic principles of what such 
+systems measure and how they achieve their results. 
 
+As most learn in middle school, photosynthesis is the process that plants use to synthesize sugar from carbon dioxide and water. 
 The leaves of plants contain photosynthetic engines called chloroplasts. When sunlight hits these chloroplasts, which are 
 contained mainly in the leafy portions, the cells absorb the red and blue wavelengths while reflecting away 
 most others. Thus it is __filtered light__, along with water and carbon dioxide, that produces sugar for the plant and 
