@@ -5,16 +5,16 @@
 * Cameras in flight are inherently unstable.
 
 The history of taking photos from high-flying objects is long and storied, involving blimps, balloons, 
-parachutes and kites, pigeons and personal drones. All these and more have been set aloft with ingenious cameras 
+parachutes, kites, pigeons and personal drones. All these and more have been set aloft with ingenious cameras 
 attached and tools to trigger them either remotely or automatically. The French caricaturist Gaspard-Félix Tournachon (known as 'Nadar') 
 was first to fly and photograph the city of Paris from above in 1858.
 
 ![](img/nadar.png)
 ###### Figure 1. Gaspard-Félix Tournachon hangs on, makes history. 
 
-Whatever method is used the object remains the same: position camera[s] at sufficient height, point 
-them down (or as close to nadir as possible), get the shots, and return safely to the ground. None of the 
-methods discussed here performs ideally in all situations without error. 
+Whatever method is used the object remains the same: position the camera[s] at sufficient height, point 
+them down (as close to nadir as possible), get the shot, return safely to the ground. None of the 
+methods discussed in our report performs perfectly. 
 
 #### Kites
 * Kites are easy to understand.
@@ -22,14 +22,14 @@ methods discussed here performs ideally in all situations without error.
 
 The image in __Figure 2__ (courtesy of Ron Marcisak) shows a camera being suspended from a kite using a device 
 known as a Picavet (named for French inventor Pierre Picavet). The Picavet attaches the camera to the line that flies 
-the kite holding it more or less in place. The Picavet consists of a rigid cross suspended below the kite line from 
+the kite holding it more or less in place. A Picavet consists of a rigid cross suspended below the kite line from 
 two points and serves to stabilize the camera against random motion.
 
 ![](img/kite.png)
 ###### Figure 2. A camera system suspended via Picavet from a Delta-style kite. 
 
 Kites represent an easy and accessible solution to suspending cameras in flight and almost everyone has had some experience 
-in using them.  Given a strong and stable enough wind, a flying kite will remain suspended in the air for long periods without
+using them.  Given a strong and stable enough wind, a flying kite remains suspended in the air for long periods without
 attention. On the other hand, while a Picavet is good at orienting the angle of the camera roughly downwards, it won't 
 prevent the camera from being jostled during flight in the event of a change in wind speed or direction. The result may be 
 many blurried images mixed in with a few good captures. Kites are inherently fun and are great conversation starters.      
