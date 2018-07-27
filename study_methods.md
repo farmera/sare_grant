@@ -34,11 +34,11 @@ and kite methods are presented in [Section 8](study_results_balloons.md).
 
 #### Creating a Spectral Index 
 
-The steps to create a useful spectral index requires working knowledge of a host of input variables along with 
-an understanding of the external environment. Vegetation indices intend only to extract reflected light from 
-a crop but in practice many other variables such as soil moisture content, solar angle, camera sensitivity, nadir orientation, 
-and others can alter the final index value. The age of a crop itself - i.e. its 'architectural' 
-characteristic - may influence and alter an index.
+Creating a useful spectral index requires working knowledge of a host of input variables along with 
+understanding of the external environment. Vegetation indices intend to extract reflected light from 
+plants but in practice many other variables, soil moisture content, solar angle, camera sensitivity, and orientation, 
+may alter the final index value. The age of a crop itself - i.e. its 'architectural' 
+characteristic - can influence and alter an index.
 
 ![](img/ndvi_biology.png) 
 ###### Figure 1. Mechanics of Light Absorption in Plants
