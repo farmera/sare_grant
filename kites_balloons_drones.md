@@ -115,7 +115,7 @@ and become firmly established as a new norm in agriculture.
 
 #### Summary
 Small and large growers alike can benefit from the steep reduction in price and complexity of UAVs. With such 
-tools growers can acquire valuable forms of data as needed and suit these to their specific needs. [Kites, balloons, 
+tools growers can acquire valuable forms of data as needed and suit them to their specific need. [Kites, balloons, 
 single or dual camera systems are good for some things not good for others but they are a leveling force in technology
 that will allow smaller growers to compete more effectively.]
 
