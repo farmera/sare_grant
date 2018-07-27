@@ -82,8 +82,6 @@ Interpreting a spectral index starts with acquiring accurate aerial image data. 
     * The phrase 'sufficient spectral detail' will be unpacked but essentially means clear separation of the 
     individual bands of captured light.
  
-![](img/kite_image_fastie_lut.png)
-###### Figure 2. Low cost NDVI
 
 __Figure 2__ illustrates a typical NDVI result using a kite-suspension system with two consumer-grade cameras modified 
 for NDVI. The image in the center of the figure represents a color LUT (i.e. a look-up table) which is a table of 
@@ -92,6 +90,9 @@ otherwise would be impossible to see. In this image the LUT is prominently displ
 range of values has been captured by this image - from dry, sandy soils on the upper left (with an NDVI value of -1) to very active 
 areas of photosynthetic activity on the upper right. Also visible are regions of immature crop which are less 
 developed on the lower left when compared with the right. 
+ 
+![](img/kite_image_fastie_lut.png)
+###### Figure 2. Low cost NDVI
 
 An index image like this is a useful tool for identifying potential trouble spots in a developing crop. Later 
 on in the season a flight like this might quickly point out regions of the field that are underdeveloped or damaged. 
