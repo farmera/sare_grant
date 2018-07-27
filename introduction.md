@@ -22,8 +22,8 @@ in Louisiana, both from an economic and environmental perspective.
 
 #### Study Goals
 Methods currently employed to determine crop N status in sugarcane include visual inspection, tissue analysis, and 
-chlorophyll monitoring. Soil N analysis is also utilized to gauge N soil content, but the reliability of soil sampling 
-is inconclusive due to challenges associated monitoring soil nitrogen in the humid alluvial deltas of southern Louisiana.
+chlorophyll monitoring. Soil N analysis is also utilized to gauge soil nitrogen content, but the reliability of soil sampling 
+is inconclusive due to challenges associated monitoring nitrogen in the humid alluvial soils of southern Louisiana.
 
 #### The Value of Spectral Indices
 The Normative Difference Vegetation Index (NDVI) is a form of hyper-spectral imaging that collects and processes 
