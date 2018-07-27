@@ -68,10 +68,10 @@ demonstrated by the following graphic:
 ###### Figure 2.
 
 __Figure 2__ highlights the spectral characteristic of a generic consumer camera. What this graph shows is that the spectral 
-sensitivity of a consumer camera's sensor is not especially specific in each band, i.e. the bands overlap to a degree. In addition,
-each band is somewhat wide, for example the red and green bands are more than 100nm wide while the the blue is somewhat less so. 
-Consumer cameras are not designed to separate these bands which is perfectly fine in the context of taking pictures of kittens. When the intended goal is to provide separation between bands 
-(for purposes of quantifying values) it's not helpful. 
+sensitivity of a consumer camera's sensor is not especially specific to each band, i.e. the bands overlap to a degree. In addition,
+each band is fairly broad, for example the red and green bands are more than 100nm wide while the blue is somewhat less so. 
+Consumer cameras are not designed to separate these bands which is perfectly fine in the context of taking most pictures. 
+When the intended goal is to provide separation between bands (for purposes of quantifying values) it's not helpful. 
 
 #### Professional Multi-Spectral Cameras
 
