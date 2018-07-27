@@ -114,9 +114,10 @@ not a viable option unless one had very deep pockets and a background in aviatio
 and become firmly established as a new norm in agriculture.
 
 #### Summary
-Small and large growers alike can benefit from the steep reduction in price and complexity of these UAVs. With these 
+Small and large growers alike can benefit from the steep reduction in price and complexity of UAVs. With such 
 tools growers can acquire valuable forms of data as needed and suit these to their specific needs. [Kites, balloons, 
-single or dual camera systems are good for some things not good for others.]
+single or dual camera systems are good for some things not good for others but they are a leveling force in technology
+that will allow smaller growers to compete more effectively.]
 
 ###### References
 
