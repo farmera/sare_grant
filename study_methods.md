@@ -4,7 +4,8 @@
 
 This section provides a description of the various tools and methods used to generate and assess multi-spectral data in 
 sugar cane. We also describe some of the challenges faced in gathering such data. Throughout this study our objective 
-has been to test the viability of low-cost methods for acquiring and processing aerial multi-spectral data. 
+has been to test the viability of low-cost methods for acquiring and processing aerial multi-spectral data. The remote sensing 
+techniques used can provide timely and relatively accurate information for managing a sugarcane crop.
 
 Our primary goal was to determine to what extent low-cost aerial multi-spectral data can be correlated with variable 
 nitrogen (N) rates applied to sugarcane. NDVI is a popular vegetation index which has been shown to be effective in 

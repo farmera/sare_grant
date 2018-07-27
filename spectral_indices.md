@@ -16,8 +16,9 @@ common spectral index used in agriculture for gauging the health of plants is
  
 #### Calculating a Vegetation Index
 
-Calculating a VI requires conversion of an image or set of images into a set of  *rasters* - rectangular grids of 
-pixels or points of color. Each pixel contains a set of values corresponding to the captured bands of light. In familiar RGB 
+When light interacts with a sugarcane crop it is partly reflected and partly absorbed. The reflectance curve of a crop
+is a combination of the plant itself and the underlying soil. [fn] Calculating a VI requires conversion of an image or 
+set of images into a set of  *rasters* - rectangular grids of pixels or points of color. Each pixel contains a set of values corresponding to the captured bands of light. In familiar RGB 
 terms each pixel contains a Red, a Green and a Blue score. Such scores reflect the power, or luminosity, of electromagnetic 
 radiation for that particular band as it comes into contact with the pixel sensors of a digital camera. Most of the indices 
 used in this study make use of an inverse relationship between red and near infra-red reflectance values commonly associated 
@@ -80,8 +81,9 @@ this sort of issue by use of a masking technique discussed in [Section 9](readme
 #### When Choosing an Index
 
 #### Summary
+Remote sensing techniques provide timely, up-to-date and relatively accurate information for the management of sugarcane crop.
 Thus far we've discussed simple calculations applied to single image pixels. In practice, generating a vegetative index
-over an entire field or crop involves much more. In addition to separate individual bands as arrays we 
+over an crop involves much more. In addition to separate individual bands as arrays we 
 need to scale these sorts of manipulations up to potentially __millions and millions__ of pixels covering __hundreds 
 and hundreds__ of megabytes of image data.
 
@@ -94,5 +96,8 @@ tools exist to make these tasks accessible.
 ###### Gitelson, A., and M. Merzlyak. "Remote Sensing of Chlorophyll Concentration in Higher Plant Leaves." Advances in Space Research 22 (1998): 689-692.
 
 [TBD]
+
+###### GUYOT, G., 1990, Optical properties of vegetation canopies. In Application of Remote Sensing
+in Agriculture, M.
 
 ![](img/farmera.png) 
