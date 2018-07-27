@@ -29,10 +29,12 @@ two points.
 ###### Figure 2. A camera system suspended via Picavet from a Delta-style kite. 
 
 Kites represent an easy and accessible solution to suspending cameras in flight and almost everyone has had some experience 
-using them.  Given a strong and stable enough wind, a flying kite remains suspended in the air for long periods without
-attention. On the other hand, while Picavets are capable of orienting the angle of the camera roughly downwards, they don't 
-prevent a camera from being jostled about during flight. In the event of a change in wind speed or direction the result may be 
-many blurried images mixed in with a few good captures. Kites are inherently fun and are great conversation starters.      
+using them.  Given a strong and stable wind, a flying kite remains suspended in air for longer periods without
+much attention if it can be tied off to something. On the other hand, while Picavets are capable of orienting the angle 
+of the camera roughly downwards, they don't prevent camerax from being jostled about during flight. In the event of a 
+change in wind speed or direction the result may be many blurried images mixed in with a few good captures. Another 
+consideration is the amount of effort required to retrieve a high-flying kite when it's facing a stiff wind. A heavy pair of 
+leather gloves is recommended for kite flying. 
 
 
 #### Balloons
@@ -40,15 +42,13 @@ many blurried images mixed in with a few good captures. Kites are inherently fun
 * Balloons serve as an alternative to kites on windless days.
 * Helium is an expensive and non-renewable resource. 
 
-__Figure 3__ shows a 2-meter wide polyethelene balloon filled with helium gas. It also employs a Picavet system similar to 
-the one shown with a kite from which it suspends a dual-camera system. The main difference between balloons and kites 
-is in how each flies. Depending on size and payload (i.e. the weight of the camera and suspension system) a kite requires 
+__Figure 3__ shows a 2-meter wide polyethelene balloon filled with helium gas. It employs a Picavet system which it 
+suspends a dual-camera system similar to the one shown for the kite. The main difference between balloons and kites is 
+how each flies. Depending on size and payload (i.e. the weight of the camera and suspension system) a kite requires 
 sustained wind to become airborne. Our main rig consists of a 12' Delta-style kite suspending nearly a pound of camera 
-and triggering gear. Getting our kite into the air requires a minimum sustained wind speed of about 8-10 mph. On the other hand 
-a helium balloon is sensitive to sustained winds and will be guided quickly off course by them. On wind-less days 
-a balloon rises easily to great altitude and will remain steady in place for hours.    
-
-in the air which is straight up unless a wind is pushing it elsewhere.
+and triggering gear. Getting our kite into the air requires a minimum sustained wind speed of about 8-10 mph. On the other 
+hand a helium balloon is sensitive to sustained winds and will be guided quickly off course by them. On wind-less days a 
+balloon will rise easily to great altitude and remain steady in place for hours.    
  
 ![](img/balloons.png)
 ###### Figure 3. A helium-filled balloon suspends a dual-camera system. 
