@@ -11,9 +11,8 @@ and productivity of sugar cane, before discussing our approach, we first discuss
 systems measure and how they achieve their results. 
 
 As most learn in middle school, photosynthesis is the process that plants use to synthesize sugar from carbon dioxide and water. 
-The leaves of plants contain photosynthetic engines called chloroplasts. When sunlight hits these chloroplasts, which are 
-contained mainly in the leafy portions, the cells absorb the red and blue wavelengths while reflecting away 
-most others. Thus it is __filtered light__, along with water and carbon dioxide, that produces sugar for the plant and 
+The leaves of a plant contain photosynthetic engines called chloroplasts. When sunlight hits these cells they absorb the 
+red and blue wavelengths of light while reflecting away most of the others. Thus it is __filtered light__, along with water and carbon dioxide, that produces sugar for the plant and 
 oxygen for the environment.
 
 #### Green, Red and Near Infra Red (NIR)
