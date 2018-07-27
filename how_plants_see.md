@@ -1,4 +1,4 @@
-### Seen Through the Eyes of a Plant
+### Through the Eyes of a Plant
 
 #### Basic Plant Biology
 
