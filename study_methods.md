@@ -103,8 +103,10 @@ the exact height and vantage point of a image taken during a flight with a kite 
 conditions these images would be hard to precisely duplicate. Since one of our stated goals was to accurately determine crop 
 trends over time using low cost methods we decided to look at other methods.  
  
-
+![](img/pidgeon_camera.png)
 #### Resolving Images
+
+
 Whether one uses a kite, a balloon, a drone, or a pidgeon, once the images have been taken and the craft returned safely to ground,
 all images must be gathered and 'stitched' together to create a final representation of the area of interest. 
 
