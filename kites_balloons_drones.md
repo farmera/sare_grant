@@ -29,12 +29,12 @@ two points.
 ###### Figure 2. A camera system suspended via Picavet from a Delta-style kite. 
 
 Kites represent an easy and accessible solution to suspending cameras in flight and almost everyone has had some experience 
-using them.  Given a strong and stable wind, a flying kite remains suspended in air for longer periods without
-much attention if it can be tied off to something. On the other hand, while Picavets are capable of orienting the angle 
-of the camera roughly downwards, they don't prevent camerax from being jostled about during flight. In the event of a 
+with them.  Given a strong and stable enough wind, a flying kite will remain suspended in the air for long periods without
+attention if it is tied off to something. On the other hand, while Picavets are capable of orienting the angle 
+of a camera roughly down, they don't prevent cameras from being jostled about during flight. In the event of a 
 change in wind speed or direction the result may be many blurried images mixed in with a few good captures. Another 
-consideration is the amount of effort required to retrieve a high-flying kite when it's facing a stiff wind. A heavy pair of 
-leather gloves is recommended for kite flying. 
+consideration is the amount of effort required to retrieve a high-flying kite when it's facing a stiff wind. For kite flying
+a heavy pair of leather gloves is always recommended. 
 
 
 #### Balloons
