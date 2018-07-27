@@ -8,7 +8,7 @@ object.
 
 There are a [hundred different ways](https://www.indexdatabase.de/db/i.php) to create a spectral index, all sharing the 
 property of representing a *ratio* where bands of light are manipulated in the numerator or denominator of a simple mathematical 
-expression. Generating and interpreting a vegetation index (a VI is a spectral index applied to vegetation) provides 
+expression. Generating and interpreting a vegetation index (a spectral index applied to vegetation) provides 
 a reliable way to compare a plant's photosynthetic activity and structural variation over space and time. __[fn]__ A very 
 common spectral index used in agriculture for gauging the health of plants is an index known as 
 [NDVI](https://en.wikipedia.org/wiki/Normalized_difference_vegetation_index) ('Normalized Difference Vegetation Index'.) 
