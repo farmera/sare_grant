@@ -7,7 +7,7 @@
 * Green light is absorbed less and is reflected away (that's why plants are green).
 
 While our study's purpose is to provide an assessment regarding use of aerial tools for determining the health 
-and productivity of sugar cane, before discussing our approach, we first some basic principles of what such 
+and productivity of sugar cane, before discussing our approach, we first discuss basic principles of what such 
 systems measure and how they achieve their results. 
 
 As most learn in middle school, photosynthesis is the process that plants use to synthesize sugar from carbon dioxide and water. 
