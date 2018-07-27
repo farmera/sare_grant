@@ -4,27 +4,26 @@
 First introduced into Louisiana in 1751, sugarcane (_Saccharum officinarum_) is the highest valued row-crop in the state. 
 Its continuous production is an important historic and economic component of Louisiana's overall economy. While recent 
 decades have seen a drop in Louisiana sugarcane acreage, crop values have remained stable due to increases in sucrose 
-yield. Significant increases in yield are attributable to the addition of nitrogen (N) fertilizer.
+yield. Significant increases in yield are mainly attributable to the addition of nitrogen (N) fertilizer.
 
 ![](img/sugar_cane.png)
 ###### Figure 1.  Saccharum officinarum (Sugar Cane).
 
 #### Problem
-As gross tonnage of harvested sugarcane declines, sugarcane farmers in Louisiana are under pressure to boost operational 
+As the amount of harvested sugarcane declines, sugarcane growers in Louisiana are under pressure to boost operational 
 efficiency in order to sustain this economically vital crop. It is essential that producers apply new and proven technology 
 in order to mitigate the cost of production, maximize yield, and limit impact on the environment.
 
 #### Current Methods
-Intensive agricultural production systems, such as sugarcane, typically require higher nitrogen (N) rates to achieve 
-sufficient biomass and yield. Along with N rate optimization, N application timing is also an important consideration. 
+Intensive agricultural production systems, like sugarcane, typically require a higher input rate of nitrogen (N) to achieve 
+sufficient biomass and yield. Along with N rate optimization, the timing of N application is also an important consideration. 
 Development of effective and affordable N management systems is essential to maintain sustainable sugarcane agriculture 
 in Louisiana, both from an economic and environmental perspective.
 
 #### Study Goals
 Methods currently employed to determine crop N status in sugarcane include visual inspection, tissue analysis, and 
-chlorophyll meters. Soil N analysis is also utilized to gauge N soil content, but the reliability of soil sampling 
-techniques is inconclusive due to challenges associated with the nature of soil N - especially in the humid alluvial 
-soils of southern Louisiana.
+chlorophyll monitoring. Soil N analysis is also utilized to gauge N soil content, but the reliability of soil sampling 
+is inconclusive due to challenges associated monitoring soil nitrogen in the humid alluvial deltas of southern Louisiana.
 
 #### The Value of Spectral Indices
 The Normative Difference Vegetation Index (NDVI) is a form of hyper-spectral imaging that collects and processes 

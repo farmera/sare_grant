@@ -108,7 +108,7 @@ Here are some ways that aerial drone technology is being applied in agriculture:
     in crop health over time. 
     
 The goals of our study limits discussion to the last two categories (i.e. to monitoring and assessment of the health of a crop) 
-however these and many other developments like them have created a kind of revolution in agricultural science and practice. 
+however these and other developments like them have created a kind of revolution in agricultural science and practice. 
 When we began this study the autonomous drone was a mere figment, their use was limited and largely theoretical. UAVs were 
 not a viable option unless one had very deep pockets and a background in aviation. Since that time UAVs have quickly evolved 
 and become firmly established as a new norm in agriculture.
