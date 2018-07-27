@@ -16,14 +16,14 @@ in order to mitigate the cost of production, maximize yield, and limit impact on
 
 #### Current Methods
 Intensive agricultural production systems, like sugarcane, typically require a higher input rate of nitrogen (N) to achieve 
-sufficient biomass and yield. Along with N rate optimization, the timing of N application is also an important consideration. 
+sufficient biomass and yield. Along with N rate optimization, the timing of N application is also important. 
 Development of effective and affordable N management systems is essential to maintain sustainable sugarcane agriculture 
 in Louisiana, both from an economic and environmental perspective.
 
 #### Study Goals
 Methods currently employed to determine crop N status in sugarcane include visual inspection, tissue analysis, and 
 chlorophyll monitoring. Soil N analysis is also utilized to gauge soil nitrogen content, but the reliability of soil sampling 
-is inconclusive due to challenges associated monitoring nitrogen in the humid alluvial soils of southern Louisiana.
+is inconclusive due to challenges associated with monitoring nitrogen in the humid alluvial soils of southern Louisiana.
 
 #### The Value of Spectral Indices
 The Normative Difference Vegetation Index (NDVI) is a form of hyper-spectral imaging that collects and processes 
@@ -38,7 +38,7 @@ methods is their cost and complexity.
 Studies on Louisiana sugarcane growth have shown that remote sensing methods like NDVI are effective in predicting sucrose 
 yield in response to applied N fertilizer. Yet access to these technologies by farmers is limited; acquiring, processing 
 and interpreting such data is costly and time-consuming. While high resolution aerial imagery such as NDVI holds the 
-potential to improve operational efficiency, economic factors prevent their general adoption by Louisiana farmers.
+potential to improve operational efficiency, economic factors prevent their general adoption by Louisiana cane growers.
 
 High temporal and spatial resolution NDVI can provide a host of potential uses in agriculture: prescribing N fertilizer 
 amounts and estimating crop yield are two of the potential benefits to Louisiana sugarcane producers. Yet a 'chicken and egg' 
