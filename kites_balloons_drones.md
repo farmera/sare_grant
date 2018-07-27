@@ -63,7 +63,7 @@ A more practical concern regarding helium-filled balloons is that the element is
 world helium use is restricted only to essential medical and research purposes. Shortage in helium supplies has led 
 to a sharp rise in the cost of this lighter-than-air gas. One should consider this when deciding on helium 
 use for non-critical purposes. While helium is naturally released from fossil fuel production sites and may be captured 
-and stored, after use it escapes into space ultimately forever. 
+and stored, after use it eventually escapes into space forever. 
 
 
 #### Unmanned Aerial Vehicles (i.e. Drones)
