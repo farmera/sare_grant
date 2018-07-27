@@ -2,12 +2,12 @@
 
 #### What's A Vegetation Index?
 
-* A multi-spectral index is a mathematical expression relating two bands of light energy reflecting from an 
+* A multi-spectral index is a mathematical expression relating bands of light as they reflect from an 
 object.
 * Narrow bands of light reflect from particular objects in distinctive ways.
 
 There are a [hundred different ways](https://www.indexdatabase.de/db/i.php) to create a spectral index, all sharing the 
-common property of representing a *ratio*, where bands of light serve in the numerator or denominator of a simple mathematical 
+property of representing a *ratio* where bands of light are manipulated in the numerator or denominator of a simple mathematical 
 expression. A Vegetation Index (VI) is just a spectral index applied to vegetation. Generating and interpreting VIs provides 
 a reliable way to compare a plant's photosynthetic activity and structural variation over space and time. __[fn]__ A very 
 common spectral index used in agriculture for gauging the health of plants is an index known as 

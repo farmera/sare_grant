@@ -45,7 +45,7 @@ health while red demonstrates unhealth. Note that an unhealthy plant absorbs les
 and red parts of the spectrum while absorbing more (reflecting less) in the NIR portion.   
  
 
-#### Modified RGB Cameras
+#### Consumer RGB Cameras
 * Spectral bands collected by RGB cameras overlap. 
 * Spectral overlap leads to contaminated values.
 * Modified RGB cameras are difficult to calibrate.
