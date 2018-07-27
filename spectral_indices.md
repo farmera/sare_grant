@@ -16,8 +16,7 @@ common spectral index used in agriculture for gauging the health of plants is
  
 #### Calculating a Vegetation Index
 
-When light interacts with a sugarcane crop it is partly reflected and partly absorbed. The reflectance curve of a crop
-is a combination of the plant itself and the underlying soil. [fn] Calculating a VI requires conversion of an image or 
+Calculating a VI requires conversion of an image or 
 set of images into a set of  *rasters* - rectangular grids of pixels or points of color. Each pixel contains a set of values corresponding to the captured bands of light. In familiar RGB 
 terms each pixel contains a Red, a Green and a Blue score. Such scores reflect the power, or luminosity, of electromagnetic 
 radiation for that particular band as it comes into contact with the pixel sensors of a digital camera. Most of the indices 
@@ -78,7 +77,11 @@ this sort of issue by use of a masking technique discussed in [Section 9](readme
     * While a CIR Composite image is not strictly an index (it's a composite) it does 
 
 
-#### When Choosing an Index
+#### When Choosing an Index for Sugarcane
+
+When light interacts with a sugarcane crop it is partly reflected and partly absorbed. The reflectance curve of a crop
+is a combination of the plant itself and the underlying soil. Surprisingly, little specific research on how a sugarcane 
+canopy interacts with light is available, understanding the details of sugarcane spectral responses is lacking.
 
 #### Summary
 Remote sensing techniques provide timely, up-to-date and relatively accurate information for the management of sugarcane crop.
