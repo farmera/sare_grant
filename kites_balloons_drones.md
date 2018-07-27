@@ -22,16 +22,16 @@ methods discussed in our report performs perfectly.
 
 The image in __Figure 2__ (courtesy of Ron Marcisak) shows a camera being suspended from a kite using a device 
 known as a Picavet (named for French inventor Pierre Picavet). The Picavet attaches the camera to the line that flies 
-the kite holding it more or less in place. A Picavet consists of a rigid cross suspended below the kite line from 
-two points and serves to stabilize the camera against random motion.
+the kite and holds it more or less in place. A Picavet consists of a rigid cross suspended below the kite line from 
+two points.
 
 ![](img/kite.png)
 ###### Figure 2. A camera system suspended via Picavet from a Delta-style kite. 
 
 Kites represent an easy and accessible solution to suspending cameras in flight and almost everyone has had some experience 
 using them.  Given a strong and stable enough wind, a flying kite remains suspended in the air for long periods without
-attention. On the other hand, while a Picavet is good at orienting the angle of the camera roughly downwards, it won't 
-prevent the camera from being jostled during flight in the event of a change in wind speed or direction. The result may be 
+attention. On the other hand, while Picavets are capable of orienting the angle of the camera roughly downwards, they don't 
+prevent a camera from being jostled about during flight. In the event of a change in wind speed or direction the result may be 
 many blurried images mixed in with a few good captures. Kites are inherently fun and are great conversation starters.      
 
 
