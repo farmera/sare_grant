@@ -1,4 +1,4 @@
-### IV - Background on Methods
+### IV - Background on Goals and Methods
 
 #### Introduction
 
