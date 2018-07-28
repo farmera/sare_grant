@@ -1,4 +1,4 @@
-### III - Kites, Balloons, and Drones
+### 3 - Kites, Balloons, and Drones
 
 #### Aerial Photography
 * The goal in aerial data capture is to produce consistent, stable images.

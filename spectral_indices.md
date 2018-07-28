@@ -1,4 +1,4 @@
-### V - Varieties of Spectral Index
+### 5 - Varieties of Spectral Index
 
 #### What's A Vegetation Index?
 

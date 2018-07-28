@@ -1,10 +1,10 @@
-### IV - Background on Goals and Methods
+### 4 - Background on Goals and Methods
 
 #### Introduction
 
 This section provides a narrative description of the methods used to generate and assess multi-spectral data 
 during our project. It is not intended as a 'Methods and Materials' section as might be found in a traditional scientific  
-paper. In [Section VIII]() and [Section IX]() we go into greater detail regarding how the study site was prepared and what our final 
+paper. In [Section 8]() and [Section 9]() we go into greater detail regarding how the study site was prepared and what our final 
 results were. Here we set the stage for what follows and describe some of the challenges faced in gathering these data. Throughout this study 
 our objective has been to test the viability of low-cost methods for acquiring and processing aerial multi-spectral data. 
 
@@ -26,8 +26,8 @@ We asked two questions:
 [Section 3](kites_balloons_drones.md) discussed the various bands of reflected and captured light and how these 
 may be used to facilitate an understanding of crop health. In [Section 5]() we will consider in greater detail how 
 such principles allow us to manipulate the captured bands and reveal more interesting and specific patterns. 
-In this section we will focus on general principles which makes all of this possible. More detailed results from balloon 
-and kite methods are presented in [Section 8](study_results_balloons.md). 
+Here we focus on general principles which makes all of this possible. More detailed results from balloon 
+and kite methods are presented in [Section 8](study_results_balloons.md) and in [Section 9](study_results_drones.md). 
 
 #### Creating a Spectral Index 
 

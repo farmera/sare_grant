@@ -1,4 +1,4 @@
-### VIII - Results Using Balloons and Kites
+### 8 - Results Using Balloons and Kites
 
 #### Introduction
 
