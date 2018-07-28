@@ -23,7 +23,9 @@ package which bundles an incredible variety of plugins to facilitate scientific 
 
 To determine the height of a flight we carefully measured and marked the kite's flight line. This set of 
 captures was taken at a height of 150ft. Maintaining a steady altitude like this with a kite can be a challenge when the 
-wind is variable. Another issue is lack of accurate geotagging support in most consumer cameras. While most cameras support 
+wind is variable. 
+
+Another issue is lack of accurate geotagging support in most consumer cameras. While most cameras support 
 this feature, in practice we found it to be inconsistent as a reliable source of reference regarding the planar as well 
 as vertical positioning of the camera with respect to the field. A hand-held GPS device was used to create the ground
 control points but it was not always possible to use geotagging of each image to match a capture with positions on the 
