@@ -21,7 +21,7 @@ ability both to stitch a larger image together and to compare image sets over su
 process we used an open source software known as [Fiji](https://fiji.sc/). Fiji is an image processing 
 package which bundles an incredible variety of plugins to facilitate scientific image analysis.  
 
-To determine the height of a flight using a kite we carefully measured and marked the kite's flight line. This set of 
+To determine the height of a flight we carefully measured and marked the kite's flight line. This set of 
 captures was taken at a height of 150ft. Maintaining a steady altitude like this with a kite can be a challenge when the 
 wind is variable.
 
