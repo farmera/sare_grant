@@ -34,15 +34,16 @@ The mathematical expression used to create an NDVI index is as follows:
 __(NIR - Red) / (NIR + Red) =  NDVI__
 
 This expression says "subtract the red from the NIR band (in the numerator), add the same red band to the NIR 
-(in the denominator), find the quotient between the two." Assume that the amount of visible red light reflected from the tree on the left in __Figure 1__ is 8% and that the amount of NIR 
-reflected is 50%. In this case we'd have the following NDVI expression: 
+(in the denominator), find the quotient between the two." Assume that the amount of visible red light reflected from 
+the tree on the left in __Figure 1__ is 8% and that the amount of NIR reflected is 50%. In this case we'd have the 
+following NDVI expression: 
 
 1. (0.5 - 0.08)/(0.5 + 0.08) = 0.42/0.58 = __0.72__ 
 
-An NDVI value of 0.72 (on a scale of 0 to 1.0) indicates that the tree on the left is doing well. It's reflecting 8% of the red light away while absorbing 
-the remaining 92% for photosynthesis. It's also reflecting more than half of the harmful NIR light away. 
-This is a generic spectral pattern that we can use: _higher NDVI values correlate with healthier, more productive plants_. 
-Consider the same equation applied to the tree on the right: 
+An NDVI value of 0.72 (on a scale of 0 to 1.0) indicates that the tree on the left is doing well. It's reflecting 8% of 
+the red light away while absorbing the remaining 92% for photosynthesis. It's also reflecting more than half of the 
+harmful NIR light away. This is a generic spectral pattern that we can use: _higher NDVI values correlate with healthier, 
+more productive plants_. Consider the same equation applied to the tree on the right: 
   
 2. (0.4 - 0.3)/(0.4 + 0.3) = 0.1/0.7 = __0.14__ 
 
@@ -97,9 +98,6 @@ providing a quick overview of a crop but the results produced are often variable
 After an initial year of ups and downs using the systems originally proposed it became apparent that 
 for a small investment one could use an aerial drone instead. We were among the first 'beta-testers' to fly
 a 3DR Solo drone with a Sequoia camera.  
-
-![](img/pidgeon_camera.png)
-#### Image Resolution
 
 Whether one uses a kite, a balloon, a drone, or a pidgeon, once the images have been taken and the craft returned safely to ground,
 all images must be gathered and 'stitched' to create a final representation of the area. 

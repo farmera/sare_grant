@@ -65,3 +65,6 @@ Creating a useful spectral index requires working knowledge of a host of input v
 understanding of the external environment. Vegetation indices intend to extract reflected light from 
 plants but in practice many other variables, soil moisture content, solar angle, camera sensitivity, and orientation,  alter the final index value. The age of a crop itself - i.e. its 'architectural' 
 characteristic - can influence an index value.
+
+![](img/pidgeon_camera.png)
+#### Image Resolution
