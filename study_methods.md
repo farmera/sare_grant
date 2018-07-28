@@ -90,8 +90,6 @@ using these and similar methods.
 
 #### Consumer-grade versus Professional
 
-* The Spectral Sensitivity of Cameras
-
 ![](img/canon_s100.png)
 ###### Figure 5. A modified Canon S100 consumer camera.
 
