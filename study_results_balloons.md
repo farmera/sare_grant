@@ -12,6 +12,8 @@ by horse is now done in a pick-up truck.
 ![](img/kite_image_rgb.png)
 ###### Figure 1. RGB image captured with a Delta kite at height of 150ft. Ground control points (in yellow) are visible.
 
+#### Results
+
 With that sentiment in mind we discuss results obtained by experimenting with aerial photography using a kite or a balloon. 
 __Figure 3__ is a RGB composite stitched together 'by hand' with the help of ground control points (GCPs) 
 spray-painted into the field. Having GCPs in a set of images like this was critical to our 
