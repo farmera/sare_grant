@@ -22,9 +22,8 @@ of a size of 100 × 60 sq ft each and a total trial size of 2.75 acres.
 ###### Figure 1. Study Area. 
 
 We performed kite and drone flights over the study area during two successive growth seasons. The results presented are for the 
-second season only. In an area measuring roughly 1000 ft by 180 ft we randomly-selected 30 individual plots measuring 
-100 feet by 3 rows (roughly 60 ft each). The study area was flown and captured in two separate flights (for power consumption 
-reasons ). Calibration of the Sequoia camera was performed between each flight (see [Section 4](study_methods.md) for details). 
+2017 season only using the 3DR Solo drone. The study area was flown and captured over two separate flights (for power consumption 
+reasons) that overlapped in the center of the study area. Calibration of the Sequoia camera was performed between each flight (see [Section 4](study_methods.md) for details). 
 
 A primary advantage of the drone compared with other methods is the ability to pre-program an exact height (250ft) and range 
 prior to each flight. This advantage is clearly demonstrated in __Figure 2__ of the area taken from  'nadir' perspective. It shows 
