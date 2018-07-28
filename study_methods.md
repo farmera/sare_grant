@@ -10,12 +10,12 @@ our objective has been to test the viability of low-cost methods for acquiring a
 
 Our primary goal was to determine to what extent low-cost aerial multi-spectral data can be correlated with variable 
 nitrogen (N) rates applied to sugarcane. NDVI is a popular vegetation index which has been shown to be effective in 
-predicting crop yield potentials (YP) in wheat, sorghum and other plant species. Yet acquisition and interpretation 
+predicting crop yield potentials in other plant species. Yet acquisition and interpretation 
 of these data using traditional methods is expensive, error prone, and often beyond reach of most Louisiana sugar cane growers.
 
-The systems we proposed at the outset of our study were both affordable and accessible. How accurately they might correlate 
+The systems we proposed at the outset were both affordable and accessible. How accurately they might correlate 
 NDVI other vegetation indices to known nitrogen (N) rates was unknown. Over the course of our study a third option became 
-tenable (UAV's) and was explored in depth in the second year of the grant.
+tenable (UAV's) and was explored in depth.
 
 We asked two questions:
 
@@ -23,8 +23,8 @@ We asked two questions:
 
 * __Are models based on time-series analysis of acquired imagery predictive of sugarcane's yield potential?__
 
-[Section 3](kites_balloons_drones.md) discussed the various bands of reflected and captured light and how these 
-may be used to facilitate an understanding of crop health. In [Section 5]() we will consider in greater detail how 
+[Section 3](kites_balloons_drones.md) discusses the various bands of reflected and captured light and how these 
+may be used to facilitate an understanding of crop health. In [Section 5]() we consider in greater detail how 
 such principles allow us to manipulate the captured bands and reveal more interesting and specific patterns. 
 Here we focus on general principles which makes all of this possible. More detailed results from balloon 
 and kite methods are presented in [Section 8](study_results_balloons.md) and in [Section 9](study_results_drones.md). 
@@ -33,9 +33,8 @@ and kite methods are presented in [Section 8](study_results_balloons.md) and in 
 
 Creating a useful spectral index requires working knowledge of a host of input variables along with 
 understanding of the external environment. Vegetation indices intend to extract reflected light from 
-plants but in practice many other variables, soil moisture content, solar angle, camera sensitivity, and orientation, 
-may alter the final index value. The age of a crop itself - i.e. its 'architectural' 
-characteristic - can influence and alter an index.
+plants but in practice many other variables, soil moisture content, solar angle, camera sensitivity, and orientation,  alter the final index value. The age of a crop itself - i.e. its 'architectural' 
+characteristic - can influence an index value.
 
 ![](img/ndvi_biology.png) 
 ###### Figure 1. Mechanics of Light Absorption in Plants
