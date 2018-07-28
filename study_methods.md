@@ -33,7 +33,7 @@ to place the camera in steady position for sufficient periods was a determining 
 data would be meaningful for more than single point-in-time qualitative assessment. Likewise it became clear 
 that the ability to capture in the narrowest band possible, with minimum distortion, was likewise critical.
 
-Our primary goal was to determine to what extent low-cost aerial multi-spectral data can be correlated with variable 
+Our primary goal was to determine to what extent low-cost aerial multi-spectral data could be correlated with variable 
 nitrogen (N) rates applied to sugarcane. At the end of the first season we analyzed the data and came to the conclusion
 that the methods proposed would not work.  
 
