@@ -133,8 +133,7 @@ _gndvi_
 ![](img/gndvi/gndvi_all_spectral_data.png)
 _ndvi_
 ![](img/ndvi/ndvi_all_spectral_data.png)
-![](img/color_map_treatment.png)
-
+![](img/N_bar.png)
 
 ###### Figure 11. Regression 'facets' showing index values versus yield (April to November 2017).
 
