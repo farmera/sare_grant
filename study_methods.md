@@ -147,9 +147,6 @@ range of values has been captured by this image - from dry, sandy soils on the u
 areas of photosynthetic activity on the upper right. Also visible are regions of immature crop which are less 
 developed on the lower left when compared with the right. 
  
-![](img/kite_image_fastie_lut.png)
-###### Figure 2. Low cost NDVI
-
 An index image like this is a useful tool for identifying potential trouble spots in a developing crop. Later 
 on in the season a flight like this might quickly point out regions of the field that are underdeveloped or damaged. 
 While these results are certainly useful and can be achieved for a few hundred dollars and perhaps a 
@@ -159,6 +156,23 @@ the exact height and vantage point of a image taken during a flight with a kite 
 conditions these images would be hard to precisely duplicate. Since one of our stated goals was to accurately determine crop 
 trends over time using low cost methods we decided to look at other methods.  
  
+![](img/dual_camera.png)
+###### Figure x
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+
+![](img/kite_image_fastie_lut.png)
+###### Figure x
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+
+![](img/sequoia_sensor.png)
+###### Figure x
+
+![](img/drone_camera.png)
+###### Figure x
+
+
 #### Qualitative versus Quantitative Science.
 
 Qualitative Research is primarily exploratory research. It is used to gain an understanding of underlying reasons, opinions, and motivations. It provides insights into the problem or helps to develop ideas or hypotheses for potential quantitative research. Qualitative Research is also used to uncover trends in thought and opinions, and dive deeper into the problem. Qualitative data collection methods vary using unstructured or semi-structured techniques. Some common methods include focus groups (group discussions), individual interviews, and participation/observations. The sample size is typically small, and respondents are selected to fulfil a given quota.
