@@ -15,15 +15,15 @@ For the 2017 season, a single-factor field trial was laid out in a common random
 ![](img/study_area.png)
 ###### Figure 1. Study Area. 
 
-Five levels of nitrogen fertilization (0, 40, 80, 120 and 180 kg·N·ac−1) were applied in a setup with six replicates. This resulted in 30 plots 
-of a size of 100 × 60 sq ft each and a total trial size of 2.75 acres. 
+Five levels of nitrogen fertilization (0, 40, 80, 120 and 180 kg·N·ac−1) were applied in a setup with six replicates. 
+This resulted in 30 plots of size 100 × 60 sq ft each making a total trial size of 2.75 acres. 
 
 ![](img/SARE_GRID.png)
 ###### Figure 1. Study Area. 
 
 We performed kite and drone flights over the study area during two successive growth seasons. The results presented are for the 
-2017 season only using the 3DR Solo drone. The study area was flown and captured over two separate flights (for power consumption 
-reasons) that overlapped in the center of the study area. Calibration of the Sequoia camera was performed between each flight (see [Section 4](study_methods.md) for details). 
+2017 season using the 3DR Solo. The study area was flown and captured using the drone over two separate flights (for power consumption 
+reasons) where each overlapped in the center. Calibration of the Sequoia camera was performed between each flight (see [Section 4](study_methods.md) for details). 
 
 A primary advantage of the drone compared with other methods is the ability to pre-program an exact height (250ft) and range 
 prior to each flight. This advantage is clearly demonstrated in __Figure 2__ of the area taken from  'nadir' perspective. It shows 
