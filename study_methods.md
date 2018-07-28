@@ -18,6 +18,8 @@ We asked two questions:
 
 * __Are models based on time-series analysis of acquired imagery predictive of sugarcane's yield potential?__
 
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+
 Creating a useful spectral index requires working knowledge of a host of input variables along with 
 understanding of the external environment. Vegetation indices intend to extract reflected light from 
 plants but in practice many other variables, soil moisture content, solar angle, camera sensitivity, and orientation,  alter the final index value. The age of a crop itself - i.e. its 'architectural' 
