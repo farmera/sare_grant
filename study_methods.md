@@ -34,7 +34,11 @@ data would be meaningful for more than single point-in-time qualitative assessme
 that the ability to capture in the narrowest band possible, with minimum distortion, was likewise critical.
 
 Our primary goal was to determine to what extent low-cost aerial multi-spectral data can be correlated with variable 
-nitrogen (N) rates applied to sugarcane. NDVI is a popular vegetation index which has been shown to be effective in 
+nitrogen (N) rates applied to sugarcane. At the end of the first growth season we analyzed our data and came to the realization
+that the methods proposed would not work to do this. 
+
+
+NDVI is a popular vegetation index which has been shown to be effective in 
 predicting crop yield potentials in other plant species. 
 
 The mathematical expression used to create an NDVI index is as follows:
