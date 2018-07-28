@@ -10,12 +10,13 @@ Once planted, a stand of sugar cane may be harvested up to four times in as many
 and after each harvest the cane remaining in the ground sends up new shoots. While successive harvests give decreasing 
 yields, the crop used in this study (a second-year 'stubble') is an ideal 'nitrogen-absorber' and was thus well-suited. 
 
-For the 2017 season, a single-factor field trial was laid out in a common randomized split-plot design on 27 May 2013. Five levels of nitrogen 
-fertilization (0, 40, 80, 120 and 180 kg·N·ac−1) were applied in a setup with six replicates. This resulted in 30 plots 
-of a size of 100 × 60 sq ft each and a total trial size of 2.75 acres. 
+For the 2017 season, a single-factor field trial was laid out in a common randomized split-plot design on 19 April 2017. 
 	
 ![](img/study_area.png)
 ###### Figure 1. Study Area. 
+
+Five levels of nitrogen fertilization (0, 40, 80, 120 and 180 kg·N·ac−1) were applied in a setup with six replicates. This resulted in 30 plots 
+of a size of 100 × 60 sq ft each and a total trial size of 2.75 acres. 
 
 ![](img/SARE_GRID.png)
 ###### Figure 1. Study Area. 
