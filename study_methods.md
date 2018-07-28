@@ -19,7 +19,7 @@ type of camera used to gather the image data:
 
 We understood from the outset that the second question was less likely to be addressed unless the data captured was 
 of sufficient quality. The first question was the primary one, and was answerable, we thought, regardless of data capture method.
-It turns out we were wrong in this assumption. Neither of these questions may be answered conclusively using the sort of 
+It turns out we were wrong in this assumption. Neither of these questions were answered conclusively using the sort of 
 flight and image capture system originally proposed for the study. The specific reasons will be addressed in detail 
 but in brief they are two-fold: a) neither kite nor balloon are able to place a camera in the right position for sufficient 
 time, under conditions which are sufficiently stable, such that results from one flight may be compared with results from 
