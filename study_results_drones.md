@@ -104,7 +104,7 @@ the ultimate sucrose yield for that section occurred.
 ![](img/ndvi/ndvi_winner.png)
 ![](img/N_bar.png)
 
-###### Figure 8.
+###### Figure 8. foo bar foo bar foo bar foo bar foo bar foo bar foo bar foo bar foo bar 
 
 The graph in Figure [x] above shows NDVI values during the first month of the growing season, from late April, 2017 
 (one week following application of N fertilizer) to late May.
