@@ -6,8 +6,7 @@ This section provides a narrative description of the methods used to generate an
 during our project. It is not intended as a 'Methods and Materials' section as might be found in a traditional scientific  
 paper. In [Section VIII]() and [Section IX]() we go into greater detail regarding how the study site was prepared and what our final 
 results were. Here we set the stage for what follows and describe some of the challenges faced in gathering these data. Throughout this study 
-our objective has been to test the viability of low-cost methods for acquiring and processing aerial multi-spectral data. The remote sensing 
-techniques used here can provide timely and meaningful information for managing a sugarcane crop.
+our objective has been to test the viability of low-cost methods for acquiring and processing aerial multi-spectral data. 
 
 Our primary goal was to determine to what extent low-cost aerial multi-spectral data can be correlated with variable 
 nitrogen (N) rates applied to sugarcane. NDVI is a popular vegetation index which has been shown to be effective in 
@@ -198,6 +197,8 @@ Qualitative Research is primarily exploratory research. It is used to gain an un
 
 Quantitative Research is used to quantify the problem by way of generating numerical data or data that can be transformed into usable statistics. It is used to quantify attitudes, opinions, behaviors, and other defined variables – and generalize results from a larger sample population. Quantitative Research uses measurable data to formulate facts and uncover patterns in research. Quantitative data collection methods are much more structured than Qualitative data collection methods. Quantitative data collection methods include various forms of surveys – online surveys, paper surveys, mobile surveys and kiosk surveys, face-to-face interviews, telephone interviews, longitudinal studies, website interceptors, online polls, and systematic observations.
 #### Summary
+
+The remote sensing techniques used here can provide timely and meaningful information for managing a sugarcane crop.
 
 It became apparent during our study that the ability to place a camera in a relatively steady position for sufficient 
 periods of time was a determining factor in whether or not our data would be meaningful for more than a qualitative assessment
