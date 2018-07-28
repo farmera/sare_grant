@@ -25,7 +25,8 @@ understanding of the external environment. Vegetation indices intend to extract 
 plants but in practice many other variables, soil moisture content, solar angle, camera sensitivity, and orientation,  alter the final index value. The age of a crop itself - i.e. its 'architectural' 
 characteristic - can influence an index value.
 
-It became apparent during our study that the ability to place a camera in a relatively steady position for sufficient 
+An effective spectral index is built in stages by capturing the right kind of light, at the right time of day,
+during the right part of the season, under good weather conditions. During our study it became apparent during our study that the ability to place a camera in a relatively steady position for sufficient 
 periods of time was a determining factor in whether or not our data would be meaningful for more than a qualitative assessment
 at a single point in time. Likewise it became clear that the ability to capture in the narrow band, with minimum distortion, 
 was critical.
@@ -33,8 +34,6 @@ was critical.
 ![](img/ndvi_biology.png) 
 ###### Figure 1. Mechanics of light absorption in plants
 
-Creating an effective spectral index means capturing the right kind of light, at the right time of day,
-during the right part of the season, under good weather conditions. 
 
 Our primary goal was to determine to what extent low-cost aerial multi-spectral data can be correlated with variable 
 nitrogen (N) rates applied to sugarcane. NDVI is a popular vegetation index which has been shown to be effective in 
