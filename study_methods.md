@@ -28,10 +28,10 @@ but the internal image format of a consumer camera (jpeg) does not permit the so
 to quantitatively compare one day's flight with another.        
 
 An effective spectral index is built in stages by capturing the right kind of light, at the right time of day,
-during the right part of the season, under good weather conditions. During our study it became apparent that the ability to place a camera in a relatively steady position for sufficient 
-periods of time was a determining factor in whether or not our data would be meaningful for more than a qualitative assessment
-at a single point in time. Likewise it became clear that the ability to capture in the narrow band, with minimum distortion, 
-was critical.
+during the right part of the season, under good weather conditions. During our study it became apparent that the ability 
+to place the camera in a relatively steady position for sufficient periods was a determining factor in whether or not our 
+data would be meaningful for anything more than single point-in-time qualitative assessments. Likewise it became clear 
+that the ability to capture in the narrowest band possible, with minimum distortion, was likewise critical.
 
 Our primary goal was to determine to what extent low-cost aerial multi-spectral data can be correlated with variable 
 nitrogen (N) rates applied to sugarcane. NDVI is a popular vegetation index which has been shown to be effective in 
