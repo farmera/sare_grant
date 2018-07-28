@@ -25,9 +25,9 @@ Sugarcane growth was monitored at 6, 21, 36, 100, 147, and 208 days following N 
 the experimental plots were harvested to provide estimates of agricultural yield. The yield was measured following manual 
 harvesting and weighing by means of load cells.
 
-We performed kite and drone flights over the study area during two successive growth seasons. The results presented are for the 
-2017 season flying the 3DR Solo drone only. The study area was flown and captured over two separate flights (for power consumption 
-reasons) where each flight overlapped in the center of the field. Calibration of the Sequoia camera was performed between each flight. 
+We performed drone flights over the study area during the 2017 growth season. The study area was flown and captured over 
+two separate flights (for power consumption reasons) where each flight overlapped in the center of the field. Calibration 
+of the Sequoia camera was performed between each flight. 
 
 A primary advantage of the drone compared with other methods is the ability to pre-program an exact height (250ft) and range 
 prior to each flight. This advantage is clearly demonstrated in __Figure 2__ of the area taken from  'nadir' perspective. It shows 
