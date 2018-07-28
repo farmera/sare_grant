@@ -31,10 +31,6 @@ periods of time was a determining factor in whether or not our data would be mea
 at a single point in time. Likewise it became clear that the ability to capture in the narrow band, with minimum distortion, 
 was critical.
 
-![](img/ndvi_biology.png) 
-###### Figure 1. Mechanics of light absorption in plants
-
-
 Our primary goal was to determine to what extent low-cost aerial multi-spectral data can be correlated with variable 
 nitrogen (N) rates applied to sugarcane. NDVI is a popular vegetation index which has been shown to be effective in 
 predicting crop yield potentials in other plant species. 

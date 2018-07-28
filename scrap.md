@@ -53,3 +53,7 @@ Center wavelength and bandwidth specs for the Sequoia camera are:
 | Red       |           660          |       40       |
 | Red Edge  |           735          |       10       |
 | Near IR   |           790          |       40       |
+
+
+![](img/ndvi_biology.png) 
+###### Figure 1. Mechanics of light absorption in plants
