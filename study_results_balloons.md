@@ -10,11 +10,13 @@ scouting has existed as long as farming has and its methods have changed very li
 by horse is now done in a pick-up truck. 
 
 ![](img/kite_image_rgb.png)
-###### Figure 1. RGB image captured with a Delta kite at height of 150ft. Ground control points are visible as yellow 'x').
+###### Figure 1. RGB image captured with a Delta kite at height of 150ft. Ground control points (in yellow) are visible.
 
 With that sentiment in mind we discuss results obtained by experimenting with aerial photography using a kite or a balloon. 
-__Figure 3__ is an NDVI index derived from RGB and NIR imagesets using a pair of modified consumer cameras. It was taken 
-from a height of about 150 ft early in the growth season  
+__Figure 3__ is a RGB composite stitched together 'by hand' with the help of ground control points (GCPs) 
+spray-painted into the ground. Having GCPs in a set of images was critical to our 
+ability both to stitch a larger image together and to compare image sets over successive days. To support this
+process we used an open source software package known as [Fiji](https://fiji.sc/).  
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
 
