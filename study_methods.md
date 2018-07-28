@@ -39,8 +39,7 @@ during the right part of the season, under good weather conditions.
 
 Our primary goal was to determine to what extent low-cost aerial multi-spectral data can be correlated with variable 
 nitrogen (N) rates applied to sugarcane. NDVI is a popular vegetation index which has been shown to be effective in 
-predicting crop yield potentials in other plant species. Yet acquisition and interpretation 
-of these data using traditional methods is expensive, error prone, and often beyond reach of most Louisiana sugar cane growers.
+predicting crop yield potentials in other plant species. 
 
 The mathematical expression used to create an NDVI index is as follows:
 

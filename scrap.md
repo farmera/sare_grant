@@ -40,3 +40,6 @@ We will describe elsewhere the importance of calibration in NDVI photography alo
 
 All indices are “normalized” by measuring sun energy for each measurement, taking into account sun angle and cloud cover.  
 This allows “apples-to-apples” comparison throughout the season, and season-to-season.
+
+Yet acquisition and interpretation 
+of these data using traditional methods is expensive, error prone, and often beyond reach of most Louisiana sugar cane growers.
