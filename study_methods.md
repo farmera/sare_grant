@@ -15,6 +15,8 @@ type of camera used to gather the image data:
 
 * __Are models based on time-series analysis of acquired imagery predictive of sugarcane's yield potential?__
 
+#### Disclaimer
+
 We understood from the outset that the second question was less likely to be addressed unless the data captured was 
 of sufficient quality. The first question was the primary one, and was answerable, we thought, regardless of data capture method.
 It turns out we were wrong in this assumption. Neither of these questions may be answered conclusively using the sort of 
