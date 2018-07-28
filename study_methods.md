@@ -89,9 +89,6 @@ difference vegetation index' __NDVI__ image which has been created using the pai
 [Section 9](study_results_drones.md) we will take a closer look at results obtained when
 using these and similar methods. 
 
-![](img/solo_camera_mount.png)
-###### Figure 7. Sequoia camera (bottom left) with power supply (right) and Sun sensor (top) attached to the 3DR Solo. 
-
 After an initial year of ups and downs using the systems originally proposed it became apparent that 
 for a small investment one could use an aerial drone instead. We were among the first 'beta-testers' to fly
 a 3DR Solo drone with a Sequoia camera.  
