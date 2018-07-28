@@ -43,3 +43,13 @@ This allows “apples-to-apples” comparison throughout the season, and season-
 
 Yet acquisition and interpretation 
 of these data using traditional methods is expensive, error prone, and often beyond reach of most Louisiana sugar cane growers.
+
+Center wavelength and bandwidth specs for the Sequoia camera are: 
+
+
+| Band Name | Center Wavelength (nm) | Bandwidth (nm) |
+|-----------|:----------------------:|:--------------:|
+| Green     |           550          |       40       |
+| Red       |           660          |       40       |
+| Red Edge  |           735          |       10       |
+| Near IR   |           790          |       40       |

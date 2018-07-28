@@ -10,7 +10,7 @@ our objective has been to test the viability of low-cost methods for acquiring a
 
 The systems we proposed at the outset were both affordable and accessible. How accurately they might correlate 
 NDVI other vegetation indices to known nitrogen (N) rates was unknown. Over the course of our study a third option became 
-tenable (UAV's) and was explored in depth.
+tenable (UAV's) and was explored in depth. 
 
 We asked two questions:
 
@@ -18,18 +18,17 @@ We asked two questions:
 
 * __Are models based on time-series analysis of acquired imagery predictive of sugarcane's yield potential?__
 
-[Section 3](kites_balloons_drones.md) discusses the various bands of reflected and captured light and how these 
-may be used to facilitate an understanding of crop health. In [Section 5]() we consider in greater detail how 
-such principles allow us to manipulate the captured bands and reveal more interesting and specific patterns. 
-Here we focus on general principles which makes all of this possible. More detailed results from balloon 
-and kite methods are presented in [Section 8](study_results_balloons.md) and in [Section 9](study_results_drones.md). 
-
 #### Creating a Spectral Index 
 
 Creating a useful spectral index requires working knowledge of a host of input variables along with 
 understanding of the external environment. Vegetation indices intend to extract reflected light from 
 plants but in practice many other variables, soil moisture content, solar angle, camera sensitivity, and orientation,  alter the final index value. The age of a crop itself - i.e. its 'architectural' 
 characteristic - can influence an index value.
+
+It became apparent during our study that the ability to place a camera in a relatively steady position for sufficient 
+periods of time was a determining factor in whether or not our data would be meaningful for more than a qualitative assessment
+at a single point in time. Likewise it became clear that the ability to capture in the narrow band, with minimum distortion, 
+was critical.
 
 ![](img/ndvi_biology.png) 
 ###### Figure 1. Mechanics of light absorption in plants
@@ -110,16 +109,6 @@ After an initial year of ups and downs using the systems originally proposed it 
 for a small investment one could use an aerial drone instead. We were among the first 'beta-testers' to fly
 a 3DR Solo drone with a Sequoia camera.  
 
-Center wavelength and bandwidth specs for the Sequoia camera are: 
-
-
-| Band Name | Center Wavelength (nm) | Bandwidth (nm) |
-|-----------|:----------------------:|:--------------:|
-| Green     |           550          |       40       |
-| Red       |           660          |       40       |
-| Red Edge  |           735          |       10       |
-| Near IR   |           790          |       40       |
-
 ![](img/pidgeon_camera.png)
 #### Image Resolution
 
@@ -193,12 +182,11 @@ Qualitative Research is primarily exploratory research. It is used to gain an un
 Quantitative Research is used to quantify the problem by way of generating numerical data or data that can be transformed into usable statistics. It is used to quantify attitudes, opinions, behaviors, and other defined variables – and generalize results from a larger sample population. Quantitative Research uses measurable data to formulate facts and uncover patterns in research. Quantitative data collection methods are much more structured than Qualitative data collection methods. Quantitative data collection methods include various forms of surveys – online surveys, paper surveys, mobile surveys and kiosk surveys, face-to-face interviews, telephone interviews, longitudinal studies, website interceptors, online polls, and systematic observations.
 #### Summary
 
-The remote sensing techniques used here can provide timely and meaningful information for managing a sugarcane crop.
-
-It became apparent during our study that the ability to place a camera in a relatively steady position for sufficient 
-periods of time was a determining factor in whether or not our data would be meaningful for more than a qualitative assessment
-at a single point in time. Likewise it became clear that the ability to capture in the narrow band, with minimum distortion, 
-was critical. 
+[Section 3](kites_balloons_drones.md) discusses the various bands of reflected and captured light and how these 
+may be used to facilitate an understanding of crop health. In [Section 5]() we consider in greater detail how 
+such principles allow us to manipulate the captured bands and reveal more interesting and specific patterns. 
+Here we focus on general principles which makes all of this possible. More detailed results from balloon 
+and kite methods are presented in [Section 8](study_results_balloons.md) and in [Section 9](study_results_drones.md). 
 
 Various flying methods, while interesting in themselves, are only a means to the end of placing a camera into 
 position in order to capture the right light at the right time of day. Before venturing into the core methods used 
