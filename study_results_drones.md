@@ -21,7 +21,7 @@ This resulted in 30 plots of size 100 × 60 sq ft each making a total trial size
 ![](img/SARE_GRID.png)
 ###### Figure 1. Study Area. 
 
-Sugarcane growth was monitored at 6, 21, 36, 100, 147, and 208 Days following N treatment. At 216 following N treatment, 
+Sugarcane growth was monitored at 6, 21, 36, 100, 147, and 208 days following N treatment. At 216 days following treatment, 
 the experimental plots were harvested to provide estimates of agricultural yield. The yield was measured following manual 
 harvesting and weighing by means of load cells.
 
