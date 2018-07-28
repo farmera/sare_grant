@@ -26,7 +26,7 @@ plants but in practice many other variables, soil moisture content, solar angle,
 characteristic - can influence an index value.
 
 An effective spectral index is built in stages by capturing the right kind of light, at the right time of day,
-during the right part of the season, under good weather conditions. During our study it became apparent during our study that the ability to place a camera in a relatively steady position for sufficient 
+during the right part of the season, under good weather conditions. During our study it became apparent that the ability to place a camera in a relatively steady position for sufficient 
 periods of time was a determining factor in whether or not our data would be meaningful for more than a qualitative assessment
 at a single point in time. Likewise it became clear that the ability to capture in the narrow band, with minimum distortion, 
 was critical.
