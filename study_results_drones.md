@@ -4,7 +4,7 @@
 
 * An area of second-year 'stubble' cane measuring 1000 ft by 180 ft was dedicated during the 2017 year.
 * A series of random sections were laid out within this area and treated with variable amounts of N fertilizer. 
-* An aerial drone (described in [Section 4](study_methods.md)) was flown and captured the image data during the 2017 season.  
+* An aerial drone (described in [Section 4](study_methods.md)) was flown and captured the image data.  
 
 Once planted, a stand of sugar cane may be harvested up to four times in as many seasons. A season runs about 9 months 
 and after each harvest the cane remaining in the ground sends up new shoots. While successive harvests give decreasing 
@@ -22,8 +22,8 @@ This resulted in 30 plots of size 100 × 60 sq ft each making a total trial size
 ###### Figure 1. Study Area. 
 
 We performed kite and drone flights over the study area during two successive growth seasons. The results presented are for the 
-2017 season using the 3DR Solo. The study area was flown and captured using the drone over two separate flights (for power consumption 
-reasons) where each overlapped in the center. Calibration of the Sequoia camera was performed between each flight (see [Section 4](study_methods.md) for details). 
+2017 season using the 3DR Solo drone. The study area was flown and captured using over two separate flights (for power consumption 
+reasons) where each flight overlapped in the center of the field. Calibration of the Sequoia camera was performed between each flight. 
 
 A primary advantage of the drone compared with other methods is the ability to pre-program an exact height (250ft) and range 
 prior to each flight. This advantage is clearly demonstrated in __Figure 2__ of the area taken from  'nadir' perspective. It shows 
@@ -36,20 +36,19 @@ outshines the other aerial methods used.
 #### Section II
 
 * After pre-processing, each flight yields a single composite image.
-* The composite is divided into thirty individual section images.  
-* Each section was analyzed in terms of four spectral indices: NDVI, 'corrected' NDVI, 'green' NDVI, and NDRE.
-* Statistical analyses were performed on the section images. 
+* The composite image was segmented by an automated process into the thirty individual sections.  
+* Statistical analyses was performed on each section in terms of four spectral indices.
 
 To capture the study area each drone flight yielded roughly 1200-1500 geotiff images using the [Sequoia camera]() representing 
-four narrow bands of light, plus a standard RGB image. The raw single band images are layered to produce from 300-350 composite images 
-which are then stitched together into a single master geotiff containing all four bands (not RGB). The process of 
+four narrow bands of light, plus an RGB image. The raw single band images are layered to produce from 300-350 composite images 
+which were then stitched together into a single master geotiff containing all four bands (minus RGB). The process of 
 stitching together geo-coded images is referred to as 'geo-mosaicing'. Mosaicing allows for accurately acquiring image 
 data and then projecting those data onto a map. The mosaicing process is facilitated by highly-accurate latitude and 
 longitude tags which are embedded into each image captured by the camera. This allows us to create a much larger image 
 containing a much broader field of view. 
 
 ![](img/NGR_highlight.png)
-###### Figure 3. Sections in a NRG composite image.   
+###### Figure 3. A detail of two treatment sections as a CIR composite image.   
 
 As mentioned, the composite image contains geotags which form part of the image's metadata. One of the challenges of 
 precision mapping is to correctly match a partial image - which may have been distorted in the process of capture - with an 
@@ -61,7 +60,7 @@ and referenced from a known surveyor's benchmark. The GCP is located in the righ
 the intersection of two white lines.     
 
 ![](img/NGR_SARE-Cropped.png)
-###### Figure 4. Section grids in a composite NRG image.   
+###### Figure 4. Section grids in a CIR composite.   
 
 _Figure 4_ shows results of a flight which occurred on July 28, 2017. This image has been rendered as an NRG 
 for practical reasons since the original raw geotiff from which it was produced is not easily visualized. The image clearly 
