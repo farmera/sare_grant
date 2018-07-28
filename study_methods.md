@@ -8,11 +8,6 @@ paper. In [Section 8]() and [Section 9]() we go into greater detail regarding ho
 results were. Here we set the stage for what follows and describe some of the challenges faced in gathering these data. Throughout this study 
 our objective has been to test the viability of low-cost methods for acquiring and processing aerial multi-spectral data. 
 
-Our primary goal was to determine to what extent low-cost aerial multi-spectral data can be correlated with variable 
-nitrogen (N) rates applied to sugarcane. NDVI is a popular vegetation index which has been shown to be effective in 
-predicting crop yield potentials in other plant species. Yet acquisition and interpretation 
-of these data using traditional methods is expensive, error prone, and often beyond reach of most Louisiana sugar cane growers.
-
 The systems we proposed at the outset were both affordable and accessible. How accurately they might correlate 
 NDVI other vegetation indices to known nitrogen (N) rates was unknown. Over the course of our study a third option became 
 tenable (UAV's) and was explored in depth.
@@ -40,9 +35,14 @@ characteristic - can influence an index value.
 ###### Figure 1. Mechanics of Light Absorption in Plants
 
 Creating an effective spectral index means capturing the right kind of light, at the right time of day,
-during the right part of the season, under good weather conditions. In [Section 3](kites_balloons_drones.md) we learned about a set of images that were captured using a pair of consumer cameras. These were later processed to produce both an NRG
-image along with a final index image, known as an NDVI index. The mathematical expression used to create an NDVI index 
-is as follows:
+during the right part of the season, under good weather conditions. 
+
+Our primary goal was to determine to what extent low-cost aerial multi-spectral data can be correlated with variable 
+nitrogen (N) rates applied to sugarcane. NDVI is a popular vegetation index which has been shown to be effective in 
+predicting crop yield potentials in other plant species. Yet acquisition and interpretation 
+of these data using traditional methods is expensive, error prone, and often beyond reach of most Louisiana sugar cane growers.
+
+The mathematical expression used to create an NDVI index is as follows:
 
 __(NIR - Red) / (NIR + Red) =  NDVI__
 
