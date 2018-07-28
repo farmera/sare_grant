@@ -114,7 +114,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 ![](img/ndvi/ndvi_one2three.png)
 ![](img/ndvi/ndvi_four2six.png)
-![](img/color_map_treatment.png)
+![](img/N_bar.png)
 
 ###### Figure 9.
 
