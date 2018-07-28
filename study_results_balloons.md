@@ -12,7 +12,7 @@ by horse is now done in a pick-up truck.
 ![](img/kite_image_rgb.png)
 ###### Figure 1. RGB image captured with a Delta kite at height of 150ft. Ground control points (in yellow) are visible.
 
-#### Image capture and preparation.
+#### Image capture and preparation
 
 With that sentiment in mind we discuss results obtained by experimenting with aerial photography using a kite or a balloon. 
 __Figure 3__ is a RGB composite stitched together 'by hand' with the help of ground control points (GCPs) 
@@ -65,6 +65,11 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
 
 #### Summary
+
+Early in the project we experimented with various capture systems (automatically-triggered cameras) and suspension methods 
+using kites and balloons. The central challenge of an aerial system based on wind alone is variability in the 
+control of height and nadir positioning of the camera. Wind can impact the performance of a balloon during flight. 
+Additional factors to consider are payload weight and total flight time. 
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
 

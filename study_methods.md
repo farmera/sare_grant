@@ -1,4 +1,4 @@
-### IV - Goals and Methods
+### IV - Background on Methods
 
 #### Introduction
 
@@ -22,11 +22,6 @@ We asked two questions:
 * __To what degree do variable nitrogen (N) rates applied to sugarcane correlate with low-cost NDVI measurements?__
 
 * __Are models based on time-series analysis of acquired imagery predictive of sugarcane's yield potential?__
-
-Early in the project we experimented with various capture systems (automatically-triggered cameras) and suspension methods 
-using kites and balloons. The central challenge of an aerial system based on wind alone is variability in the 
-control of height and nadir positioning of the camera. Wind can impact the performance of a balloon during flight. 
-Additional factors to consider are payload weight and total flight time. 
 
 [Section 3](kites_balloons_drones.md) discussed the various bands of reflected and captured light and how these 
 may be used to facilitate an understanding of crop health. In [Section 5]() we will consider in greater detail how 
