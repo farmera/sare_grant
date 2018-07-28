@@ -89,21 +89,6 @@ difference vegetation index' __NDVI__ image which has been created using the pai
 [Section 9](study_results_drones.md) we will take a closer look at results obtained when
 using these and similar methods. 
 
-#### Professional versus consumer-grade
-
-![](img/canon_s100.png)
-###### Figure 5. A modified Canon S100 consumer camera.
-
-For agricultural purposes, the broadband sensors contained in a modified camera such as the Canon s100 in __Figure 1__ are 
-suited to qualitative 'big picture' views of a crop's current status. However, the information provided by such cameras
-is limited and does not permit detailed analysis of a crop over time.
-
-![](img/kite_mount.png)
-###### Figure 6. Dual-camera system with harness and Picavet (now available from [The Kaptery](http://kaptery.com/)). 
-
-As discussed in [Section 3](kites_balloons_drones.md) a kite or a helium-filled balloon may serve a useful purpose in 
-providing a quick overview of a crop but the results produced are often variable and may be difficult to reproduce. 
-
 ![](img/solo_camera_mount.png)
 ###### Figure 7. Sequoia camera (bottom left) with power supply (right) and Sun sensor (top) attached to the 3DR Solo. 
 
@@ -179,6 +164,7 @@ trends over time using low cost methods we decided to look at other methods.
 Qualitative Research is primarily exploratory research. It is used to gain an understanding of underlying reasons, opinions, and motivations. It provides insights into the problem or helps to develop ideas or hypotheses for potential quantitative research. Qualitative Research is also used to uncover trends in thought and opinions, and dive deeper into the problem. Qualitative data collection methods vary using unstructured or semi-structured techniques. Some common methods include focus groups (group discussions), individual interviews, and participation/observations. The sample size is typically small, and respondents are selected to fulfil a given quota.
 
 Quantitative Research is used to quantify the problem by way of generating numerical data or data that can be transformed into usable statistics. It is used to quantify attitudes, opinions, behaviors, and other defined variables – and generalize results from a larger sample population. Quantitative Research uses measurable data to formulate facts and uncover patterns in research. Quantitative data collection methods are much more structured than Qualitative data collection methods. Quantitative data collection methods include various forms of surveys – online surveys, paper surveys, mobile surveys and kiosk surveys, face-to-face interviews, telephone interviews, longitudinal studies, website interceptors, online polls, and systematic observations.
+
 #### Summary
 
 [Section 3](kites_balloons_drones.md) discusses the various bands of reflected and captured light and how these 
@@ -191,6 +177,14 @@ Various flying methods, while interesting in themselves, are only a means to the
 position in order to capture the right light at the right time of day. Before venturing into the core methods used 
 in our study and the results obtained we first set the stage by discussing some earlier methods that were used and why 
 they did not succeed. 
+
+For agricultural purposes, the broadband sensors contained in a modified camera such as the Canon s100 in __Figure 1__ are 
+suited to qualitative 'big picture' views of a crop's current status. However, the information provided by such cameras
+is limited and does not permit detailed analysis of a crop over time.
+
+As discussed in [Section 3](kites_balloons_drones.md) a kite or a helium-filled balloon may serve a useful purpose in 
+providing a quick overview of a crop but the results produced are often variable and may be difficult to reproduce. 
+
 
 ###### References
 [TBD]
