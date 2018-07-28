@@ -16,7 +16,14 @@ type of camera used to gather the image data:
 * __Are models based on time-series analysis of acquired imagery predictive of sugarcane's yield potential?__
 
 We understood from the outset that the second question was less likely to be addressed unless the data captured was 
-of sufficient quality. The first question was the main one, and was answerable, we thought, regardless of data capture method.  
+of sufficient quality. The first question was the primary one, and was answerable, we thought, regardless of data capture method.
+It turns out we were wrong in this assumption. Neither of these questions can be answered conclusively using the sort of 
+flight and image capture system originally proposed for this study. The specific reasons why are addressed in detail 
+but in brief they are two-fold: a) neither kite nor balloon are able to place a camera in the same position for sufficient 
+time, under conditions that are sufficiently stable, such that results from one flight are comparable with results from 
+another; and b) the sensor of a modified consumer camera is capable of capturing all the right data (i.e. the red and NIR light)
+but the internal image format of a consumer camera (jpeg) does not allow the calibration that's necessary in order to compare 
+one days flight results with another.        
 
 An effective spectral index is built in stages by capturing the right kind of light, at the right time of day,
 during the right part of the season, under good weather conditions. During our study it became apparent that the ability to place a camera in a relatively steady position for sufficient 
