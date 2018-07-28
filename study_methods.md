@@ -5,7 +5,7 @@
 This section provides a narrative description of the methods used to generate and assess multi-spectral data 
 during our project. It is not intended as a 'Methods and Materials' section as might be found in a traditional scientific  
 paper. In [Section VIII]() and [Section IX]() we go into greater detail regarding how the study site was prepared and what our final 
-results were. Here we set the stage for what follows. We will also describe some of the challenges faced in gathering these data. Throughout this study 
+results were. Here we set the stage for what follows and describe some of the challenges faced in gathering these data. Throughout this study 
 our objective has been to test the viability of low-cost methods for acquiring and processing aerial multi-spectral data. The remote sensing 
 techniques used here can provide timely and meaningful information for managing a sugarcane crop.
 
