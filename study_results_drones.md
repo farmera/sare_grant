@@ -103,6 +103,7 @@ growing season. At this time in the season is when the highest degree of correla
 the ultimate sucrose yield for that section occurred. 
 
 ![](img/ndvi/ndvi_winner.png)
+![](img/N_bar.png)
 
 ###### Figure 8.
 
