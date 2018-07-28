@@ -3,11 +3,11 @@
 #### Section I
 
 When our project was initiated the plan at the outset was to use methods that are readily available 
-to anyone and to apply these in a way that would not impose a high barrier in terms of time and materials. 
-Farmers are generally very practical with regard to the sorts of approaches they are willing to try in order to solve a 
-problem. They are eager to learn new approaches that will help solve long-standing issues more efficiently. As an example, crop 
-scouting has existed as long as farming has and its methods have changed very little except that what was once done on a 
-horse is now done in a pick-up truck. 
+to anyone and to apply these in ways that do not impose a high barrier in terms of time and materials. 
+Farmers are generally very practical regarding the kind of tool they are willing to try in order to solve a 
+problem. Most are eager to learn a new method if it helps solve a long-standing issue more efficiently. As an example, crop 
+scouting has existed as long as farming has and its methods have changed very little except that what was once done on foot or 
+by horse is now done in a pick-up truck. 
 
 ![](img/kite_image_rgb.png)
 ###### Figure 1. RGB image captured with a Delta kite at height of 200ft. Ground control points are visible as yellow 'x').
@@ -21,7 +21,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 ![](img/2016_0513_122_rgb.jpg)
 ![](img/2016_0513_122_ndvi.jpg)
-###### Figure 3. NDVI image with Fastie color LUT. Captured with a Delta kite at height of 200ft. Ground resolution is 8-10" ft per pixel.
+###### Figure 3. NDVI image with Fastie color LUT. Captured with a Delta kite at height of 150ft. Ground resolution is 8-10" ft per pixel.
 
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
