@@ -5,7 +5,7 @@
 When our project was initiated the plan at the outset was to use methods that are readily available 
 to anyone and to apply these in a way that would not impose a high barrier in terms of time and materials. 
 Farmers are generally very practical with regard to the sorts of approaches they are willing to try in order to solve a 
-problem. They are eager to learn new approaches that might help them solve an old problem more efficiently. As an example, crop 
+problem. They are eager to learn new approaches that will help solve long-standing problems more efficiently. As an example, crop 
 scouting has existed as long as farming has and its methods have changed very little except that what was once done on a 
 horse is now done in a pick-up truck. 
 
