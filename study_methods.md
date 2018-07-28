@@ -5,8 +5,7 @@
 This section provides a narrative description of the methods used to generate and assess multi-spectral data 
 during our project. It is not intended as a 'Methods and Materials' section as might be found in a traditional scientific  
 paper. In [Section 8]() and [Section 9]() we go into greater detail regarding how the study site was prepared and what our final 
-results were. Here we set the stage for what follows and describe some of the challenges faced in gathering these data. Throughout this study 
-our objective has been to test the viability of low-cost methods for acquiring and processing aerial multi-spectral data. 
+results were. Here we set the stage for what follows and describe some of the challenges faced in gathering these data. 
 
 The systems we proposed at the outset were both affordable and accessible. How accurately they might correlate 
 NDVI other vegetation indices to known nitrogen (N) rates was unknown. Over the course of our study a third option became 
@@ -19,11 +18,6 @@ We asked two questions:
 * __Are models based on time-series analysis of acquired imagery predictive of sugarcane's yield potential?__
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
-
-Creating a useful spectral index requires working knowledge of a host of input variables along with 
-understanding of the external environment. Vegetation indices intend to extract reflected light from 
-plants but in practice many other variables, soil moisture content, solar angle, camera sensitivity, and orientation,  alter the final index value. The age of a crop itself - i.e. its 'architectural' 
-characteristic - can influence an index value.
 
 An effective spectral index is built in stages by capturing the right kind of light, at the right time of day,
 during the right part of the season, under good weather conditions. During our study it became apparent that the ability to place a camera in a relatively steady position for sufficient 
