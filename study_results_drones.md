@@ -1,10 +1,10 @@
-### Study Results II - Results Using Drones
+### IX - Results Using Drones
 
 #### Material and Methods
 
-* An area of second-year 'stubble' cane measuring 1000 ft by 180 ft was dedicated during the 2017 year.
-* A series of random sections were laid out within this area and treated with variable amounts of N fertilizer. 
-* An aerial drone (described in [Section 4](study_methods.md)) was flown and captured the image data.  
+* An area of second-year sugar cane 'stubble' measuring 1000 ft by 180 ft was dedicated during the 2017 year.
+* A series of random sections were laid out and treated with variable amounts of N fertilizer. 
+* An aerial drone (described in [Section 4](study_methods.md)) was flown to capture the image data.  
 
 Once planted, a stand of sugar cane may be harvested up to four times in as many seasons. A season runs about 9 months 
 and after each harvest the cane remaining in the ground sends up new shoots. While successive harvests give decreasing 

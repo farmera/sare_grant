@@ -10,10 +10,9 @@ A central issue in the capture and transformation of large volumes of digital ..
 #### Pre-Processing Steps
 
 * Defining the initial processing steps. 
-* On site management of digital assets. 
 * Quality control and reproducibility. 
 
-The automated system designed for this project performs six processing steps in total. The first four are required to 
+The automated system designed for this project performed six processing steps in total. The first four are required to 
 prepare the raw image data before it may be analyzed. The fifth and sixth are post-processing steps that are 
 considered in a subsequent section [here]().
 
@@ -24,19 +23,20 @@ considered in a subsequent section [here]().
 5. Masking
 6. Extraction of image-derived statistics
 
-While proprietary software exists ([here](arcgis) and [here](pix4d)) and has been used to implement the steps listed above, 
-the expense of licensing and training for their use is often prohibitive. The increased capability of open-source software 
-to process multi-spectral data presents a great opportunity for individuals and small teams to develop workflows 
+While proprietary software exists and has been used to implement the steps listed, 
+the expense of licensing and training for use is often prohibitive. The increased capability of open-source software 
+to process multi-spectral data presents an opportunity for individuals and small teams to develop workflows 
 for image processing that can be adapted to specific purposes for little or no cost when the need arises. 
 
 #### Mosaicking
 
 Mosaicking is the process of taking two or more raster datasets (i.e. images) and combining them into a single, seamless image. 
-Mosaicking can be accomplished using open-source applications such as QGIS, GDAL, or the Orfeo Toolbox. For our case several 
-scripts based on GDAL were developed to  accomplish a number of tasks, such as extracting metadata from 
-uploaded images, managing cases where overlapped image pixels conflicted, or managing the coordinate system.   
+Mosaicking can be accomplished using open-source applications such as QGIS, GDAL, or the Orfeo Toolbox. In our case several 
+scripts based on GDAL were developed to accomplish a number of tasks, such as extracting metadata from 
+uploaded images, managing cases where overlapped image pixels conflicted, or managing the map coordinate system.   
 
 ![](img/mosaic.png)
+###### Figure 1. Creating a mosaic of several images.
 
 __Figure 1.__ Example of a photo-mosiac. 
 
@@ -72,12 +72,11 @@ with respect to the ground. It may also lose nadir at any point in the flight on
 geometric corrections were performed using scripts that make use of GDAL functionality.        
   
 ![](img/ortho.png)
-
-__Figure 2.__  Orthorectification using a digital elevation model (DEM). 
+###### Figure 2. Orthorectification using a digital elevation model (DEM).
 
 #### Image Co-Registration
 
-One goal in our study was to consider the evolution of a spectral index over time as a means of making predictions about yield.
+One of two goals in our study was to consider the evolution of a spectral index over time as a means of making predictions about yield.
 When the intention is to study two or more images of a time series then image co-registration is required. Co-registration 
 ensures that an image captured one day will be spatially-aligned with an image of the same extent captured on another day. 
 We were able to meet these criteria through use of GCPs and by having an area dedicated exclusively for the purposes of our 
