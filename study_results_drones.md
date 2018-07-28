@@ -1,8 +1,8 @@
 ### Study Results II - Results Using Drones
 
-#### MAterial and Methods
+#### Material and Methods
 
-* An area of second-year 'stubble' cane measuring 1000 ft by 180 ft was dedicated during the 2017 year. (_Figure 1_).
+* An area of second-year 'stubble' cane measuring 1000 ft by 180 ft was dedicated during the 2017 year.
 * A series of random sections were laid out within this area and treated with variable amounts of N fertilizer. 
 * An aerial drone (described in [Section 4](study_methods.md)) was flown and captured the image data during the 2017 season.  
 
