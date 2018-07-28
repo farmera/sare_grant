@@ -28,10 +28,11 @@ wind is variable.
 Another issue is lack of accurate geotagging support in most consumer cameras. While most cameras support 
 this feature, in practice we found it to be inconsistent as a reliable source of reference regarding the planar as well 
 as vertical positioning of the camera with respect to the field. A hand-held GPS device was used to create the ground
-control points but it was not always possible to use geotagging of each image to match a capture with positions on the 
-ground. 
+control points but it was not always possible to use geotagging of images to match each capture with a known position 
+on the ground. 
 
-Having obtained a set of captures 
+Having obtained a set of images we then scripted a process in Fiji to help align, stitch and create the vegetation index.  
+   
 #### Section II
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
 
