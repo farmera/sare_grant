@@ -22,7 +22,7 @@ This resulted in 30 plots of size 100 × 60 sq ft each making a total trial size
 ###### Figure 1. Study Area. 
 
 We performed kite and drone flights over the study area during two successive growth seasons. The results presented are for the 
-2017 season using the 3DR Solo drone. The study area was flown and captured using over two separate flights (for power consumption 
+2017 season flying the 3DR Solo drone only. The study area was flown and captured over two separate flights (for power consumption 
 reasons) where each flight overlapped in the center of the field. Calibration of the Sequoia camera was performed between each flight. 
 
 A primary advantage of the drone compared with other methods is the ability to pre-program an exact height (250ft) and range 
@@ -35,14 +35,14 @@ outshines the other aerial methods used.
 
 #### Section II
 
-* After pre-processing, each flight yields a single composite image.
+* After pre-processing steps, each flight yielded a single composite image.
 * The composite image was segmented by an automated process into the thirty individual sections.  
 * Statistical analyses was performed on each section in terms of four spectral indices.
 
 To capture the study area each drone flight yielded roughly 1200-1500 geotiff images using the [Sequoia camera]() representing 
-four narrow bands of light, plus an RGB image. The raw single band images are layered to produce from 300-350 composite images 
-which were then stitched together into a single master geotiff containing all four bands (minus RGB). The process of 
-stitching together geo-coded images is referred to as 'geo-mosaicing'. Mosaicing allows for accurately acquiring image 
+four narrow bands of light (plus RGB). The raw single band images were layered to produce from 300-350 composite images 
+which were then stitched into a single master geotiff containing all four bands (minus RGB). The process of stitching 
+geo-coded images is known as mosaicking (see [Section VI](pre_processing_steps.md#Pre-Processing Steps)). Mosaicing allows for accurately acquiring image 
 data and then projecting those data onto a map. The mosaicing process is facilitated by highly-accurate latitude and 
 longitude tags which are embedded into each image captured by the camera. This allows us to create a much larger image 
 containing a much broader field of view. 
