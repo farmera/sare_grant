@@ -30,7 +30,7 @@ to quantitatively compare one day's flight with another.
 An effective spectral index is built in stages by capturing the right kind of light, at the right time of day,
 during the right part of the season, under good weather conditions. During our study it became apparent that the ability 
 to place the camera in steady position for sufficient periods was a determining factor in whether or not our 
-data would be meaningful for more than single point-in-time qualitative assessment. Likewise it became clear 
+data would be meaningful for more than 'point-in-time' qualitative assessment. Likewise it became clear 
 that the ability to capture in the narrowest band possible, with minimum distortion, was likewise critical.
 
 Our primary goal was to determine to what extent low-cost aerial multi-spectral data could be correlated with variable 
