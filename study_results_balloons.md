@@ -16,7 +16,8 @@ With that sentiment in mind we discuss results obtained by experimenting with ae
 __Figure 3__ is a RGB composite stitched together 'by hand' with the help of ground control points (GCPs) 
 spray-painted into the field. Having GCPs in a set of images like this was critical to our 
 ability both to stitch a larger image together and to compare image sets over successive days. To support this
-process we used an open source software package known as [Fiji](https://fiji.sc/).  
+process we used an open source software known as [Fiji](https://fiji.sc/). Fiji is an image processing 
+package which bundles an incredible variety of plugins to facilitate scientific image analysis.  
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
 
