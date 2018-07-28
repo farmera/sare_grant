@@ -23,8 +23,8 @@ flight and image capture system originally proposed. The specific reasons will b
 but in brief they are two-fold: a) neither kite nor balloon is able to place a camera in position for sufficient 
 time, under conditions which are sufficiently stable, such that results from one flight can be compared with results from 
 another; and b) while the sensor of a modified consumer camera is capable of capturing the right spectral data (i.e. the red, 
-green and NIR light) the jpeg image format of most consumer cameras does not allow the sort of pre-flight 
-calibration that's necessary to quantitatively compare one day's flight with another.        
+green and NIR light) the jpeg image format of most consumer cameras does not readily support the sort of 
+calibration necessary to quantitatively compare one day's flight with another.        
 
 An effective spectral index is built in stages by capturing the right kind of light, at the right time of day,
 during the right part of the season, under good weather conditions. During our study it became apparent that the ability 
