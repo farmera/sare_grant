@@ -17,16 +17,19 @@ by horse is now done in a pick-up truck.
 With that sentiment in mind we discuss results obtained by experimenting with aerial photography using a kite or a balloon. 
 __Figure 3__ is a RGB composite stitched together 'by hand' with the help of ground control points (GCPs) 
 spray-painted into the field. Having GCPs in a set of images like this was critical to our 
-ability both to stitch a larger image together and to compare image sets over successive days. To support this
+ability both to stitch together a larger image and to compare image sets over successive days. To support this
 process we used an open source software known as [Fiji](https://fiji.sc/). Fiji is an image processing 
 package which bundles an incredible variety of plugins to facilitate scientific image analysis.  
 
 To determine the height of a flight we carefully measured and marked the kite's flight line. This set of 
 captures was taken at a height of 150ft. Maintaining a steady altitude like this with a kite can be a challenge when the 
-wind is variable.
+wind is variable. Another issue is lack of accurate geotagging support in most consumer cameras. While most cameras support 
+this feature, in practice we found it to be inconsistent as a reliable source of reference regarding the planar as well 
+as vertical positioning of the camera with respect to the field. A hand-held GPS device was used to create the ground
+control points but it was not always possible to use geotagging of each image to match a capture with positions on the 
+ground. 
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-
+Having obtained a set of captures 
 #### Section II
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
 
