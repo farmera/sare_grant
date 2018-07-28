@@ -42,13 +42,15 @@ outshines the other aerial methods used.
 To capture the study area each drone flight yielded roughly 1200-1500 geotiff images using the [Sequoia camera]() representing 
 four narrow bands of light (plus RGB). The raw single band images were layered to produce from 300-350 composite images 
 which were then stitched into a single master geotiff containing all four bands (minus RGB). The process of stitching 
-geo-coded images is known as mosaicking (see [Section VI](pre_processing_steps.md) ). Mosaicing allows for accurately acquiring image 
-data and then projecting those data onto a map. The mosaicing process is facilitated by highly-accurate latitude and 
-longitude tags which are embedded into each image captured by the camera. This allows us to create a much larger image 
-containing a much broader field of view. 
+geo-coded images is known as mosaicking (see [Section VI](pre_processing_steps.md) ). Mosaiking allows accurate placement of 
+acquired image data and projection of those data onto a map. The process is facilitated in this study by embedded latitude and 
+longitude tags in each image captured by the Sequoia camera. This allows us to create images of relatively high definition 
+containing a broader field of view. 
 
 ![](img/NGR_highlight.png)
 ###### Figure 3. A detail of two treatment sections as a CIR composite image.   
+
+The image in __Figure 3__ ...
 
 As mentioned, the composite image contains geotags which form part of the image's metadata. One of the challenges of 
 precision mapping is to correctly match a partial image - which may have been distorted in the process of capture - with an 
