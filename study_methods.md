@@ -17,12 +17,12 @@ type of camera used to gather the image data:
 
 We understood from the outset that the second question was less likely to be addressed unless the data captured was 
 of sufficient quality. The first question was the primary one, and was answerable, we thought, regardless of data capture method.
-It turns out we were wrong in this assumption. Neither of these questions can be answered conclusively using the sort of 
-flight and image capture system originally proposed for this study. The specific reasons why are addressed in detail 
+It turns out we were wrong in this assumption. Neither of these questions may be answered conclusively using the sort of 
+flight and image capture system originally proposed for this study. The specific reasons will be addressed in detail 
 but in brief they are two-fold: a) neither kite nor balloon are able to place a camera in the same position for sufficient 
 time, under conditions that are sufficiently stable, such that results from one flight are comparable with results from 
 another; and b) the sensor of a modified consumer camera is capable of capturing all the right data (i.e. the red and NIR light)
-but the internal image format of a consumer camera (jpeg) does not allow the calibration that's necessary in order to compare 
+but the internal image format of a consumer camera (jpeg) does not permit the sort of pre-flight calibration that's necessary in order to compare 
 one days flight results with another.        
 
 An effective spectral index is built in stages by capturing the right kind of light, at the right time of day,
