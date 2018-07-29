@@ -94,13 +94,6 @@ In coming sections we'll discuss how to achieve this degree of scaling along wit
 various vegetation indices under different environmental conditions. Luckily, open-source software and image processing 
 tools exist to make these tasks accessible.
 
-###### References
-###### Pinter, Jr., Paul J.; Hatfield, Jerry L.; Schepers, James S.; Barnes, Edward M.; Moran, M. Susan; Daughtry, Craig S.T.; Upchurch, Dan R. (2003). "Remote Sensing for Crop Management". Photogrammetric Engineering & Remote Sensing. 69 (6): 647–664. doi:10.14358/PERS.69.6.647. ISSN 0099-1112.
-###### Gitelson, A., and M. Merzlyak. "Remote Sensing of Chlorophyll Concentration in Higher Plant Leaves." Advances in Space Research 22 (1998): 689-692.
-
 [TBD]
-
-###### GUYOT, G., 1990, Optical properties of vegetation canopies. In Application of Remote Sensing
-in Agriculture, M.
 
 ![](img/farmera.png) 

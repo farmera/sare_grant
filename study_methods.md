@@ -1,4 +1,4 @@
-### 4 - Background on Goals and Methods
+### 3 - Background on Goals and Methods
 
 #### Introduction
 

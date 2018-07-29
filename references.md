@@ -1,6 +1,6 @@
 ### 12 - References
 
-[TBD - These are incomplete in the draft version 08/01/2018]
+[TBD - Note: references are incomplete in the draft version 08/01/2018]
 
 
 ###### General
@@ -19,5 +19,10 @@
 * Jackson, R., and A. Huete. "Interpreting Vegetation Indices." Preventive Veterinary Medicine 11 (1991): 185-200.
 * Ray, T. "A FAQ on Vegetation in Remote Sensing." http://www.yale.edu/ceo/Documentation/rsvegfaq.html, updated 13 October 1994. Accessed February 2014.
 * Steven, M., et al. "Intercalibration of Vegetation Indices from Different Sensor Systems." Remote Sensing of Environment 88 (2003): 412-422.
+
+###### Section 4 
+* Pinter, Jr., Paul J.; Hatfield, Jerry L.; Schepers, James S.; Barnes, Edward M.; Moran, M. Susan; Daughtry, Craig S.T.; Upchurch, Dan R. (2003). "Remote Sensing for Crop Management". Photogrammetric Engineering & Remote Sensing. 69 (6): 647–664. doi:10.14358/PERS.69.6.647. ISSN 0099-1112.
+* Gitelson, A., and M. Merzlyak. "Remote Sensing of Chlorophyll Concentration in Higher Plant Leaves." Advances in Space Research 22 (1998): 689-692.
+* GUYOT, G., 1990, Optical properties of vegetation canopies. In Application of Remote Sensing in Agriculture, M.
 
 ![](img/farmera.png) 
