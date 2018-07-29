@@ -24,12 +24,12 @@ with methods that are accessible and available at modest cost. The two central i
 
 From the outset we considered that the second question was not likely to be answered unless the data captured was 
 of sufficient quality. The first was answerable, we thought, regardless of data capture method. It turns out we were wrong. 
-Neither of these questions could be answered conclusively using the sort of 
-flight and image capture system originally proposed. The specific reasons will be addressed in detail 
-but in brief they are two-fold: a) neither kite nor balloon is able to place a camera in position for sufficient 
-time, under conditions which are sufficiently stable, such that results from one flight can be compared with results from 
+Neither of these questions can be answered conclusively using the sort of 
+flight and image capture systems originally proposed. The reasons will be addressed in detail 
+but in brief they are two-fold: a) neither kites nor balloons are able to place a camera in position for sufficient 
+time, under conditions of sufficiently stable, such that the results from one flight may be compared with results from 
 another; and b) while the sensor of a modified consumer camera is capable of capturing the right spectral data (i.e. the red, 
-green and NIR light) the jpeg image format of most consumer cameras does not readily support the sort of 
+green and NIR light) the jpeg image format of most of these cameras does not readily support the sort of 
 calibration necessary to quantitatively compare one day's flight with another.        
 
 An effective spectral index is built in stages by capturing the right kind of light, at the right time of day,
