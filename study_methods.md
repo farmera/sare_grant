@@ -1,4 +1,4 @@
-### 3 - Background on Goals and Methods
+### 3 - Background on Methods and Materials
 
 #### Introduction
 
@@ -8,7 +8,7 @@ paper. In [Section 8]() and [Section 9]() we go into greater detail regarding ou
 site, and final results. Here we set the stage for what follows and describe some of the challenges faced in gathering these data. 
 
 A challenge for this project relates to its being essentially a 'two-headed' endeavor. On the one hand, we want to investigate low cost 
-methods in aerial photography. This desire is motivated by a general interest in the subject along with the firm belief that aerial 
+methods in aerial photography. This desire is motivated by an interest in the subject along with the firm belief that aerial 
 methods in general are under-utilized by farmers themselves in agriculture. 
 
 Throughout our study we were guided by two empirical questions not directly related to the flight method or the 
