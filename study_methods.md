@@ -14,7 +14,7 @@ On the other hand, we also want to ask technical scientific questions which requ
 methods of data capture and analysis. These threads are not necessarily at cross purposes, in fact they are related, though
 in pursuing them we have sometimes felt a degree of tension.    
 
-Throughout this study we have been guided by empirical questions that are not directly related to the selection of a 
+Thus, throughout this study we have been guided by empirical questions that are not directly related to the selection of a 
 flight method or to the type of camera used to gather the image data. We have also been keen to answer such questions
 with methods that are accessible and available at modest cost. The two central issue we have sought to address are: 
 
@@ -40,7 +40,8 @@ that the ability to capture in the narrowest band possible, with minimum distort
 
 Our primary goal was to determine to what extent low-cost aerial multi-spectral data could be correlated with variable 
 nitrogen (N) rates applied to sugarcane. At the end of the first season we analyzed the data and came to the conclusion
-that the methods proposed would not work. Around the time that we were realizing this, another third method became available. 
+that the methods proposed would not work. Around the same time that we realized this, a third method became available that 
+previously had seemes out of reach due to cost and complexity. 
 
 #### Our First Spectral Index
 
