@@ -40,8 +40,7 @@ that the ability to capture in the narrowest band possible, with minimum distort
 
 Our primary goal was to determine to what extent low-cost aerial multi-spectral data could be correlated with variable 
 nitrogen (N) rates applied to sugarcane. At the end of the first season we analyzed the data and came to the conclusion
-that the methods proposed would not work. Around the same time that we realized this, a third method became available that 
-previously had seemes out of reach due to cost and complexity. 
+that the methods proposed would not work. Around the same time a third method became available that previously had seemed out of reach due to cost and complexity. 
 
 #### Our First Spectral Index
 
