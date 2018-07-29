@@ -3,7 +3,7 @@
 #### Introduction
 
 This section provides a narrative description of the methods used to generate and assess multi-spectral data 
-during our project. It is not a 'Methods and Materials' section as is found in a traditional scientific
+during our project. It is not a standard 'Methods and Materials' section as would be found in a traditional scientific
 paper. In [Section 8]() and [Section 9]() we go into greater detail regarding our methods, including preparation of the study 
 site, and final results. Here we set the stage for what follows and describe some of the challenges faced in gathering these data. 
 
