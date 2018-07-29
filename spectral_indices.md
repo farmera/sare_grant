@@ -94,6 +94,8 @@ In coming sections we'll discuss how to achieve this degree of scaling along wit
 various vegetation indices under different environmental conditions. Luckily, open-source software and image processing 
 tools exist to make these tasks accessible.
 
+###### References
+
 [TBD]
 
 ![](img/farmera.png) 
