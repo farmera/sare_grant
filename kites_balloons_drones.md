@@ -123,11 +123,4 @@ that will allow smaller growers to compete more effectively.]
 
 [TBD]
 
-* History of Aerial Photography Professional Aerial Photographers Association (retrieved 5 October 2016)
-* https://en.wikipedia.org/wiki/Nadar
-* Ron Marcisak https://www.flickr.com/photos/ronskap/13173764143/in/pool-kaprigs/
-* Alan McConchie https://www.flickr.com/photos/almccon/
-* Sam Pepple, Sample Cartography (stiched map image)
-* Chris Fastie, Courtesy of the [Public Lab](https://publiclab.org/).
-
 ![](img/farmera.png) 

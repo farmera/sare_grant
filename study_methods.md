@@ -5,7 +5,7 @@
 This section provides a narrative description of the methods used to generate and assess multi-spectral data 
 during our project. It is not intended as a 'Methods and Materials' section as found in a traditional scientific
 paper. In [Section 8]() and [Section 9]() we go into greater detail regarding methods, including preparation of the study 
-site and our final results. Here we simply set the stage for what follows and describe some of the challenges faced in gathering these data. 
+site and our final results. Here we set the stage for what follows and describe some of the challenges faced in gathering these data. 
 
 Throughout our study we were guided by two empirical questions not directly related to the flight method or the 
 type of camera used to gather image data:
@@ -16,7 +16,7 @@ type of camera used to gather image data:
 
 #### Disclaimer
 
-We understood from the outset that the second question was less likely to be answered unless the data captured was 
+We understood from the outset that the second question was not likely to be answered unless the data captured was 
 of sufficient quality. The first question was primary and was answerable, we thought, regardless of data capture method.
 It turns out we were wrong. Neither of these questions could be answered conclusively using the sort of 
 flight and image capture system originally proposed. The specific reasons will be addressed in detail 
