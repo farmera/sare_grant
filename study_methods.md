@@ -157,7 +157,7 @@ While the result produced in __Figure 3__  is certainly useful and can be achiev
 weekend of practice, it is largely __qualitative__ and __not quantitative__. If the goal is to determine more precisely 
 what general patterns over time are developing then this method would not work well. While not impossible, it is difficult to replicate 
 the exact height and vantage point of a image taken during a flight with a kite or a balloon such as this . On another day under different 
-conditions these images would be hard to precisely duplicate. Since one of our stated goals was to accurately determine crop 
+conditions these images would be hard to duplicate with precision. Since one of our stated goals was to accurately determine crop 
 trends over time using low cost methods we decided to look at other methods.  
 
 An index image like this is a useful tool for identifying potential trouble spots in a developing crop. Later 
