@@ -9,10 +9,10 @@ site, final results, etc. Here we set the stage for what follows and describe so
 
 One challenge for this project relates to its being essentially a 'two-headed' endeavor. On the one hand, we want to 
 investigate low-cost methods in aerial photography for agriculture. This desire is motivated by an interest in the subject along with a 
-general conviction that farmers themselves have under-utilized techniques that are readily available to them. On the other hand, we also want to ask 
-technical scientific questions which requires a level of sophistication regarding methods of data capture and analysis.
-These threads are not necessarily at cross purposes, in fact they are intimately related, however, in pursuing each we have sometimes 
-felt some tension.    
+general conviction that farmers themselves have under-utilized aerial techniques that are readily available to them. 
+On the other hand, we also want to ask technical scientific questions which requires a level of sophistication regarding
+methods of data capture and analysis. These threads are not necessarily at cross purposes, in fact they are related, though
+in pursuing them we have sometimes felt a degree of tension.    
 
 Throughout our study we were guided by two empirical questions not directly related to the flight method or the 
 type of camera used to gather image data:
