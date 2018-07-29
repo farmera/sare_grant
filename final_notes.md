@@ -2,13 +2,13 @@
 
 #### Author Contributions
 
-* Gerald McCollam conceived and wrote the grant, performed the UAV flights, processed the imagery, carried out the statistical 
+* __Gerald McCollam__ conceived and wrote the grant, performed the UAV flights, processed the imagery, carried out the statistical 
 analysis, contributed to the design of experimental plot sections, worked on costs and comparisons between platforms, and wrote the manuscript.  
-* Slattery McCollam provided dedicated access to the study site for the grant period.
-* Dr. Richard Johnson proposed the field trial’s design and helped with editorial contributions.
-* Dr Chris Fastie designed the dual-camera harness system and provided research notes.   
-* [Brazilian woman] supported in development and measurements. 
-* Katie [?] supported with the field experiment and during harvesting.
+* __Slattery McCollam__ provided dedicated access to the study site for the grant period.
+* __Dr. Richard Johnson__ proposed the field trial’s design and helped with editorial contributions.
+* __Dr Chris Fastie__ designed the dual-camera harness system and provided research notes.   
+* __xxx xxxxx__ [Brazilian woman] supported in development and measurements. 
+* __Katie xxxx__ supported with the field experiment and during harvesting.
 #### Section II
 
 * Lorem ipsum dolor sit amet
@@ -16,9 +16,6 @@ analysis, contributed to the design of experimental plot sections, worked on cos
 * Lorem ipsum dolor sit amet
 
 #### Cost Analysis
-
-Direct comparison of specific costs for the three platforms described in this report is entirely feasible due to the 
-different...
 
 In this study we chose a top-down approach to account for all the expenses associated with data acquisition and processing, 
 grouped into three broad categories:
