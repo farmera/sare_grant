@@ -89,30 +89,14 @@ together and obscure from above the cane stalks below.
 
 
 ![](img/2017-04-25_001_3_CIR.png)
-###### Figure 5.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
 ![](img/2017-04-25_001_3_NDVI.png)
-###### Figure 6.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
 ![](img/2017-04-25_001_3_GNDVI.png)
-###### Figure 7.
+###### Figure 5.
 
 ![](img/2017-07-28_021_3_CIR.png)
-###### Figure 5.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
 ![](img/2017-07-28_021_3_NDVI.png)
-###### Figure 6.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
 ![](img/2017-07-28_021_3_GNDVI.png)
-###### Figure 7.
+###### Figure 6.
 
 All graphs shown below represent NDVI or other index values from each of thirty test plots (as single data points) 
 where each has been colored to represent an amount of N fertilizer received by that plot. 
