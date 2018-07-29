@@ -112,7 +112,7 @@ representing a point in the overall process where error may be introduced.
 
 
 ![](img/map-stitch.gif)
-###### Figure 2. An animation of the stitching process. A dozen images are manually brought together into one. 
+###### Figure 2. An animation of the stitching process. A dozen images are manually brought together into one larger image. 
 
 In turn, the resolution of the final __analyzed__ image depends on the stability of the capture event, the resolution 
 of the camera at a given moment, and the stitching process itself. Of most interest is the __resolution per pixel__. With 
@@ -155,7 +155,7 @@ well developed on the lower left compared with lower right.
 
 While the result produced in __Figure 3__  is certainly useful and can be achieved for a few hundred dollars and perhaps a 
 weekend of practice, it is largely __qualitative__ and __not quantitative__. If the goal is to determine more precisely 
-what general patterns over time are developing then this method would not work well. While not impossible, it is difficult to replicate 
+what general patterns develop over time then this method would not work well. While not impossible, it is difficult to replicate 
 the exact height and vantage point of a image taken during a flight with a kite or a balloon such as this . On another day under different 
 conditions these images would be hard to duplicate with precision. Since one of our stated goals was to accurately determine crop 
 trends over time using low cost methods we decided to look at other methods.  
