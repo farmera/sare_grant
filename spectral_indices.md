@@ -15,8 +15,8 @@ common spectral index used in agriculture for gauging the health of plants is
  
 #### Calculating a Vegetation Index
 
-Calculating a VI requires conversion of an image or 
-set of images into a set of  *rasters* - rectangular grids of pixels or points of color. Each pixel contains a set of values corresponding to the captured bands of light. In familiar RGB 
+Calculating a VI requires converting an image or set of images into a set of  *rasters* - rectangular grids of pixels or 
+points of color. Each pixel contains a set of values corresponding to the captured bands of light. In familiar RGB 
 terms each pixel contains a Red, a Green and a Blue score. Such scores reflect the power, or luminosity, of electromagnetic 
 radiation for that particular band as it comes into contact with the pixel sensors of a digital camera. Most of the indices 
 used in this study make use of an inverse relationship between red and near infra-red reflectance values commonly associated 
