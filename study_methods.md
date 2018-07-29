@@ -23,9 +23,8 @@ flight method or the type of camera used to gather image data.
 
 #### Disclaimer
 
-We understood from the outset that the second question was not likely to be answered unless the data captured was 
-of sufficient quality. The first question was primary and was answerable, we thought, regardless of data capture method.
-It turns out we were wrong. Neither of these questions could be answered conclusively using the sort of 
+From the outset we considered that the second question was not likely to be answered unless the data captured was 
+of sufficient quality. The first was answerable, we thought, regardless of data capture method. It turns out we were wrong. Neither of these questions could be answered conclusively using the sort of 
 flight and image capture system originally proposed. The specific reasons will be addressed in detail 
 but in brief they are two-fold: a) neither kite nor balloon is able to place a camera in position for sufficient 
 time, under conditions which are sufficiently stable, such that results from one flight can be compared with results from 
