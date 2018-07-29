@@ -143,7 +143,7 @@ for NDVI. The image in the center of the figure represents a color LUT (i.e. a l
 otherwise would be impossible to see. 
 
 ![](img/kite_image_fastie_lut.png)
-###### Figure 3
+###### Figure 3 An NDVI index image taken with a consumer grade dual-camera system. The center bar is  a color LUT.
 
 In the image the LUT is prominently displayed in order to indicate that a full 
 range of values has been captured by this image - from dry, sandy soils on the upper left (with an NDVI value of -1) to very active 
@@ -151,7 +151,7 @@ areas of photosynthetic activity on the upper right. Also visible are regions of
 well developed on the lower left compared with lower right. 
   
 ![](img/dual_camera.png)
-###### Figure 3 A dual camera system used to take images contained in Figure 3.
+###### Figure 3 A dual camera system used to take the image contained in Figure 3.
 
 An index image like this is a useful tool for identifying potential trouble spots in a developing crop. Later 
 on in the season a flight like this might quickly point out regions of the field that are underdeveloped or damaged. 
