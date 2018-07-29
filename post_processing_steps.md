@@ -109,9 +109,8 @@ to right, 40 lbs N, 60 lbs N and 80lbs N. In the top row the unbiased standard d
 respectively, while in the corrected versions they are 0.9 across. In this case we've managed to remove some of the 'noise' 
 from the samples which proves to be of significance when a final interpretation of these data is made.  
 
-#### Section III
+#### Early versus late crop interpretation
 
-* Early versus late crop interpretation
 * Lorem ipsum dolor sit amet
 * Lorem ipsum dolor sit amet
 
