@@ -40,11 +40,12 @@ that the ability to capture in the narrowest band possible, with minimum distort
 
 Our primary goal was to determine to what extent low-cost aerial multi-spectral data could be correlated with variable 
 nitrogen (N) rates applied to sugarcane. At the end of the first season we analyzed the data and came to the conclusion
-that the methods proposed would not work.  
+that the methods proposed would not work. Around the time that we were realizing this, another third method became available. 
 
+#### Our First Spectral Index
 
-NDVI is a popular vegetation index which has been shown to be effective in 
-predicting crop yield potentials in other plant species. 
+NDVI is a popular vegetation index which has been shown to be effective in predicting crop yield potentials in other 
+plant species. But what is a multispectral vegetation index? An example may help to clarify.
 
 The mathematical expression used to create an NDVI index is as follows:
 
@@ -69,7 +70,7 @@ light while reflecting away a good portion of the red. Recall that plants use re
 light presents a physiological burden to them. This is another generic spectral pattern that we can use: _lower NDVI values 
 correlate with unhealthy, distressed plants_. 
 
-#### Single or Dual-Camera Systems
+#### Single and Dual-Camera Systems
 
 It is possible to create a vegetation index image using only a single consumer digital camera as almost all consumer camera sensors are
 sensitive in the near infrared range. If the camera is modified to remove the IR blocking filter and a dual band pass filter is 
