@@ -6,7 +6,7 @@
 analysis, contributed to the design of experimental plot sections, worked on costs and comparisons between platforms, and wrote the manuscript.  
 * Slattery McCollam provided dedicated access to the study site for the grant period.
 * Dr. Richard Johnson proposed the field trial’s design and helped with editorial contributions.
-* Dr Chris Fastie ...  
+* Dr Chris Fastie designed the dual-camera harness system and provided research notes.   
 * [Brazilian woman] supported in development and measurements. 
 * Katie [?] supported the field experiment.
 #### Section II
