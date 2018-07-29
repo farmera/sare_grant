@@ -5,11 +5,11 @@
 This section provides a narrative description of the methods used to generate and assess multi-spectral data 
 during our project. It is not a standard 'Methods and Materials' section as would be found in a traditional scientific
 paper. In [Section 8]() and [Section 9]() we go into greater detail regarding our methods, including preparation of the study 
-site, and final results. Here we set the stage for what follows and describe some of the challenges faced in gathering these data. 
+site, and our final results. Here we set the stage for what follows and describe some of the challenges faced in gathering these data. 
 
 A challenge for this project relates to its being essentially a 'two-headed' endeavor. On the one hand, we want to investigate low cost 
-methods in aerial photography. This desire is motivated by an interest in the subject along with the firm belief that aerial 
-methods in general are under-utilized by farmers themselves in agriculture. 
+methods in aerial photography. This desire is motivated by an interest in the subject along with the conviction that aerial 
+methods are under-utilized in agriculture by farmers themselves. 
 
 Throughout our study we were guided by two empirical questions not directly related to the flight method or the 
 type of camera used to gather image data:
