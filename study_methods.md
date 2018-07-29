@@ -7,10 +7,10 @@ a standard 'Methods and Materials' section as might be found in a traditional sc
 [Section 9]() we go into greater detail regarding methods, including preparation of the study 
 site, final results, etc. Here we set the stage for what follows and describe some of the challenges faced.
 
-One challenge for this project relates to its being essentially a 'two-headed' endeavor. On the one hand, we want to 
+One challenge for this project relates to its being essentially a 'two-sided' endeavor. On the one hand, we want to 
 investigate low-cost methods in aerial photography for agriculture. This desire is motivated by an interest in the subject along with a 
-conviction that farmers themselves have under-utilized aerial techniques that are available to them. 
-On the other hand, we also want to ask technical scientific questions which requires a level of sophistication regarding
+conviction that farmers themselves have under-utilized available aerial techniques often because they assume such methods 
+are too complex or too expensive. On the other hand, we also want to ask technical scientific questions which requires a level of sophistication regarding
 methods of data capture and analysis. These threads are not necessarily at cross purposes, in fact they are related, though
 in pursuing them we have sometimes felt a degree of tension.    
 
