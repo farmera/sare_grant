@@ -138,19 +138,21 @@ Thus, interpreting a spectral index starts with acquiring accurate aerial image 
     individual bands of captured light.
  
 
-__Figure 2__ illustrates a typical NDVI result using a kite-suspension system with two consumer-grade cameras modified 
-for NDVI. The image in the center of the figure represents a color LUT (i.e. a look-up table) which is a table of 
-numbers used to apply a color transform to an image. Applying this transform allows us to visualize reflected light that 
+__Figure 3__ illustrates a typical NDVI result using a kite-suspension system with two consumer-grade cameras modified 
+for NDVI. The image in the center of the figure represents a color LUT (i.e. a look-up table) which is used to apply a color transform to an image. Applying this transform allows us to visualize reflected light that 
 otherwise would be impossible to see. 
 
 ![](img/kite_image_fastie_lut.png)
 ###### Figure 3
 
-In this image the LUT is prominently displayed in order to indicate that a full 
+In the image the LUT is prominently displayed in order to indicate that a full 
 range of values has been captured by this image - from dry, sandy soils on the upper left (with an NDVI value of -1) to very active 
 areas of photosynthetic activity on the upper right. Also visible are regions of immature crop which are less 
-developed on the lower left when compared with the right. 
- 
+well developed on the lower left compared with lower right. 
+  
+![](img/dual_camera.png)
+###### Figure 3
+
 An index image like this is a useful tool for identifying potential trouble spots in a developing crop. Later 
 on in the season a flight like this might quickly point out regions of the field that are underdeveloped or damaged. 
 While these results are certainly useful and can be achieved for a few hundred dollars and perhaps a 
@@ -159,9 +161,6 @@ a general pattern over time then this method would present challenges. While not
 the exact height and vantage point of a image taken during a flight with a kite or a balloon. On another day under different 
 conditions these images would be hard to precisely duplicate. Since one of our stated goals was to accurately determine crop 
 trends over time using low cost methods we decided to look at other methods.  
- 
-![](img/dual_camera.png)
-###### Figure 3
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
 
