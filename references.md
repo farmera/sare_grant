@@ -32,4 +32,6 @@ A review. Precis. Agric. 2012, 13, 693–712.
 Hunt, E.R., Jr.; Hively, W.D.; Fujikawa, S.; Linden, D.; Daughtry, C.S.; McCarty, G. Acquisition of NIR-Green-Blue digital photographs from unmanned aircraft for crop monitoring. Remote Sens.
 2010, 2, 290–305.
 
+Motohka, T., K. N. Nasahara, H. Oguma, and S. Tsuchida. 2010. “Applicability of Green-Red Vegetation Index for Remote Sensing of Vegetation Phenology.” Remote Sensing 2 (10): 2369–2387. doi:10.3390/rs2102369.
+
 ![](img/farmera.png) 

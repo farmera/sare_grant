@@ -74,14 +74,15 @@ this sort of issue by use of a masking technique discussed in [Section 9](readme
 6. __CIR Composite__ (Color Infrared) 
     * Unlike other values described a CIR Composite is not an index. Instead of displaying the common RGB bands it combines 
     the NIR, Red, and Green bands such that the NIR is shown as red, the red as green, and the green 
-    as blue. This allows the NIR light to be apparent in an image, as red.
+    as blue. This allows the NIR light to be visualized as red.
 
 #### Choosing an Index Value for Sugarcane
 
-When light interacts with a crop it is partly reflected and partly absorbed. The reflectance curve of a crop
-is a combination of the plant itself and the underlying soil. Surprisingly, little specific research on how a sugarcane 
-canopy interacts with light is available, understanding the details of sugarcane spectral responses is lacking.
-
+When light interacts with a crop it is partly reflected and partly absorbed. The spectral response of sugarcane plants varies according to their state (see Figure 1). At visible
+wavelenghts of the electromagnetic spectrum, corresponding to Green and Red light, the reflectance of
+the canopy is lower than the bare soil; at Near Infrared wavelenghts the vegetation and the bare soil have
+different reflectances but are similar at Middle Infrared wavelengths. The Middle Infrared wavelength
+band is important for separating trash from others states of the crop
 #### Summary
 Remote sensing techniques provide timely, up-to-date and relatively accurate information for the management of sugarcane crop.
 Thus far we've discussed simple calculations applied to single image pixels. In practice, generating a vegetative index
