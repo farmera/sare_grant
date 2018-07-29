@@ -88,7 +88,7 @@ from which the internal IR block filter has been removed. This sequence of image
 a collaborator on this project.  
 
 ![](img/fastie-results.png)
-###### Figure 1. A composite image containing RGB (top left), NIR (top right), NGR (CIR composite, bottom left), and NDVI images.   
+###### Figure 1. A composite image containing RGB (top left), NIR (top right), NGR (CIR composite, bottom left), and NDVI rendering.   
 
 In the bottom row are two images after post-processing the top two. On the left is a false color IR image (also known as 
 an NRG image) with varying tones of red representing the near infrared band. In the bottom-right is a 'normalized 
