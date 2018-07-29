@@ -77,7 +77,7 @@ Our treatment schedule for 2017 was __0__ lbs N per acre, __40__ lbs, __80__ lbs
 These amounts were chosen as they reflect a sensible range around the recommended treatment for this particular species 
 (120 lbs per acre).
 
-#### Section III
+#### Comparing Plots
 
 * Individual treatments (per section) were analyzed using semi-automatic methods in order to enhance reproducibilty of results.
 * Care was taken to analyze young versus mature crop and to normalize these different conditions for comparison.
@@ -102,6 +102,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
 
+#### Regression Analysis
 
 All graphs shown below represent NDVI or other index values from each of thirty test plots (as single data points) 
 where each has been colored to represent an amount of N fertilizer received by that plot. 
@@ -117,6 +118,7 @@ the ultimate sucrose yield for that section occurred.
 The graph in Figure [x] above shows NDVI values during the first month of the growing season, from late April, 2017 
 (one week following application of N fertilizer) to late May.
 
+#### Multiple Regression
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
 
@@ -126,10 +128,14 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 ###### Figure 9.
 
+#### Animated Results
+
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
 
 ![](img/animated/animated-ndvi.gif)
 ###### Figure 10.
+
+#### Faceted Regression Results
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
 
