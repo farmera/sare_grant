@@ -17,9 +17,9 @@ in pursuing them we have sometimes felt a degree of tension.
 Throughout this study we have been guided by two empirical questions that are not directly related to the selection of a 
 flight method or to the type of camera used to gather image data. 
 
-* __To what degree do variable nitrogen (N) rates applied to sugarcane correlate with low-cost NDVI measurements?__
+* __To what degree may variable nitrogen rates applied to sugarcane be correlated with low-cost multi-spectral measurements?__
 
-* __Are models based on time-series analysis of acquired imagery predictive of sugarcane's yield potential?__
+* __Are models based on time-series analysis of acquired multi-spectral imagery predictive of sugarcane yield potential?__
 
 #### Disclaimer
 
