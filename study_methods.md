@@ -14,10 +14,11 @@ On the other hand, we also want to ask technical scientific questions which requ
 methods of data capture and analysis. These threads are not necessarily at cross purposes, in fact they are related, though
 in pursuing them we have sometimes felt a degree of tension.    
 
-Throughout this study we have been guided by two empirical questions that are not directly related to the selection of a 
-flight method or to the type of camera used to gather image data. 
+Throughout this study we have been guided by empirical questions that are not directly related to the selection of a 
+flight method or to the type of camera used to gather the image data. However, we have also been keen to answer such questions
+using methods that are accessible at modest cost.  
 
-* __To what degree may variable nitrogen rates applied to sugarcane be correlated with low-cost multi-spectral measurement?__
+* __To what degree may variable nitrogen rates applied to sugarcane be correlated with low-cost multi-spectral measurements?__
 
 * __Are models based on time-series analysis of acquired multi-spectral imagery predictive of sugarcane yield?__
 
