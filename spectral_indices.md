@@ -72,12 +72,13 @@ this sort of issue by use of a masking technique discussed in [Section 9](readme
     sensitive to photosynthetic activity, specifically to the variation of chlorophyll content in plants.
     
 6. __CIR Composite__ (Color Infrared) 
-    * While a CIR Composite image is not strictly an index (it's a composite) it does 
+    * Unlike other values described a CIR Composite is not an index. Instead of displaying the common RGB bands it combines 
+    the NIR, Red, and Green bands such that the NIR is shown as red, the red as green, and the green 
+    as blue. This allows the NIR light to be apparent in an image, as red.
 
+#### Choosing an Index Value for Sugarcane
 
-#### When Choosing an Index for Sugarcane
-
-When light interacts with a sugarcane crop it is partly reflected and partly absorbed. The reflectance curve of a crop
+When light interacts with a crop it is partly reflected and partly absorbed. The reflectance curve of a crop
 is a combination of the plant itself and the underlying soil. Surprisingly, little specific research on how a sugarcane 
 canopy interacts with light is available, understanding the details of sugarcane spectral responses is lacking.
 
