@@ -86,13 +86,15 @@ The development and growth of the leafy part of the sugar cane plant plays an im
 interception of solar energy for photosynthesis. This leads to the accumulation of biomass and ultimately to a higher crop 
 yield [1]. Canopy closure in sugar cane represents that point in the growth season where the adjoining tops of two rows come
 together and obscure from above the cane stalks below.   
- 
-![](img/NGR-segment.png)
+
+
+![](img/2017-04-25_001_3_CIR.png)
 ###### Figure 5.
+
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
 
-![](img/NDVI-segment.png)
+![](img/2017-04-25_001_3_NDVI.png)
 ###### Figure 6.
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
