@@ -18,7 +18,7 @@ Thus, throughout this study we have been guided by empirical questions that are 
 flight method or to the type of camera used to gather the image data. We have also been keen to answer such questions
 with methods that are accessible and available at modest cost. The two central issue we have sought to address are: 
 
-* __To what degree may variable nitrogen rates applied to sugarcane be correlated with low-cost multi-spectral measurements?__
+* __To what degree may variable nitrogen rates applied to sugarcane be correlated with low-cost multi-spectral imagery?__
 
 * __Are models based on time-series analysis of acquired multi-spectral imagery predictive of sugarcane yield?__
 
@@ -72,7 +72,7 @@ correlate with unhealthy, distressed plants_.
 
 #### Single and Dual-Camera Systems
 
-It is possible to create a vegetation index image using only a single consumer digital camera as almost all consumer camera sensors are
+It is possible to create a vegetation index like NDVI using only a single consumer digital camera as almost all consumer camera sensors are
 sensitive in the near infrared range. If the camera is modified to remove the IR blocking filter and a dual band pass filter is 
 substituted (such that one channel captures visible light and either of the other two channels captures NIR light) this leaves either 
 the green or the blue channel available for capturing NIR. However, in this scenario choosing which of the blue or the green channel 
