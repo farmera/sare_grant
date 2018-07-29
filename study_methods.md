@@ -84,21 +84,17 @@ between the two bands .
  
 As an example of a dual-camera system, the composite image in __Figure 1__ represents an RGB/NIR pair in the top row (left/right) 
 captured with a pair of consumer digital cameras. The NIR photo on the top-right was taken using a modified Canon A590, 
-from which the internal IR block filter has been removed. This sequence of images was created by Dr. Chris Fastie who was 
+from which the internal IR block filter has been removed. This sequence of images was created by Dr. Chris Fastie, 
 a collaborator on this project.  
 
 ![](img/fastie-results.png)
 ###### Figure 1. A composite image containing RGB (top left), NIR (top right), NGR (CIR composite, bottom left), and NDVI renderings.   
 
-In the bottom row are two images after post-processing the top two. On the left is a false color IR image (also known as 
-an NRG image) with varying tones of red representing the near infrared band. In the bottom-right is a 'normalized 
-difference vegetation index' __NDVI__ image which has been created using the pair above. In [Section 8](study_results_balloons.md) and 
-[Section 9](study_results_drones.md) we will take a closer look at results obtained when
-using these and similar methods. 
+In the bottom row are two images after post-processing. On the left is a false color IR image (also known as 
+a CIR composite) with varying tones of red that represent the near infrared band. In the bottom-right is a 'normalized 
+difference vegetation index' __NDVI__ image which has been created using the pair above it. In [Section 8](study_results_balloons.md) and 
+[Section 9](study_results_drones.md) we will take a closer look at results obtained when using these and similar methods. 
 
-After an initial year of ups and downs using the systems originally proposed it became apparent that 
-for a small investment one could use an aerial drone instead. We were among the first 'beta-testers' to fly
-a 3DR Solo drone with a Sequoia camera.  
 
 Whether one uses a kite, a balloon, a drone, or a pidgeon, once the images have been taken and the craft returned safely to ground,
 all images must be gathered and 'stitched' to create a final representation of the area. 
@@ -189,11 +185,9 @@ Quantitative Research is used to quantify the problem by way of generating numer
 
 #### Summary
 
-[Section 3](kites_balloons_drones.md) discusses the various bands of reflected and captured light and how these 
-may be used to facilitate an understanding of crop health. In [Section 5]() we consider in greater detail how 
-such principles allow us to manipulate the captured bands and reveal more interesting and specific patterns. 
-Here we focus on general principles which makes all of this possible. More detailed results from balloon 
-and kite methods are presented in [Section 8](study_results_balloons.md) and in [Section 9](study_results_drones.md). 
+After an initial year of ups and downs using the systems originally proposed it became apparent that 
+for a small investment one could use an aerial drone instead. We were among the first 'beta-testers' to fly
+a 3DR Solo drone with a Sequoia camera during this study.  
 
 Various flying methods, while interesting in themselves, are only a means to the end of placing a camera into 
 position in order to capture the right light at the right time of day. Before venturing into the core methods used 
@@ -204,9 +198,11 @@ For agricultural purposes, the broadband sensors contained in a modified camera 
 suited to qualitative 'big picture' views of a crop's current status. However, the information provided by such cameras
 is limited and does not permit detailed analysis of a crop over time.
 
-As discussed in [Section 3](kites_balloons_drones.md) a kite or a helium-filled balloon may serve a useful purpose in 
-providing a quick overview of a crop but the results produced are often variable and may be difficult to reproduce. 
-
+The next [Section 4](kites_balloons_drones.md) discusses the various bands of reflected and captured light and how these 
+are used to facilitate an understanding of crop health. In [Section 5]() we consider in greater detail how 
+such principles allow us to manipulate the captured bands and reveal more interesting and specific patterns. 
+Here we have focused on general principles which makes all of this possible. More detailed results from balloon 
+and kite methods are presented in [Section 8](study_results_balloons.md) and in [Section 9](study_results_drones.md). 
 
 ###### References
 [TBD]
