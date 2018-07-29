@@ -40,34 +40,34 @@ that the ability to capture in the narrowest band possible, with minimum distort
 
 Our primary goal was to determine to what extent low-cost aerial multi-spectral data could be correlated with variable 
 nitrogen (N) rates applied to sugarcane. At the end of the first season we analyzed the data and came to the conclusion
-that the methods proposed would not work. Around the same time a third method became available that previously had seemed out of reach due to cost and complexity. 
+that the methods proposed would not work. Around the same time a third method became available that previously had seemed 
+out of reach owing to its cost and apparent complexity. 
 
-#### Our First Spectral Index
+#### A Spectral Index
 
 NDVI is a popular vegetation index which has been shown to be effective in predicting crop yield potentials in other 
-plant species. But what is a multispectral vegetation index? An example may help to clarify.
+plant species. But what is a multi-spectral vegetation index? An example may help to clarify.
 
 The mathematical expression used to create an NDVI index is as follows:
 
 __(NIR - Red) / (NIR + Red) =  NDVI__
 
-This expression says "subtract the red from the NIR band (in the numerator), add the same red band to the NIR 
+This expression says "subtract the red band of light from the NIR band (in the numerator), add the same red band to the NIR 
 (in the denominator), find the quotient between the two." Assume that the amount of visible red light reflected from 
-the tree on the left in __Figure 1__ is 8% and that the amount of NIR reflected is 50%. In this case we'd have the 
-following NDVI expression: 
+a plant is 8% and the amount of NIR reflected from the same plant is 50%. In this case we'd have the following NDVI expression: 
 
 1. (0.5 - 0.08)/(0.5 + 0.08) = 0.42/0.58 = __0.72__ 
 
-An NDVI value of 0.72 (on a scale of 0 to 1.0) indicates that the tree on the left is doing well. It's reflecting 8% of 
+An NDVI value of 0.72 (on a scale of 0 to 1.0) indicates that the plant in question is doing well. It's reflecting 8% of 
 the red light away while absorbing the remaining 92% for photosynthesis. It's also reflecting more than half of the 
-harmful NIR light away. This is a generic spectral pattern that we can use: _higher NDVI values correlate with healthier, 
-more productive plants_. Consider the same equation applied to the tree on the right: 
+harmful NIR light away. This is a generic spectral pattern that we will use: _higher NDVI values correlate with healthier, 
+more productive plants_. Consider the same equation applied to a different plant: 
   
 2. (0.4 - 0.3)/(0.4 + 0.3) = 0.1/0.7 = __0.14__ 
 
-Compared with the healthy tree, this one is doing poorly. It's absorbing more than half of the NIR 
-light while reflecting away a good portion of the red. Recall that plants use red light to power photosynthesis while NIR 
-light presents a physiological burden to them. This is another generic spectral pattern that we can use: _lower NDVI values 
+Compared with the healthy plant, this one is doing poorly. It's absorbing more than half of the NIR 
+light while reflecting away a good portion of the red light. Recall that plants use red light to power photosynthesis while NIR 
+light presents a physiological burden to them. This is another generic spectral pattern that we will use: _lower NDVI values 
 correlate with unhealthy, distressed plants_. 
 
 #### Single and Dual-Camera Systems
