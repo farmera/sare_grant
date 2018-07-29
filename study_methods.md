@@ -88,7 +88,7 @@ from which the internal IR block filter has been removed. This sequence of image
 a collaborator on this project.  
 
 ![](img/fastie-results.png)
-###### Figure 1. A composite image containing RGB (top left), NIR (top right), NGR (CIR composite, bottom left), and NDVI rendering.   
+###### Figure 1. A composite image containing RGB (top left), NIR (top right), NGR (CIR composite, bottom left), and NDVI renderings.   
 
 In the bottom row are two images after post-processing the top two. On the left is a false color IR image (also known as 
 an NRG image) with varying tones of red representing the near infrared band. In the bottom-right is a 'normalized 
@@ -103,7 +103,7 @@ a 3DR Solo drone with a Sequoia camera.
 Whether one uses a kite, a balloon, a drone, or a pidgeon, once the images have been taken and the craft returned safely to ground,
 all images must be gathered and 'stitched' to create a final representation of the area. 
 
-__Figure 3__ shows the result of stitching a dozen or so images from a balloon flight. This task is commonly 
+__Figure 2__ shows the result of stitching a dozen or so images from a balloon flight. This task is commonly 
 performed by software but here an application provided by the citizen science group 
 [Public Lab](https://publiclab.org/) is used to visually stitch each image over a map of the areal extent. 
 This approach reveals how an image is often stretched and distorted in order to make it fit orthogonally onto a planar map. Achieving a 
