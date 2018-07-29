@@ -151,19 +151,17 @@ areas of photosynthetic activity on the upper right. Also visible are regions of
 well developed on the lower left compared with lower right. 
   
 ![](img/dual_camera.png)
-###### Figure 3 A dual camera system used to take the image contained in Figure 3.
+###### Figure 4 A dual camera system used to take the image contained in Figure 3.
 
-An index image like this is a useful tool for identifying potential trouble spots in a developing crop. Later 
-on in the season a flight like this might quickly point out regions of the field that are underdeveloped or damaged. 
-While these results are certainly useful and can be achieved for a few hundred dollars and perhaps a 
-weekend of practice, they are largely __qualitative__ and __not quantitative__. If the goal was to determine more precisely 
-a general pattern over time then this method would present challenges. While not impossible, it is difficult to replicate 
-the exact height and vantage point of a image taken during a flight with a kite or a balloon. On another day under different 
+While the result produced in __Figure 3__  is certainly useful and can be achieved for a few hundred dollars and perhaps a 
+weekend of practice, it is largely __qualitative__ and __not quantitative__. If the goal is to determine more precisely 
+what general patterns over time are developing then this method would not work well. While not impossible, it is difficult to replicate 
+the exact height and vantage point of a image taken during a flight with a kite or a balloon such as this . On another day under different 
 conditions these images would be hard to precisely duplicate. Since one of our stated goals was to accurately determine crop 
 trends over time using low cost methods we decided to look at other methods.  
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
-
+An index image like this is a useful tool for identifying potential trouble spots in a developing crop. Later 
+on in the season a flight like this might quickly point out regions of the field that are underdeveloped or damaged. 
 ![](img/sequoia_sensor.png)
 ###### Figure x
 
