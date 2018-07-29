@@ -151,7 +151,7 @@ areas of photosynthetic activity on the upper right. Also visible are regions of
 well developed on the lower left compared with lower right. 
   
 ![](img/dual_camera.png)
-###### Figure 3
+###### Figure 3 A dual camera system used to take images contained in Figure 3.
 
 An index image like this is a useful tool for identifying potential trouble spots in a developing crop. Later 
 on in the season a flight like this might quickly point out regions of the field that are underdeveloped or damaged. 
