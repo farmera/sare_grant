@@ -167,7 +167,6 @@ on in the season a flight like this might quickly point out regions of the field
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
 
-
 ![](img/drone_camera.png)
 ###### Figure x
 
