@@ -27,7 +27,7 @@ of sufficient quality. The first was answerable, we thought, regardless of data 
 Neither of these questions can be answered conclusively using the sort of 
 flight and image capture systems originally proposed. The reasons will be addressed in detail 
 but in brief they are two-fold: a) neither kites nor balloons are able to place a camera in position for sufficient 
-time, under conditions of sufficiently stable, such that the results from one flight may be compared with results from 
+time, under conditions of sufficiently stability, such that the results from one flight may be compared with results from 
 another; and b) while the sensor of a modified consumer camera is capable of capturing the right spectral data (i.e. the red, 
 green and NIR light) the jpeg image format of most of these cameras does not readily support the sort of 
 calibration necessary to quantitatively compare one day's flight with another.        
