@@ -112,24 +112,24 @@ representing a point in the overall process where error may be introduced.
 
 
 ![](img/map-stitch.gif)
-###### Figure 3.
+###### Figure 2. An animation of the stitching process. A dozen images are manually brought together into one. 
 
-In turn, the resolution of the final image __analyzed__ depends on the stability of the capture event, on the resolution 
-of the camera at that given moment, and on the stitching process that brings the separate images together. Of interest is the __resolution per pixel__ since each pixel ultimately represents an 
-area of the total crop section. With regard to aerial photography, resolution (also called ground sample distance) 
-refers to the area of ground covered by an individual pixel. With regard to a digital camera, resolution may also refer to the 
-number of pixels in the sensor.  Hereinafter, when using the term 'resolution' we usually mean the ground sample distance. 
-We cover this in greater detail in [Section 8](study_results_balloons.md) when discussing the results of kites and balloons.
+In turn, the resolution of the final __analyzed__ image depends on the stability of the capture event, the resolution 
+of the camera at a given moment, and the stitching process itself. Of most interest is the __resolution per pixel__. With 
+regard to aerial photography, resolution (also called ground sample distance) refers to the area of ground covered by an 
+individual pixel. With regard to a digital camera, resolution can also refer to the number of pixels contained in the sensor.  
+When using the term 'resolution' we usually mean the ground sample distance. This important concept is covered in greater 
+detail in [Section 8](study_results_balloons.md) when discussing the results of kites and balloons.
 
 
 #### Interpreting Spectral Indices 
 
-Interpreting a spectral index starts with acquiring accurate aerial image data. Doing so requires consideration of two fundamental issues: 
+Thus, interpreting a spectral index starts with acquiring accurate aerial image data. Doing so requires consideration of two fundamental issues: 
 
 1. Placing the camera at the correct height and orientation for a sufficient period of time.
 
-    * In [Section 3](kites_balloons_drones.md) three possible methods for positioning a camera 
-    in the air (a kite, a helium-filled balloon, and an aerial drone) were considered. Each has its advantages and 
+    * In [Section 4](kites_balloons_drones.md) three possible methods for positioning a camera 
+    in the air (a kite, a helium-filled balloon, and an aerial drone) will be considered. Each has its advantages and 
     disadvantages.
     
 2. Acquiring sufficient spectral detail from a camera such that the data may be usefully analyzed.
@@ -141,7 +141,12 @@ Interpreting a spectral index starts with acquiring accurate aerial image data. 
 __Figure 2__ illustrates a typical NDVI result using a kite-suspension system with two consumer-grade cameras modified 
 for NDVI. The image in the center of the figure represents a color LUT (i.e. a look-up table) which is a table of 
 numbers used to apply a color transform to an image. Applying this transform allows us to visualize reflected light that 
-otherwise would be impossible to see. In this image the LUT is prominently displayed in order to indicate that a full 
+otherwise would be impossible to see. 
+
+![](img/kite_image_fastie_lut.png)
+###### Figure 3
+
+In this image the LUT is prominently displayed in order to indicate that a full 
 range of values has been captured by this image - from dry, sandy soils on the upper left (with an NDVI value of -1) to very active 
 areas of photosynthetic activity on the upper right. Also visible are regions of immature crop which are less 
 developed on the lower left when compared with the right. 
@@ -156,12 +161,7 @@ conditions these images would be hard to precisely duplicate. Since one of our s
 trends over time using low cost methods we decided to look at other methods.  
  
 ![](img/dual_camera.png)
-###### Figure x
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
-
-![](img/kite_image_fastie_lut.png)
-###### Figure x
+###### Figure 3
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
 
