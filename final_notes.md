@@ -8,7 +8,7 @@ analysis, contributed to the design of experimental plot sections, worked on cos
 * Dr. Richard Johnson proposed the field trial’s design and helped with editorial contributions.
 * Dr Chris Fastie designed the dual-camera harness system and provided research notes.   
 * [Brazilian woman] supported in development and measurements. 
-* Katie [?] supported the field experiment.
+* Katie [?] supported with the field experiment and during harvesting.
 #### Section II
 
 * Lorem ipsum dolor sit amet
