@@ -163,7 +163,7 @@ trends over time using low cost methods we decided to look at other methods.
 An index image like this is a useful tool for identifying potential trouble spots in a developing crop. Later 
 on in the season a flight like this might quickly point out regions of the field that are underdeveloped or damaged. 
 ![](img/sequoia_sensor.png)
-###### Figure 5. A multi-spectral narrow band camera, the Sequoia, produced by Parrot. 
+###### Figure 5. A multi-spectral narrow band camera, the Sequoia, produced by Parrot. On the right is the Sunshine sensor. 
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
 
