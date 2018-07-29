@@ -95,6 +95,7 @@ a CIR composite) with varying tones of red that represent the near infrared band
 difference vegetation index' __NDVI__ image which has been created using the pair above it. In [Section 8](study_results_balloons.md) and 
 [Section 9](study_results_drones.md) we will take a closer look at results obtained when using these and similar methods. 
 
+#### Creating Larger Images
 
 Whether one uses a kite, a balloon, a drone, or a pidgeon, once the images have been taken and the craft returned safely to ground,
 all images must be gathered and 'stitched' to create a final representation of the area. 
