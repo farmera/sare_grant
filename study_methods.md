@@ -14,8 +14,8 @@ On the other hand, we also want to ask technical scientific questions which requ
 methods of data capture and analysis. These threads are not necessarily at cross purposes, in fact they are related, though
 in pursuing them we have sometimes felt a degree of tension.    
 
-Throughout our study we were guided by two empirical questions not directly related to the flight method or the 
-type of camera used to gather image data:
+Throughout this study we have been guided by two empirical questions not are not directly related to the selection of a 
+flight method or the type of camera used to gather image data. 
 
 * __To what degree do variable nitrogen (N) rates applied to sugarcane correlate with low-cost NDVI measurements?__
 
