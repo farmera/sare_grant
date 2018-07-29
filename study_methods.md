@@ -17,14 +17,15 @@ in pursuing them we have sometimes felt a degree of tension.
 Throughout this study we have been guided by two empirical questions that are not directly related to the selection of a 
 flight method or to the type of camera used to gather image data. 
 
-* __To what degree may variable nitrogen rates applied to sugarcane be correlated with low-cost multi-spectral measurements?__
+* __To what degree may variable nitrogen rates applied to sugarcane be correlated with low-cost multi-spectral measurement?__
 
-* __Are models based on time-series analysis of acquired multi-spectral imagery predictive of sugarcane yield potential?__
+* __Are models based on time-series analysis of acquired multi-spectral imagery predictive of sugarcane yield?__
 
 #### Disclaimer
 
 From the outset we considered that the second question was not likely to be answered unless the data captured was 
-of sufficient quality. The first was answerable, we thought, regardless of data capture method. It turns out we were wrong. Neither of these questions could be answered conclusively using the sort of 
+of sufficient quality. The first was answerable, we thought, regardless of data capture method. It turns out we were wrong. 
+Neither of these questions could be answered conclusively using the sort of 
 flight and image capture system originally proposed. The specific reasons will be addressed in detail 
 but in brief they are two-fold: a) neither kite nor balloon is able to place a camera in position for sufficient 
 time, under conditions which are sufficiently stable, such that results from one flight can be compared with results from 
@@ -66,7 +67,8 @@ more productive plants_. Consider the same equation applied to the tree on the r
 
 Compared with the healthy tree, this one is doing poorly. It's absorbing more than half of the NIR 
 light while reflecting away a good portion of the red. Recall that plants use red light to power photosynthesis while NIR 
-light presents a physiological burden to them. This is another generic spectral pattern that we can use: _lower NDVI values correlate with unhealthy, distressed plants_. 
+light presents a physiological burden to them. This is another generic spectral pattern that we can use: _lower NDVI values 
+correlate with unhealthy, distressed plants_. 
 
 #### Single or Dual-Camera Systems
 
