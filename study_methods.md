@@ -16,7 +16,7 @@ in pursuing them we have sometimes felt a degree of tension.
 
 Thus, throughout this study we have been guided by empirical questions that are not directly related to the selection of a 
 flight method or to the type of camera used to gather the image data. We have also been keen to answer such questions
-with methods that are accessible and available at modest cost. The two central issue we have sought to address are: 
+_using only those methods which are accessible and available at modest cost_. The two central issue we have sought to address are: 
 
 * __To what degree may variable nitrogen rates applied to sugarcane be correlated with low-cost multi-spectral imagery?__
 
