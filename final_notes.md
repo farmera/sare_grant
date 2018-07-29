@@ -1,11 +1,14 @@
 ### 11 - Final Notes
 
-#### Section I
+#### Author Contributions
 
-* Lorem ipsum dolor sit amet
-* Lorem ipsum dolor sit amet
-* Lorem ipsum dolor sit amet
-
+* Gerald McCollam conceived and wrote the grant, performed the UAV flights, processed the imagery, carried out the statistical 
+analysis, contributed to the design of experimental plot sections, worked on costs and comparisons between platforms, and wrote the manuscript.  
+* Dr. Richard Johnson proposed the field trial’s design and helped with editorial contributions.
+* Dr Chris Fastie ...  
+* [Brazilian woman] supported in development and measurements. 
+* Katie [?] supported the field experiment.
+* Slattery McCollam provided dedicated access to the study site for the grant period.
 #### Section II
 
 * Lorem ipsum dolor sit amet
