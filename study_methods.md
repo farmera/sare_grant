@@ -75,17 +75,17 @@ correlate with unhealthy, distressed plants_.
 It is possible to create a vegetation index like NDVI using only a single consumer digital camera as almost all consumer camera sensors are
 sensitive in the near infrared range. If the camera is modified to remove the IR blocking filter and a dual band pass filter is 
 substituted (such that one channel captures visible light and either of the other two channels captures NIR light) this leaves either 
-the green or the blue channel available for capturing NIR. However, in this scenario choosing which of the blue or the green channel 
-to use has a direct impact on the final result. Furthermore, neither channel is likely to generate a result that 
-is comparable to another image taken on a different day under different lighting conditions.  
+the green or the blue channel available for capturing NIR. However, in this scenario selecting which of the blue or green channel 
+to use has an impact on the result. Furthermore, neither channel is likely to generate a result that is comparable to another image taken on a different day under different lighting conditions.  
 
-An improved solution is to use a dual-camera system where one camera captures red light while another captures the NIR. 
+An improved solution is to use a dual-camera system where one camera captures red while another captures the NIR. 
 In such systems special band pass filters are used to narrow the red and NIR bands captured so that there is less contamination 
-between the two. 
+between the two bands . 
  
 As an example of a dual-camera system, the composite image in __Figure 6__ represents an RGB/NIR pair in the top row (left/right) 
 captured with a pair of consumer digital cameras. The NIR photo on the top-right was taken using a modified Canon A590, 
-from which the internal IR block filter has been removed.  
+from which the internal IR block filter has been removed. This sequence of images was created by Dr. Chris Fastie who was 
+a collaborator on this project.  
 
 ![](img/fastie-results.png)
 ###### Figure 4.
