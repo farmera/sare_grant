@@ -100,7 +100,6 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 ![](img/NGR-segment-mature.png)
 ###### Figure 7.
 
-
 All graphs shown below represent NDVI or other index values from each of thirty test plots (as single data points) 
 where each has been colored to represent an amount of N fertilizer received by that plot. 
 As an example the graph in Figure [x] below shows NDVI values on July 28th, 2017, at the height of the 
@@ -150,22 +149,22 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 ![](img/ndvic/ndvic_correlation.png)
 ###### Figure 12. Correlation of NDVI-C Index with Yield (lbs sugar per section).
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+__Figure 12__ shows the temporal evolution of a 'soil-corrected' spectral index during the 2017 growing season.  
 
 ![](img/ndre/ndre_correlation.png)
 ###### Figure 13. Correlation of NDRE Index with Yield (lbs sugar per section).
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+__Figure 13__ shows the temporal evolution of the NDRE spectral index during the 2017 growing season.  
 
 ![](img/gndvi/gndvi_correlation.png)
 ###### Figure 14. Correlation of GNDVI Index with Yield (lbs sugar per section).
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+__Figure 14__ shows the temporal evolution of the GNDVI spectral index during the 2017 growing season.  
 
 ![](img/ndvi/ndvi_correlation.png)
 ###### Figure 15. Correlation of NDVI Index with Yield (lbs sugar per section).
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+__Figure 15__ shows the temporal evolution of the NDVI spectral index during the 2017 growing season.  
 
 #### Summary
 
@@ -173,8 +172,6 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 
 ###### References
-
-###### 1. N. A. Streck, J. G. Hanauer, L. F. Gabriel, T. C. Buske, and J. A. Langner, “Leaf development and growth of selected sugarcane clones in a subtropical environment,” Pesquisa Agropecuária Brasileira, vol. 45, no. 10, pp. 1049–1057, 2010.
 
 [TBD]
 

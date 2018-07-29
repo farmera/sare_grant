@@ -26,12 +26,15 @@
 * GUYOT, G., 1990, Optical properties of vegetation canopies. In Application of Remote Sensing in Agriculture, M.
 
 
-Zhang, C.; Kovacs, J.M. The application of small unmanned aerial systems for precision agriculture:
+* Zhang, C.; Kovacs, J.M. The application of small unmanned aerial systems for precision agriculture:
 A review. Precis. Agric. 2012, 13, 693–712.
 
-Hunt, E.R., Jr.; Hively, W.D.; Fujikawa, S.; Linden, D.; Daughtry, C.S.; McCarty, G. Acquisition of NIR-Green-Blue digital photographs from unmanned aircraft for crop monitoring. Remote Sens.
+* Hunt, E.R., Jr.; Hively, W.D.; Fujikawa, S.; Linden, D.; Daughtry, C.S.; McCarty, G. Acquisition of NIR-Green-Blue digital photographs from unmanned aircraft for crop monitoring. Remote Sens.
 2010, 2, 290–305.
 
-Motohka, T., K. N. Nasahara, H. Oguma, and S. Tsuchida. 2010. “Applicability of Green-Red Vegetation Index for Remote Sensing of Vegetation Phenology.” Remote Sensing 2 (10): 2369–2387. doi:10.3390/rs2102369.
+* Motohka, T., K. N. Nasahara, H. Oguma, and S. Tsuchida. 2010. “Applicability of Green-Red Vegetation Index for Remote Sensing of Vegetation Phenology.” Remote Sensing 2 (10): 2369–2387. doi:10.3390/rs2102369.
+
+
+* N. A. Streck, J. G. Hanauer, L. F. Gabriel, T. C. Buske, and J. A. Langner, “Leaf development and growth of selected sugarcane clones in a subtropical environment,” Pesquisa Agropecuária Brasileira, vol. 45, no. 10, pp. 1049–1057, 2010.
 
 ![](img/farmera.png) 
