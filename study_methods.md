@@ -21,8 +21,6 @@ flight method or to the type of camera used to gather image data.
 
 * __Are models based on time-series analysis of acquired multi-spectral imagery predictive of sugarcane yield?__
 
-#### Disclaimer
-
 From the outset we considered that the second question was not likely to be answered unless the data captured was 
 of sufficient quality. The first was answerable, we thought, regardless of data capture method. It turns out we were wrong. 
 Neither of these questions could be answered conclusively using the sort of 
