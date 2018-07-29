@@ -18,14 +18,14 @@ common spectral index used in agriculture for gauging the health of plants is
 Calculating a VI requires converting an image or set of images into a set of  *rasters* - rectangular grids of pixels or 
 points of color. Each pixel contains a set of values corresponding to the captured bands of light. In familiar RGB 
 terms each pixel contains a Red, a Green and a Blue score. Such scores reflect the power, or luminosity, of electromagnetic 
-radiation for that particular band as it comes into contact with the pixel sensors of a digital camera. Most of the indices 
+radiation for that particular band as it comes into contact with the sensors of a digital camera. Most of the indices 
 used in this study make use of an inverse relationship between red and near infra-red reflectance values commonly associated 
 with healthy green vegetation. 
 
 ![](img/rasterbands.gif)
 ###### Figure 1. Raster arrays representing different bands of light.  
 
-As an example of a vegetation index we calculate NDVI from an image in the following way: 
+An example of a vegetation index is NDVI. It is calculated from an image in the following way: 
 1. Subtract the NIR band reflectance values in all pixels from all the Red values. 
 2. Add all NIR values in each pixel to all the Red values.
 3. Calculate the ratio between the calculated difference (the numerator) and the calculated sum (the denominator). 
