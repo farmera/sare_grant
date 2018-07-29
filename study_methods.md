@@ -15,8 +15,8 @@ methods of data capture and analysis. These threads are not necessarily at cross
 in pursuing them we have sometimes felt a degree of tension.    
 
 Throughout this study we have been guided by empirical questions that are not directly related to the selection of a 
-flight method or to the type of camera used to gather the image data. However, we have also been keen to answer such questions
-using methods that are accessible at modest cost.  
+flight method or to the type of camera used to gather the image data. We have also been keen to answer such questions
+with methods that are accessible and available at modest cost. The two central issue we have sought to address are: 
 
 * __To what degree may variable nitrogen rates applied to sugarcane be correlated with low-cost multi-spectral measurements?__
 
