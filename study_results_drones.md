@@ -140,13 +140,13 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
 
 _corrected ndvi_
-![](img/ndvic/ndvic_all_spectral_data.png)
+![](img/ndvic/ndvic_all_spectral_data_mark.png)
 _ndre_
-![](img/ndre/ndre_all_spectral_data.png)
+![](img/ndre/ndre_all_spectral_data_mark.png)
 _gndvi_
-![](img/gndvi/gndvi_all_spectral_data.png)
+![](img/gndvi/gndvi_all_spectral_data_mark.png)
 _ndvi_
-![](img/ndvi/ndvi_all_spectral_data.png)
+![](img/ndvi/ndvi_all_spectral_data_mark.png)
 ![](img/N_bar.png)
 
 ###### Figure 11. Regression 'facets' showing index values versus yield (April to November 2017).
