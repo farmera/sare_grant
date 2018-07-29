@@ -152,7 +152,7 @@ _ndvi_
 ###### Figure 11. Regression 'facets' showing index values versus yield (April to November 2017).
 
 
-#### Temporal Evolution of Vegetation Indicies
+#### Temporal Evolution of Vegetation Index
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
 
