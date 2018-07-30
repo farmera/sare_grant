@@ -85,11 +85,6 @@ bare soil have different reflectances but are similar at Middle Infrared wavelen
 band is important for separating trash from others states of the crop
 
 
-![](img/multiples_123_NDVI.png)
-###### Figure x
-![](img/multiples_123_GNDVI.png)
-###### Figure x
-
 #### Summary
 Remote sensing techniques provide timely, up-to-date and relatively accurate information for the management of sugarcane crop.
 Thus far we've discussed simple calculations applied to single image pixels. In practice, generating a vegetative index
