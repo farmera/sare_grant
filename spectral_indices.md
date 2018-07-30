@@ -84,6 +84,12 @@ light, the reflectance of the canopy is lower than the bare soil; at Near Infrar
 bare soil have different reflectances but are similar at Middle Infrared wavelengths. The Middle Infrared wavelength
 band is important for separating trash from others states of the crop
 
+
+![](img/choose_index_1.png)
+###### Figure x
+![](img/choose_index_2.png)
+###### Figure x
+
 #### Summary
 Remote sensing techniques provide timely, up-to-date and relatively accurate information for the management of sugarcane crop.
 Thus far we've discussed simple calculations applied to single image pixels. In practice, generating a vegetative index
