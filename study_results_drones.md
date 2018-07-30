@@ -92,7 +92,7 @@ together and obscure from above the cane stalks below.
 ![](img/2017-04-25_001_3_GNDVI.png)
 ###### Figure 6. CIR composite image, NDVI versus GNDVI index in an early sugar cane crop. 
 
-__Figure 5__ shows three images: a CIR composite of a single section (taken on April 25, 2017) followed by two index images
+In __Figure 5__ three images are displayed: a CIR composite of a single section (taken on April 25, 2017) followed by two index images
 processed from the same section for NDVI and GNDVI. The color bar to the right of each are the index values on a scale 
 of 0 to 1. The mean 'soil-corrected' index value for each section was __0.46__ for NDVI and __0.4__ for GNDVI. These values 
 were generated automatically for all sections, for all treatments, and used in the final regression analysis. Thus, our
@@ -117,7 +117,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 ###### Figure 8. General comparison of NDVI versus GNDVI in early to mid-season sugarcane crop.
 
-__Figure 7__ demonstrates the subtle differences revealed when using an alternative vegetation index at 
+The images in __Figure 7__ demonstrate subtle differences revealed when using an alternative vegetation index at 
 a different time in the growth season. Two groups of nine sections are displayed, the top group is NDVI, the bottom 
 is GNDVI. Reading from left to right in each column shows time advance from early season to the high point of 
 photosynthetic activity. Reading from top to bottom in each group shows an increase in nitrogen treatment from 80 lbs N to 
