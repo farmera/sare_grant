@@ -85,6 +85,7 @@ bare soil have different reflectances but are similar at Middle Infrared wavelen
 band is important for separating trash from others states of the crop
 
 ![](img/multiples_123_NDVI.png)
+###### Figure x
 ![](img/multiples_123_GNDVI.png)
 ###### Figure x
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
