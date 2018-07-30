@@ -106,11 +106,15 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 --------
 ![](img/multiples_134_GNDVI.png)
 
-###### Figure 7. Comparison of NDVI versus GNDVI in early to mid-season sugarcane crop.  
+###### Figure 7. Comparison of NDVI versus GNDVI in early to mid-season sugarcane crop.
 
 __Figure 7__ demonstrates the subtle differences revealed when using an alternative vegetation index at 
 a different time in the growth season. Two groups of nine images are displayed, the top group is NDVI, the bottom 
-is GNDVI. Compared with NDVI, GNDVI shows lower correlation with yield data overall but may be better suited 
+is GNDVI. Reading from left to right in each column shows time advancing from early in the season to the high point of 
+photosynthetic activity. Reading from top to bottom in each group shows an increase in nitrogen treatment from 80 lbs N to 
+180 lbs N. 
+
+Compared with NDVI, GNDVI shows lower correlation with yield data overall but may be better suited 
 at certain points in the season. As indicated by the leftmost column, use of the green band in sparsely vegetated sections 
 decreases the sensitivity of GNDVI while denser sections (right-most column) tend to benefit by 
 dampening the saturation that NDVI produces late in the season. Surprisingly, the central column is where GNDVI 'out-performs'
