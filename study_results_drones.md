@@ -105,18 +105,20 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 ![](img/multiples_134_NDVI.png)
 --------
 ![](img/multiples_134_GNDVI.png)
---------
 
-###### Figure x
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+###### Figure 7. Comparison of performance of NDVI versus GNDVI in early to high season sugarcane crop.  
+
+__Figure 7__ demonstrates the subtle difference that may be revealed when using an alternative vegetation index at 
+a different point in the growth season. Two groups of nine images are displayed, the top group is NDVI, the bottom 
+is GNDVI. Compared with NDVI, GNDVI shows lower correlation with the final yield data overall but may be better suited 
+at certain times in the season. As indicated by the leftmost column, use of the green band in sparsely vegetated sections 
+decreased the sensitivity of GNDVI while more dense sections later in the season (right-most column) tended to benefit by 
+dampening some of the saturation that NDVI produced later in the year.  
+
 
 #### Regression Analysis
 
-All graphs shown below represent NDVI or other index values from each of thirty test plots (as single data points) 
-where each has been colored to represent an amount of N fertilizer received by that plot. 
-As an example the graph in Figure [x] below shows NDVI values on July 28th, 2017, at the height of the 
-growing season. At this time in the season is when the highest degree of correlation between each set of treatment values and 
-the ultimate sucrose yield for that section occurred. 
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
 
 ![](img/ndvi/ndvi_winner.png)
 ![](img/N_bar.png)
