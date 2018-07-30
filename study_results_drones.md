@@ -35,7 +35,7 @@ two 100ft x 60 ft sections in perspective. Here the precision offered by semi-au
 outshines the other aerial methods used.  
 
 ![](img/RGB_SARE-Cropped.png)
-###### Figure 3. A 'nadir' view showing the relative scale of the individual sections. The 'bumps' indicate where sugarcane is responding to treatments.  
+###### Figure 3. A 'nadir' view indicating the relative scale of individual sections.
 
 #### Section II
 
@@ -66,7 +66,7 @@ and referenced from a known surveyor's benchmark. The GCP is located in the righ
 the intersection of two white lines.     
 
 ![](img/NGR_SARE-Cropped.png)
-###### Figure 5. A CIR composite showing section detail and the grid used to apply different nitrogen amounts.   
+###### Figure 5. A CIR composite showing section detail and the grid used to apply different nitrogen amounts. Color differences indicate different treatments.   
 
 _Figure 4_ shows results of a flight which occurred on July 28, 2017. This image has been rendered as an NRG 
 for practical reasons since the original raw geotiff from which it was produced is not easily visualized. The image clearly 
