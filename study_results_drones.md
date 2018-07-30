@@ -93,22 +93,22 @@ together and obscure from above the cane stalks below.
 ###### Figure 6. CIR composite image, NDVI versus GNDVI index in an early sugar cane crop. 
 
 In __Figure 5__ three images are displayed: a CIR composite of a single section (taken on April 25, 2017) followed by two index images
-processed from the same section for NDVI and GNDVI. The color bar to the right of each are the index values on a scale 
+processed from the same section for NDVI and GNDVI. The color bars to the right represent index values on a scale 
 of 0 to 1. The mean 'soil-corrected' index value for each section was __0.46__ for NDVI and __0.4__ for GNDVI. These values 
-were generated automatically for all sections, for all treatments, and used in the final regression analysis. Thus, our
-approach was to average a single 'index signal' from each section then compare these in terms of the final sucrose yield 
-derived once the crop was harvested. 
+were generated for all sections, for all treatments, and used in the final regression analysis. Our
+approach was to average a cumulative 'index signal' for each section and compare this with the final sucrose yield 
+for that section following harvest. 
  
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
 
 ![](img/2017-07-28_021_3_CIR.png)
 ![](img/2017-07-28_021_3_NDVI.png)
 ![](img/2017-07-28_021_3_GNDVI.png)
-###### Figure 7. CIR composite image, NDVI versus GNDVI index in a mid-season sugarcane growth. 
+###### Figure 7. CIR composite image, NDVI versus GNDVI index in mid-season sugarcane growth. 
 
-In __Figure 7__ the CIR composite, NDVI and GNDVI images from a section taken on July 28, 2017 are shown. The mean 'soil-corrected' 
-index value for these was __0.83__ for NDVI and __0.73__ for GNDVI. Given the difference in scaling and the obvious visual difference,
-that the two values are basically equivalent was of interest. 
+In __Figure 7__ a CIR composite, NDVI and GNDVI from a section taken on July 28, 2017 are shown. The mean 'soil-corrected' 
+index value for these was __0.83__ for NDVI and __0.73__ for GNDVI. Given the obvious visual difference of these two images,
+that the values are basically equivalent (after accounting for the scale difference) is of interest. 
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
 
