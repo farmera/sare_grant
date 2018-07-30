@@ -87,7 +87,7 @@ band is important for separating trash from others states of the crop
 
 ![](img/multiples_123_NDVI.png)
 ###### Figure x
-![](img/choose_index_2.png)
+![](img/multiples_123_NDVI.png)
 ###### Figure x
 
 #### Summary
