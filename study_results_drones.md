@@ -126,8 +126,8 @@ photosynthetic activity. Reading from top to bottom in each group shows an incre
 Compared with NDVI, GNDVI shows lower correlation with yield data overall but may be better suited 
 at certain points in the season. As indicated by the leftmost column, use of the green band in sparsely vegetated sections 
 decreases the sensitivity of GNDVI while denser sections (right-most column) tend to benefit by 
-dampening the saturation that NDVI produces late in the season. Surprisingly, the central column is where GNDVI 'out-performs'
-NDVI in terms of its ability to correlate with final yield values.
+dampening the NDVI saturation that occurs later in the season. Surprisingly, the central column is where GNDVI 'out-performs'
+NDVI in terms of its ability to correlate with the final yield values.
 
 
 #### Regression Analysis
