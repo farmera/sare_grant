@@ -13,13 +13,13 @@ yields, the crop used in this study (a second-year 'stubble') is an ideal 'nitro
 For the 2017 season, a single-factor field trial was laid out in a common randomized split-plot design on 19 April 2017. 
 	
 ![](img/study_area.png)
-###### Figure 1. Study Area. 
+###### Figure 1. Ellendale study area measuring 1000 by 120 ft, 2.7 acres total. 
 
 Five levels of nitrogen fertilization (0, 40, 80, 120 and 180 kg·N·ac−1) were applied in a setup with six replicates. 
 This resulted in 30 plots of size 100 × 60 sq ft each making a total trial size of 2.75 acres. 
 
 ![](img/SARE_GRID.png)
-###### Figure 2. Treatment schedule.
+###### Figure 2. Treatment schedule applied during the 2017 sugarcane season.
 
 Sugarcane growth was monitored at 6, 21, 36, 100, 147, and 208 days following N treatment. At 216 days following treatment, 
 the experimental plots were harvested to provide estimates of agricultural yield. The yield was measured following manual 
@@ -35,7 +35,7 @@ two 100ft x 60 ft sections in perspective. Here the precision offered by semi-au
 outshines the other aerial methods used.  
 
 ![](img/RGB_SARE-Cropped.png)
-###### Figure 3. Individual Sections.   
+###### Figure 3. A view for 'nadir' showing scale of individual sections. The 'bumps' in this photo show where sugarcane is responding to treatments.  
 
 #### Section II
 
