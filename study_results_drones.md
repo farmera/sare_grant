@@ -35,7 +35,7 @@ two 100ft x 60 ft sections in perspective. Here the precision offered by semi-au
 outshines the other aerial methods used.  
 
 ![](img/RGB_SARE-Cropped.png)
-###### Figure 3. A view for 'nadir' showing relative scale of the individual sections. The 'bumps' indicate where sugarcane is responding to treatments.  
+###### Figure 3. A 'nadir' view showing the relative scale of the individual sections. The 'bumps' indicate where sugarcane is responding to treatments.  
 
 #### Section II
 
