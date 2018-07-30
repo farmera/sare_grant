@@ -32,12 +32,12 @@ reasons) where each flight overlapped in the center of the field. Calibration of
 A primary advantage of the drone compared with other methods is the ability to pre-program an exact height (250ft) and range 
 prior to each flight. This advantage is clearly demonstrated in __Figure 2__ of the area taken from  'nadir' perspective. It shows 
 two 100ft x 60 ft sections in perspective. Here the precision offered by semi-autonomous, programmable drones easily 
-outshines the other aerial methods used.  
+outshines other aerial methods considered.  
 
 ![](img/RGB_SARE-Cropped.png)
 ###### Figure 3. A 'nadir' view indicating the relative scale of individual sections.
 
-#### Section II
+#### Processing Steps
 
 * After pre-processing steps, each flight yielded a single composite image.
 * The composite image was segmented by an automated process into the thirty individual sections.  
@@ -106,7 +106,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 ![](img/2017-07-28_021_3_GNDVI.png)
 ###### Figure 7. CIR composite image, NDVI versus GNDVI index in a mid-season sugarcane growth. 
 
-__Figure 6__ shows the CIR composite, NDVI and GNDVI images from a section taken on July 28, 2017. The mean 'soil-corrected' 
+In __Figure 7__ the CIR composite, NDVI and GNDVI images from a section taken on July 28, 2017 are shown. The mean 'soil-corrected' 
 index value for these was __0.83__ for NDVI and __0.73__ for GNDVI. 
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
