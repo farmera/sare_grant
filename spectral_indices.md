@@ -78,8 +78,8 @@ this sort of issue by use of a masking technique discussed in [Section 9](readme
 
 #### Choosing an Index Value for Sugarcane
 
-When light interacts with a crop it is partly reflected and partly absorbed. The spectral response of sugarcane plants 
-varies according to their state (see Figure 1). At visible wavelenghts of the spectrum, corresponding to Green and Red 
+When light interacts with a sugarcane crop it is partly reflected and partly absorbed. The spectral response of sugarcane 
+varies according to . At visible wavelenghts of the spectrum, corresponding to Green and Red 
 light, the reflectance of the canopy is lower than the bare soil; at Near Infrared wavelenghts the vegetation and the 
 bare soil have different reflectances but are similar at Middle Infrared wavelengths. The Middle Infrared wavelength
 band is important for separating trash from others states of the crop
