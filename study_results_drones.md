@@ -68,7 +68,7 @@ the intersection of two white lines.
 ![](img/NGR_SARE-Cropped.png)
 ###### Figure 5. A CIR composite showing section detail and the grid used to apply different nitrogen amounts. Color differences indicate different treatments.   
 
-_Figure 4_ shows results of a flight which occurred on July 28, 2017. This image has been rendered as an CIR composite 
+__Figure 5__ shows results of a flight which occurred on July 28, 2017. This image has been rendered as an CIR composite 
 for practical reasons since the original raw geotiff from which it was produced is not easily visualized. The image clearly 
 shows, as red light, the conditional coloring of luminosities in the near infrared band. Also visible are differences in 
 the areas that have been treated with variable amounts of nitrogen.
