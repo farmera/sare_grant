@@ -110,9 +110,9 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 __Figure 7__ demonstrates the subtle difference that may be revealed when using an alternative vegetation index at 
 a different point in the growth season. Two groups of nine images are displayed, the top group is NDVI, the bottom 
-is GNDVI. Compared with NDVI, GNDVI shows lower correlation with the final yield data overall but may be better suited 
+is GNDVI. Compared with NDVI, GNDVI shows lower correlation with yield data overall but may be better suited 
 at certain times in the season. As indicated by the leftmost column, use of the green band in sparsely vegetated sections 
-decreased the sensitivity of GNDVI while more dense sections later in the season (right-most column) tended to benefit by 
+decreases sensitivity of GNDVI while denser sections later in season (right-most column) tend to benefit by 
 dampening some of the saturation that NDVI produced later in the year.  
 
 
