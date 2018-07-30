@@ -118,8 +118,8 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 ###### Figure 8. General comparison of NDVI versus GNDVI in early to mid-season sugarcane crop.
 
 The images in __Figure 7__ demonstrate subtle differences revealed when using an alternative vegetation index at 
-a different time in the growth season. Two groups of nine sections are displayed, the top group is NDVI, the bottom 
-is GNDVI. Reading from left to right in each column shows time advance from early season to the high point of 
+a different point in the growth season. Two groups of nine sections are displayed, the top group is NDVI, the bottom 
+is GNDVI. Reading each group from left to right in each column shows time advance from early season to the high point of 
 photosynthetic activity. Reading from top to bottom in each group shows an increase in nitrogen treatment from 80 lbs N to 
 180 lbs N. 
 
