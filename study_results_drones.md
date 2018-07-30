@@ -97,6 +97,7 @@ __Figure 5__ shows three images: a CIR composite of a single section taken on Ap
 processed from the same section for NDVI and GNDVI. In the color bar to the right of each are index values on a scale 
 of 0 to 1. The mean 'soil-corrected' index value for each section was 0.46 for NDVI and 0.4 for GNDVI.   
  
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
 
 ![](img/2017-07-28_021_3_CIR.png)
 ![](img/2017-07-28_021_3_NDVI.png)
@@ -105,6 +106,8 @@ of 0 to 1. The mean 'soil-corrected' index value for each section was 0.46 for N
 
 __Figure 6__ shows the CIR composite, NDVI and GNDVI images from a section taken on July 28, 2017. The mean 'soil-corrected' 
 index value for these was 0.83 for NDVI and 0.73 for GNDVI. 
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
 
 ![](img/multiples_134_NDVI.png)
 --------
