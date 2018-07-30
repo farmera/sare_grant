@@ -79,8 +79,7 @@ These amounts were chosen as they reflect a sensible range around the recommende
 
 #### Comparing Plots
 
-* Individual treatments (per section) were analyzed using semi-automatic methods in order to enhance reproducibilty of results.
-* Care was taken to analyze young versus mature crop and to normalize these different conditions for comparison.
+* Individual treatments (per section) were analyzed across early, mid-season and late-season growth using automated methods.
 
 The development and growth of the leafy part of the sugar cane plant plays an important part in helping to maximize the 
 interception of solar energy for photosynthesis. This leads to the accumulation of biomass and ultimately to a higher crop 
