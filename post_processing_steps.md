@@ -48,7 +48,6 @@ consider steps five and six.
 
 * Seasonal variation in spectral data can be addressed through basic machine learning techniques.
 * Different spectral indices offer alternate views of the same data. 
-* Consideration of proprietary versus open-source models. 
 
 We tested a variety of spectral index types during this study, always with the goal of discovering which was best suited 
 to the task of revealing an often elusive set of values.

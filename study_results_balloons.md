@@ -2,8 +2,7 @@
 
 #### Introduction
 
-When our project was initiated the plan at the outset was to use methods that are readily available 
-to anyone and to apply these in ways that do not impose a high barrier in terms of time and materials. 
+When our project was initiated the plan was to use methods that are readily available to anyone and to apply these in ways that do not impose a high barrier in terms of time and materials. 
 Farmers are generally very practical regarding the kind of tool they are willing to try in order to solve a 
 problem. Most are eager to learn a new method if it helps solve a long-standing issue more efficiently. As an example, crop 
 scouting has existed as long as farming has and its methods have changed very little except that what was once done on foot or 
