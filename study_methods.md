@@ -158,8 +158,8 @@ well developed on the lower left compared with lower right.
 
 Though it offers a qualitative view only, an index image produced from a kite remains a useful tool to help identify and 
 track potential trouble spots in a developing crop. Having a simple kite rig in the back of the truck can assist in crop scouting. 
-With a clear sky and a brisk wind, a kite flight takes thirty minutes or so and is time well spent if it points out 
-regions of a field that are underdeveloped or damaged.
+With a clear sky and brisk wind, a kite flight takes thirty minutes and is time well spent if it points out 
+regions of the field that are underdeveloped or damaged.
 
 While the result produced in __Figure 4__  is useful and may be achieved for a couple hundred dollars and a 
 weekend of practice, these are __qualitative__ and not __quantitative__ results. If the goal is to precisely determine 
