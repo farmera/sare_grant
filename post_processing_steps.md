@@ -65,10 +65,6 @@ order to derive a better sense of the sensitivity of a particular index, and to 
 pair. However, at least half of the visible area in these images of early sugar cane is composed of __soil__ which should not 
 be included in the averaged NDVI value (e.g. since soil is _not_ photosynthetic).
 
-![](img/04-25_ndvi.png)
-![](img/05-25_ndvi.png)
-###### Figure 1. Comparison of NDVI images. 
-
 Thus the task is to remove pixels from an image where those pixel values represent soil. How might one accomplish this? 
 One way is to open up each image in an editor, examine every pixel and guess, based on color, whether it should be 
 included in the final average or not. Each of these particular section images contains ~30,000 pixels and there are 30 
@@ -111,7 +107,28 @@ from the samples which proves to be of significance when a final interpretation 
 #### Early versus late crop interpretation
 
 * Lorem ipsum dolor sit amet
-* Lorem ipsum dolor sit amet
+
+![](img/04-25_ndvi.png)
+![](img/05-25_ndvi.png)
+###### Figure 1. Comparison of NDVI images from April 25, 2017 and May 25, 2017. 
+
+![](img/multiples_134_NDVI.png)
+--------
+![](img/multiples_134_GNDVI.png)
+
+###### Figure 8. General comparison of NDVI versus GNDVI in early to mid-season sugarcane crop.
+
+The images in __Figure 7__ demonstrate subtle differences revealed when using an alternative vegetation index at 
+a different point in the growth season. Two groups of nine sections are displayed, the top group is NDVI, the bottom 
+is GNDVI. Reading each group from left to right in each column shows time advance from early season to the high point of 
+photosynthetic activity. Reading from top to bottom in each group shows an increase in nitrogen treatment from 80 lbs N to 
+180 lbs N. 
+
+Compared with NDVI, GNDVI shows lower correlation with yield data overall but may be better suited 
+at certain points in the season. As indicated by the leftmost column, use of the green band in sparsely vegetated sections 
+decreases the sensitivity of GNDVI while denser sections (right-most column) tend to benefit by 
+dampening the NDVI saturation that occurs later in the season. Surprisingly, the central column is where GNDVI 'out-performs'
+NDVI in terms of its ability to correlate with the final yield values.
 
 
 #### Summary
