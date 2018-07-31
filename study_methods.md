@@ -162,15 +162,15 @@ With a clear sky and brisk wind, a kite flight takes thirty minutes and is time 
 regions of the field that are underdeveloped or damaged.
 
 While the result produced in __Figure 4__  is useful and may be achieved for a couple hundred dollars and a 
-weekend of practice, these are __qualitative__ and not __quantitative__ results. If the goal is to precisely determine 
-a general pattern over time then this method will not work. While not impossible, it is difficult to replicate 
+weekend of practice, these are __qualitative__, not __quantitative__ results. If the goal is to precisely determine 
+patterns over time then this method will not work. While not impossible, it is difficult to replicate 
 the exact height and vantage point of a image taken during a flight with a kite or a balloon. On another day under different 
-conditions such images will be hard to replicate with precision. Since one of our stated goals was to use low-cost methods to accurately determine crop 
-trends over time we decided to look at other methods. 
+conditions such images will be hard to replicate. Since one of our stated goals was to use low-cost methods to accurately determine crop 
+trends over time we decided to look elsewhere. 
 
 ![](img/sequoia-camera.png) 
 
-###### Figure 7. The 3DR Solo drone with Parrot Sequoia camera attached. 
+###### Figure 7. The 3DR Solo drone with a Parrot Sequoia camera and 'sun sensor' attached. 
 
 #### Going Semi-Autonomous
 
