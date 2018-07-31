@@ -172,6 +172,8 @@ trends over time we decided to look at other methods.
 
 ###### Figure 7. The 3DR Solo drone with Parrot Sequoia camera attached. 
 
+#### Going Semi-Autonomous
+
 Unmanned Aerial Vehicles (UAV), or Unmanned Aerial System (UAS), are all-encompassing terms including aircraft, 
 ground-based controller, and a system of communication between the two. More commonly known as drones, semi-autonomous
 flying vehicles have been around for years but until recently were largely tools of the military. The challenge of early 
