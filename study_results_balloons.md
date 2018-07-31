@@ -37,7 +37,7 @@ model to model. Disabling this feature is not a ready option.
 While some consumer cameras support the RAW image format, RAW images are much larger and a problem during flight. 
 For this reason our results using consumer cameras are based on the JPEG format. How to accurately calibrate for reflectance 
 under changing illuminant conditions while still being limited to JPEG is another issue. Finally, lack of accurate 
-geo-tagging support in most consumer cameras can mean no consistent source of reference regarding the planar as well as 
+geo-tagging support in most consumer cameras means no consistent source of reference regarding the planar as well as 
 the vertical positioning of the camera with respect to the field. A hand-held GPS device was used to create the ground
 control points in these images but it was not always possible to use geo-tags in images to match each capture with a known position 
 on the ground. 

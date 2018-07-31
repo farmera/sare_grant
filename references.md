@@ -34,6 +34,13 @@ A review. Precis. Agric. 2012, 13, 693–712.
 
 * Motohka, T., K. N. Nasahara, H. Oguma, and S. Tsuchida. 2010. “Applicability of Green-Red Vegetation Index for Remote Sensing of Vegetation Phenology.” Remote Sensing 2 (10): 2369–2387. doi:10.3390/rs2102369.
 
+* Rahman M. and Robson A.J. 2016. A Novel Approach for Sugarcane Yield Prediction Using Landsat Time Series Imagery: A case Study on Bundaberg Region. Advances in Remote Sensing, 5, 93–102.
+
+* Huang J., Wang H., Dai Q, and Han D. 2014. Analysis of NDVI Data for Crop Identification and Yield Estimation. IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing, 7, 4374–4384.
+
+* Morel J., Todoroff P., Begue A., Bury A., Martine J., Petit M. 2014. Toward a Satellite-Based System of Sugarcane Yield Estimation and Forecasting in Smallholder Farming Conditions: A Case Study on Reunion Island. Remote Sensing Journal, 6, 6620–6635.
+
+* Prasad A.K., Chai L., Singh, R.P., and Kafatos M. 2006. Crop yield estimation model for Iowa using remote sensing and surface parameters. International Journal of Applied Earth Observation and Geoinformation, 8, 26-33.
 
 * N. A. Streck, J. G. Hanauer, L. F. Gabriel, T. C. Buske, and J. A. Langner, “Leaf development and growth of selected sugarcane clones in a subtropical environment,” Pesquisa Agropecuária Brasileira, vol. 45, no. 10, pp. 1049–1057, 2010.
 
