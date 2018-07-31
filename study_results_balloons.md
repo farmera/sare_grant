@@ -28,19 +28,19 @@ wind is variable.
 
 The RAW format captures everything without pre-processing while JPEG does not...
 
-A source of artifact in JPEG images used for spectral index purposes is compression and band distortion. Digital Image 
+A source of artifact for JPEG images in spectral index preparation is compression and band distortion. Digital Image 
 Compression (DIC) addresses issues of storage and transmission since storage space is at a premium in any consumer-grade 
 camera. For our purposes, image compression and band distortion are less features than problems to be corrected. Compression 
 and band distortion occur in the camera during capture and can impact the ability to utilize _all_ bandwidth data in 
 post-processing. JPEG files are automatically pre-processed in the camera though exactly how this occurs varies from 
 model to model. Disabling this feature is not a ready option. 
  
-While some consumer cameras support the RAW image format, RAW images are much larger (and a problem during flight). 
+While some consumer cameras support the RAW image format, RAW images are much larger and a problem during flight. 
 For this reason our results using consumer cameras are based on the JPEG format. How to accurately calibrate for reflectance 
-under changing illuminant conditions while still being limited to JPEG is still another issue. Finally, lack of accurate 
-geotagging support in most consumer cameras. While most cameras support this feature, in practice we found it to be 
-inconsistent as a reliable source of reference regarding the planar as well as vertical positioning of the camera with respect to the field. A hand-held GPS device was used to create the ground
-control points but it was not always possible to use geotagging of images to match each capture with a known position 
+under changing illuminant conditions while still being limited to JPEG is another issue. Finally, lack of accurate 
+geo-tagging support in most consumer cameras can mean no consistent source of reference regarding the planar as well as 
+the vertical positioning of the camera with respect to the field. A hand-held GPS device was used to create the ground
+control points in these images but it was not always possible to use geo-tags in images to match each capture with a known position 
 on the ground. 
 
 Having obtained a set of images we then scripted a process in Fiji to help align, stitch and create the vegetation index.  
