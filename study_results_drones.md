@@ -79,14 +79,13 @@ These amounts were chosen as they reflect a sensible range around the recommende
 
 #### Comparing Plots
 
-* Individual treatments (per section) were analyzed across early, mid-season and late-season growth using automated methods.
+* Section treatments were analyzed during early, mid-season and late-season growth.
 
 The development and growth of the leafy part of the sugar cane plant plays an important part in helping to maximize the 
 interception of solar energy for photosynthesis. This leads to the accumulation of biomass and ultimately to a higher crop 
-yield [1]. Canopy closure in sugar cane represents that point in the growth season where the adjoining tops of two rows come
+yield. Canopy closure in sugar cane represents a point in the growth season where the adjoining tops of two rows come
 together and obscure from above the cane stalks below.   
 
--------
 ![](img/2017-04-25_001_3_CIR.png)
 ![](img/2017-04-25_001_3_NDVI.png)
 ![](img/2017-04-25_001_3_GNDVI.png)
@@ -140,7 +139,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
 
 ![](img/animated/animated-ndvi.gif)
-###### Figure 10.
+###### Figure 10. An 'animated' plot showing time evolution of the correlation between vegetation index (NDVI) and the yield produced by that section.
 
 #### Faceted Regression Results
 
