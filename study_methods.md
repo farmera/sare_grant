@@ -70,7 +70,7 @@ light presents a physiological burden to them. This is another generic spectral 
 correlate with unhealthy, distressed plants_. 
 
 ![](img/ndvi_biology.png)
-###### Figure 1. Basic plant physiology supports the generation of a spectral index.  
+###### Figure 1. Basic plant physiology supports the generation of a vegetation index.  
 
 
 #### Single and Dual-Camera Systems
