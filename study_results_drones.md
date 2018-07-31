@@ -79,11 +79,11 @@ These amounts were chosen as they reflect a sensible range around the recommende
 
 #### Comparing Plots
 
-* Section treatments were analyzed during early, mid-season and late-season growth.
+* Section treatments were analyzed during early, mid, and late-season growth.
 
 The development and growth of the leafy part of the sugar cane plant plays an important role in helping maximize the 
 interception of solar energy for photosynthesis. This leads to the accumulation of biomass and ultimately to a higher crop 
-yield.
+yield. Our first successful data capture occurred just a week following treatment of the section plots with nitrogen.  
 
 ![](img/2017-04-25_001_3_CIR.png)
 ![](img/2017-04-25_001_3_NDVI.png)
