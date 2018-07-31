@@ -78,7 +78,10 @@ this sort of issue by use of a masking technique discussed in [Section 9](readme
 
 #### Choosing an Index Value for Sugarcane
 
-When light interacts with a sugarcane crop it is partly reflected and partly absorbed. The spectral response of sugarcane 
+When light interacts with sugarcane it is partly reflected and partly absorbed. The magnitude of energy that sugarcane reflects or emits across a range of wavelengths is called its spectral response pattern.
+
+
+The spectral response of sugarcane 
 varies according to . At visible wavelenghts of the spectrum, corresponding to Green and Red 
 light, the reflectance of the canopy is lower than the bare soil; at Near Infrared wavelenghts the vegetation and the 
 bare soil have different reflectances but are similar at Middle Infrared wavelengths. The Middle Infrared wavelength
