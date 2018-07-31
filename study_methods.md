@@ -194,9 +194,9 @@ Quantitative Research is used to quantify the problem by way of generating numer
 
 #### Summary
 
-After an initial year of ups and downs using the systems originally proposed it became apparent that 
-for a small investment one could use an aerial drone instead. We were among the first 'beta-testers' to fly
-a 3DR Solo drone with a Sequoia camera during this study.  
+After an initial year of ups and downs using systems originally proposed it became apparent that 
+for a modest investment one could use an aerial drone instead. Our team was among the first to fly
+a 3DR Solo drone with the Sequoia camera.  
 
 Various flying methods, while interesting in themselves, are only a means to the end of placing a camera into 
 position in order to capture the right light at the right time of day. Before venturing into the core methods used 
