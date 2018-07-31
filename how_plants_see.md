@@ -4,9 +4,8 @@
 
 * Plants use chlorophyll, water, and carbon dioxide to synthesize sugar. Sugars make the plant.
 * Chloroplasts cells contain chlorophyll which absorbs light, mainly in red and blue wavelengths.
-* Green light is absorbed less and is reflected away (that's why plants are green).
 
-While our study's purpose is to provide an assessment regarding use of aerial tools for determining the health 
+While our study's purpose was to provide an assessment regarding use of aerial tools for determining the health 
 and productivity of sugar cane, before discussing our approach, we first discuss basic principles of what such 
 systems measure and how they achieve their results. 
 
@@ -26,7 +25,7 @@ it will tend to absorb. This tendency is directly related to the functional heal
 locus of the photosynthetic process. If a plant's chloroplasts are compromised then it will absorb less red light and more NIR light,
 and its ability to photosynthesize and produce sugar will be diminished.  
 
-![](img/plant_physio.png) 
+![](img/sequoia-specs.png) 
 ###### Figure 1. 
    
 In addition to absorbing red (and blue) and reflecting green, most (healthy) plants tend to reflect away almost all of 
