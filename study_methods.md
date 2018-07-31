@@ -150,7 +150,7 @@ otherwise would be impossible to see.
 
 In the image the LUT is prominently displayed in order to indicate that a full 
 range of values has been captured by this image - from dry, sandy soils on the upper left (with an NDVI value of -1) to very active 
-areas of photosynthetic activity on the upper right. Also visible are regions of immature crop which are less 
+areas of photosynthetic activity on the upper right. Also visible are regions of immature crop that are less 
 well developed on the lower left compared with lower right. 
   
 ![](img/dual_camera.png)
@@ -161,9 +161,9 @@ track potential trouble spots in a developing crop. Having a simple kite rig in 
 Under a clear sky with a brisk wind, a quick flight takes thirty minutes or so and is time well spent if it points out 
 regions of a field that are underdeveloped or damaged.
 
-While the result produced in __Figure 4__  is useful and may be achieved for a couple hundred dollars and a 
+While the result produced in __Figure 4__  is useful (and fun!) and may be achieved for a couple hundred dollars and a 
 weekend of practice, these are __qualitative__ and not __quantitative__ results. If the goal is to precisely determine 
-a general pattern developing over time then this method will not work. While not impossible, it is difficult to replicate 
+a general pattern over time then this method will not work. While not impossible, it is difficult to replicate 
 the exact height and vantage point of a image taken during a flight with a kite or a balloon. On another day under different 
 conditions such images will be hard to replicate with precision. Since one of our stated goals was to use low-cost methods to accurately determine crop 
 trends over time we decided to look at other methods. 
