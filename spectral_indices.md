@@ -78,20 +78,19 @@ this sort of issue by use of a masking technique discussed in [Section 9](readme
 
 #### Choosing an Index Value for Sugarcane
 
-When light interacts with sugarcane it is partly reflected and partly absorbed. The magnitude of energy that sugarcane reflects or emits across a range of wavelengths is called its spectral response pattern.
+When light interacts with sugarcane it is partly reflected and partly absorbed. The magnitude of energy that sugarcane 
+reflects or emits across wavelengths is called its spectral response pattern. 
 
+To estimate future crop performance using remote sensing data one must ascertain the relationship between sugarcane's specific 
+spectral signature and its yield. 
 
-The spectral response of sugarcane 
-varies according to . At visible wavelenghts of the spectrum, corresponding to Green and Red 
-light, the reflectance of the canopy is lower than the bare soil; at Near Infrared wavelenghts the vegetation and the 
-bare soil have different reflectances but are similar at Middle Infrared wavelengths. The Middle Infrared wavelength
-band is important for separating trash from others states of the crop
+![](img/cane_reflect.png)
+###### Figure 2. A typical spectral signature as yielded from a sugarcane field. 
 
 ![](img/sequoia-concept.png)
 
 ![](img/cane_growth.png)
 
-![](img/cane_reflect.png)
 
 #### Summary
 Remote sensing techniques provide timely, up-to-date and relatively accurate information for the management of sugarcane crop.
