@@ -156,7 +156,7 @@ well developed on the lower left compared with lower right.
 ![](img/dual_camera.png)
 ###### Figure 4. A dual camera system used to take the image contained in Figure 3.
 
-While the result produced in __Figure 3__  is useful and may be achieved for a couple hundred dollars and a 
+While the result produced in __Figure 4__  is useful and may be achieved for a couple hundred dollars and a 
 weekend of practice, these are __qualitative__ and not __quantitative__ results. If the goal is to precisely determine 
 a general pattern developing over time then this method will not work. While not impossible, it is difficult to replicate 
 the exact height and vantage point of a image taken during a flight with a kite or a balloon. On another day under different 
