@@ -71,7 +71,7 @@ included in the final average or not. Each of these particular section images co
 sections in each dataset. That's roughly 900,000 pixel decisions to make for each.  
 
 ![](img/ndvi_compare_1_with_hist.png)
-###### Figure 2. Histogram of uncorrected NDVI values.
+###### Figure 1. Histogram of uncorrected NDVI values.
 
 Instead of counting pixels, another approach is to look more closely at how the two images stack-up. To do this we 
 can plot them as 'dual' histograms, as is done in __Figure 2__. Note that there are multiple peaks in each histogram (one 
@@ -88,7 +88,7 @@ we're automatically masked the more prevalent pixel value (in this case the non-
 i.e. it is not based solely on one individual's personal judgement.        
 
 ![](img/ndvi_1_corrected.png)
-###### Figure 4. Histogram of 'corrected' NDVI values.
+###### Figure 2. Histogram of 'corrected' NDVI values.
 
 The result of applying minimum threshold is seen in a second set of images and in a histogram generated from the 
 'thresholded' data (see __Figure 3__). No longer do we see the prominent peaks (the 'soil' pixels are replaced 
@@ -97,7 +97,7 @@ crop, minus the noise. These values (in the 'corrected' versions for 04/25 and 0
 
 ![](img/uncorrected_ndvi_three.png)
 ![](img/corrected_ndvi_three.png)
-###### Figure 4. Set of uncorrected and corrected NDVI images.
+###### Figure 3. Set of uncorrected and corrected NDVI images.
 
 This example use of machine learning illustrates how automating a single step in the chain reduces error. __Figure 4__ shows a set of three uncorrected/corrected NDVI images from May 25, 2017. The nitrogen treatments are, from left 
 to right, 40 lbs N, 60 lbs N and 80lbs N. In the top row the unbiased standard deviations are 0.17, 0.17, and 0.18, 
@@ -110,13 +110,13 @@ from the samples which proves to be of significance when a final interpretation 
 
 ![](img/04-25_ndvi.png)
 ![](img/05-25_ndvi.png)
-###### Figure 1. Comparison of NDVI images from April 25, 2017 and May 25, 2017. 
+###### Figure 4. Comparison of NDVI images from April 25, 2017 and May 25, 2017. 
 
 ![](img/multiples_134_NDVI.png)
 --------
 ![](img/multiples_134_GNDVI.png)
 
-###### Figure 8. General comparison of NDVI versus GNDVI in early to mid-season sugarcane crop.
+###### Figure 5. General comparison of NDVI versus GNDVI in early to mid-season sugarcane crop.
 
 The images in __Figure 7__ demonstrate subtle differences revealed when using an alternative vegetation index at 
 a different point in the growth season. Two groups of nine sections are displayed, the top group is NDVI, the bottom 

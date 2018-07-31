@@ -92,7 +92,7 @@ together and obscure from above the cane stalks below.
 ![](img/2017-04-25_001_3_GNDVI.png)
 ###### Figure 6. CIR composite image, NDVI versus GNDVI index in an early sugar cane crop. 
 
-In __Figure 5__ three images are displayed: a CIR composite of a single section (taken on April 25, 2017) followed by two index images
+In __Figure 6__ three images are displayed: a CIR composite of a single section (taken on April 25, 2017) followed by two index images
 processed from the same section for NDVI and GNDVI. The color bars to the right represent index values on a scale 
 of 0 to 1. The mean 'soil-corrected' index value for each section was __0.46__ for NDVI and __0.4__ for GNDVI. These values 
 were generated for all sections, for all treatments, and used in the final regression analysis. Our
@@ -120,7 +120,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 ![](img/ndvi/ndvi_winner.png)
 ![](img/N_bar.png)
 
-###### Figure 9. foo bar foo bar foo bar foo bar foo bar foo bar foo bar foo bar foo bar 
+###### Figure 8. foo bar foo bar foo bar foo bar foo bar foo bar foo bar foo bar foo bar 
 
 The graph in Figure [x] above shows NDVI values during the first month of the growing season, from late April, 2017 
 (one week following application of N fertilizer) to late May.
@@ -133,14 +133,14 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 ![](img/ndvi/ndvi_four2six.png)
 ![](img/N_bar.png)
 
-###### Figure 10.
+###### Figure 9.
 
 #### Animated Results
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
 
 ![](img/animated/animated-ndvi.gif)
-###### Figure 11.
+###### Figure 10.
 
 #### Faceted Regression Results
 
@@ -156,7 +156,7 @@ _ndvi_
 ![](img/ndvi/ndvi_all_spectral_data_mark.png)
 ![](img/N_bar.png)
 
-###### Figure 12. Regression 'facets' showing index values versus yield (April to November 2017).
+###### Figure 11. Regression 'facets' showing index values versus yield (April to November 2017).
 
 
 #### Temporal Evolution of Vegetation Index in Sugarcane
@@ -166,17 +166,17 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
 
 ![](img/ndvic/ndvic_correlation.png)
-###### Figure 13. Correlation of NDVI-C Index with Yield (lbs sugar per section).
+###### Figure 12. Correlation of NDVI-C Index with Yield (lbs sugar per section).
 
 __Figure 12__ shows the temporal evolution of a 'soil-corrected' spectral index during the 2017 growing season.  
 
 ![](img/ndre/ndre_correlation.png)
-###### Figure 14. Correlation of NDRE Index with Yield (lbs sugar per section).
+###### Figure 13. Correlation of NDRE Index with Yield (lbs sugar per section).
 
 __Figure 13__ shows the temporal evolution of the NDRE spectral index during the 2017 growing season.  
 
 ![](img/gndvi/gndvi_correlation.png)
-###### Figure 15. Correlation of GNDVI Index with Yield (lbs sugar per section).
+###### Figure 14. Correlation of GNDVI Index with Yield (lbs sugar per section).
 
 __Figure 14__ shows the temporal evolution of the GNDVI spectral index during the 2017 growing season.  
 
