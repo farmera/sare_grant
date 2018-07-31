@@ -141,7 +141,7 @@ fundamental issues:
     individual bands of captured light.
  
 
-__Figure 3__ illustrates a typical NDVI result using a kite-suspension system with two consumer-grade cameras modified 
+__Figure 4__ illustrates a typical NDVI result using a kite-suspension system with two consumer-grade cameras modified 
 for NDVI. The image in the center of the figure represents a color LUT (i.e. a look-up table) which is used to apply a color transform to an image. Applying this transform allows us to visualize reflected light that 
 otherwise would be impossible to see. 
 
@@ -161,7 +161,7 @@ track potential trouble spots in a developing crop. Having a simple kite rig in 
 Under a clear sky with a brisk wind, a quick flight takes thirty minutes or so and is time well spent if it points out 
 regions of a field that are underdeveloped or damaged.
 
-While the result produced in __Figure 3__  is useful and may be achieved for a couple hundred dollars and a 
+While the result produced in __Figure 4__  is useful and may be achieved for a couple hundred dollars and a 
 weekend of practice, these are __qualitative__ and not __quantitative__ results. If the goal is to precisely determine 
 a general pattern developing over time then this method will not work. While not impossible, it is difficult to replicate 
 the exact height and vantage point of a image taken during a flight with a kite or a balloon. On another day under different 
