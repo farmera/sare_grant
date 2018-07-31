@@ -2,11 +2,11 @@
 
 #### Introduction
 
-When our project was initiated the plan was to use methods that are readily available to anyone and to apply these in ways that do not impose a high barrier in terms of time and materials. 
-Farmers are generally very practical regarding the kind of tool they are willing to try in order to solve a 
-problem. Most are eager to learn a new method if it helps solve a long-standing issue more efficiently. As an example, crop 
-scouting has existed as long as farming has and its methods have changed very little except that what was once done on foot or 
-by horse is now done in a pick-up truck. 
+When our project was initiated the plan was to use methods that are readily available to anyone and to apply these in 
+ways that do not impose a high barrier in terms of time and materials. Farmers are generally very practical regarding the 
+kind of tool they are willing to try in order to solve a problem. Most are eager to learn a new method if it helps solve 
+a long-standing issue more efficiently. As an example, crop scouting has existed as long as farming, and its methods 
+have changed very little except that what was once done on foot or by horse is now done in a pick-up truck. 
 
 ![](img/kite_image_rgb.png)
 ###### Figure 1. RGB image captured with a Delta kite at height of 150ft. Ground control points (in yellow) are visible.
@@ -15,13 +15,12 @@ by horse is now done in a pick-up truck.
 
 With that sentiment in mind we discuss results obtained by experimenting with aerial photography using a kite or a balloon. 
 __Figure 3__ is a RGB composite stitched together 'by hand' with the help of ground control points (GCPs) 
-spray-painted into the field. Having GCPs in a set of images like this was critical to our 
-ability both to stitch together a larger image and to compare image sets over successive days. To support this
+spray-painted into the field. Having GCPs in a set of images like this is critical to both stitch together a larger image and to compare image sets over successive days. To support this
 process we used an open source software known as [Fiji](https://fiji.sc/). Fiji is an image processing 
-package which bundles an incredible variety of plugins to facilitate scientific image analysis.  
+package that bundles an incredible variety of plugins to facilitate scientific image analysis.  
 
 To determine the height of a flight we carefully measured and marked the kite's flight line. This set of 
-captures was taken at a height of 150ft. Maintaining a steady altitude like this with a kite can be a challenge when the 
+captures was taken at a height of 125ft. Maintaining a steady altitude like this with a kite can be a challenge when the 
 wind is variable. 
 
 #### JPEG versus RAW Format
