@@ -88,7 +88,6 @@ band is important for separating trash from others states of the crop
 
 ![](img/cane_growth.png)
 
-
 ![](img/cane_reflect.png)
 
 #### Summary
