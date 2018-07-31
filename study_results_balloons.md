@@ -32,20 +32,22 @@ on the ground.
 
 Having obtained a set of images we then scripted a process in Fiji to help align, stitch and create the vegetation index.  
    
-#### Section II
+#### Image Captures
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
 
 ![](img/2016_0513_122_rgb.jpg)
 ![](img/2016_0513_122_ndvi.jpg)
-###### Figure 3. NDVI image with Fastie color LUT. Captured with a Delta kite at height of 150ft. Ground resolution is 8-10" ft per pixel.
+###### Figure 3. NDVI image with reference color LUT. This image was captured with a Delta kite at height of 125ft. Ground resolution is 8-10" ft per pixel.
 __Figure 3__ is an NDVI index derived from RGB and NIR imagesets using a pair of modified consumer cameras. It was taken 
-from a height of about 150 ft early in the growth season  
+from a height of about about 125 ft early in the growth season.  
 
 ![](img/2016_0513_141_rgb.jpg)
 ![](img/2016_0513_168_ndvi_color.jpg)
 ###### Figure 4. NDVI image from 200 ft. Ground resolution is 8-10" ft per pixel.
+__Figure 4__ is another NDVI index derived from RGB and NIR image sets using a pair of modified consumer cameras. It was taken 
+from a height of about 200 ft.   
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Another source of artifact is the image compression that occurs in most consumer-grade cameras, known as Digital Image Compression (DIC).  DIC is commonly used to address issues of storage and transmission of images when the availability of resources is limited. Compression of such data in DIC pre-processing can substantially impact the utilization of bandwidths in post-processing.  JPEG (Joint Photographic Expert Group) is one of the most reliable and popular image compression methods that exist. While our camera systems do support RAW image format, these images are much larger in size than their compressed JPEG counterparts. For this reason our results are all based on JPEG imagery. How to accurately calibrate for reflectance under changing illuminant conditions while still being limited to JPEG compression for practical reasons is a subject that we are actively addressing through this work. 
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
 
