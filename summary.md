@@ -2,14 +2,14 @@
 
 #### Study Justification
 
-A need exists for reliable and actionable information that can aid Louisiana sugarcane growers and affected stakeholders 
-in order to better optimize sugarcane growth, harvesting and milling operations. This study employed low-cost remote sensing and 
-GIS technology to monitor sugarcane crop performance and sucrose yield in the southwest Louisiana.
-
 For any Louisiana cane grower, achieving the best possible crop yield at the lowest possible cost is the goal. In practice, 
 growers face numerous challenges that impact this objective. Such challenges may cause or compound inefficiencies downstream 
 in terms of the local sugar mill operating costs. The result is a higher risk of mills being negatively impacted and 
 the overall profit and long term health of the industry being compromised.
+
+A need exists for reliable and actionable information that can aid Louisiana sugarcane growers and affected stakeholders 
+in order to better optimize sugarcane growth, harvesting and milling operations. This study employed low-cost remote sensing and 
+GIS technology to monitor sugarcane crop performance and sucrose yield in the southwest Louisiana.
 
 * Next Steps
 
