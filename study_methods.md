@@ -156,17 +156,17 @@ well developed on the lower left compared with lower right.
 ![](img/dual_camera.png)
 ###### Figure 4. A dual camera system used to take the image contained in Figure 3.
 
+Though it offers a qualitative view only, an index image produced from a kite remains a useful tool to help identify and 
+track potential trouble spots in a developing crop. Having a simple kite rig in the back of the truck can assist in crop scouting. 
+Under a clear sky with a brisk wind, a quick flight takes thirty minutes or so and is time well spent if it points out 
+regions of a field that are underdeveloped or damaged.
+
 While the result produced in __Figure 4__  is useful and may be achieved for a couple hundred dollars and a 
 weekend of practice, these are __qualitative__ and not __quantitative__ results. If the goal is to precisely determine 
 a general pattern developing over time then this method will not work. While not impossible, it is difficult to replicate 
 the exact height and vantage point of a image taken during a flight with a kite or a balloon. On another day under different 
 conditions such images will be hard to replicate with precision. Since one of our stated goals was to use low-cost methods to accurately determine crop 
-trends over time we decided to look at other methods.  
-
-While offering a qualitative view only, an index image produced from a kite remains a useful tool to help identify and 
-track potential trouble spots in a developing crop. Having a simple kite rig in the back of the truck can assist in crop scouting. 
-Under a clear sky with a brisk wind, a quick flight takes thirty minutes or so and is time well spent if it points out 
-regions of a field that are underdeveloped or damaged. 
+trends over time we decided to look at other methods. 
 
 ![](img/sequoia_sensor.png)
 ###### Figure 5. A multi-spectral narrow band camera, the Sequoia, produced by Parrot. On the right is the Sunshine sensor. 
