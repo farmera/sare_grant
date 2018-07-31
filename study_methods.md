@@ -83,15 +83,15 @@ to use has an impact on the result. Furthermore, neither channel is likely to ge
 
 An improved solution is to use a dual-camera system where one camera captures red while another captures the NIR. 
 In such systems special band pass filters are used to narrow the red and NIR bands captured so that there is less contamination 
-between the two bands . 
+between the bands. 
  
-As an example of a dual-camera system, the composite image in __Figure 1__ represents an RGB/NIR pair in the top row (left/right) 
+As an example of a dual-camera system, the composite image in __Figure 2__ represents an RGB/NIR pair in the top row (left/right) 
 captured with a pair of consumer digital cameras. The NIR photo on the top-right was taken using a modified Canon A590, 
 from which the internal IR block filter has been removed. This sequence of images was created by Dr. Chris Fastie, 
 a collaborator on this project.  
 
 ![](img/fastie-results.png)
-###### Figure 1. A composite image containing RGB (top left), NIR (top right), NGR (CIR composite, bottom left), and NDVI renderings.   
+###### Figure 2. A composite image containing RGB (top left), NIR (top right), NGR (CIR composite, bottom left), and NDVI renderings.   
 
 In the bottom row are two images after post-processing. On the left is a false color IR image (also known as 
 a CIR composite) with varying tones of red that represent the near infrared band. In the bottom-right is a 'normalized 
