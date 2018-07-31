@@ -172,11 +172,11 @@ trends over time we decided to look at other methods.
 
 ###### Figure 7. The 3DR Solo drone with Parrot Sequoia camera attached. 
 
-Unmanned Aerial Vehicles (UAV), or Unmanned Aerial System (UAS), are all-encompassing terms that include an aircraft, 
-a ground-based controller, and the system of communication between the two. More commonly known as drones, semi-autonomous
-flying vehicles have been around for years but have largely remained tools of the military until about 2013. The challenge of early 
-drones in agriculture related to their usability and cost. In 2012 a fixed wing drone capable of flying more than 100 yards and back
-could cost anywhere between $10–30K, and that was just getting up in the air. Add a hyper-spectral camera to that and being in the $50k 
+Unmanned Aerial Vehicles (UAV), or Unmanned Aerial System (UAS), are all-encompassing terms including aircraft, 
+ground-based controller, and a system of communication between the two. More commonly known as drones, semi-autonomous
+flying vehicles have been around for years but until recently were largely tools of the military. The challenge of early 
+drones in agriculture related to their usability and cost. Prior to 2014 a fixed wing drone capable of flying with a payload 
+more than a couple hundred yards cost anywhere from $10–30K. Add a hyper-spectral camera to that and being in the $50k 
 investment range was not   
 
 ![](img/sequoia_sensor.png)
