@@ -101,21 +101,20 @@ difference vegetation index' __NDVI__ image which has been created using the pai
 #### Creating Larger Images
 
 Whether one uses a kite, a balloon, a drone, or a pidgeon, once the images have been taken and the craft returned safely to ground,
-all images must be gathered and 'stitched' to create a final representation of the area. __Figure 2__ shows the result of 
+all images must be gathered and 'stitched' to create a final representation of the area. __Figure 3__ shows the result of 
 stitching a dozen or so images from a balloon flight. This task is commonly performed by software but here an application 
 provided by the citizen science group [Public Lab](https://publiclab.org/) is used to visually stitch each image over a 
 map of the areal extent. This approach reveals how an image is often stretched and distorted in order to make it fit 
 orthogonally onto a planar map. Achieving a seamless result requires exact overlap with identical exposure times between images. 
 
-The ultimate goal of stitching images is to form a reflectance map - a mosaic of the area of interest where 
-each pixel in the image represents the reflectance of the imaged area.
-
 The resolution of the image data gathered and stitched together ultimately rests on a range of factors, each 
-representing a point in the overall process where error may be introduced.    
+representing a point in the overall process where error may be introduced. The ultimate goal of stitching images is to 
+form a reflectance map - a mosaic of the area of interest where each pixel in the image represents the reflectance of the 
+imaged area.  
 
 
 ![](img/map-stitch.gif)
-###### Figure 2. An animation of the stitching process. A dozen images are manually brought together into one larger image. 
+###### Figure 3. An animation of the stitching process. A dozen images are manually brought together into one larger image. 
 
 In turn, the resolution of the final __analyzed__ image depends on the stability of the capture event, the resolution 
 of the camera at a given moment, and the stitching process itself. Of most interest is the __resolution per pixel__. With 
