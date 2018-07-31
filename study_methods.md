@@ -146,7 +146,7 @@ for NDVI. The image in the center of the figure represents a color LUT (i.e. a l
 otherwise would be impossible to see. 
 
 ![](img/kite_image_fastie_lut.png)
-###### Figure 3. An NDVI index image taken with a consumer grade dual-camera system. The center bar is  a color LUT.
+###### Figure 4. An NDVI index image taken with a consumer grade dual-camera system. The center bar is  a color LUT.
 
 In the image the LUT is prominently displayed in order to indicate that a full 
 range of values has been captured by this image - from dry, sandy soils on the upper left (with an NDVI value of -1) to very active 
@@ -154,14 +154,14 @@ areas of photosynthetic activity on the upper right. Also visible are regions of
 well developed on the lower left compared with lower right. 
   
 ![](img/dual_camera.png)
-###### Figure 4. A dual camera system used to take the image contained in Figure 3.
+###### Figure 5. A dual camera system used to take the image contained in Figure 3.
 
 Though it offers a qualitative view only, an index image produced from a kite remains a useful tool to help identify and 
 track potential trouble spots in a developing crop. Having a simple kite rig in the back of the truck can assist in crop scouting. 
 Under a clear sky with a brisk wind, a quick flight takes thirty minutes or so and is time well spent if it points out 
 regions of a field that are underdeveloped or damaged.
 
-While the result produced in __Figure 4__  is useful and may be achieved for a couple hundred dollars and a 
+While the result produced in __Figure 3__  is useful and may be achieved for a couple hundred dollars and a 
 weekend of practice, these are __qualitative__ and not __quantitative__ results. If the goal is to precisely determine 
 a general pattern developing over time then this method will not work. While not impossible, it is difficult to replicate 
 the exact height and vantage point of a image taken during a flight with a kite or a balloon. On another day under different 
@@ -169,12 +169,12 @@ conditions such images will be hard to replicate with precision. Since one of ou
 trends over time we decided to look at other methods. 
 
 ![](img/sequoia_sensor.png)
-###### Figure 5. A multi-spectral narrow band camera, the Sequoia, produced by Parrot. On the right is the Sunshine sensor. 
+###### Figure 6. A multi-spectral narrow band camera, the Sequoia, produced by Parrot. On the right is the Sunshine sensor. 
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
 
 ![](img/drone_camera.png)
-###### Figure x
+###### Figure 7.
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
 
