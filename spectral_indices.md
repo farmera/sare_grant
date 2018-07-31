@@ -87,8 +87,6 @@ specifically absorbs the blue and red bands for photosynthesis. Like other leafy
 is nearly transparent to infrared radiation thus very little NIR is reflected by the outer portion of the sugarcane leaf. 
 Mesophyll tissue and cavities within the leaf scatter the radiation either upward (reflection) or downward (transmission).
  
-To estimate future crop performance using remote sensing data one must ascertain the relationship between sugarcane's specific 
-spectral signature and its yield. 
 
 ![](img/cane_reflect.png)
 ###### Figure 2. A typical spectral signature as yielded from a sugarcane field. 
@@ -108,6 +106,9 @@ and hundreds__ of megabytes of image data.
 In coming sections we'll discuss how to achieve this degree of scaling along with strategies for interpreting 
 various vegetation indices under different environmental conditions. Luckily, open-source software and image processing 
 tools exist to make these tasks accessible.
+
+To estimate future crop performance using remote sensing data one must ascertain the relationship between sugarcane's specific 
+spectral signature and its yield. 
 
 ###### References
 
