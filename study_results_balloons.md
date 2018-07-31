@@ -3,8 +3,8 @@
 #### Introduction
 
 When our project was initiated the plan was to use methods that are readily available to anyone and to apply these in 
-ways that do not impose a high barrier in terms of time and materials. Farmers are generally very practical regarding the 
-kind of tool they are willing to try in order to solve a problem. Most are eager to learn a new method if it helps solve 
+ways that do not impose a high barrier in terms of time and materials. Farmers are generally very practical with regard to the 
+kinds of tools they are willing to try to solve a problem. Most are eager to learn a new method if it helps solve 
 a long-standing issue more efficiently. As an example, crop scouting has existed as long as farming, and its methods 
 have changed very little except that what was once done on foot or by horse is now done in a pick-up truck. 
 
