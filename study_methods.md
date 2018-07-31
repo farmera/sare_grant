@@ -15,14 +15,14 @@ in pursuing them we have sometimes felt a degree of tension.
 
 Throughout this study we have been guided by empirical questions that are not directly related to the selection of a 
 flight method or to the type of camera used to gather the image data. We have also been keen to answer such questions
-_using only those methods which were accessible and available at modest cost_. The two central issue we have sought to address are: 
+_using only those methods which were accessible and available at modest cost_. Two central issues we have sought to address are: 
 
 * __Can variable nitrogen rates applied to sugarcane be correlated with low-cost multi-spectral imagery?__
 
 * __Are models of acquired multi-spectral imagery predictive of sugarcane yield?__
 
 From the outset we considered that the second question was not likely to be answered unless the data captured was 
-of sufficient quality. The first was answerable, we thought, regardless of data capture method. It turns out we were wrong. 
+of sufficient quality. The first was answerable, we thought, regardless of data capture method. This turns out to be wrong. 
 Neither of these questions can be answered conclusively using the sort of 
 flight and image capture systems originally proposed. The reasons will be addressed in detail 
 but in brief they are two-fold: a) neither kites nor balloons are able to place a camera in position for sufficient 
