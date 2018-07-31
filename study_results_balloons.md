@@ -28,13 +28,13 @@ wind is variable.
 
 The RAW format captures everything without pre-processing while JPEG does not...
 
-A source of artifact in JPEG images used for spectral index purposes is the compression 
-that occurs with the format in most consumer-grade cameras. Digital Image Compression (DIC) addresses issues of storage 
-and transmission since storage space comes at a premium in a consumer-grade camera. For our use, such image compression 
-and band distortion are less features than issues to be Corrected. JPEG files are automatically pre-processed in the camera though exactly how varies 
-from model to model. 
-
-Thus, compression and band distortion in pre-processing can impact the ability to fully utilize all bandwidth data in post-processing. While some consumer cameras systems support RAW image formats, RAW images are much larger (a factor when taking many shots during flight). For this reason our results using a consumer camera are based on the JPEG format. How to accurately calibrate for reflectance under changing illuminant conditions while still being limited to JPEG compression for practical reasons is an issue that . 
+A source of artifact in JPEG images used for spectral index purposes is compression and band distortion. Digital Image Compression (DIC) addresses issues of storage 
+and transmission since storage space is at a premium in a consumer-grade camera. For our purposes, image compression 
+and band distortion are less features than issues to be corrected. Compression and band distortion occur in the camera during
+capture and may impact the ability to utilize _all_ bandwidth data in post-processing. JPEG files are automatically pre-processed in
+the camera though exactly how varies from model to model. 
+ 
+While some consumer cameras systems support RAW image formats, RAW images are much larger (a factor when taking many shots during flight). For this reason our results using a consumer camera are based on the JPEG format. How to accurately calibrate for reflectance under changing illuminant conditions while still being limited to JPEG compression for practical reasons is an issue that . 
 Another issue is lack of accurate geotagging support in most consumer cameras. While most cameras support 
 this feature, in practice we found it to be inconsistent as a reliable source of reference regarding the planar as well 
 as vertical positioning of the camera with respect to the field. A hand-held GPS device was used to create the ground
