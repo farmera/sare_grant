@@ -69,6 +69,10 @@ light while reflecting away a good portion of the red light. Recall that plants 
 light presents a physiological burden to them. This is another generic spectral pattern that we can use: _lower NDVI values 
 correlate with unhealthy, distressed plants_. 
 
+![](img/ndvi_biology.png)
+###### Figure 1. Basic plant physiology supports the generation of a spectral index.  
+
+
 #### Single and Dual-Camera Systems
 
 It is possible to create a vegetation index like NDVI using only a single consumer digital camera as almost all consumer camera sensors are
