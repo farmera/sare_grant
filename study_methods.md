@@ -35,7 +35,7 @@ An effective spectral index is built in stages by capturing the right kind of li
 during the right part of the season (under good weather conditions). During our study it became apparent that the ability 
 to place a camera in steady position for sufficient periods was a determining factor in whether or not our 
 data would be meaningful for more than 'point-in-time' __qualitative__ assessment. Likewise it became clear 
-that the ability to capture in the narrowest band possible, with minimum distortion, was likewise important.
+that the ability to capture in the narrowest band possible, with minimum distortion, was important.
 
 Our primary goal was to determine to what extent low-cost aerial multi-spectral data could be correlated with variable 
 nitrogen (N) rates applied to sugarcane. At the end of the first season we analyzed the data and came to the conclusion
