@@ -26,16 +26,16 @@ of sufficient quality. The first was answerable, we thought, regardless of data 
 Neither of these questions can be answered conclusively using the sort of 
 flight and image capture systems originally proposed. The reasons will be addressed in detail 
 but in brief they are two-fold: a) neither kites nor balloons are able to place a camera in position for sufficient 
-time, under conditions of sufficiently stability, such that the results from one flight may be compared with results from 
-another; and b) while the sensor of a modified consumer camera is capable of capturing the right spectral data (i.e. the red, 
-green and NIR light) the jpeg image format of most of these cameras does not support the sort of 
-calibration necessary to quantitatively compare one day's flight with another.        
+time, under conditions of sufficiently stability, such that the results from one flight can be compared with results from 
+another; and b) while the sensors of a modified consumer camera are capable of capturing the right spectral data (i.e. the red, 
+green and NIR light) the jpeg image format of many consumer cameras does not support the sort of 
+calibration needed to quantitatively compare one day's flight with another.        
 
 An effective spectral index is built in stages by capturing the right kind of light, at the right time of day,
-during the right part of the season, under good weather conditions. During our study it became apparent that the ability 
-to place the camera in steady position for sufficient periods was a determining factor in whether or not our 
-data would be meaningful for more than 'point-in-time' qualitative assessment. Likewise it became clear 
-that the ability to capture in the narrowest band possible, with minimum distortion, was likewise critical.
+during the right part of the season (under good weather conditions). During our study it became apparent that the ability 
+to place a camera in steady position for sufficient periods was a determining factor in whether or not our 
+data would be meaningful for more than 'point-in-time' __qualitative__ assessment. Likewise it became clear 
+that the ability to capture in the narrowest band possible, with minimum distortion, was likewise important.
 
 Our primary goal was to determine to what extent low-cost aerial multi-spectral data could be correlated with variable 
 nitrogen (N) rates applied to sugarcane. At the end of the first season we analyzed the data and came to the conclusion
