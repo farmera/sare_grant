@@ -170,7 +170,7 @@ trends over time we decided to look at other methods.
 
 ![](img/sequoia-camera.png) 
 
-###### Figure 7.
+###### Figure 7. The 3DR Solo drone with a Parrot Sequoia camera attached. 
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
 
