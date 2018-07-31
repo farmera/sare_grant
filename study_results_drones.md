@@ -81,10 +81,9 @@ These amounts were chosen as they reflect a sensible range around the recommende
 
 * Section treatments were analyzed during early, mid-season and late-season growth.
 
-The development and growth of the leafy part of the sugar cane plant plays an important part in helping to maximize the 
+The development and growth of the leafy part of the sugar cane plant plays an important role in helping maximize the 
 interception of solar energy for photosynthesis. This leads to the accumulation of biomass and ultimately to a higher crop 
-yield. Canopy closure in sugar cane represents a point in the growth season where the adjoining tops of two rows come
-together and obscure from above the cane stalks below.   
+yield.
 
 ![](img/2017-04-25_001_3_CIR.png)
 ![](img/2017-04-25_001_3_NDVI.png)
@@ -109,8 +108,8 @@ In __Figure 7__ a CIR composite, NDVI and GNDVI from a section taken on July 28,
 index value for these was __0.83__ for NDVI and __0.73__ for GNDVI. Given the obvious visual difference of these two images,
 that the values are basically equivalent (after accounting for the scale difference) is of interest. 
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-
+Canopy closure in sugar cane represents a point in the growth season where the adjoining tops of two rows come
+together and obscure from above the cane stalks below.
 
 #### Regression Analysis
 
