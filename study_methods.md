@@ -95,8 +95,8 @@ a collaborator on this project.
 
 In the bottom row are two images after post-processing. On the left is a false color IR image (also known as 
 a CIR composite) with varying tones of red that represent the near infrared band. In the bottom-right is a 'normalized 
-difference vegetation index' __NDVI__ image which has been created using the pair above it. In [Section 8](study_results_balloons.md) and 
-[Section 9](study_results_drones.md) we will take a closer look at results obtained when using these and similar methods. 
+difference vegetation index' __NDVI__ image which has been created using the pair above. In [Section 8](study_results_balloons.md) and 
+[Section 9](study_results_drones.md) we will take a closer look at results obtained using these and similar methods. 
 
 #### Creating Larger Images
 
