@@ -86,7 +86,7 @@ interception of solar energy for photosynthesis. This leads to the accumulation 
 yield [1]. Canopy closure in sugar cane represents that point in the growth season where the adjoining tops of two rows come
 together and obscure from above the cane stalks below.   
 
-
+---------
 ![](img/2017-04-25_001_3_CIR.png)
 ![](img/2017-04-25_001_3_NDVI.png)
 ![](img/2017-04-25_001_3_GNDVI.png)
