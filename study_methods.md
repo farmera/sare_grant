@@ -6,7 +6,7 @@ This section provides a narrative description of methods used to generate and as
 a typical 'Methods and Materials' section as might be found in a traditional scientific paper. In [Section 8]() and 
 [Section 9]() we go into greater detail regarding methods. Here we set the stage for what follows and describe some of the challenges faced.
 
-One challenge for this project relates to its being essentially a 'two-sided' endeavor. On the one hand, we wanted to 
+One challenge for this project relates to its being essentially a 'two-headed' endeavor. On the one hand, we wanted to 
 investigate low-cost methods in aerial photography for agriculture in general. This desire was motivated by an interest in the subject along with a 
 conviction that farmers themselves have under-utilized available remote sensing techniques perhaps because they assume such methods 
 are too complex or expensive. On the other hand, we wanted to answer a scientific question which requires a level of sophistication regarding
