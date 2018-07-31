@@ -33,6 +33,9 @@ understand how crops perform over time by comparing previous trends with establi
 of picking up field anomalies not otherwise apparent on the ground (e.g. infestations, nutrient deficiencies, weather effects, 
 theft, erosion, diseases, etc).  
 
+Crop yield forecasting are not new to the Louisiana sugarcane industry and is used extensively. However, use of
+remote sensing technologies to achieve yield estimates is currently underutilised in Louisiana. 
+
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
 
 ###### References
