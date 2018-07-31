@@ -126,7 +126,8 @@ detail in [Section 8](study_results_balloons.md) when discussing the results of 
 
 #### Interpreting Spectral Indices 
 
-Thus, interpreting a spectral index starts with acquiring accurate aerial image data. Doing so requires consideration of two fundamental issues: 
+Interpreting a vegetation index starts with acquiring accurate aerial image data. Doing so requires consideration of two 
+fundamental issues: 
 
 1. Placing the camera at the correct height and orientation for a sufficient period of time.
 
