@@ -92,12 +92,15 @@ Mesophyll tissue and cavities within the leaf scatter the radiation either upwar
 ###### Figure 2. A typical spectral signature as yielded from a sugarcane field. 
 
 ![](img/sequoia-concept.png)
+###### Figure 3. A typical spectral signature as yielded from a sugarcane field. 
 
 ![](img/cane_growth.png)
+###### Figure 4. A typical spectral signature as yielded from a sugarcane field. 
+
 
 
 #### Summary
-Remote sensing techniques provide timely, up-to-date and relatively accurate information for the management of sugarcane crop.
+Remote sensing techniques can provide timely and relatively accurate information for the management of sugarcane crop.
 Thus far we've discussed simple calculations applied to single image pixels. In practice, generating a vegetative index
 over an crop involves much more. In addition to separate individual bands as arrays we 
 need to scale these sorts of manipulations up to potentially __millions and millions__ of pixels covering __hundreds 
