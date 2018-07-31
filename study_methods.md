@@ -177,9 +177,9 @@ trends over time we decided to look at other methods.
 Unmanned Aerial Vehicles (UAV), or Unmanned Aerial System (UAS), are all-encompassing terms including aircraft, 
 ground-based controller, and a system of communication between the two. More commonly known as drones, semi-autonomous
 aircraft have been around for years but until recently were largely the tools of military. The challenge of early 
-drones in agriculture related to their usability and cost. Prior to 2014 a fixed wing drone capable of flying, with payload, 
-more than a couple hundred yards cost anywhere from $10–30K. Small, high-resolution sensors were also available to capture 
-but these could add another $15-35K to the cost. 
+drones in agriculture related to usability and cost. Prior to 2014 a fixed wing drone capable of flying, with payload, 
+more than a couple hundred yards cost anywhere from $10–30K. Small, high-resolution sensors were also available but these 
+could add another $15-35K. 
 
 ![](img/sequoia_sensor.png)
 ###### Figure 6. A multi-spectral narrow band camera, the Sequoia, produced by Parrot. On the right is the Sunshine sensor. 
