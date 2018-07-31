@@ -8,19 +8,19 @@ a typical 'Methods and Materials' section as might be found in a traditional sci
 site, final results, etc. Here we set the stage for what follows and describe some of the challenges faced.
 
 One challenge for this project relates to its being essentially a 'two-sided' endeavor. On the one hand, we wanted to 
-investigate low-cost methods in aerial photography for agriculture. This desire was motivated by an interest in the subject along with a 
-conviction that farmers themselves have under-utilized available aerial techniques often because they assume such methods 
-are too complex or too expensive. On the other hand, we also wanted to ask technical scientific questions which requires a level of sophistication regarding
-methods of data capture and analysis. These threads are not necessarily at cross purposes, in fact they are related, though
-in pursuing them we have felt a degree of tension at times.    
+investigate low-cost methods in aerial photography for agriculture in general. This desire was motivated by an interest in the subject along with a 
+conviction that farmers themselves have under-utilized available remote sensing techniques perhaps because they assume such methods 
+are too complex or expensive. On the other hand, we wanted to answer a scientific question which requires a level of sophistication regarding
+methods of capture and analysis. These threads are not necessarily at incompatible, in fact they are related, though
+in pursuing them we have sometimes felt a degree of tension.    
 
-Thus, throughout this study we have been guided by empirical questions that are not directly related to the selection of a 
+Throughout this study we have been guided by empirical questions that are not directly related to the selection of a 
 flight method or to the type of camera used to gather the image data. We have also been keen to answer such questions
 _using only those methods which were accessible and available at modest cost_. The two central issue we have sought to address are: 
 
-* __To what degree may variable nitrogen rates applied to sugarcane be correlated with low-cost multi-spectral imagery?__
+* __Can variable nitrogen rates applied to sugarcane be correlated with low-cost multi-spectral imagery?__
 
-* __Are models based on time-series analysis of acquired multi-spectral imagery predictive of sugarcane yield?__
+* __Are models of acquired multi-spectral imagery predictive of sugarcane yield?__
 
 From the outset we considered that the second question was not likely to be answered unless the data captured was 
 of sufficient quality. The first was answerable, we thought, regardless of data capture method. It turns out we were wrong. 
@@ -153,7 +153,7 @@ well developed on the lower left compared with lower right.
 ![](img/dual_camera.png)
 ###### Figure 4. A dual camera system used to take the image contained in Figure 3.
 
-While the result produced in __Figure 3__  is useful and may be achieved for a few hundred dollars and a 
+While the result produced in __Figure 3__  is useful and may be achieved for a couple hundred dollars and a 
 weekend of practice, these are __qualitative__ and not __quantitative__ results. If the goal is to precisely determine 
 a general pattern developing over time then this method will not work. While not impossible, it is difficult to replicate 
 the exact height and vantage point of a image taken during a flight with a kite or a balloon. On another day under different 
