@@ -25,6 +25,13 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 #### Summary
 
 A traditional limitation of remote sensing in agriculture has been the cost and complexity of acquiring satellite imagery.
+While low cost Landsat 8 imagery is available without its resolution (at 30 m per pixel) and lack of timeliness make it
+untenable. Successful crop monitoring requires clear imagery with regular coverage.
+
+Time series analyses (month-to-month) adds value to traditional crop monitoring practice. It allows farmers to monitor and 
+understand how crops perform over time by comparing previous trends with establish patterns. Such analysis has the capability 
+of picking up field anomalies not otherwise apparent on the ground (e.g. infestations, nutrient deficiencies, weather effects, 
+theft, erosion, diseases, etc).  
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
 
