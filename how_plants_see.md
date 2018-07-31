@@ -26,7 +26,7 @@ locus of the photosynthetic process. If a plant's chloroplasts are compromised t
 and its ability to photosynthesize and produce sugar will be diminished.  
 
 ![](img/sequoia-specs.png) 
-###### Figure 1. 
+###### Figure 1. The spectral reflectance characteristics of healthy versus stressed plants. 
    
 In addition to absorbing red (and blue) and reflecting green, most (healthy) plants tend to reflect away almost all of 
 the NIR light that hits them. This tendency is shown in the graph above. NIR light is not in the visible spectrum 
