@@ -124,9 +124,9 @@ and NIR images.
 ###### Figure 4. Comparison of NDVI images from April 25, 2017 and May 25, 2017. 
 
 The images in __Figure 5__ below demonstrate subtle differences when using an alternative vegetation index at a 
-different point in the growth season. Two groups of nine sections are displayed, the top group is NDVI, the bottom is 
-GNDVI. Reading each group from left to right advances time from early season to the high point of photosynthetic activity. 
-Reading from top to bottom in each shows an increase in nitrogen treatment from 80 lbs N to 180 lbs N.
+different point in the growth season. Two groups of nine sections are displayed, the top group is NDVI, the bottom group is 
+GNDVI. Reading each from left to right advances time from early season to the high point of photosynthetic activity. 
+Reading from top to bottom shows an increase in nitrogen treatment from 80 lbs N to 180 lbs N.
 
 ![](img/multiples_134_NDVI.png)
 --------
@@ -137,8 +137,8 @@ Reading from top to bottom in each shows an increase in nitrogen treatment from 
 When analysed statistically these image data revealed that when compared with NDVI, GNDVI shows a lower correlation with yield data overall but may 
 be better suited at certain points in the season. As indicated by the leftmost column, use of the green band in sparsely 
 vegetated sections decreases the sensitivity of GNDVI while denser sections (right-most column) tend to benefit by 
-dampening the saturation that occurs with NDVI when used later in the season. Surprisingly, the central column is where GNDVI 'out-performs'
-NDVI in terms of its ability to correlate with the final yield values.
+dampening the saturation that occurs with NDVI later in the season. Surprisingly, the central column is where GNDVI 
+'out-performs' NDVI in terms of its ability to correlate with the final yield values.
 
 
 #### Summary
