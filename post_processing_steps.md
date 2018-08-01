@@ -111,7 +111,7 @@ from the samples which proves to be of significance when a final interpretation 
 
 * Lorem ipsum dolor sit amet
 
-__Figure 4__ below serves to compare two NDVI images taken early in the growth season, at Day 6 following treatment and 
+__Figure 4__ below compares two NDVI images taken early in the growth season, at Day 6 following treatment and 
 at Day 21.   
 
 ![](img/04-25_ndvi.png)
