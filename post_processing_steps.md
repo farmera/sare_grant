@@ -143,7 +143,7 @@ dampening the saturation that occurs with NDVI later in the season. Surprisingly
 #### Quality Control
 An issue faced by this study and others like it is the small number of samples produced, along with the 
 distortions to any one sample that may accrue along the way. Our 2.7 acre test area contained 30 section 
-plots with five treatments, i.e. six samples for each date flown. Half of the flight data yielded inconsistent 
+plots with five treatments each, i.e. six samples for each date flown. Half of the flight data yielded inconsistent 
 results and was rejected.   
 
 ![](img/compare.png)
