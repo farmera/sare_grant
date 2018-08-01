@@ -150,14 +150,15 @@ inconsistent results and was rejected.
 ###### Figure 6. Comparison of different index types in the same section, same treatment. 
 
 On those data that we felt were acceptable, we tried to impose an additional set of standards regarding what an index image needed to have in order to be 
-considered 'suitable for framing'. Our criteria included running various statistical analysis on different index types
+considered 'suitable for framing'. Our criteria included running various statistical analyses on different index types
 taken in the same section and/or treatment. For example, while the images in __Figure 6__ have not yet been 'soil corrected'
-they reveal a characteristic relationship to one another which is indicative of a good pair of samples   
+they reveal a characteristic relationship between GNDVI and NDVI where the former has 'less energy' i.e. it displays fewer 
+hits per bin across the entire reflectance range and those hits are also more 'bunched' around a mean value.        
 
 ![](img/compare-two.png)
-###### Figure 6. Comparison of the same index for different sections, similar treatments. 
+###### Figure 7. Comparison of the same index for different sections, similar treatments. 
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+In a similar fashion, in __Figure 7__ 
 
 #### Summary
 
