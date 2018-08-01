@@ -22,11 +22,11 @@ Often they have had to be.
 
 Our study made use of a number of software tools and libraries that are freely available as open source
 projects. Among other things, 'open-source' means that installing, learning and using these software products is open to 
-anyone who has an interest. There are no licensing fees. In the context of this project all tools described have been 
-applied during the study and new code continues to be added on a daily basis [here](). Our project draws on the strength 
-of these open-source tools in order to implement various processing steps. In fact, even the drone used in this study 
-runs a stripped-down version of the open-source Linux operating system, i.e. one may login, get a command prompt, and 
-execute code on the drone. 
+anyone who has an interest. There are no licensing fees. In the context of this project all tools described here have been 
+applied during the study and new code continues to be added on a daily basis to our project repository [here](). 
+Our project draws on the strength of these open-source tools in order to implement various processing steps. In fact, 
+even the drone used in this study runs a stripped-down version of the open-source Linux operating system, i.e. one may 
+login, get a command prompt, and execute code on the drone. 
 
 In any part of a multi-step process looms the spectre of error. This is especially true if the process relies on 
 manual execution of a number of steps. In every phase of this project we have sought to minimize error by __automating__ as much of the work as possible.   
