@@ -80,6 +80,8 @@ is colored yellow and the other purple). The yellow peak at far left is most pro
 'soil' pixels have an average NDVI value between 0.1 and 0.2. There are also peaks found in the purple histogram, 
 corresponding to NDVI values from the 05/25 image, though these are not as prominent as the 04/25 image.      
 
+#### Masking
+
 Examining the histogram of 'uncorrected' NDVI values in __Figure 2__ we see that the mean NDVI value for 04/25 and 05/25 is 
 0.26 and 0.52, respectively. These averages include the soil pixel values in addition to the plant material values. We can 
 use the same data that generates this histogram as input into a type of 'classification' machine learning algorithm known
