@@ -122,6 +122,8 @@ and NIR images.
 ![](img/05-25_ndvi.png)
 ###### Figure 4. Comparison of NDVI images from April 25, 2017 and May 25, 2017. 
 
+The images in Figure 7 demonstrate subtle differences revealed when using an alternative vegetation index at a different point in the growth season. Two groups of nine sections are displayed, the top group is NDVI, the bottom is GNDVI. Reading each group from left to right in each column shows time advance from early season to the high point of photosynthetic activity. Reading from top to bottom in each group shows an increase in nitrogen treatment from 80 lbs N to 180 lbs N.
+
 ![](img/multiples_134_NDVI.png)
 --------
 ![](img/multiples_134_GNDVI.png)
