@@ -34,7 +34,7 @@ In any part of a multi-step process looms the spectre of error. This is especial
 manual execution of a number of steps. In every phase of this project we have sought to minimize error by __automating__ 
 as much of the work as possible. The processing system designed for our project consists of six automated steps. 
 The first four are required to prepare the raw image data prior to analysis. The fifth and sixth are post-processing steps 
-that are subsequently performed. In this section we consider steps five and six, __masking__ and __extraction of image-derived 
+that are subsequently performed. In this section we consider __masking__ and __extraction of image-derived 
 statistics__. 
 
 1. Mosaicking
