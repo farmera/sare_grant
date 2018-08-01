@@ -140,8 +140,9 @@ vegetated sections decreases the sensitivity of GNDVI while denser sections (rig
 dampening the saturation that occurs with NDVI later in the season. Surprisingly, the central column is where GNDVI 
 'out-performs' NDVI in terms of its ability to correlate with the final yield values.
 
-#### Extraction of Image-Derived Statistics
+#### Quality Control
 
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
 
 #### Summary
 
