@@ -134,11 +134,13 @@ Reading from top to bottom shows an increase in nitrogen treatment from 80 lbs N
 
 ###### Figure 5. General comparison of NDVI versus GNDVI in early to mid-season sugarcane crop.
 
-When analysed statistically these image data revealed that when compared with NDVI, GNDVI shows a lower correlation with yield data overall but may 
+When analysed statistically these image data reveal that, when compared with NDVI, GNDVI shows a lower correlation with yield data overall but may 
 be better suited at certain points in the season. As indicated by the leftmost column, use of the green band in sparsely 
 vegetated sections decreases the sensitivity of GNDVI while denser sections (right-most column) tend to benefit by 
 dampening the saturation that occurs with NDVI later in the season. Surprisingly, the central column is where GNDVI 
 'out-performs' NDVI in terms of its ability to correlate with the final yield values.
+
+#### Extraction of Image-Derived Statistics
 
 
 #### Summary
