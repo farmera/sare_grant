@@ -134,7 +134,7 @@ photosynthetic activity. Reading from top to bottom in each group shows an incre
 
 ###### Figure 5. General comparison of NDVI versus GNDVI in early to mid-season sugarcane crop.
 
-These image data indicate that when compared with NDVI, GNDVI shows a lower correlation with yield data overall but may 
+When analysed statistically these image data revealed that when compared with NDVI, GNDVI shows a lower correlation with yield data overall but may 
 be better suited at certain points in the season. As indicated by the leftmost column, use of the green band in sparsely 
 vegetated sections decreases the sensitivity of GNDVI while denser sections (right-most column) tend to benefit by 
 dampening the NDVI saturation that occurs later in the season. Surprisingly, the central column is where GNDVI 'out-performs'
