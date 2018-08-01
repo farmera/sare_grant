@@ -146,7 +146,12 @@ distortions to any one sample that may accrue along the way. Our 2.7 acre test a
 plots with five treatments each, i.e. six samples for each date flown. Half of the flight data yielded inconsistent 
 results and was rejected.   
 
-![](img/compare.png)
+![](img/compare-one.png)
+###### Figure 6. Comparison of small treatment differences between sections of the same date. 
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+
+![](img/compare-two.png)
 ###### Figure 6. Comparison of small treatment differences between sections of the same date. 
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
