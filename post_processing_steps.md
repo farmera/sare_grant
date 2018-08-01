@@ -149,11 +149,11 @@ inconsistent results and was rejected.
 ![](img/compare-one.png)
 ###### Figure 6. Comparison of different index types in the same section, same treatment. 
 
-On those data that we felt were acceptable, we tried to impose an additional set of standards regarding what an index image needed to have in order to be 
+For those data which we felt were acceptable, we tried to impose an additional set of standards regarding what an index image needed to have in order to be 
 considered 'suitable for framing'. Our criteria included running various statistical analyses on different index types
 taken in the same section and/or treatment. For example, while the images in __Figure 6__ have not yet been 'soil corrected'
 they reveal a characteristic relationship between GNDVI and NDVI where the former has 'less energy' i.e. it displays fewer 
-hits per bin across the entire reflectance range and those hits are also more 'bunched' around a mean value.        
+hits per bin across the entire reflectance range and those hits are also more 'bunched' together around a mean value.        
 
 ![](img/compare-two.png)
 ###### Figure 7. Comparison of the same index for different sections, similar treatments. 
