@@ -28,14 +28,13 @@ We have drawn on the strength of these open-source tools in order to implement m
 even the drone used in the study runs a stripped-down version of the open-source Linux operating system, i.e. one may 
 login, get a command prompt, and execute code on the drone. 
 
-In any part of a multi-step process looms the spectre of error. This is especially true if the process relies on 
-manual execution of a number of steps. In every phase of this project we have sought to minimize error by __automating__ as much of the work as possible.   
-  
 #### Post-Processing Steps
 
-The automated system designed for the project consists of six steps. The first four are required to prepare the raw image 
-data prior to analysis. The fifth and sixth are post-processing steps that are performed subsequently. In this section we 
-consider steps five and six. 
+In any part of a multi-step process looms the spectre of error. This is especially true if the process relies on 
+manual execution of a number of steps. In every phase of this project we have sought to minimize error by __automating__ 
+as much of the work as possible. The processing system designed for our project consists of six automated steps. 
+The first four are required to prepare the raw image data prior to analysis. The fifth and sixth are post-processing steps 
+that are performed subsequently. In this section we consider steps five and six. 
 
 1. Mosaicking
 2. Atmospheric correction
