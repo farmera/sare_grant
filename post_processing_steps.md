@@ -107,12 +107,13 @@ to right, 40 lbs N, 60 lbs N and 80lbs N. In the top row the unbiased standard d
 respectively, while in the corrected versions they are 0.9 across. In this case we've managed to remove some of the 'noise' 
 from the samples which proves to be of significance when a final interpretation of these data is made.  
 
-#### Early versus late crop interpretation
+#### Extraction of Image-Derived Statistics
 
 * Lorem ipsum dolor sit amet
 
 __Figure 4__ below compares two NDVI images taken early in the growth season, at Day 6 following treatment and 
-at Day 21.   
+at Day 21. These section images were used as input to the statistical analysis and are the 'last word' on results 
+reported here. These specific images are    
 
 ![](img/04-25_ndvi.png)
 ![](img/05-25_ndvi.png)
