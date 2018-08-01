@@ -158,7 +158,8 @@ hits per bin across the entire reflectance range and those hits are also more 'b
 ![](img/compare-two.png)
 ###### Figure 7. Comparison of the same index for different sections, similar treatments. 
 
-In a similar fashion, in __Figure 7__ 
+In a similar way we compared index images from different sections but using the same index and a very similar treatment.
+ __Figure 7__ shows the NDVI for two sections flown on the same day which was Day 
 
 #### Summary
 
