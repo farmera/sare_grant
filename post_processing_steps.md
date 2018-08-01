@@ -149,7 +149,7 @@ inconsistent results and was rejected.
 ![](img/compare-one.png)
 ###### Figure 6. Comparison of different index types in the same section, same treatment. 
 
-We were fairly strict and tried to impose a set of standards regarding what an index image needed to have in ordert to be 
+On those data that we felt were acceptable, we tried to impose an additional set of standards regarding what an index image needed to have in ordert to be 
 considered 'suitable for framing'. Our criteria included running various statistical analysis on different index types
 taken in the same section and/or treatment. For example, while the images in __Figure 6__ have not yet been 'soil corrected'
 they reveal a characteristic relationship to one another which is indicative of a good pair of samples   
