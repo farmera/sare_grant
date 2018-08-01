@@ -141,8 +141,8 @@ dampening the saturation that occurs with NDVI later in the season. Surprisingly
 'out-performs' NDVI in terms of its ability to correlate with the final yield values.
 
 #### Quality Control
-An issue faced by this study and others like it is the small number of samples produced along with the innumerable 
-small distortions in accuracy to any one sample that may accrue along the way. Our 2.7 acre test area yielded 30 section 
+An issue faced by this study and others like it is the small number of samples produced along with the 
+small distortions to any one sample that can accrue along the way. Our 2.7 acre test area yielded 30 section 
 plots for five treatments total. That makes six samples for each date flown.  
 
 ![](img/compare.png)
