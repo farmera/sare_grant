@@ -112,8 +112,9 @@ from the samples which proves to be of significance when a final interpretation 
 * Lorem ipsum dolor sit amet
 
 __Figure 4__ below compares two NDVI images taken early in the growth season, at Day 6 following treatment and 
-at Day 21. These section images were used as input to the statistical analysis and are the 'last word' on results 
-reported here. These specific images are    
+at Day 21. Section images like these were used as input to the statistical analysis and are the 'last word' on
+our reported results. The specific images here are 412 by 72 pixels in size, where each sq. pixel has a ground 
+resolution of 2.7 centimeters (~1 square inch).     
 
 ![](img/04-25_ndvi.png)
 ![](img/05-25_ndvi.png)
