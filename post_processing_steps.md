@@ -132,7 +132,7 @@ Reading from top to bottom shows an increase in nitrogen treatment from 80 lbs N
 --------
 ![](img/multiples_134_GNDVI.png)
 
-###### Figure 5. General comparison of NDVI versus GNDVI in early to mid-season sugarcane crop.
+###### Figure 5. General comparison of NDVI versus GNDVI performance in early to mid-season sugarcane.
 
 When analysed statistically these image data reveal that, when compared with NDVI, GNDVI shows a lower correlation with yield data overall but may 
 be better suited at certain points in the season. As indicated by the leftmost column, use of the green band in sparsely 
@@ -145,8 +145,6 @@ dampening the saturation that occurs with NDVI later in the season. Surprisingly
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
 
 #### Summary
-
-![](img/test.png)
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
 
