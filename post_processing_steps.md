@@ -141,6 +141,8 @@ dampening the saturation that occurs with NDVI later in the season. Surprisingly
 'out-performs' NDVI in terms of its ability to correlate with the final yield values.
 
 #### Quality Control
+An issue faced by this study and others like it is the small number of samples along with . In a test area of 2.7 acres we 
+created 30 plots with 5 treatments.  
 
 ![](img/compare.png)
 ###### Figure 6. Comparison of small treatment differences between sections of the same date. 
