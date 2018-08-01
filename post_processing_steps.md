@@ -147,12 +147,12 @@ plots with five treatments each, i.e. six samples for each date flown. Half of t
 results and was rejected.   
 
 ![](img/compare-one.png)
-###### Figure 6. Comparison of small treatment differences between sections of the same date. 
+###### Figure 6. Comparison of different index types in the same section, same treatment. 
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
 
 ![](img/compare-two.png)
-###### Figure 6. Comparison of small treatment differences between sections of the same date. 
+###### Figure 6. Comparison of the same index for different sections, different treatments. 
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
 
