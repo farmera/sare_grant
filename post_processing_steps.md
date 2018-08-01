@@ -149,7 +149,8 @@ inconsistent results and was rejected.
 ![](img/compare-one.png)
 ###### Figure 6. Comparison of different index types in the same section, same treatment. 
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+We were fairly strict and imposed a set of standards regarding what an index image needed to have to be considered 
+'suitable for framing' 
 
 ![](img/compare-two.png)
 ###### Figure 6. Comparison of the same index for different sections, similar treatments. 
