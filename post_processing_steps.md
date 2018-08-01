@@ -114,7 +114,9 @@ from the samples which proves to be of significance when a final interpretation 
 __Figure 4__ below compares two NDVI images taken early in the growth season, at Day 6 following treatment and 
 at Day 21. Section images like these were used as input to the statistical analysis and are the 'last word' on
 our reported results. The specific images here are 412 by 72 pixels in size, where each sq. pixel has a ground 
-resolution of 2.7 centimeters (~1 square inch).     
+resolution of 2.7 centimeters (~1 square inch). These data were captured at a height of 250 ft while flying the 
+drone at a speed of 10 mph. An single capture event occurred every second and comprised a set of RGB, Green, Red, NIR 
+images.     
 
 ![](img/04-25_ndvi.png)
 ![](img/05-25_ndvi.png)
