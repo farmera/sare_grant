@@ -96,17 +96,16 @@ Mesophyll tissue and cavities within the leaf scatter the radiation either upwar
 ![](img/cane-reflect.png)
 ###### Figure 2. Spectral signature yielded from a sugarcane in a healthy or stressed condition. 
 
-__Figure 2__ shows two typical spectral response patterns elicited from a sugarcane plant. Our interest in these particular 
-'signatures' is that they reveal portions of the light spectrum that reflect differently during 
-a particular growth stage and level of photosynthesis in the life cycle of the plant. As discussed in [Section 2](how_plants_see.md) 
-depending on conditions sugarcane will reflect light differently. It will do so depending on whether or not it is healthy 
-or stressed and also depending on the time of year, i.e. on the particular growth stage.   
+__Figure 2__ shows two typical spectral response patterns elicited from a sugarcane plant. As discussed in [Section 2](how_plants_see.md) 
+depending on conditions, a sugarcane plant may reflect light very differently. These 'signatures' reveal important information 
+about the plant at different stages of growth or at different levels of photosynthesis.
+ 
 
 ![](img/cane-growth1.png)
 ###### Figure 3. Stages of sugarcane growth that formed the focus of our study. 
 
 During our study the growth of sugarcane was monitored for various vegetation indices at day 6, 21, 36, 100, 147, 
-and 208 days following application of nitrogen. These days correspond to the shaded region in __Figure 3__
+and 208 days following nitrogen treatment. These days correspond to the shaded region in __Figure 3__
 during the tillering, grand growth and maturation phases of the sugarcane season. 
 
 #### Summary
