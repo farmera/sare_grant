@@ -162,7 +162,7 @@ In a similar way we compared index images from different sections but using the 
  __Figure 7__ shows the NDVI for two sections flown on the same day (Day 36 following treatment)
 
 ![](img/compare-three.png)
-###### Figure 8. Comparison of the same index for same section, same treatments. 
+###### Figure 8. Comparison of the same index for different sections, same treatments. 
 
 #### Summary
 
