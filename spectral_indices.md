@@ -96,9 +96,9 @@ Mesophyll tissue and cavities within the leaf scatter the radiation either upwar
 ![](img/cane-reflect.png)
 ###### Figure 2. Spectral signature yielded from a sugarcane in a healthy or stressed condition. 
 
-__Figure 2__ shows the typical spectral response pattern from a sugarcane plant. Our interest in the spectral signature 
-targets certain parts of the light spectrum that pertain to sugarcane and to such factors as the  
-growth stage and the level of photosynthesis. Depending on conditions a sugarcane plant will reflect the light differently.   
+__Figure 2__ shows the typical spectral response pattern from a sugarcane plant. Our interest in this spectral signature 
+is to target certain portions of the light spectrum which pertain specifically to sugarcane during a particular   
+growth stage and level of photosynthesis. Depending on conditions sugarcane will reflect light differently.   
 
 ![](img/cane-growth.png)
 ###### Figure 3. Stages of sugarcane growth that formed the focus of our study. 
