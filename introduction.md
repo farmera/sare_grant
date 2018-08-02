@@ -31,7 +31,7 @@ and complexity.
 #### Study Goals
 
 Our primary goal has been to determine to what extent low-cost aerial NDVI may be correlated with variable N rates 
-applied to sugarcane. A secondary goal was to determine to what extent time-series analysis of low-cost NDVI imagery can 
+applied to sugarcane. A secondary goal was to determine to what extent time-series analysis of low-cost NDVI imagery might 
 be used to predict yield potential in sugarcane.
 
 Methods currently employed to determine crop N status in sugarcane include visual inspection, tissue analysis, and 
@@ -59,11 +59,8 @@ study intends to make these tools available, in order to refine and measure thei
 
 #### What Follows
 
-This report is organized into twelve sections. In provides in varying levels of detail both background and 
-results from a two-year study on the feasibility of using different multi-spectral indices to predict sucrose yield 
-in sugar cane. Sugar has a longer season than most other crops. It is planted anywhere between August and March 
-depending on the variety and age of the cultivar. From the time of planting, a first year 'plant cane' cultivar such as 
-was used in this study will be harvested 12-14 months later. 
+This report is organized into twelve sections. It provides both background and results from a two-year study on the 
+feasibility of using different multi-spectral indices to predict sucrose yield in sugar cane. 
 
 1. __Introduction__
     * This documemt.
