@@ -21,6 +21,10 @@ Development of effective and affordable N management systems is essential to mai
 in Louisiana, both from an economic and an environmental perspective. Our study sought to address this need by exploring 
 new and untested methods of remote sensing in sugarcane.
 
+In times of stagnant sugar prices, increased production efficiency is crucial to ensure the future vitality of Louisiana's 
+sugar industry. Our solution considers the advantages of using low-cost aerial NDVI as part of an overall N management 
+scheme specific to sugarcane production in Louisiana.
+
 #### The Value of Vegetation Indices
 The Normative Difference Vegetation Index (NDVI) is a form of hyper-spectral imaging that collects and processes 
 information across specific wavelengths of the electromagnetic spectrum. In agriculture, the goal of NDVI imaging is to 
@@ -42,9 +46,6 @@ is inconclusive due to challenges associated with N monitoring in the humid allu
 
 * __Are models of acquired multi-spectral imagery predictive of sugarcane yield?__
 
-Our primary goal has been to determine to what extent low-cost aerial NDVI may be correlated with variable N rates applied 
-to sugarcane. A secondary goal is to determine to what extent time-series analysis of low-cost NDVI imagery can be used 
-to predict yield potential in sugarcane.
 
 
 #### Access to Technology
