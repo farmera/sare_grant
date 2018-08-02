@@ -16,10 +16,10 @@ in order to mitigate the cost of production, maximize yield, and limit impact on
 
 #### Current Methods
 Intensive agricultural production systems, like sugarcane, typically require a higher input rate of nitrogen (N) to achieve 
-sufficient biomass and yield. Along with N rate optimization, the timing of N application is also important. 
-Development of effective and affordable N management systems is essential to maintain sustainable sugarcane agriculture 
-in Louisiana, both from an economic and an environmental perspective. Our study sought to address this need by exploring 
-new and untested methods of remote sensing in sugarcane.
+sufficient biomass and yield. Along with N rate optimization, the timing of N application is also important. Continuous 
+development of effective and affordable N management systems is essential to maintain sustainable sugarcane agriculture 
+in Louisiana, both from an economic and an environmental perspective. Our study sought to address this by exploring new and 
+untested methods of remote sensing in sugarcane.
 
 In times of stagnant sugar prices, increased production efficiency is crucial to ensure the future vitality of Louisiana's 
 sugar industry. Our solution considers the advantages of using low-cost aerial NDVI as part of an overall N management 
