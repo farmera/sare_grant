@@ -93,17 +93,11 @@ Sugarcane specifically absorbs the blue and red bands for photosynthesis. Like o
 is nearly transparent to infrared radiation thus very little NIR is reflected by the outer portion of the leaf. 
 Mesophyll tissue and cavities within the leaf scatter the radiation either upward (reflection) or downward (transmission).
  
-
 ![](img/cane_reflect.png)
 ###### Figure 2. A typical spectral signature yielded from a sugarcane field. 
 
-![](img/sequoia-concept.png)
-###### Figure 3. A typical spectral signature as yielded from a sugarcane field. 
-
 ![](img/cane_growth.png)
 ###### Figure 4. A typical spectral signature as yielded from a sugarcane field. 
-
-
 
 #### Summary
 Remote sensing techniques can provide timely and relatively accurate information for the management of sugarcane crop.

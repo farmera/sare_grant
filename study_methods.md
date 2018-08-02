@@ -170,7 +170,7 @@ trends over time we decided to look elsewhere.
 
 ![](img/sequoia-camera.png) 
 
-###### Figure 7. The 3DR Solo drone with a Parrot Sequoia camera and 'sun sensor' attached. 
+###### Figure 6. The 3DR Solo drone with a Parrot Sequoia camera and 'sun sensor' attached. 
 
 #### Going Semi-Autonomous
 
@@ -182,9 +182,12 @@ more than a couple hundred yards cost anywhere from $10–30K. Small, high-resol
 could add another $15-35K. 
 
 ![](img/sequoia_sensor.png)
-###### Figure 6. A multi-spectral narrow band camera, the Sequoia, produced by Parrot. On the right is the Sunshine sensor. 
+###### Figure 7. A multi-spectral narrow band camera, the Sequoia, produced by Parrot. On the right is the Sunshine sensor. 
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+
+![](img/sequoia-concept.png)
+###### Figure 8. A typical spectral signature as yielded from a sugarcane field. 
 
 #### Qualitative versus Quantitative Science.
 
