@@ -25,6 +25,8 @@
 * Gitelson, A., and M. Merzlyak. "Remote Sensing of Chlorophyll Concentration in Higher Plant Leaves." Advances in Space Research 22 (1998): 689-692.
 * GUYOT, G., 1990, Optical properties of vegetation canopies. In Application of Remote Sensing in Agriculture, M.
 
+###### Section 5 
+https://gamaya.com/wp-content/themes/gamaya/images/sugarcane-banner.jpg
 
 * Zhang, C.; Kovacs, J.M. The application of small unmanned aerial systems for precision agriculture:
 A review. Precis. Agric. 2012, 13, 693–712.

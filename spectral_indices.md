@@ -89,8 +89,8 @@ The spectral signature of sugarcane generally follows that of any other leafy gr
 the incident light minus the green band (most of this is reflected away, hence leaves appear green) and minus most of the 
 NIR light. 
 
-Sugarcane specifically absorbs the blue and red bands for photosynthesis. Like other leafy green plants sugarcane's spongy mesophyll 
-is nearly transparent to infrared radiation thus very little NIR is reflected by the outer portion of the leaf. 
+Sugarcane specifically absorbs the blue and red bands for photosynthesis. Like other leafy green plants sugarcane's spongy 
+mesophyll is nearly transparent to infrared radiation thus very little NIR is reflected by the outer portion of the leaf. 
 Mesophyll tissue and cavities within the leaf scatter the radiation either upward (reflection) or downward (transmission).
  
 ![](img/cane-reflect.png)
@@ -98,15 +98,15 @@ Mesophyll tissue and cavities within the leaf scatter the radiation either upwar
 
 __Figure 2__ shows two typical spectral response patterns elicited from a sugarcane plant. Our interest in these particular 
 'signatures' is that they reveal portions of the light spectrum that reflect differently during 
-a particular growth stage and level of photosynthesis in the life cycle of the plant. As discussed in [Section 2](how_plants_see.md) depending on conditions 
-sugarcane will reflect light differently. It will do so depending on whether or not it is healthy or stressed and also depending
-on the time of year, i.e. on the particular growth stage.   
+a particular growth stage and level of photosynthesis in the life cycle of the plant. As discussed in [Section 2](how_plants_see.md) 
+depending on conditions sugarcane will reflect light differently. It will do so depending on whether or not it is healthy 
+or stressed and also depending on the time of year, i.e. on the particular growth stage.   
 
-![](img/cane-growth.png)
+![](img/cane-growth1.png)
 ###### Figure 3. Stages of sugarcane growth that formed the focus of our study. 
 
 During our study the growth of sugarcane was monitored for various vegetation indices at day 6, 21, 36, 100, 147, 
-and 208 days following application of nitrogen treatments. These days correspond to the shaded regions in __Figure 3__
+and 208 days following application of nitrogen. These days correspond to the shaded region in __Figure 3__
 during the tillering, grand growth and maturation phases of the sugarcane season. 
 
 #### Summary
