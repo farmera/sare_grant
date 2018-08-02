@@ -162,8 +162,6 @@ In a similar way we can compare index images from different sections that use th
 treatment. The treatments in __Figure 7__ are for 40 lbs N (yellow) and 80 lbs N (blue). The NDVI values that make up 
 this histogram are for two sections flown on the same day (Day 36 following treatment).
  
- __Figure 7__ shows the NDVI for two sections flown on the same day (Day 36 following treatment)
-
 ![](img/compare-three.png)
 ###### Figure 8. Comparison of the same index for different sections, same treatment. 
 
