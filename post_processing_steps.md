@@ -177,7 +177,8 @@ Careful reading of this section might raise the legitimate concern that we are p
 to submit to a favorable analysis. Perhaps there is some grain of truth in that as there is certainly a tension 
 between cleaning data so as to removes outliers and 'null' values (acceptable) to removing meaningful 
 information. A guiding principle of this study has been to reveal whether or not certain low-cost methods are amenable to a 
-certain kind of rigor.     
+certain kind of rigor. Getting a half dozen consistent datasets was a challenge  for this study and it was thought that 
+given what we set out to achieve special care should be paid to knowing whether or not the data were clean prior to analysis.      
   
 ###### References
 
