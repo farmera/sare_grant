@@ -16,17 +16,17 @@ in order to mitigate the cost of production, maximize yield, and limit impact on
 
 #### Current Methods
 Intensive agricultural production systems, like sugarcane, typically require a higher input rate of nitrogen (N) to achieve 
-sufficient biomass and yield. Along with N rate optimization, the timing of N application is also important. Continuous 
+sufficient biomass and yield. Along with N rate optimization the timing of application is likewise important. Continuous 
 refinement of effective and affordable N management systems is essential to maintain sustainable sugarcane agriculture 
-in Louisiana. Our study considers the advantages of low-cost vegetation indices such as aerial NDVI as part of an 
-overall N management scheme specific to sugarcane production in Louisiana.
+in Louisiana. Our study considers the potential advantage of using a low-cost vegetation indices such as aerial NDVI 
+as part of an overall N management scheme specific to sugarcane production in Louisiana.
 
 #### The Value of Vegetation Indices
 The Normative Difference Vegetation Index (NDVI) is a form of hyper-spectral imaging that collects and processes 
 information across specific wavelengths of the electromagnetic spectrum. In agriculture, the goal of NDVI imaging is to 
-detect the relative strength of photosynthetic processes occurring in the field. 
-
-The primary disadvantage of these methods has been their cost and complexity. 
+detect the relative strength of photosynthetic processes occurring in the field. While vegetation indices 
+like NDVI have been applied for years in agriculture, the primary disadvantage of such methods has traditionally been 
+their cost and complexity. 
 
 #### Study Goals
 
