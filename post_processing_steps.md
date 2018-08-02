@@ -168,8 +168,8 @@ we do see in the figure.
 ###### Figure 8. Comparison of the same index for different sections, same treatment. 
 
 The last sort of comparison we did, as a means of 'proofing' whether or not an image sample was acceptable, was to check different
-sections that received the same treatment. In __Figure 8__ two NDVI images which received the same treatment in different parts of the
-field 
+sections with the same treatment. In __Figure 8__ two NDVI images that received 0 lbs N in different parts of the
+field have similar (not identical) histogram plots.  
 
 #### Summary
 
