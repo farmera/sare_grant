@@ -21,16 +21,17 @@ Development of effective and affordable N management systems is essential to mai
 in Louisiana, both from an economic and an environmental perspective. Our study sought to address this need by exploring 
 new and untested methods of remote sensing in sugarcane.
 
-#### The Value of Spectral Indices
+#### The Value of Vegetation Indices
 The Normative Difference Vegetation Index (NDVI) is a form of hyper-spectral imaging that collects and processes 
 information across specific wavelengths of the electromagnetic spectrum. In agriculture, the goal of NDVI imaging is to 
-detect the relative strength of photosynthetic processes in each area of a field. Traditionally the primary disadvantage 
-of such methods has been their cost and complexity. 
+detect the relative strength of photosynthetic processes occurring in the field. 
+
+The primary disadvantage of these methods has been their cost and complexity. 
 
 #### Study Goals
 Methods currently employed to determine crop N status in sugarcane include visual inspection, tissue analysis, and 
 chlorophyll monitoring. Soil N analysis is also utilized to gauge soil nitrogen content, but the reliability of soil sampling 
-is inconclusive due to challenges associated with monitoring nitrogen in the humid alluvial soils of southern Louisiana.
+is inconclusive due to challenges associated with N monitoring in the humid alluvial soils of southern Louisiana.
 
 * __Can variable nitrogen rates applied to sugarcane be correlated with low-cost multi-spectral imagery?__
 
