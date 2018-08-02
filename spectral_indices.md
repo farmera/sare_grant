@@ -93,7 +93,7 @@ Sugarcane specifically absorbs the blue and red bands for photosynthesis. Like o
 is nearly transparent to infrared radiation thus very little NIR is reflected by the outer portion of the leaf. 
 Mesophyll tissue and cavities within the leaf scatter the radiation either upward (reflection) or downward (transmission).
  
-![](img/cane_reflect.png)
+![](img/cane-reflect.png)
 ###### Figure 2. Spectral signature yielded from a sugarcane field. 
 
 __Figure 2__ shows the typical broad band spectral response from a sugarcane field in Louisiana.  
@@ -103,7 +103,7 @@ __Figure 2__ shows the typical broad band spectral response from a sugarcane fie
 
 During our study the growth of sugarcane was monitored for various vegetation indices at day 6, 21, 36, 100, 147, 
 and 208 days following application of nitrogen treatments. These days correspond with the shaded regions in __Figure 3__
-during the tillering, grand growth and maturation phases of the season.
+during tillering, grand growth and maturation phases of the season. 
 
 #### Summary
 Remote sensing techniques can provide timely and relatively accurate information for the management of sugarcane crop.
