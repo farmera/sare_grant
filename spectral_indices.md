@@ -100,7 +100,7 @@ __Figure 2__ shows two typical spectral response patterns elicited from a sugarc
 'signatures' is that they reveal portions of the light spectrum that reflect differently during 
 a particular growth stage and level of photosynthesis in the life cycle of the plant. As discussed in [Section 2](how_plants_see.md) depending on conditions 
 sugarcane will reflect light differently. It will do so depending on whether or not it is healthy or stressed and also depending
-on the particular stage of growth.   
+on the time of year, i.e. on the particular stage of growth it is in.   
 
 ![](img/cane-growth.png)
 ###### Figure 3. Stages of sugarcane growth that formed the focus of our study. 
