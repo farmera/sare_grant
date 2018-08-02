@@ -168,7 +168,7 @@ we do see in the figure.
 ###### Figure 8. Comparison of the same index for different sections, same treatment. 
 
 The last sort of comparison we did, as a means of 'proofing' whether or not an image sample was acceptable, was to check different
-sections that received the same treatment. __Figure 8__  
+sections that received the same treatment. In __Figure 8__  
 
 #### Summary
 
