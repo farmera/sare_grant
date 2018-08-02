@@ -35,7 +35,8 @@ be used to predict yield potential in sugarcane.
 
 Methods currently employed to determine crop N status in sugarcane include visual inspection, tissue analysis, and 
 chlorophyll monitoring. Soil N analysis is also utilized to gauge soil nitrogen content, but the reliability of soil sampling 
-is inconclusive due to challenges associated with N monitoring in the humid alluvial soils of southern Louisiana.
+is inconclusive due to challenges associated with N monitoring in the humid alluvial soils of southern Louisiana. Our approach 
+sought to address two questions:
 
 * __Can variable nitrogen rates applied to sugarcane be correlated with low-cost multi-spectral imagery?__
 
