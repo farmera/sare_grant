@@ -101,6 +101,8 @@ __Figure 2__ shows the typical broad band spectral response from a sugarcane fie
 ![](img/cane-growth.png)
 ###### Figure 3. Stages of sugarcane growth that formed the focus during our study. 
 
+During our study the growth of sugarcane was monitored via the vegetation indices discussed here at 6, 21, 36, 100, 147, 
+and 208 Days following application of nitrigen treatments. These days correspnd with the shaded regions in __Figure 3__.
 #### Summary
 Remote sensing techniques can provide timely and relatively accurate information for the management of sugarcane crop.
 Thus far we've discussed simple calculations applied to single image pixels. In practice, generating a vegetative index
