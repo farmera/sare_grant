@@ -81,9 +81,10 @@ this through use of a custom masking technique discussed in [Section 7](post_pro
 * When light interacts with sugarcane it is partly reflected and partly absorbed. 
 * The magnitude of energy that sugarcane reflects or emits across wavelengths is called its spectral signal. 
 
-The spectral signature of sugarcane generally follows that of any other green leafy plant - it absorbs 60 to 85 percentage of 
-incident light minus the green band (most is reflected, hence leaves appear green) and minus most of the NIR light. Sugarcane 
-specifically absorbs the blue and red bands for photosynthesis. Like other leafy green plants sugarcane's spongy mesophyll 
+The spectral signature of sugarcane generally follows that of any other green leafy plant - it absorbs 60-85 percent of 
+the incident light minus the green band (most green light is reflected, hence leaves appear green) and minus most of the NIR light. 
+
+Sugarcane specifically absorbs the blue and red bands for photosynthesis. Like other leafy green plants sugarcane's spongy mesophyll 
 is nearly transparent to infrared radiation thus very little NIR is reflected by the outer portion of the sugarcane leaf. 
 Mesophyll tissue and cavities within the leaf scatter the radiation either upward (reflection) or downward (transmission).
  
