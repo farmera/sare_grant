@@ -59,8 +59,8 @@ study intends to make these tools available, in order to refine and measure thei
 
 #### What Follows
 
-This report is organized into twelve sections. It provides both background and results from a two-year study on the 
-feasibility of using different multi-spectral indices to predict sucrose yield in sugar cane. 
+This report is organized into twelve sections which provide both background and results from a two-year study on the 
+feasibility of using different multi-spectral indices to predict sucrose yield in sugar cane. The sections are as follows:
 
 1. __Introduction__
     * This documemt.
