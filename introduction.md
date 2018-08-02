@@ -31,7 +31,7 @@ and complexity.
 #### Study Goals
 
 Our primary goal has been to determine to what extent low-cost aerial NDVI may be correlated with variable N rates 
-applied to sugarcane. A secondary goal is to determine to what extent time-series analysis of low-cost NDVI imagery can 
+applied to sugarcane. A secondary goal was to determine to what extent time-series analysis of low-cost NDVI imagery can 
 be used to predict yield potential in sugarcane.
 
 Methods currently employed to determine crop N status in sugarcane include visual inspection, tissue analysis, and 
