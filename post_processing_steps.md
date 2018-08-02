@@ -153,13 +153,16 @@ For those data which we felt were acceptable, we tried to impose an additional s
 considered 'suitable for framing'. Our criteria included running various statistical analyses on different index types
 taken in the same section and/or treatment. For example, while the images in __Figure 6__ have not yet been 'soil corrected'
 they reveal a characteristic relationship between GNDVI and NDVI where the former has 'less energy' i.e. it displays fewer 
-hits per bin across the entire reflectance range and those hits are also more 'bunched' together around a mean value.        
+hits per bin across the entire reflectance range and those hits are more 'bunched' together around a mean value.        
 
 ![](img/compare-two.png)
 ###### Figure 7. Comparison of the same index for different sections, similar treatments. 
 
 In a similar way we compared index images from different sections but using the same index and a very similar treatment.
- __Figure 7__ shows the NDVI for two sections flown on the same day which was Day 
+ __Figure 7__ shows the NDVI for two sections flown on the same day (Day 36 following treatment)
+
+![](img/compare-three.png)
+###### Figure 8. Comparison of the same index for same section, same treatments. 
 
 #### Summary
 
