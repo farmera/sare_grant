@@ -160,7 +160,8 @@ hits per bin across the entire reflectance range and those hits are more 'bunche
 
 In a similar way we can compare index images from different sections that use the same index to measure a similar 
 treatment. The treatments in __Figure 7__ are for 40 lbs N (yellow) and 80 lbs N (blue). The NDVI values that make up 
-this histogram are for sections imaged on the same day (on the same flight, Day 36 following treatment).
+this histogram are for sections imaged on the same day (on the same flight) at Day 36 following treatment. What we expect 
+to see is a characteristic shift to the right of the higher treatment plot and this is indeed what we do see in this figure.  
  
 ![](img/compare-three.png)
 ###### Figure 8. Comparison of the same index for different sections, same treatment. 
