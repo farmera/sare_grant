@@ -23,9 +23,10 @@ N management scheme specific to sugarcane production in Louisiana.
 
 #### The Value of Vegetation Indices
 The Normative Difference Vegetation Index (NDVI) is a form of hyper-spectral imaging that collects and processes 
-information across specific wavelengths of the electromagnetic spectrum. In agriculture, the goal of NDVI imaging is to 
-detect the relative strength of photosynthetic processes occurring in the field. While vegetation indices 
-like NDVI have been applied in agriculture, the primary disadvantage of these methods has been their cost and complexity. 
+information across various wavelengths of the electromagnetic spectrum. In agriculture, the goal of NDVI imaging is to 
+detect the relative strength of photosynthetic processes occurring in a field. While vegetation indices 
+like NDVI have been applied in agriculture, the primary disadvantage of these methods has traditionally been their cost 
+and complexity. 
 
 #### Study Goals
 
