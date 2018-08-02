@@ -72,9 +72,9 @@ this through use of a custom masking technique discussed in [Section 7](post_pro
     sensitive to photosynthetic activity, specifically to variation of chlorophyll content in plants.
     
 6. __CIR Composite__ (Color Infrared) 
-    * Unlike other values described a CIR Composite is not an index. Instead of displaying the common RGB bands it combines 
-    the NIR, Red, and Green bands such that the NIR is shown as red, the red as green, and the green 
-    as blue. This allows the NIR light to be visualized as red.
+    * Unlike the other values described a CIR Composite is not a true index. Instead of displaying the common RGB bands 
+    it combines the NIR, Red, and Green bands such that the NIR is shown as red, the red as green, and the green 
+    as blue. This allows the NIR light to be visualized as red. We used CIR composite images extensively.
 
 #### Choosing an Index for Sugarcane
 
