@@ -42,34 +42,34 @@ the physical values from which they derive cancel one another. Some common veget
 include:
 
 1. __NDVI__ = (NIR - RED) / (NIR + RED)
-    * The workhorse of vegetation indices. NDVI reveals the physical basis of most other VI's i.e. the relationship 
-    between absorbed/reflected amounts of red and NIR light. In our study, NDVI was best at revealing biomass differences. 
-    We found it to be most effective in the early to mid-growth part of the season. It tended to lose some sensitivity 
-    following canopy closure. 
+    * The workhorse of vegetation indices, NDVI reveals the physical basis of most other VI's (i.e. the relationship 
+    between absorbed/reflected amounts of red and NIR light). In our study, NDVI was best at revealing biomass differences. 
+    It was most effective in the early to mid-growth part of the season. NDVI tended to lose some sensitivity in the later
+    season following canopy closure. 
 
 2. __SAVI__ = (NIR - RED) /  (NIR + RED + L) * (1 * L)
     * The soil-adjusted vegetation index (SAVI) is a modification of NDVI intended to correct for soil brightness. 
-In areas where soil is exposed, reflectance of light is altered in the red and NIR bands and this can 
-influence the result. The issue may be present during the early part of the growth season. We addressed 
-this sort of issue by use of a masking technique discussed in [Section 9](readme_resources/study_results_drones.md). 
+In areas where soil is exposed reflectance of light is altered in the red and NIR bands and this may 
+influence the final result. The issue is mainly present during the early part of the growth season. We addressed 
+this through use of a custom masking technique discussed in [Section 7](readme_resources/post_processing_steps.md). 
     
 3. __OSAVI__ = (NIR - RED) /  (NIR + RED + 0.16)
 
     *   OSAVI is derived from the Soil Adjusted Vegetation Index (SAVI) above. It's sensitive to canopy density but not
-    soil brightness. Where vegetation cover is > 50% it can help dampen the saturation effect that NDVI is prone to.
+    to soil brightness. Where vegetation cover is > 50% it may help dampen the saturation effect that NDVI is prone to.
     We used this index in the latter part of the 2017 season with mixed results. 
 
 4. __NDRE__ = (NIR - RE) / (NIR + RE)
-    * NDRE is available only in cameras that are sensitive to the 'Red Edge' band of spectral light. It's a better 
+    * NDRE is available only in cameras that are sensitive to the 'Red Edge' spectral band. It's a better 
     general indicator of plant health for mid to late season growth when compared to NDVI. NDRE is also thought to be 
     capable of mapping variability in foliar Nitrogen levels, which we were interested in. Green and red-edge bands 
     penetrate the leafy part of the plant more so than the blue or red bands. Thus red-edge is more sensitive to 
-    chlorophyll content and to nitrogen contained in the leaf. We used this index extensively. 
+    chlorophyll content and to nitrogen contained in the leaf.
 
 5. __GNDVI__ = (NIR - Green) / (NIR + Green)
-    * As indicated by the name, the Green Normalized Difference Vegetation Index is related to NDVI (or RNDVI) in that 
-    it uses the green band where NDVI uses the red. GNDVI is an index of 'greenness' and by that measure it is more 
-    sensitive to photosynthetic activity, specifically to the variation of chlorophyll content in plants.
+    * As indicated by the name, the Green Normalized Difference Vegetation Index is related to NDVI (also sometimes called RNDVI) in that 
+    it uses the green band while NDVI uses the red. GNDVI is an index of 'greenness' and by that measure is more 
+    sensitive to photosynthetic activity, specifically to variation of chlorophyll content in plants.
     
 6. __CIR Composite__ (Color Infrared) 
     * Unlike other values described a CIR Composite is not an index. Instead of displaying the common RGB bands it combines 
