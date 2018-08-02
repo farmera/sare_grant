@@ -98,11 +98,8 @@ Mesophyll tissue and cavities within the leaf scatter the radiation either upwar
 
 __Figure 2__ shows the typical broad band spectral response from a sugarcane field in Louisiana.  
 
-![](img/cane_growth.png)
-###### Figure 4. A typical spectral signature as yielded from a sugarcane field. 
-
-
 ![](img/cane-growth.png)
+###### Figure 3. Stages of sugarcane growth that formed the focus during our study. 
 
 #### Summary
 Remote sensing techniques can provide timely and relatively accurate information for the management of sugarcane crop.
