@@ -82,11 +82,11 @@ this through use of a custom masking technique discussed in [Section 7](post_pro
 * The magnitude of energy that sugarcane reflects or emits across wavelengths is called its spectral signal. 
 
 Across any range of wavelengths, the percent reflectance value for any feature (i.e. water, sand, sugarcane) 
-on the ground may be plotted as a “spectral response curve” or __spectral signatures__. Differences among spectral signatures 
+on the ground may be plotted as a “spectral response curve” or __spectral signature__. Differences among spectral signatures 
 can be used to analyze and classify remotely sensed objects. 
 
 The spectral signature of sugarcane generally follows that of any other leafy green plant - it absorbs 60-85 percent of 
-the incident light minus the green band (most green light is reflected, hence leaves appear green) and minus most of the 
+the incident light minus the green band (most of this is reflected away, hence leaves appear green) and minus most of the 
 NIR light. 
 
 Sugarcane specifically absorbs the blue and red bands for photosynthesis. Like other leafy green plants sugarcane's spongy mesophyll 
