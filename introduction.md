@@ -21,6 +21,15 @@ Development of effective and affordable N management systems is essential to mai
 in Louisiana, both from an economic and an environmental perspective. Our study sought to address this need by exploring 
 new and largely untested methods of remote sensing.
 
+#### The Value of Spectral Indices
+The Normative Difference Vegetation Index (NDVI) is a form of hyper-spectral imaging that collects and processes 
+information across specific wavelengths of the electromagnetic spectrum. The purpose of NDVI image processing is to 
+obtain a spectral index of each pixel in an image. In agriculture, the goal of NDVI imaging is to detect the relative 
+strength of photosynthetic processes in each area of a field. Hyper-spectral methods such as NDVI have the main advantage 
+that the entire spectrum may be acquired at every point without prior knowledge of the sample; post-processing allows all 
+information in the dataset to be mined in any number of ways after the fact. The primary disadvantage of traditional 
+methods is their cost and complexity.
+
 #### Study Goals
 Methods currently employed to determine crop N status in sugarcane include visual inspection, tissue analysis, and 
 chlorophyll monitoring. Soil N analysis is also utilized to gauge soil nitrogen content, but the reliability of soil sampling 
@@ -30,14 +39,6 @@ is inconclusive due to challenges associated with monitoring nitrogen in the hum
 
 * __Are models of acquired multi-spectral imagery predictive of sugarcane yield?__
 
-#### The Value of Spectral Indices
-The Normative Difference Vegetation Index (NDVI) is a form of hyper-spectral imaging that collects and processes 
-information across specific wavelengths of the electromagnetic spectrum. The purpose of NDVI image processing is to 
-obtain a spectral index of each pixel in an image. In agriculture, the goal of NDVI imaging is to detect the relative 
-strength of photosynthetic processes in each area of a field. Hyper-spectral methods such as NDVI have the main advantage 
-that the entire spectrum may be acquired at every point without prior knowledge of the sample; post-processing allows all 
-information in the dataset to be mined in any number of ways after the fact. The primary disadvantage of traditional 
-methods is their cost and complexity.
 
 #### Access to Technology
 Studies on Louisiana sugarcane growth have shown that remote sensing methods like NDVI are effective in predicting sucrose 
