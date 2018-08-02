@@ -167,8 +167,8 @@ we do see in the figure.
 ![](img/compare-three.png)
 ###### Figure 8. Comparison of the same index for different sections, same treatment. 
 
-The last sort of comparison that we did, as a means of 'proofing' whether or not a sample was acceptable, was to check
-  
+The last sort of comparison we did, as a means of 'proofing' whether or not an image sample was acceptable, was to check different
+sections receiving the same treatment. __Figure 8__  
 
 #### Summary
 
