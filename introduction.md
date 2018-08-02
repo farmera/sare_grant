@@ -37,6 +37,10 @@ is inconclusive due to challenges associated with N monitoring in the humid allu
 
 * __Are models of acquired multi-spectral imagery predictive of sugarcane yield?__
 
+Our primary goal has been to determine to what extent low-cost aerial NDVI may be correlated with variable N rates applied 
+to sugarcane. A secondary goal is to determine to what extent time-series analysis of low-cost NDVI imagery can be used 
+to predict yield potential in sugarcane.
+
 
 #### Access to Technology
 Estimating yield is a major challenge for the majority of agricultural crops. Studies on Louisiana sugarcane growth have 
