@@ -51,7 +51,7 @@ include:
     * The soil-adjusted vegetation index (SAVI) is a modification of NDVI intended to correct for soil brightness. 
 In areas where soil is exposed reflectance of light is altered in the red and NIR bands and this may 
 influence the final result. The issue is mainly present during the early part of the growth season. We addressed 
-this through use of a custom masking technique discussed in [Section 7](readme_resources/post_processing_steps.md). 
+this through use of a custom masking technique discussed in [Section 7](post_processing_steps.md). 
     
 3. __OSAVI__ = (NIR - RED) /  (NIR + RED + 0.16)
 
