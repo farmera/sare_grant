@@ -96,14 +96,16 @@ Mesophyll tissue and cavities within the leaf scatter the radiation either upwar
 ![](img/cane-reflect.png)
 ###### Figure 2. Spectral signature yielded from a sugarcane in a healthy or stressed condition. 
 
-__Figure 2__ shows the typical broad band spectral response from a sugarcane field in Louisiana.  
+__Figure 2__ shows the typical spectral response pattern from a sugarcane plant. Our interest in the spectral signature 
+for sugar cane targets certain parts of the light spectrum that specifically pertain to sugarcane and to factors such as 
+growth stage and level of photosynthesis. Depending on these conditions a sugarcane plant will reflect the light differently.   
 
 ![](img/cane-growth.png)
 ###### Figure 3. Stages of sugarcane growth that formed the focus of our study. 
 
 During our study the growth of sugarcane was monitored for various vegetation indices at day 6, 21, 36, 100, 147, 
-and 208 days following application of nitrogen treatments. These days correspond with the shaded regions in __Figure 3__
-during tillering, grand growth and maturation phases of the season. 
+and 208 days following application of nitrogen treatments. These days correspond to the shaded regions in __Figure 3__
+during the tillering, grand growth and maturation phases of the sugarcane season. 
 
 #### Summary
 Remote sensing techniques can provide timely and relatively accurate information for the management of sugarcane crop.
