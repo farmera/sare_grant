@@ -99,9 +99,9 @@ Mesophyll tissue and cavities within the leaf scatter the radiation either upwar
 __Figure 2__ shows the typical broad band spectral response from a sugarcane field in Louisiana.  
 
 ![](img/cane-growth.png)
-###### Figure 3. Stages of sugarcane growth that formed the focus during our study. 
+###### Figure 3. Stages of sugarcane growth that formed the focus of our study. 
 
-During our study the growth of sugarcane was monitored in terms of vegetation indices discussed at 6, 21, 36, 100, 147, 
+During our study the growth of sugarcane was monitored for various vegetation indices at day 6, 21, 36, 100, 147, 
 and 208 days following application of nitrogen treatments. These days correspond with the shaded regions in __Figure 3__
 during the tillering, grand growth and maturation phases of the season.
 
