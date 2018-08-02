@@ -85,13 +85,17 @@ The spectral signature of sugarcane generally follows that of any other leafy gr
 the incident light minus the green band (most green light is reflected, hence leaves appear green) and minus most of the 
 NIR light. 
 
+Across any range of wavelengths, the percent reflectance value for any feature (i.e. water, sand, sugarcane) 
+on the ground may be plotted as a “spectral response curve” or “spectral signatures.” Differences among spectral signatures 
+can be used to analyze and classify remotely sensed images 
+
 Sugarcane specifically absorbs the blue and red bands for photosynthesis. Like other leafy green plants sugarcane's spongy mesophyll 
 is nearly transparent to infrared radiation thus very little NIR is reflected by the outer portion of the leaf. 
 Mesophyll tissue and cavities within the leaf scatter the radiation either upward (reflection) or downward (transmission).
  
 
 ![](img/cane_reflect.png)
-###### Figure 2. A typical spectral signature as yielded from a sugarcane field. 
+###### Figure 2. A typical spectral signature yielded from a sugarcane field. 
 
 ![](img/sequoia-concept.png)
 ###### Figure 3. A typical spectral signature as yielded from a sugarcane field. 
