@@ -19,14 +19,13 @@ Intensive agricultural production systems, like sugarcane, typically require a h
 sufficient biomass and yield. Along with N rate optimization, the timing of N application is also important. 
 Development of effective and affordable N management systems is essential to maintain sustainable sugarcane agriculture 
 in Louisiana, both from an economic and an environmental perspective. Our study sought to address this need by exploring 
-new and largely untested methods of remote sensing.
+new and untested methods of remote sensing in sugarcane.
 
 #### The Value of Spectral Indices
 The Normative Difference Vegetation Index (NDVI) is a form of hyper-spectral imaging that collects and processes 
-information across specific wavelengths of the electromagnetic spectrum. The purpose of NDVI image processing is to 
-obtain a spectral index of each pixel in an imaged area of a crop. In agriculture, the goal of NDVI imaging is to detect 
-the relative strength of photosynthetic processes in each area of a field. The primary disadvantage of these methods 
-traditionally has been their cost and complexity.
+information across specific wavelengths of the electromagnetic spectrum. In agriculture, the goal of NDVI imaging is to 
+detect the relative strength of photosynthetic processes in each area of a field. Traditionally the primary disadvantage 
+of such methods has been their cost and complexity. 
 
 #### Study Goals
 Methods currently employed to determine crop N status in sugarcane include visual inspection, tissue analysis, and 
@@ -39,10 +38,11 @@ is inconclusive due to challenges associated with monitoring nitrogen in the hum
 
 
 #### Access to Technology
-Studies on Louisiana sugarcane growth have shown that remote sensing methods like NDVI are effective in predicting sucrose 
-yield in response to applied N fertilizer. Yet access to these technologies by farmers is limited; acquiring, processing 
-and interpreting such data is costly and time-consuming. While high resolution aerial imagery such as NDVI holds the 
-potential to improve operational efficiency, economic factors prevent their general adoption by Louisiana cane growers.
+Estimating yield is a major challenge for the majority of agricultural crops. Studies on Louisiana sugarcane growth have 
+shown that remote sensing methods like NDVI are effective in predicting sucrose yield in response to applied N fertilizer. 
+Yet access to these technologies by farmers is limited; acquiring, processing and interpreting such data is costly and 
+time-consuming. While high resolution aerial imagery such as NDVI holds the potential to improve operational efficiency, 
+economic factors prevent their general adoption by Louisiana cane growers.
 
 High temporal and spatial resolution NDVI can provide a host of potential uses in agriculture: prescribing N fertilizer 
 amounts and estimating crop yield are two of the potential benefits to Louisiana sugarcane producers. Yet a 'chicken and egg' 
