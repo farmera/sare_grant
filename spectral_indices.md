@@ -101,6 +101,9 @@ __Figure 2__ shows the typical broad band spectral response from a sugarcane fie
 ![](img/cane_growth.png)
 ###### Figure 4. A typical spectral signature as yielded from a sugarcane field. 
 
+
+![](img/cane-growth.png)
+
 #### Summary
 Remote sensing techniques can provide timely and relatively accurate information for the management of sugarcane crop.
 Thus far we've discussed simple calculations applied to single image pixels. In practice, generating a vegetative index
