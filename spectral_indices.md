@@ -94,7 +94,7 @@ is nearly transparent to infrared radiation thus very little NIR is reflected by
 Mesophyll tissue and cavities within the leaf scatter the radiation either upward (reflection) or downward (transmission).
  
 ![](img/cane-reflect.png)
-###### Figure 2. Spectral signature yielded from a sugarcane in healthy or stressed condition. 
+###### Figure 2. Spectral signature yielded from a sugarcane in a healthy or stressed condition. 
 
 __Figure 2__ shows the typical broad band spectral response from a sugarcane field in Louisiana.  
 
