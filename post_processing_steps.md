@@ -158,11 +158,13 @@ hits per bin across the entire reflectance range and those hits are more 'bunche
 ![](img/compare-two.png)
 ###### Figure 7. Comparison of the same index for different sections, similar treatments. 
 
-In a similar way we compared index images from different sections but using the same index and a very similar treatment.
+In a similar way we can compare index images from different sections that use the same index to measure a similar 
+treatment. The treatments in __Figure 7__ are for 40 and 80 lbs N, respectively
+ 
  __Figure 7__ shows the NDVI for two sections flown on the same day (Day 36 following treatment)
 
 ![](img/compare-three.png)
-###### Figure 8. Comparison of the same index for different sections, same treatments. 
+###### Figure 8. Comparison of the same index for different sections, same treatment. 
 
 #### Summary
 
