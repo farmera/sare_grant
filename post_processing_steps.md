@@ -174,8 +174,8 @@ field have similar (not identical) histogram plots.
 #### Summary
 
 Careful reading of this section might raise the legitimate concern that we are pre-selecting data that is most likely
-to submit to a favorable analysis. Perhaps there is some truth in that. There is a tension between cleaning data without
-intent (e.g. where one removes outliers or 'null' values from a dataset)
+to submit to a favorable analysis. Perhaps there is some grain of truth in that as there is certainly a tension 
+between cleaning data so as to removes outliers or 'null' values from a dataset (acceptable) and removing meaningful information.   
   
 ###### References
 
