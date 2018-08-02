@@ -18,12 +18,16 @@ in order to mitigate the cost of production, maximize yield, and limit impact on
 Intensive agricultural production systems, like sugarcane, typically require a higher input rate of nitrogen (N) to achieve 
 sufficient biomass and yield. Along with N rate optimization, the timing of N application is also important. 
 Development of effective and affordable N management systems is essential to maintain sustainable sugarcane agriculture 
-in Louisiana, both from an economic and environmental perspective.
+in Louisiana, both from an economic and an environmental perspective. Our study sought to address this need.
 
 #### Study Goals
 Methods currently employed to determine crop N status in sugarcane include visual inspection, tissue analysis, and 
 chlorophyll monitoring. Soil N analysis is also utilized to gauge soil nitrogen content, but the reliability of soil sampling 
 is inconclusive due to challenges associated with monitoring nitrogen in the humid alluvial soils of southern Louisiana.
+
+* __Can variable nitrogen rates applied to sugarcane be correlated with low-cost multi-spectral imagery?__
+
+* __Are models of acquired multi-spectral imagery predictive of sugarcane yield?__
 
 #### The Value of Spectral Indices
 The Normative Difference Vegetation Index (NDVI) is a form of hyper-spectral imaging that collects and processes 
