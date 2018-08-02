@@ -175,7 +175,7 @@ field have similar (not identical) histogram plots.
 
 Careful reading of this section might raise the legitimate concern that we are pre-selecting data that is most likely
 to submit to a favorable analysis. Perhaps there is some grain of truth in that as there is certainly a tension 
-between cleaning data so as to removes outliers or 'null' values from a dataset (acceptable) and removing meaningful 
+between cleaning data so as to removes outliers and 'null' values (acceptable) to removing meaningful 
 information. A guiding principle of this study has been to reveal whether or not certain low-cost methods are amenable to a 
 certain kind of rigor.     
   
