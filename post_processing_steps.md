@@ -173,8 +173,8 @@ field have similar (not identical) histogram plots.
 
 #### Summary
 
-A careful reader of the last part of this section might question the legitimacy of selecting which data we were willing to submit 
-to analysis versus which 
+A careful reading of this section might raise the legitimate issue of our apparently selecting which data we were willing to submit 
+to analysis versus which we were not.  
 ###### References
 
 [TBD]
