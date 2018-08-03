@@ -30,7 +30,9 @@ An example vegetation index is NDVI which is calculated from an image in the fol
 2. Add all NIR values in each pixel to all the Red values.
 3. Calculate the ratio between the calculated difference (the numerator) and the calculated sum (the denominator). 
 
-Calculating NDVI requires first creating and manipulating separate images (i.e. pixel arrays) one of which contains light 
+Performing the above calculations creates a third value between 0 and 1. 
+
+Thus calculating NDVI requires first creating and manipulating separate images (i.e. pixel arrays) one of which contains light 
 from the red band and the other from the NIR band. The 'index' is the ratio of differences and sums of these two narrow bands 
 calculated separately over many individual pixels. A ratio is taken in order to _normalize_ these values with the effect 
 that this binds them between -1 and 1. Plant NDVI values can range from 0 to 1 but usually lie somewhere between 0.2 and 0.8. 
@@ -40,14 +42,15 @@ that this binds them between -1 and 1. Plant NDVI values can range from 0 to 1 b
 
 Since human eyes cannot see NIR light (or the ratio of a difference and sum of NIR and red) the final result must be 
 'colorized' in some way in order to have it make visual sense. The image in __Figure 2__ is a color 'LUT' or look up 
-table that is commonly used to accomplish this. Each pixel in the final vegetation index has a value representing a number 
-between 0 and 1. The strength of that value is used to infer some physical property, in this case the relative amount of 
-photosynthesis occurring at that specific pixel area on the ground. 
+table that we used to accomplish this.
 
 ![](img/ndvi-pixel-scale.png) 
 ###### Figure 2. Scaling up.
 
-In later sections we will use this LUT extensively. (For those interested the values are contained in spectral_lib.py).
+Each pixel in the final vegetation index has a value representing a number between 0 and 1. The strength of that value 
+is used to infer some physical property, in this case the relative amount of photosynthesis occurring at that specific 
+pixel area on the ground. In later sections we will use this LUT extensively. (For those interested the values are 
+contained in spectral_lib.py).
 
 NDVI and other index variability values are 'dimensionless' meaning the physical values from which they derive cancel one 
 another. 
