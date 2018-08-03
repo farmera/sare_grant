@@ -97,7 +97,7 @@ Mesophyll tissue and cavities within the leaf scatter the radiation either upwar
 
  
 ![](img/cane-reflect.png)
-###### Figure 2. Spectral signature yielded from a sugarcane in a healthy or stressed condition. 
+###### Figure 2. Spectral signature yielded from a sugarcane plant in healthy or stressed conditions. 
 
 __Figure 2__ shows two typical spectral response patterns elicited from a sugarcane plant. As discussed in [Section 2](how_plants_see.md) 
 depending on conditions, a sugarcane plant may reflect light very differently. These 'signatures' reveal important information 
