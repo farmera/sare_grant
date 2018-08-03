@@ -39,9 +39,9 @@ that this binds them between -1 and 1. Plant NDVI values can range from 0 to 1 b
 ###### Figure 2. Fastie LUT (Look Up Table)
 
 Since human eyes cannot see NIR light (or the ratio of a difference and sum of NIR and red light) the final result must be 
-colored in some way in order to makes sense. The image in __Figure 2__ is a color 'LUT' or look up table that is commonly
+colored in some way in order to make sense. The image in __Figure 2__ is a color 'LUT' or look up table that is commonly
 used to do this. Each pixel in the final vegetation index array has a value representing a number between 0 and 1. The strength 
-of that value is used to infer the strength of some physical property, i.e. the relative strength of photosynthesis occurring
+of that value is used to infer the strength of some physical property, i.e. here the relative amount of photosynthesis occurring
 at that pixel. 
 
 In later sections we will use this LUT extensively. (For those interested the values are contained in spectral_lib.py).
