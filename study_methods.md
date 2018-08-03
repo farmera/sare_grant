@@ -186,6 +186,11 @@ could add another $15-35K.
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
 
+![](img/cane-reflect.png)
+###### Figure 3. Spectral signature yielded from a sugarcane plant in healthy or stressed conditions. 
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+
 ![](img/sequoia-concept.png)
 ###### Figure 8. A typical spectral signature as yielded from a sugarcane field. 
 
