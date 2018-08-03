@@ -50,7 +50,7 @@ they are included in [spectral_lib.py]())
 
 In summary, each pixel in the final vegetation index has a value representing a number between 0 and 1. The strength of that value 
 is used to infer a physical property, in this case the relative amount of photosynthesis occurring at that specific 
-pixel point on the ground. NDVI and other index variability values are 'dimensionless' meaning that the physical values 
+pixel point on the ground. NDVI and other index values are 'dimensionless' meaning that the physical values 
 from which they originate cancel one another out (when taking the ratio). In words NDVI or any other form of
 vegetation index does not purport to measure a real physical quantity. They may only _infer_ one. 
 
