@@ -91,15 +91,16 @@ NIR light.
 ![](img/spectral-signature.jpg)
 ###### Figure 2. Spectral signature showing behavior of healthy (green), stressed (red), nitrogen deficient (yellow), and necrotic (purple). 
 
-Sugarcane specifically absorbs the blue and red bands for photosynthesis. Like other leafy green plants sugarcane's spongy 
-mesophyll is nearly transparent to infrared radiation thus very little NIR is reflected by the outer portion of the leaf. 
+Like other leafy green plants, sugarcane specifically absorbs the blue and red bands for photosynthesis. In __Figure 2__ all   
+spectral lines (except in necrotic plants) reveal a characteristic bump in the green band relative to the red and blue wavelengths, indicating that green light is reflected away.
+Sugarcane's spongy mesophyll is nearly transparent to infrared radiation thus very little NIR is reflected by the outer portion of the leaf. 
 Mesophyll tissue and cavities within the leaf scatter the radiation either upward (reflection) or downward (transmission).
 
  
 ![](img/cane-reflect.png)
-###### Figure 2. Spectral signature yielded from a sugarcane plant in healthy or stressed conditions. 
+###### Figure 3. Spectral signature yielded from a sugarcane plant in healthy or stressed conditions. 
 
-__Figure 2__ shows two typical spectral response patterns elicited from a sugarcane plant. As discussed in [Section 2](how_plants_see.md) 
+__Figure 3__ shows two typical spectral response patterns elicited from a sugarcane plant. As discussed in [Section 2](how_plants_see.md) 
 depending on environmental conditions, sugarcane may reflect light in distinctly different ways. These 'signatures' can 
 reveal important information about different stages of growth or at different levels of photosynthesis.
  
