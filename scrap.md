@@ -70,3 +70,7 @@ characteristic - can influence an index value.
 #### Image Resolution
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+
+
+To estimate future crop performance using remote sensing data one must ascertain the relationship between sugarcane's specific 
+spectral signature and its yield. 
