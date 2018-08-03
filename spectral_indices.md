@@ -129,7 +129,7 @@ portions of __Figure 3__, i.e. they occurred during the tillering, grand growth 
 
 #### Summary
 To produce a vegetation index a narrow band of light (for example the NIR band) is contained in one layer while another 
-band (the red) is held in another. By manipulating each pixel, of each layer, according to a mathematical expression, we 
+band (the red) is held in another. By manipulating each pixel of each layer according to a mathematical expression, we 
 can produce a third raster layer which is the vegetation index layer. All of this is accomplished using software designed to 
 perform matrix arithmetic over large arrays.  
     
