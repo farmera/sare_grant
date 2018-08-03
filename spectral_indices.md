@@ -125,12 +125,13 @@ reveal important information about different stages of growth or at different le
 
 Sugarcane growth was monitored in our study in terms of the vegetation indices listed above (NDVI, GNDVI, NDRE, and the 
 CIR composite) at days 6, 21, 36, 100, 147, and 208 following nitrogen treatment. These times correspond to the shaded 
-region in __Figure 3__, i.e. during the tillering, grand growth and maturation phases of the season. 
+portions of __Figure 3__, i.e. they occurred during the tillering, grand growth and maturation phases of the season. 
 
 #### Summary
-The NIR band is contained in one layer while the red is held in another. Manipulating each pixel, 
-of each layer, according to a mathematical expression, produces a third raster layer which is the NDVI image itself. 
-All of this is accomplished using software designed to perform matrix arithmetic over large arrays.  
+To produce a vegetation index a wavelength band of light (for example the NIR band) is contained in one layer while another 
+band (the red) is held in another. By manipulating each pixel, of each layer, according to a mathematical expression, we 
+produces a third raster layer which is the NDVI image itself. All of this is accomplished using software designed to 
+perform matrix arithmetic over large arrays.  
     
 Thus far we've discussed simple calculations applied to single image pixels. In practice, generating a vegetative index
 over a crop involves much more. In addition to separate individual bands as arrays we 
