@@ -81,9 +81,8 @@ this through use of a custom masking technique discussed in [Section 7](post_pro
 * When light interacts with sugarcane it is partly reflected and partly absorbed. 
 * The magnitude of energy that sugarcane reflects or emits across wavelengths is called its spectral signal. 
 
-Across any range of wavelengths, the percent reflectance value for any feature (i.e. water, sand, sugarcane) 
-on the ground may be plotted as a “spectral response curve” or __spectral signature__. Differences among spectral signatures 
-can be used to analyze and classify remotely sensed objects. 
+The percent reflectance of any feature (i.e. water, sand, sugarcane) on the ground may be plotted as a “spectral response 
+curve” or __spectral signature__. Differences among spectral signatures can be used to analyze and classify remotely sensed objects. 
 
 The spectral signature of sugarcane generally follows that of any other leafy green plant - it absorbs 60-85 percent of 
 the incident light minus the green band (most of this is reflected away, hence leaves appear green) and minus most of the 
@@ -113,6 +112,8 @@ Thus far we've discussed simple calculations applied to single image pixels. In 
 over an crop involves much more. In addition to separate individual bands as arrays we 
 need to scale these sorts of manipulations up to potentially __millions and millions__ of pixels covering __hundreds 
 and hundreds__ of megabytes of image data.
+
+
 
 In coming sections we'll discuss how to achieve this degree of scaling along with strategies for interpreting 
 various vegetation indices under different environmental conditions. Luckily, open-source software and image processing 
