@@ -33,11 +33,12 @@ An example vegetation index is NDVI which is calculated from an image in the fol
 Calculating NDVI requires first creating and manipulating two separate images (pixel arrays) each of which contains light 
 from a separate wavelength. An NDVI index is a ratio of the difference and the sum of two narrow bands of light. A ratio is taken in order to normalize the values with the effect that this binds them between -1 and 1. Plant NDVI values can range from 0 to 1 but usually lie somewhere between 0.2 and 0.8. NDVI and other index variability values are 'dimensionless' meaning the physical values from which they derive cancel one another. The NDVI index itself is a ratio of the difference and the sum of two narrow bands of light. A ratio is taken in order to 
 *normalize* the values with the effect that this binds them between -1 and 1. Plant NDVI values can range from 0 to 1 but 
-usually lie somewhere between 0.2 and 0.8. NDVI and other index variability values are 'dimensionless' meaning 
-the physical values from which they derive cancel one another. 
+usually lie somewhere between 0.2 and 0.8.
 
 ![](img/lut_ndvi_fastie.png) 
 ###### Figure 2. Fastie LUT
+
+NDVI and other index variability values are 'dimensionless' meaning the physical values from which they derive cancel one another. 
 
 Some common vegetation index values explored during our study include:
 
