@@ -52,7 +52,7 @@ In summary, each pixel in the final vegetation index has a value representing a 
 is used to infer a physical property, in this case the relative amount of photosynthesis occurring at that specific 
 pixel point on the ground. NDVI and other index values are 'dimensionless' meaning that the physical values 
 from which they originate cancel one another out (when taking the ratio). In words NDVI and other forms of
-vegetation index do not purport to measure a real physical quantity. They may only _infer_ one. 
+vegetation index do not purport to measure a actual physical quantity. At best they may only _infer_ one. 
 
 
 
