@@ -84,9 +84,9 @@ this through use of a custom masking technique discussed in [Section 7](post_pro
 The percent reflectance of any feature (i.e. water, sand, sugarcane) on the ground may be plotted in a “spectral response 
 curve” as a __spectral signature__. Differences among spectral signatures can be used to analyze and classify remotely sensed objects. 
 
-The spectral signature of sugarcane generally follows that of any other leafy green plant - it absorbs 60-85 percent of 
-the incident light minus the green band (most of this is reflected away, hence leaves appear green) and minus most of the 
-NIR light. 
+As discussed in [Section 2](how_plants_see.md), the spectral signature of sugarcane generally follows that of any other 
+leafy green plant - it absorbs 60-85 percent of the incident light minus the green band (most of this is reflected away, 
+hence leaves appear green) and minus most of the NIR light. 
 
 ![](img/sequoia-specs.png) 
 ###### Figure 2. The spectral reflectance characteristics of healthy versus stressed sugarcane.
