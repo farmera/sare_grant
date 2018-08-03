@@ -106,9 +106,9 @@ reveal important information about different stages of growth or at different le
 ![](img/cane-growth1.png)
 ###### Figure 3. Stages of sugarcane growth that formed the focus of our study. 
 
-During our study the growth of sugarcane was monitored for various vegetation indices at day 6, 21, 36, 100, 147, 
-and 208 days following nitrogen treatment. These days correspond to the shaded region in __Figure 3__
-during the tillering, grand growth and maturation phases of the sugarcane season. 
+During our study sugarcane growth was monitored in terms of various vegetation indices at days 6, 21, 36, 100, 147, 
+and 208 following nitrogen treatment. These times corresponded to the shaded region in __Figure 3__, i.e.
+during the tillering, grand growth and maturation phases of the season. 
 
 #### Summary
 Remote sensing techniques can provide timely and relatively accurate information for the management of sugarcane crop.
@@ -116,8 +116,6 @@ Thus far we've discussed simple calculations applied to single image pixels. In 
 over an crop involves much more. In addition to separate individual bands as arrays we 
 need to scale these sorts of manipulations up to potentially __millions and millions__ of pixels covering __hundreds 
 and hundreds__ of megabytes of image data.
-
-
 
 In coming sections we'll discuss how to achieve this degree of scaling along with strategies for interpreting 
 various vegetation indices under different environmental conditions. Luckily, open-source software and image processing 
