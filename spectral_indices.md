@@ -112,10 +112,6 @@ During our study sugarcane growth was monitored in terms of various vegetation i
 and 208 following nitrogen treatment. These times corresponded to the shaded region in __Figure 3__, i.e.
 during the tillering, grand growth and maturation phases of the season. 
 
-
-![](img/sequoia-specs.png) 
-###### Figure 1. The spectral reflectance characteristics of healthy versus stressed plants. 
-   
 #### Summary
 Remote sensing techniques can provide timely and relatively accurate information for the management of sugarcane crop.
 Thus far we've discussed simple calculations applied to single image pixels. In practice, generating a vegetative index
