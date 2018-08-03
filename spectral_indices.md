@@ -94,7 +94,7 @@ NIR light.
 Like other leafy green plants, sugarcane specifically absorbs the blue and red bands for photosynthesis. In __Figure 2__ all   
 spectral lines (except in necrotic plants) reveal a characteristic bump in the green band relative to the red and blue 
 wavelengths, indicating that green light is reflected away. In the right-hand portion of the curve nearly all of the NIR light 
-is reflected Sugarcane's spongy mesophyll is nearly transparent to infrared radiation thus very little NIR is reflected 
+is reflected. Sugarcane's spongy mesophyll is nearly transparent to infrared radiation thus very little NIR is reflected 
 by the outer portion of the leaf. Mesophyll tissue and cavities within the leaf scatter most of the NIR light either upward 
 (reflection) or downward (transmission).
 
