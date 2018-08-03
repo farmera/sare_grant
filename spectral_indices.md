@@ -39,9 +39,7 @@ between -1 and 1. Plant NDVI values can range from 0 to 1 but usually lie somewh
 ###### Figure 2. Fastie LUT (Look Up Table)
 
 NDVI and other index variability values are 'dimensionless' meaning the physical values from which they derive cancel one 
-another. The NDVI index itself is a ratio of the difference and the sum of two narrow bands of light. A ratio is taken 
-in order to *normalize* the values with the effect that this binds them between -1 and 1. Plant NDVI values can range 
-from 0 to 1 but usually lie somewhere between 0.2 and 0.8.
+another. 
 
 Common vegetation indices that were explored during our study include:
 
