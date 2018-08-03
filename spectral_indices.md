@@ -91,7 +91,7 @@ hence leaves appear green) and minus most of the NIR light.
 ![](img/sequoia-specs.png) 
 ###### Figure 2. The spectral reflectance characteristics of healthy versus stressed sugarcane.
 
-Like other leafy green plants, sugarcane specifically absorbs the blue and red bands for photosynthesis. In __Figure 2__ all   
+Like many other leafy green plants, sugarcane preferentially absorbs the red band for photosynthesis. In __Figure 2__ all   
 spectral lines (except for soil) reveal a characteristic bump in the green band relative to the red wavelength, 
 indicating that green light is reflected away. In the right-hand portion of the curve nearly all of the NIR light is 
 reflected away. Sugarcane's spongy mesophyll is nearly transparent to infrared radiation thus very little NIR is reflected 
