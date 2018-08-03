@@ -93,7 +93,7 @@ mesophyll is nearly transparent to infrared radiation thus very little NIR is re
 Mesophyll tissue and cavities within the leaf scatter the radiation either upward (reflection) or downward (transmission).
 
 ![](img/spectral-signature.jpg)
-###### Figure 2. Spectral signature yielded from a sugarcane in a healthy or stressed condition. 
+###### Figure 2. A general spectral signature indicating behavior of healthy (green), stressed (red), nitrogen deficient (yellow), and necrotic (purple). 
 
  
 ![](img/cane-reflect.png)
