@@ -96,7 +96,9 @@ spectral lines (except for soil) reveal a characteristic bump in the green band 
 indicating that green light is reflected away. In the right-hand portion of the curve nearly all of the NIR light is 
 reflected away. Sugarcane's spongy mesophyll is nearly transparent to infrared radiation thus very little NIR is reflected 
 by the outer portion of the leaf. Mesophyll tissue and cavities within the leaf scatter most of the NIR light either upward 
-(reflection) or downward (transmission). Depending on environmental conditions, sugarcane will reflect light in distinct ways. These 'signatures' can 
+(reflection) or downward (transmission). 
+
+Depending on environmental conditions sugarcane will reflect light in distinct ways. These 'signatures' can 
 reveal important information about different stages of growth or at different levels of photosynthesis.
  
 ![](img/cane-growth1.png)
