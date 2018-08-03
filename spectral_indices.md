@@ -91,6 +91,10 @@ NIR light.
 Sugarcane specifically absorbs the blue and red bands for photosynthesis. Like other leafy green plants sugarcane's spongy 
 mesophyll is nearly transparent to infrared radiation thus very little NIR is reflected by the outer portion of the leaf. 
 Mesophyll tissue and cavities within the leaf scatter the radiation either upward (reflection) or downward (transmission).
+
+![](img/spectral-signature.jpg)
+###### Figure 2. Spectral signature yielded from a sugarcane in a healthy or stressed condition. 
+
  
 ![](img/cane-reflect.png)
 ###### Figure 2. Spectral signature yielded from a sugarcane in a healthy or stressed condition. 
