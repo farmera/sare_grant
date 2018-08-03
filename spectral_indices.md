@@ -94,11 +94,13 @@ hence leaves appear green) and minus most of the NIR light.
 Like many other leafy green plants, sugarcane preferentially absorbs the red band for photosynthesis. In __Figure 2__ all   
 spectral lines (except for soil) reveal a characteristic bump in the green band relative to the red wavelength, 
 indicating that green light is reflected away. In the right-hand portion of the curve nearly all of the NIR light is 
-reflected away. Sugarcane's spongy mesophyll is nearly transparent to infrared radiation thus very little NIR is reflected 
+reflected away. 
+
+Sugarcane's spongy mesophyll is nearly transparent to infrared radiation thus very little NIR is reflected 
 by the outer portion of the leaf. Mesophyll tissue and cavities within the leaf scatter most of the NIR light either upward 
 (reflection) or downward (transmission). 
 
-Depending on environmental conditions sugarcane will reflect light in distinct ways. These 'signatures' can 
+Thus, depending on environmental conditions sugarcane will reflect light in distinct ways. These 'signatures' can 
 reveal important information about different stages of growth or at different levels of photosynthesis.
  
 ![](img/cane-growth1.png)
