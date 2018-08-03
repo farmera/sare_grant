@@ -88,8 +88,8 @@ The spectral signature of sugarcane generally follows that of any other leafy gr
 the incident light minus the green band (most of this is reflected away, hence leaves appear green) and minus most of the 
 NIR light. 
 
-![](img/spectral-signature.jpg)
-###### Figure 2. Spectral signature showing behavior of healthy (green), stressed (red), nitrogen deficient (yellow), and necrotic (purple). 
+![](img/sequoia-specs.png) 
+###### Figure 2. The spectral reflectance characteristics of healthy versus stressed sugarcane.
 
 Like other leafy green plants, sugarcane specifically absorbs the blue and red bands for photosynthesis. In __Figure 2__ all   
 spectral lines (except in necrotic plants) reveal a characteristic bump in the green band relative to the red and blue 
@@ -98,7 +98,6 @@ is reflected. Sugarcane's spongy mesophyll is nearly transparent to infrared rad
 by the outer portion of the leaf. Mesophyll tissue and cavities within the leaf scatter most of the NIR light either upward 
 (reflection) or downward (transmission).
 
- 
 ![](img/cane-reflect.png)
 ###### Figure 3. Spectral signature yielded from a sugarcane plant in healthy or stressed conditions. 
 
@@ -113,6 +112,10 @@ During our study sugarcane growth was monitored in terms of various vegetation i
 and 208 following nitrogen treatment. These times corresponded to the shaded region in __Figure 3__, i.e.
 during the tillering, grand growth and maturation phases of the season. 
 
+
+![](img/sequoia-specs.png) 
+###### Figure 1. The spectral reflectance characteristics of healthy versus stressed plants. 
+   
 #### Summary
 Remote sensing techniques can provide timely and relatively accurate information for the management of sugarcane crop.
 Thus far we've discussed simple calculations applied to single image pixels. In practice, generating a vegetative index

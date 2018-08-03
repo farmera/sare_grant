@@ -14,7 +14,7 @@ The leaves of a plant contain photosynthetic engines called chloroplasts. When s
 red and blue wavelengths of light while reflecting away most of the others. Thus it is __filtered light__, along with water and carbon dioxide, that produces sugar for the plant and 
 oxygen for the environment.
 
-#### Green, Red and Near Infra Red (NIR)
+#### Blue, Green, Red and Near Infra Red (NIR)
 
 * Healthy plants absorb red but reflect away most of the NIR light.
 * A healthy plant has a distinct 'spectral signature' based on unique reflectance properties.
@@ -25,9 +25,9 @@ it will tend to absorb. This tendency is directly related to the functional heal
 locus of the photosynthetic process. If a plant's chloroplasts are compromised then it will absorb less red light and more NIR light,
 and its ability to photosynthesize and produce sugar will be diminished.  
 
-![](img/sequoia-specs.png) 
-###### Figure 1. The spectral reflectance characteristics of healthy versus stressed plants. 
-   
+![](img/spectral-signature.jpg)
+###### Figure 1. Spectral signature showing behavior of healthy (green), stressed (red), nitrogen deficient (yellow), and necrotic (purple). 
+
 In addition to absorbing red (and blue) and reflecting green, most (healthy) plants tend to reflect away almost all of 
 the NIR light that hits them. This tendency is shown in the graph above. NIR light is not in the visible spectrum 
 and thus we cannot see it. Neither may plants convert NIR light to useful energy. It is in part to avoid the 
