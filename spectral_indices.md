@@ -113,7 +113,7 @@ spectral lines (except for soil) reveal a characteristic bump in the green band 
 indicating that green light is reflected away. In the right-hand portion of the curve nearly all of the NIR light is 
 reflected away. 
 
-Sugarcane's spongy mesophyll is nearly transparent to infrared radiation thus very little NIR is reflected 
+Sugarcane's spongy [mesophyll](http://www.els.net/WileyCDA/ElsArticle/refId-a0002081.html) is nearly transparent to infrared radiation thus very little NIR is reflected 
 by the outer portion of the leaf. Mesophyll tissue and cavities within the leaf scatter most of the NIR light either upward 
 (reflection) or downward (transmission). 
 
