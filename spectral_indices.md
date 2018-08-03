@@ -38,9 +38,9 @@ that this binds them between -1 and 1. Plant NDVI values can range from 0 to 1 b
 ![](img/lut_ndvi_fastie.png) 
 ###### Figure 2. Fastie LUT (Look Up Table)
 
-Since human eyes cannot see NIR light (or the ratio of a difference and sum of NIR with red light) the final result must be 
+Since human eyes cannot see NIR light (or the ratio of a difference and sum of NIR and red light) the final result must be 
 colored in some way in order to makes sense. The image in __Figure 2__ is a color 'LUT' or look up table that is commonly
-used to 
+used to do this. In later sections we will use this LUT extensively. (For those interested the values are contained in spectral_lib.py).
 
 NDVI and other index variability values are 'dimensionless' meaning the physical values from which they derive cancel one 
 another. 
