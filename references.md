@@ -26,7 +26,8 @@
 * GUYOT, G., 1990, Optical properties of vegetation canopies. In Application of Remote Sensing in Agriculture, M.
 
 ###### Section 5 
-https://gamaya.com/wp-content/themes/gamaya/images/sugarcane-banner.jpg
+* image source: https://gamaya.com/wp-content/themes/gamaya/images/sugarcane-banner.jpg
+* image source: https://gamaya.com/blog-post/hyperspectral-imaging-in-agriculture/
 
 * Zhang, C.; Kovacs, J.M. The application of small unmanned aerial systems for precision agriculture:
 A review. Precis. Agric. 2012, 13, 693–712.
