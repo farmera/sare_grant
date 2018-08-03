@@ -133,7 +133,7 @@ band (the red) is held in another. By manipulating each pixel of each layer acco
 can produce a third raster layer which is the vegetation index layer. All of this is accomplished using software designed to 
 perform matrix arithmetic over large arrays.  
     
-Thus far we've discussed simple calculations applied to single image pixels. In practice, generating a vegetative index
+Thus far we've discussed simple calculations applied to single pixels. In practice, generating a vegetative index
 over a crop involves much more. In addition to separate individual bands as arrays we 
 need to scale these sorts of manipulations up to potentially __millions and millions__ of pixels covering __hundreds 
 and hundreds__ of megabytes of image data. In coming sections we'll discuss how to achieve this degree of scaling. Luckily, open-source software and image processing 
