@@ -30,7 +30,7 @@ An example vegetation index is NDVI which is calculated from an image in the fol
 2. Add all NIR values in each pixel to all the Red values.
 3. Calculate the ratio between the calculated difference (the numerator) and the calculated sum (the denominator). 
 
-Performing the above calculations creates a third pixel value for every pixel input which lies between between 0 and 1. 
+Performing the above calculations creates a third pixel value for every input pixel. 
 
 Calculating NDVI requires creating and manipulating separate images (i.e. pixel arrays) one of which contains light 
 from the red band and the other from the NIR band. The index is a ratio of differences and sums of these two narrow bands 
