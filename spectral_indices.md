@@ -31,15 +31,15 @@ An example vegetation index is NDVI which is calculated from an image in the fol
 3. Calculate the ratio between the calculated difference (the numerator) and the calculated sum (the denominator). 
 
 Calculating NDVI requires first creating and manipulating two separate images (pixel arrays) each of which contains light 
-from a separate wavelength. The NIR band is contained in one layer while the red is held in another. Manipulating each pixel, 
-of each layer, according to a mathematical expression, produces a third raster layer which is the NDVI image itself. 
-All of this is accomplished using software designed to perform matrix arithmetic over large arrays.  
-    
-An NDVI index is a ratio of the difference and the sum of two narrow bands of light. A ratio is taken in order to 
+from a separate wavelength. An NDVI index is a ratio of the difference and the sum of two narrow bands of light. A ratio is taken in order to normalize the values with the effect that this binds them between -1 and 1. Plant NDVI values can range from 0 to 1 but usually lie somewhere between 0.2 and 0.8. NDVI and other index variability values are 'dimensionless' meaning the physical values from which they derive cancel one another. The NDVI index itself is a ratio of the difference and the sum of two narrow bands of light. A ratio is taken in order to 
 *normalize* the values with the effect that this binds them between -1 and 1. Plant NDVI values can range from 0 to 1 but 
 usually lie somewhere between 0.2 and 0.8. NDVI and other index variability values are 'dimensionless' meaning 
-the physical values from which they derive cancel one another. Some common vegetation index values explored during our study
-include:
+the physical values from which they derive cancel one another. 
+
+![](img/lut_ndvi_fastie.png) 
+###### Figure 2. Fastie LUT
+
+Some common vegetation index values explored during our study include:
 
 1. __NDVI__ = (NIR - RED) / (NIR + RED)
     * The workhorse of vegetation indices, NDVI reveals the physical basis of most other VI's (i.e. the relationship 
@@ -111,7 +111,10 @@ CIR composite) at days 6, 21, 36, 100, 147, and 208 following nitrogen treatment
 region in __Figure 3__, i.e. during the tillering, grand growth and maturation phases of the season. 
 
 #### Summary
-Remote sensing techniques can provide timely and relatively accurate information for the management of sugarcane crop.
+The NIR band is contained in one layer while the red is held in another. Manipulating each pixel, 
+of each layer, according to a mathematical expression, produces a third raster layer which is the NDVI image itself. 
+All of this is accomplished using software designed to perform matrix arithmetic over large arrays.  
+    
 Thus far we've discussed simple calculations applied to single image pixels. In practice, generating a vegetative index
 over a crop involves much more. In addition to separate individual bands as arrays we 
 need to scale these sorts of manipulations up to potentially __millions and millions__ of pixels covering __hundreds 
