@@ -173,11 +173,11 @@ field have similar (not identical) histogram plots.
 
 #### Summary
 
-Careful reading of this section might raise the legitimate concern that we are pre-selecting data that is most likely
-to submit to a favorable analysis. Perhaps there is some grain of truth in that as there is certainly a tension 
-between cleaning data so as to removes outliers and 'null' values (acceptable) to removing meaningful 
+Reading the last part of this section closely might raise the legitimate concern that we have pre-selected data that is 
+most likely to submit to a favorable analysis. Perhaps there is some truth to that in that there is a tension 
+between cleaning data so as to removes outliers and 'null' values (which is acceptable) and removing meaningful 
 information. A guiding principle of this study has been to reveal whether or not certain low-cost methods are amenable to a 
-certain kind of rigor. Getting a half dozen consistent datasets was a challenge  for this study and it was thought that 
+certain amount of rigor. Getting a half dozen consistent datasets was a challenge  for this study and it was thought that 
 given what we set out to achieve special care should be paid to knowing whether or not the data were clean prior to analysis.      
   
 ###### References
