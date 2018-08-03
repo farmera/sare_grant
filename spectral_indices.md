@@ -30,13 +30,17 @@ An example vegetation index is NDVI which is calculated from an image in the fol
 2. Add all NIR values in each pixel to all the Red values.
 3. Calculate the ratio between the calculated difference (the numerator) and the calculated sum (the denominator). 
 
-Calculating NDVI requires first creating and manipulating two separate images (pixel arrays) each of which contains light 
-from a separate wavelength. The 'index' is in fact a ratio of the differences and the sums of two narrow bands of light 
-over many individual pixels. The ratio is taken in order to normalize these values with the effect that this binds them 
-between -1 and 1. Plant NDVI values can range from 0 to 1 but usually lie somewhere between 0.2 and 0.8. 
+Calculating NDVI requires first creating and manipulating separate images (i.e. pixel arrays) one of which contains light 
+from the red band and the other from the NIR band. The 'index' is a ratio of differences and sums of these two narrow bands 
+calculated separately over many individual pixels. A ratio is taken in order to _normalize_ these values with the effect 
+that this binds them between -1 and 1. Plant NDVI values can range from 0 to 1 but usually lie somewhere between 0.2 and 0.8. 
 
 ![](img/lut_ndvi_fastie.png) 
 ###### Figure 2. Fastie LUT (Look Up Table)
+
+Since human eyes cannot see NIR light (or the ratio of a difference and sum of NIR with red light) the final result must be 
+colored in some way that makes sense. The image in __Figure 2__ is a color 'LUT' or look up table that is commonly
+used to 
 
 NDVI and other index variability values are 'dimensionless' meaning the physical values from which they derive cancel one 
 another. 
