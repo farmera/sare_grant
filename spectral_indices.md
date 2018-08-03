@@ -107,13 +107,13 @@ reveal important information about different stages of growth or at different le
 ###### Figure 3. Stages of sugarcane growth that formed the focus of our study. 
 
 Sugarcane growth was monitored in our study in terms of the vegetation indices listed above (NDVI, GNDVI, NDRE, and the 
-CIR composite) at days 6, 21, 36, 100, 147, and 208 following nitrogen treatment. These times corresponded to the shaded 
+CIR composite) at days 6, 21, 36, 100, 147, and 208 following nitrogen treatment. These times correspond to the shaded 
 region in __Figure 3__, i.e.during the tillering, grand growth and maturation phases of the season. 
 
 #### Summary
 Remote sensing techniques can provide timely and relatively accurate information for the management of sugarcane crop.
 Thus far we've discussed simple calculations applied to single image pixels. In practice, generating a vegetative index
-over an crop involves much more. In addition to separate individual bands as arrays we 
+over a crop involves much more. In addition to separate individual bands as arrays we 
 need to scale these sorts of manipulations up to potentially __millions and millions__ of pixels covering __hundreds 
 and hundreds__ of megabytes of image data.
 
