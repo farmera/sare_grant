@@ -31,7 +31,7 @@ An example vegetation index is NDVI which is calculated from an image in the fol
 3. Calculate the ratio between the calculated difference (the numerator) and the calculated sum (the denominator). 
 
 Calculating NDVI requires first creating and manipulating separate images (i.e. pixel arrays) one of which contains light 
-from the red band and the other from the NIR band. The 'index' is a ratio of differences and sums of these two narrow bands 
+from the red band and the other from the NIR band. The 'index' is the ratio of differences and sums of these two narrow bands 
 calculated separately over many individual pixels. A ratio is taken in order to _normalize_ these values with the effect 
 that this binds them between -1 and 1. Plant NDVI values can range from 0 to 1 but usually lie somewhere between 0.2 and 0.8. 
 
