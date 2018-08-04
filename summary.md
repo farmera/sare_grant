@@ -40,6 +40,8 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 
 ![](img/happy_at_work.png) 
+###### Figure 1. The author relaxes in the field, happy at work. 
+
 
 
 ###### References
