@@ -41,9 +41,9 @@ into the green we see that the amount of reflectance increases. In the red it is
 (the grey region) almost all is reflected away. 
 
 In addition to showing the generic 'spectral signature' of plants this graph also indicates the difference 
-between plants that are healthy and those that are not, in terms of spectral signature. The blue line indicates 
-health while red demonstrates unhealth. Note that an unhealthy plant absorbs less in the blue 
-and red parts of the spectrum while absorbing more (reflecting less) in the NIR portion.   
+between plants that are healthy and those that are not. The green line indicates health while red demonstrates distress. 
+Note that an unhealthy plant absorbs less in the blue and red parts of the spectrum while absorbing more (reflecting less) 
+in the NIR portion.   
  
 
 #### Consumer RGB Cameras
