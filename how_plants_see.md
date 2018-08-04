@@ -58,10 +58,10 @@ In a sense all cameras are multi-spectral insofar as they capture more than a si
 camera is sensitive to light in the red, green and blue parts of the spectrum. As a rule they do 
 not capture light outside of the familiar RGB range. Or do they? In fact any standard Canon Powershot (the kind you can 
 find on Ebay for $100) in fact __does__ capture NIR light but this capacity has been concealed by the manufacturer (to 
-reinstate it just remove the filter). Suffice it to say that mass production provides digital sensors with a very 
+reinstate it just remove a filter). Suffice it to say that mass production provides digital sensors with a
 high degree of often unrealized sophistication.
  
-While consumer cameras can be 'hacked' such that they absorb both visible and NIR light, a problem in doing this is 
+While consumer cameras may be 'hacked' such that they absorb both visible and NIR light, a problem in doing so is 
 demonstrated by the following graphic:
 
 ![](img/consumer.png)
