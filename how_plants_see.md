@@ -17,7 +17,6 @@ oxygen for the environment.
 #### Blue, Green, Red and Near Infra Red (NIR)
 
 * Healthy plants absorb red but reflect away most of the NIR light.
-* A healthy plant has a distinct 'spectral signature' based on unique reflectance properties.
 
 Visible light is that part of the continuous electromagnetic spectrum which lies roughly between 380 and 750 
 nanometers (nm). The more healthy a plant is - i.e. the more photosynthesis it carries out - the more red light 
