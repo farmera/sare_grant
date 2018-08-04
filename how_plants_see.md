@@ -32,8 +32,8 @@ in red light.
 
 In addition to absorbing red (and blue) and reflecting green, most healthy plants tend to reflect away most of 
 the NIR light. This tendency is shown in the graph above. NIR light is not in the human visible spectrum 
-and neither may plants convert the higher energy of NIR to useful work. It is in part to avoid the 
-damage that NIR might otherwise causes them that plants reflect most of it away. 
+and neither may plants convert the higher energy of NIR to do useful work. It is in part to avoid the 
+damage that NIR might otherwise cause that plants reflect most of it away. 
 
 In the above graph, reflectance values are on the 'y' (vertical) axis while the wavelength of light is on the 'x' 
 (horizontal) axis. In healthy plants blue light is largely absorbed and only a little is reflected. As we move further 
@@ -47,16 +47,15 @@ in the NIR portion.
  
 
 #### Consumer RGB Cameras
-* Spectral bands collected by RGB cameras overlap. 
-* Spectral overlap leads to contaminated values.
+* Spectral bands collected by RGB cameras overlap, which may lead to contaminated values.
 * Modified RGB cameras are difficult to calibrate.
 
-So how does one 'see' the sorts of spectral signatures that crops exhibit? An obvious start (discussed [here](study_methods.md)
-at length) is to get the right sort of camera high into the air and take a lot of pictures.
+So how does one 'see' the sorts of spectral signatures that a field of sugarcane exhibits? An obvious start (discussed in 
+[Section 3](study_methods.md)) is to get the right sort of camera into the air and take a lot of pictures.
 In a market that's rapidly evolving knowing how to choose the right camera at reasonable cost can be a challenge.
 
 In a sense all cameras are multi-spectral insofar as they capture more than a single band of light. The typical consumer
-camera is multi-spectral, sensing light in the red, green and blue parts of the spectrum. Consumer cameras as a rule do 
+camera is sensitive to light in the red, green and blue parts of the spectrum. As a rule they do 
 not capture light outside of the familiar RGB range. Or do they? In fact any standard Canon Powershot (the kind you can 
 find on Ebay for $100) in fact __does__ capture NIR light but this capacity has been concealed by the manufacturer (to 
 reinstate it just remove the filter). Suffice it to say that mass production provides digital sensors with a very 

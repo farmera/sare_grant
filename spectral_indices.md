@@ -128,7 +128,7 @@ Sugarcane is a perennial crop that grows to ~4 meters in height (in Louisiana) w
 (~150-200% above other species) as it rapidly progresses from tillering to grand growth.
 
 #### Summary
-To produce a vegetation index a narrow band of light (for example the NIR band) is contained in one layer while another 
+To produce a vegetation index a narrow band of light (for example the NIR) is contained in one layer while another 
 band (the red) is held in another. By manipulating each pixel of each layer according to a mathematical expression, we 
 can produce a third raster layer which is the VI layer itself. All of this is accomplished using software designed to 
 perform matrix arithmetic over large arrays.  
