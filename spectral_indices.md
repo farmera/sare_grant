@@ -125,8 +125,7 @@ CIR composite) at days 6, 21, 36, 100, 147, and 208 following nitrogen treatment
 portions of __Figure 3__, i.e. they occur during the tillering, grand growth and maturation phases of the season. 
 
 Sugarcane is a perennial crop that grows to ~4 meters in height (in Louisiana) with a very high rate of photosynthesis (~150-200% above other
-species). Its rapid progress through tillering to grand growth where it exhibits its most rapid phase of growth 
-and rate of photosynthesis.
+species). Its rapid progress through tillering to grand growth where it exhibits its highest rate of photosynthesis.
 
 #### Summary
 To produce a vegetation index a narrow band of light (for example the NIR band) is contained in one layer while another 
