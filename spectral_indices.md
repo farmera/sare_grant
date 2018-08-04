@@ -93,7 +93,7 @@ this through use of a custom masking technique discussed in [Section 7](post_pro
 
 #### Choosing an Index for Sugarcane
 * A healthy plant has a distinct 'spectral signature' based on unique reflectance properties.
-* The spectral signature of a sugarcane field is a 'sum' of a number of individual sugarcane plants.  
+* The spectral signature of a sugarcane field is a 'sum' of the total number of individual sugarcane plants.  
 
 The percent reflectance of any feature (i.e. water, sand, sugarcane) on the ground may be plotted to produce a 
 __spectral signature__. Differences among spectral signatures can be used to analyze and classify remotely sensed objects. 
