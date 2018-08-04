@@ -18,8 +18,8 @@ oxygen for the environment.
 
 * Healthy plants absorb red but reflect away most of the NIR light.
 
-Part of the continuous electromagnetic spectrum, light visible to humans lies roughly between 380 and 750 
-nanometers (nm). The more healthy a plant is - i.e. the more photosynthesis it carries out - the more red light 
+Light visible to humans lies roughly between 380 and 750 nanometers (nm) along the continuous electromagnetic spectrum. 
+The more healthy a plant is - i.e. the more photosynthesis it carries out - the more red light 
 it will tend to absorb. This tendency is directly related to the functional health of choloroplast cells since these are the 
 locus of the photosynthetic process. If a plant's chloroplasts are compromised then it will absorb less red light and more NIR light,
 and its ability to photosynthesize and produce sugar will be diminished.  
