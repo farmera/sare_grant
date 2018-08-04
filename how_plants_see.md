@@ -16,7 +16,7 @@ and carbon dioxide, that produces sugar for the plant and oxygen for the environ
 
 #### Blue, Green, Red and Near Infra Red (NIR)
 
-* Healthy plants absorb red but reflect away most of the NIR light.
+* Healthy plants absorb red and blue but reflect away most of the NIR light.
 
 Light visible to the human eye lies roughly between 380 and 750 nanometers (nm) along the continuous electromagnetic spectrum. 
 Plants are also receptive to light, although the mechanism involved is quite distinct from humans. The more healthy a 
