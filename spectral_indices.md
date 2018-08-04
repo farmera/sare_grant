@@ -122,8 +122,9 @@ reveal important information about different stages of growth or at different le
 
 Sugarcane growth was monitored in our study in terms of the vegetation indices listed above (NDVI, GNDVI, NDRE, and the 
 CIR composite) at days 6, 21, 36, 100, 147, and 208 following nitrogen treatment. These times correspond to the shaded 
-portions of __Figure 3__, i.e. they occurred during the tillering, grand growth and maturation phases of the season. Sugarcane 
-is a perennial crop which grows to 3-5 meters in height with a very high rate of photosynthesis (~150-200% above other
+portions of __Figure 3__, i.e. they occur during the tillering, grand growth and maturation phases of the season. 
+
+Sugarcane is a perennial crop which grows to 3-5 meters in height with a very high rate of photosynthesis (~150-200% above other
 species). It progresses through tillering to the period of grand growth where it exhibits its most rapid phase of development 
 and rates of photosynthesis.
 
