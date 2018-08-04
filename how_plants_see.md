@@ -11,18 +11,19 @@ systems measure and how they achieve their results.
 
 As most learn in middle school, photosynthesis is the process that plants use to synthesize sugar from carbon dioxide and water. 
 The leaves of a plant contain photosynthetic engines called chloroplasts. When sunlight hits these cells they absorb the 
-red and blue wavelengths of light while reflecting away most of the others. Thus it is __filtered light__, along with water and carbon dioxide, that produces sugar for the plant and 
-oxygen for the environment.
+red and blue wavelengths of light while reflecting away most of the others. Thus it is __filtered light__, along with water 
+and carbon dioxide, that produces sugar for the plant and oxygen for the environment.
 
 #### Blue, Green, Red and Near Infra Red (NIR)
 
 * Healthy plants absorb red but reflect away most of the NIR light.
 
-Light that is visible to humans lies roughly between 380 and 750 nanometers (nm) along the continuous electromagnetic spectrum. 
-The more healthy a plant is - i.e. the more photosynthesis it carries out - the more red light 
-it will tend to absorb. This tendency is directly related to the functional health of choloroplast cells since these are the 
-locus of the photosynthetic process. If a plant's chloroplasts are compromised then it will absorb less red light and more NIR light,
-and its ability to photosynthesize and produce sugar will be diminished.  
+Light visible to the human eye lies roughly between 380 and 750 nanometers (nm) along the continuous electromagnetic spectrum. 
+Plants are also receptive to light, although the mechanism involved is quite distinct from humans. The more healthy a 
+plant is - i.e. the more photosynthesis it carries out - the more red light it will tend to absorb. This tendency is 
+directly related to the functional health of choloroplast cells within the plant since these are the locus of the photosynthetic process. 
+If a plant's chloroplasts are compromised then it will absorb less red light and more NIR light, and its ability to 
+photosynthesize and produce sugar will be diminished.  
 
 ![](img/spectral-signature.jpg)
 ###### Figure 1. Spectral signature showing behavior of healthy (green), stressed (red), nitrogen deficient (yellow), and necrotic (purple). 
