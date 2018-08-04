@@ -33,7 +33,7 @@ in red light.
 In addition to absorbing red (and blue) and reflecting green, most healthy plants tend to reflect away most of 
 the NIR light. This tendency is shown in the graph above. NIR light is not in the human visible spectrum 
 and neither may plants convert the higher energy of NIR to useful work. It is in part to avoid the 
-damage that NIR otherwise causes that plants reflect most of it away. 
+damage that NIR might otherwise causes them that plants reflect most of it away. 
 
 In the above graph, reflectance values are on the 'y' (vertical) axis while the wavelength of light is on the 'x' 
 (horizontal) axis. In healthy plants blue light is largely absorbed and only a little is reflected. As we move further 
