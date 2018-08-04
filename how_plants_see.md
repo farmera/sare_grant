@@ -31,7 +31,7 @@ in red light.
 ###### Figure 1. Spectral signature showing behavior of healthy (green), stressed (red), nitrogen deficient (yellow), and necrotic (purple). 
 
 In addition to absorbing red (and blue) and reflecting green, most healthy plants tend to reflect away most of 
-the NIR light that hits them. This tendency is shown in the graph above. NIR light is not in the visible spectrum 
+the NIR light. This tendency is shown in the graph above. NIR light is not in the visible spectrum 
 and thus we cannot see it. Neither may plants convert NIR light to useful energy. It is in part to avoid the 
 damage that NIR otherwise causes that plants reflect most of it away. 
 
