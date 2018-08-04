@@ -6,6 +6,9 @@
 ###### General
 * Jensen, J.R. (2005) Introductory Digital Image Processing. 3rd Edition, Prentice Hall, Upper Saddle River.
 
+###### Section 2 
+http://www.pcigeomatics.com/geomatica-help/COMMON/concepts/Mosaic_explainMosaicking.html
+
 ###### Section 3 
 * History of Aerial Photography Professional Aerial Photographers Association (retrieved 5 October 2016)
 * https://en.wikipedia.org/wiki/Nadar
