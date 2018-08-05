@@ -52,7 +52,7 @@ longitude tags in each image captured by the Sequoia camera. This allows us to c
 containing a broader field of view. 
 
 ![](img/NGR_highlight.png)
-###### Figure 4. A detail of two treatment sections as a CIR composite image.   
+###### Figure 4. A detail of two treatment sections rendered as a CIR composite image.   
 
 The image in __Figure 4__ has been rendered as an CIR composite for practical reasons. The original raw geotiff file 
 from which it was produced is not easily visualized; it contains only luminosity data from four bands of captured light.
