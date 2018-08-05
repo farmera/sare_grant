@@ -50,8 +50,8 @@ control points in these images but it was not always possible 'geo-tag' images a
 on the ground. Having obtained a set of images we then scripted a process in Fiji to help align, stitch and create the vegetation index.  
    
 #### Post-processing JPEG images from a kite flight.
-Details regarding how to create a vegetation index such as NDVI using the Fiji software package are well described by Dr. Chris Fastie
-on Public Lab's website [here](https://publiclab.org/wiki/photo-monitoring-plugin). The [Public Lab](https://publiclab.org/) 
+Details regarding how to create a vegetation index such as NDVI using the Fiji software package are well described by Chris Fastie
+and Ned Horning on Public Lab's website [here](https://publiclab.org/wiki/photo-monitoring-plugin) and [here](https://publiclab.org/notes/nedhorning/5-31-2012/registering-and-processing-photos-acquired-two-cameras). The [Public Lab](https://publiclab.org/) 
 community has been a leader in this area and a great deal of information there served both as inspiration and as a guide during our work. 
 
 where you can learn how to investigate environmental concerns. Using inexpensive DIY techniques, we seek to change how people see the world in environmental, social, and political terms
