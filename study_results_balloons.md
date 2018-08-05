@@ -16,12 +16,13 @@ can do the same work while adding more information for less effort then chances 
 
 With that sentiment in mind we discuss results obtained by experimenting with kites and balloon. 
 __Figure 1__ is a RGB composite stitched together 'by hand' with the help of ground control points (GCPs) 
-spray-painted into the field. Having GCPs in a set of images like this is critical to both stitch together a larger image and to compare image sets over successive days. To support this
-process we used an open source software known as [Fiji](https://fiji.sc/). Fiji is an image processing 
-package that bundles an incredible variety of plugins to facilitate scientific image analysis.  
+spray-painted into the field. Having GCPs in a set of images like this is critical to both stitch together the larger 
+image and to compare image sets over successive days. To support this process we used an open source software known as 
+[Fiji](https://fiji.sc/). Fiji is an image processing package that bundles an incredible variety of plugins to facilitate 
+scientific image analysis.  
 
 To determine the height of a flight we carefully measured and marked the kite's flight line. This set of 
-captures was taken at a height of 125ft. Maintaining a steady altitude like this with a kite can be a challenge when the 
+captures was taken at a height of 100ft. Maintaining a steady altitude like this with a kite can be a challenge when the 
 wind is variable. 
 
 #### JPEG versus RAW Format
