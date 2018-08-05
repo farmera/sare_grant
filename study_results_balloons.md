@@ -14,26 +14,26 @@ can do the same work while adding more information for less effort then chances 
 
 #### Image capture and preparation
 
-With that sentiment in mind we discuss results obtained by experimenting with kites and balloon. 
-__Figure 1__ is a RGB composite stitched together 'by hand' with the help of ground control points (GCPs) 
+With that sentiment in mind we discuss results obtained by experimenting with kites and balloons. 
+__Figure 1__ is a RGB composite image stitched together 'by hand' with the help of ground control points (GCPs) 
 spray-painted into the field. Having GCPs in a set of images like this is critical to both stitch together the larger 
 image and to compare image sets over successive days. To support this process we used an open source software known as 
 [Fiji](https://fiji.sc/). Fiji is an image processing package that bundles an incredible variety of plugins to facilitate 
 scientific image analysis.  
 
 To determine the height of a flight we carefully measured and marked the kite's flight line. This set of 
-captures was taken at a height of 100ft. Maintaining a steady altitude like this with a kite can be a challenge when the 
+captures was taken at a height of about 100ft. Maintaining a steady altitude like this with a kite can be a challenge when the 
 wind is variable. 
 
 #### JPEG versus RAW Format
 
 In addition to challenges imposed by weather are those attached to the type of camera used. 
-Among these is the choice of image format. A common default for consumer cameras is to record images in the JPG (Joint Photographic Experts Group) format. A 
+Among these is the choice of an image format. A common default for consumer cameras is to record images in the JPG (Joint Photographic Experts Group) format. A 
 JPEG-produced image has processing built in at the time of capture, to adjust contrast, reduce noise 
 or brighten and sharpen the image before rendering it to a file. These processing steps are intended 
-to render images that are visually appealing to the human eye. However, as a result pixel values of a JPG-processed image lack a 
+to render images that are visually appealing to the human eye. As a result pixel values of a JPG-processed image lack a 
 true relationship with the intensity of light that originally impinges on the sensor. Details regarding how a 
-JPEG file is processed by a particular camera are not easy to come by and disabling such 'features' is not usually a practical option.
+JPEG file is processed by a particular camera are not easy to come by and disabling such 'features' is usually not a practical option.
 
 Other sources of artifact in JPEG images are compression and band distortion. Digital Image 
 Compression (DIC) attempts to address the issue of storage and transmission since space is usually at a premium in a consumer-grade 
