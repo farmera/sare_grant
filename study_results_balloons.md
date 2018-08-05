@@ -7,7 +7,7 @@ ways that do not impose a high barrier in terms of time and materials. Farmers a
 kinds of tools they are willing to try. Most are eager to learn a new method if it helps them solve 
 a long-standing problem more efficiently. As an example, crop scouting has existed as long as farming has and its methods 
 have changed little except what was once done on foot or by horse is now done in a pick-up truck. If a kite and a modified camera 
-can do the same work while adding more information for less effort then chances are it will be adopted as a tool.
+can do the same work while adding more information for less effort then chances are these tools will be adopted.
 
 ![](img/kite_image_rgb.png)
 ###### Figure 1. RGB image captured with a Delta kite at height of 100ft. Ground control points (in yellow) are visible.
