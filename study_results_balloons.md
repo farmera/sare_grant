@@ -30,7 +30,7 @@ JPEG-produced image has processing built in at the time of capture, to adjust co
 or brighten and sharpen the image before rendering it to a file. Such processing steps are intended 
 to create images that are visually appealing. However, as a result pixel values of a JPG-processed image lack a 
 truly consistent relationship with the intensities of light that originally impinge upon the sensor. Details regarding how a 
-JPEG file is processed by a particular camera is not easy to come by and varies from model to model. Disabling it is not a ready option.
+JPEG file is processed by a particular camera are not easy to come by. Disabling this 'feature' is not usually a ready option.
 
 A source of artifact for JPEG images in spectral index preparation is compression and band distortion. Digital Image 
 Compression (DIC) addresses issues of storage and transmission since storage space is at a premium in any consumer-grade 
