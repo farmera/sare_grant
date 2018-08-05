@@ -35,9 +35,8 @@ JPEG file is processed by a particular camera are not easy to come by. Disabling
 Other sources of artifact in JPEG images are compression and band distortion. Digital Image 
 Compression (DIC) attempts to address the issue of storage and transmission since space is usually at a premium in a consumer-grade 
 camera. For our purposes, image pre-processing, compression and band distortion are less features than issues to be corrected. 
-They impact an ability to utilize _all_ the bandwidth data as in post-processing. JPEG files are automatically pre-processed in the camera though exactly how this occurs varies from 
-model to model. Disabling this feature is not a ready option. 
- 
+They impact an ability to utilize _all_ the bandwidth data in post-processing images for use in a vegetation index.
+
 While some consumer cameras support the RAW image format, RAW images are much larger and a problem during flight. 
 For this reason our results using consumer cameras are based on the JPEG format. How to accurately calibrate for reflectance 
 under changing illuminant conditions while still being limited to JPEG is another issue. Finally, lack of accurate 
