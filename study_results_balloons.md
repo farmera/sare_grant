@@ -32,11 +32,10 @@ to create images that are visually appealing. However, as a result pixel values 
 truly consistent relationship with the intensities of light that originally impinge upon the sensor. Details regarding how a 
 JPEG file is processed by a particular camera are not easy to come by. Disabling this 'feature' is not usually a ready option.
 
-A source of artifact for JPEG images in spectral index preparation is compression and band distortion. Digital Image 
-Compression (DIC) addresses issues of storage and transmission since storage space is at a premium in any consumer-grade 
-camera. For our purposes, image compression and band distortion are less features than problems to be corrected. Compression 
-and band distortion occur in the camera during capture and can impact the ability to utilize _all_ bandwidth data in 
-post-processing. JPEG files are automatically pre-processed in the camera though exactly how this occurs varies from 
+Other sources of artifact in JPEG images are compression and band distortion. Digital Image 
+Compression (DIC) attempts to address the issue of storage and transmission since space is usually at a premium in a consumer-grade 
+camera. For our purposes, image pre-processing, compression and band distortion are less features than issues to be corrected. 
+They impact an ability to utilize _all_ the bandwidth data as in post-processing. JPEG files are automatically pre-processed in the camera though exactly how this occurs varies from 
 model to model. Disabling this feature is not a ready option. 
  
 While some consumer cameras support the RAW image format, RAW images are much larger and a problem during flight. 
