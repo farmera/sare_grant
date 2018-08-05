@@ -5,9 +5,9 @@
 When our project was initiated the plan was to use methods that are readily available to anyone and to apply these in 
 ways that do not impose a high barrier in terms of time and materials. Farmers are generally practical with regard to the 
 kinds of tools they are willing to try. Most are eager to learn a new method if it helps them solve 
-a long-standing problem more efficiently. As an example, crop scouting has existed as long as farming and its methods 
-have changed little except what was once done on foot or by horse is now done in a pick-up truck. If s kite and a modified camera 
-can do the same work while adding more information for less effort then chance are it will be adopted as a tool.
+a long-standing problem more efficiently. As an example, crop scouting has existed as long as farming has and its methods 
+have changed little except what was once done on foot or by horse is now done in a pick-up truck. If a kite and a modified camera 
+can do the same work while adding more information for less effort then chances are it will be adopted as a tool.
 
 ![](img/kite_image_rgb.png)
 ###### Figure 1. RGB image captured with a Delta kite at height of 100ft. Ground control points (in yellow) are visible.
