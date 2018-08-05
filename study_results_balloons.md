@@ -14,7 +14,7 @@ can do the same work while adding more information for less effort then chances 
 
 #### Image capture and preparation
 
-With that sentiment in mind we discuss results obtained by experimenting with aerial photography using a kite or a balloon. 
+With that sentiment in mind we discuss results obtained by experimenting with kites and balloon. 
 __Figure 1__ is a RGB composite stitched together 'by hand' with the help of ground control points (GCPs) 
 spray-painted into the field. Having GCPs in a set of images like this is critical to both stitch together a larger image and to compare image sets over successive days. To support this
 process we used an open source software known as [Fiji](https://fiji.sc/). Fiji is an image processing 
