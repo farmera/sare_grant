@@ -38,7 +38,7 @@ camera. For our purposes, image pre-processing, compression and band distortion 
 They impact an ability to utilize _all_ the bandwidth data in post-processing a vegetation index.
 
 As an alternative, some consumer cameras support the RAW format, which preserves all of the bandwidth data. However, RAW images are larger 
-than JPEGs and the high rate of capture required during flight to achieve an acceptable ground resolution makes their
+than JPEGs and the high rate of capture (required during flight to achieve an acceptable ground resolution) makes their
 use prohibitive. For this reason our results using consumer cameras are based on the JPEG format. How to accurately calibrate for reflectance 
 under changing illuminant conditions while limited to JPEG is an issue that has been addressed by others (for
 work in this area see Public Lab postings [here](https://publiclab.org/notes/nedhorning/07-10-2014/using-a-raw-image-to-calibrate-a-jpeg-image)
