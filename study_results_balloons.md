@@ -29,7 +29,7 @@ A common default for consumer cameras is to record images in the JPG (Joint Phot
 JPEG-produced image has processing built in at the time of capture, to adjust contrast, reduce noise 
 or brighten and sharpen the image before rendering it to a file. These processing steps are intended 
 to render images that will be visually appealing to the human eye. However, as a result pixel values of a JPG-processed image lack a 
-true relationship with the intensities of light that originally impinge upon the sensor. Details regarding how a 
+true relationship with the intensity of light that originally impinges on the sensor. Details regarding how a 
 JPEG file is processed by a particular camera are not easy to come by and disabling such 'features' is not usually a practical option.
 
 Other sources of artifact in JPEG images are compression and band distortion. Digital Image 
