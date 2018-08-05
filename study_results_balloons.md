@@ -37,8 +37,8 @@ Compression (DIC) attempts to address the issue of storage and transmission sinc
 camera. For our purposes, image pre-processing, compression and band distortion are less features than issues to be corrected. 
 They impact an ability to utilize _all_ the bandwidth data in post-processing a vegetation index.
 
-Some consumer cameras support the RAW image format, which preserves all bandwidth data. However, RAW images are much larger 
-in size than JPEGs and the high rate of capture required during flight to achieve an acceptable ground resolution makes their
+As an alternative image format, some consumer cameras support RAW, which preserves all of the bandwidth data. However, RAW images are larger 
+than JPEGs and the high rate of capture required during flight to achieve an acceptable ground resolution makes their
 use prohibitive. For this reason our results using consumer cameras are based on the JPEG format. How to accurately calibrate for reflectance 
 under changing illuminant conditions while still being limited to JPEG is an issue that has been addressed by other (for remarkable
 work in this area see Public Lab postings [here](https://publiclab.org/notes/nedhorning/07-10-2014/using-a-raw-image-to-calibrate-a-jpeg-image)
