@@ -51,8 +51,10 @@ on the ground. Having obtained a set of images we then scripted a process in Fij
    
 #### Post-processing JPEG images from a kite flight.
 Details regarding how to create a vegetation index such as NDVI using the Fiji software package are described in detail by Chris Fastie
-and Ned Horning on Public Lab's website [here](https://publiclab.org/wiki/photo-monitoring-plugin) and [here](https://publiclab.org/notes/nedhorning/5-31-2012/registering-and-processing-photos-acquired-two-cameras). The [Public Lab](https://publiclab.org/) 
-community has been a leader in this field and the information they have compiled over the years has served both as inspiration and as a guide throughout our work. 
+and Ned Horning on Public Lab's website [here](https://publiclab.org/wiki/photo-monitoring-plugin  target="_blank") and 
+[here](https://publiclab.org/notes/nedhorning/5-31-2012/registering-and-processing-photos-acquired-two-cameras  target="_blank"). 
+The [Public Lab](https://publiclab.org/  target="_blank") community has been a leader in this field and the information they have compiled 
+over the years has served both as inspiration and as a guide throughout our work. 
 
 ![](img/2016_0513_122_rgb.jpg)
 ![](img/2016_0513_122_ndvi.jpg)
