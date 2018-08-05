@@ -8,7 +8,7 @@ kinds of tools they are willing to try. Most are eager to learn a new method if 
 a long-standing problem more efficiently. 
 
 As an example, crop scouting has existed as long as farming has and its methods 
-have changed little except what was once done on foot or by horse is now done in a pick-up truck. If a kite and a modified camera 
+have changed little except what was once done on foot or by horse is now done in a pick-up truck. If a kite and a camera 
 can do the same work while adding more information then chances are these tools will be adopted. With that sentiment in 
 mind we discuss results obtained by experimenting with kites and balloons
 
