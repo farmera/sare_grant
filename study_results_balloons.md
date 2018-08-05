@@ -30,17 +30,19 @@ JPEG-produced image has processing built in at the time of capture, to adjust co
 or brighten and sharpen the image before rendering it to a file. Such processing steps are intended 
 to create images that are visually appealing. However, as a result pixel values of a JPG-processed image lack a 
 truly consistent relationship with the intensities of light that originally impinge upon the sensor. Details regarding how a 
-JPEG file is processed by a particular camera are not easy to come by and disabling these 'features' is not usually a practical option.
+JPEG file is processed by a particular camera are not easy to come by and disabling such 'features' is not usually a practical option.
 
 Other sources of artifact in JPEG images are compression and band distortion. Digital Image 
 Compression (DIC) attempts to address the issue of storage and transmission since space is usually at a premium in a consumer-grade 
 camera. For our purposes, image pre-processing, compression and band distortion are less features than issues to be corrected. 
-They impact an ability to utilize _all_ the bandwidth data in post-processing images for use in a vegetation index.
+They impact an ability to utilize _all_ the bandwidth data in post-processing a vegetation index.
 
-While some consumer cameras support the RAW image format, RAW images are much larger and a problem during flight. 
-For this reason our results using consumer cameras are based on the JPEG format. How to accurately calibrate for reflectance 
-under changing illuminant conditions while still being limited to JPEG is another issue. Finally, lack of accurate 
-geo-tagging support in most consumer cameras means no consistent source of reference regarding the planar as well as 
+Some consumer cameras support the RAW image format, which preserves all bandwidth data. However, RAW images are much larger 
+in size than JPEGs and the high rate of capture required during flight to achieve an acceptable ground resolution makes their
+use prohibitive. For this reason our results using consumer cameras are based on the JPEG format. How to accurately calibrate for reflectance 
+under changing illuminant conditions while still being limited to JPEG is an issue that has been addressed by other (for remarkable
+work in this area see Public Lab postings [here](https://publiclab.org/notes/nedhorning/07-10-2014/using-a-raw-image-to-calibrate-a-jpeg-image)
+and [here](https://publiclab.org/notes/nedhorning/06-30-2015/automating-ndvi-calibration)). Finally, lack of accurate geo-tagging support in most consumer cameras means no consistent source of reference regarding the planar as well as 
 the vertical positioning of the camera with respect to the field. A hand-held GPS device was used to create the ground
 control points in these images but it was not always possible to use geo-tags in images to match each capture with a known position 
 on the ground. 
