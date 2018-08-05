@@ -41,8 +41,8 @@ As an alternative, some consumer cameras support the RAW format, which preserves
 than JPEGs and the rate of capture required during flight (to achieve an acceptable ground resolution) makes their
 use prohibitive. For this reason our results using consumer cameras are based on the JPEG format. How to accurately calibrate for reflectance 
 under changing illuminant conditions while limited to JPEG is an issue that has been addressed by others (for
-work in this area see Public Lab postings [here](https://publiclab.org/notes/nedhorning/07-10-2014/using-a-raw-image-to-calibrate-a-jpeg-image  target="_blank")
-and [here](https://publiclab.org/notes/nedhorning/06-30-2015/automating-ndvi-calibration  target="_blank")). 
+work in this area see Public Lab postings [here](https://publiclab.org/notes/nedhorning/07-10-2014/using-a-raw-image-to-calibrate-a-jpeg-image)
+and [here](https://publiclab.org/notes/nedhorning/06-30-2015/automating-ndvi-calibration)). 
 
 Finally, the lack of accurate geo-tagging support in most consumer cameras means there's no reliable source of reference regarding planar as well as 
 vertical positioning of the camera with respect to the ground. A hand-held GPS device was used to create the ground
@@ -51,9 +51,9 @@ on the ground. Having obtained a set of images we then scripted a process in Fij
    
 #### Post-processing JPEG images from a kite flight.
 Details regarding how to create a vegetation index such as NDVI using the Fiji software package are described in detail by Chris Fastie
-and Ned Horning on Public Lab's website [here](https://publiclab.org/wiki/photo-monitoring-plugin  target="_blank") and 
-[here](https://publiclab.org/notes/nedhorning/5-31-2012/registering-and-processing-photos-acquired-two-cameras  target="_blank"). 
-The [Public Lab](https://publiclab.org/  target="_blank") community has been a leader in this field and the information they have compiled 
+and Ned Horning on Public Lab's website [here](https://publiclab.org/wiki/photo-monitoring-plugin) and 
+[here](https://publiclab.org/notes/nedhorning/5-31-2012/registering-and-processing-photos-acquired-two-cameras). 
+The [Public Lab](https://publiclab.org/) community has been a leader in this field and the information they have compiled 
 over the years has served both as inspiration and as a guide throughout our work. 
 
 ![](img/2016_0513_122_rgb.jpg)
