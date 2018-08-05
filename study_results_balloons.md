@@ -54,8 +54,6 @@ Details regarding how to create a vegetation index such as NDVI using the Fiji s
 and Ned Horning on Public Lab's website [here](https://publiclab.org/wiki/photo-monitoring-plugin) and [here](https://publiclab.org/notes/nedhorning/5-31-2012/registering-and-processing-photos-acquired-two-cameras). The [Public Lab](https://publiclab.org/) 
 community has been a leader in this field and the information they have compiled over the years has served both as inspiration and as a guide throughout our work. 
 
-where you can learn how to investigate environmental concerns. Using inexpensive DIY techniques, we seek to change how people see the world in environmental, social, and political terms
-
 ![](img/2016_0513_122_rgb.jpg)
 ![](img/2016_0513_122_ndvi.jpg)
 ###### Figure 2. NDVI image with reference color LUT. This image was captured with a Delta kite at height of 125ft.
