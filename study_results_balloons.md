@@ -58,14 +58,14 @@ where you can learn how to investigate environmental concerns. Using inexpensive
 
 ![](img/2016_0513_122_rgb.jpg)
 ![](img/2016_0513_122_ndvi.jpg)
-###### Figure 3. NDVI image with reference color LUT. This image was captured with a Delta kite at height of 125ft.
-__Figure 3__ is an NDVI index derived from RGB and NIR imagesets using a pair of modified consumer cameras. It was taken 
+###### Figure 2. NDVI image with reference color LUT. This image was captured with a Delta kite at height of 125ft.
+__Figure 2__ is an NDVI index derived from RGB and NIR imagesets using a pair of modified consumer cameras. It was taken 
 from a height of about about 125 ft early in the growth season.  
 
 ![](img/2016_0513_141_rgb.jpg)
 ![](img/2016_0513_168_ndvi_color.jpg)
-###### Figure 4. NDVI image from 200 ft. Ground resolution is 8-10" ft per pixel.
-__Figure 4__ is another NDVI index derived from RGB and NIR image sets using a pair of modified consumer cameras. It was taken 
+###### Figure 3. NDVI image from 200 ft. Ground resolution is 8-10" ft per pixel.
+__Figure 3__ is another NDVI index derived from RGB and NIR image sets using a pair of modified consumer cameras. It was taken 
 from a height of about 200 ft.   
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
@@ -77,7 +77,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 1 meter per pixel
 
 ![](img/3in-resolution.png)
-3 inch per pixel
+3 inches per pixel
 
 ![](img/1in-resolution.png)
 ~1 inch per pixel (2.7 cm)
