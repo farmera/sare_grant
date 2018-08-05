@@ -31,7 +31,7 @@ In addition to challenges imposed by weather are those attached to the type of c
 Among these is the choice of image format. A common default for consumer cameras is to record images in the JPG (Joint Photographic Experts Group) format. A 
 JPEG-produced image has processing built in at the time of capture, to adjust contrast, reduce noise 
 or brighten and sharpen the image before rendering it to a file. These processing steps are intended 
-to render images that will be visually appealing to the human eye. However, as a result pixel values of a JPG-processed image lack a 
+to render images that are visually appealing to the human eye. However, as a result pixel values of a JPG-processed image lack a 
 true relationship with the intensity of light that originally impinges on the sensor. Details regarding how a 
 JPEG file is processed by a particular camera are not easy to come by and disabling such 'features' is not usually a practical option.
 
