@@ -54,7 +54,8 @@ containing a broader field of view.
 ![](img/NGR_highlight.png)
 ###### Figure 4. A detail of two treatment sections as a CIR composite image.   
 
-The image in __Figure 3__ has been rendered as an CIR composite for practical reasons. While  since the original raw geotiff from which it was produced is not easily visualized
+The image in __Figure 4__ has been rendered as an CIR composite for practical reasons. The original raw geotiff file 
+from which it was produced is not easily visualized as it contains the luminosity data from four bands of captured light.
 
 As mentioned, the composite image contains geotags which form part of the image's metadata. One of the challenges of 
 precision mapping is to correctly match a partial image - which may have been distorted in the process of capture - with an 
