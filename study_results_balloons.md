@@ -45,7 +45,7 @@ work in this area see Public Lab postings [here](https://publiclab.org/notes/ned
 and [here](https://publiclab.org/notes/nedhorning/06-30-2015/automating-ndvi-calibration)). Finally, the lack of accurate 
 geo-tagging support in most consumer cameras means there's no reliable source of reference regarding planar as well as 
 vertical positioning of the camera with respect to the ground. A hand-held GPS device was used to create the ground
-control points in these images but it was not always possible to use geo-tags in images to match each capture with a known position 
+control points in these images but it was not always possible 'geo-tag' images and match each capture with a known position 
 on the ground. 
 
 Having obtained a set of images we then scripted a process in Fiji to help align, stitch and create the vegetation index.  
