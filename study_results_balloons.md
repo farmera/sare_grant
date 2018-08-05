@@ -17,7 +17,6 @@ mind we discuss results obtained by experimenting with kites and balloons
 
 #### Image capture and preparation
 
-With that sentiment in mind we discuss results obtained by experimenting with kites and balloons. 
 __Figure 1__ is a RGB composite image stitched together 'by hand' with the help of ground control points (GCPs) 
 spray-painted into the field. Having GCPs in a set of images like this is critical to both stitch together the larger 
 image and to compare image sets over successive days. To support this process we used an open source software known as 
