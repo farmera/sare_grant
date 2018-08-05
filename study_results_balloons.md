@@ -45,7 +45,7 @@ They impact an ability to utilize _all_ the bandwidth data in post-processing.
 As an alternative, some consumer cameras support the RAW format, which preserves all of the bandwidth data. However, RAW images are larger 
 than JPEGs and the rate of capture required during flight (to achieve an acceptable ground resolution) makes their
 use prohibitive. For this reason our results using consumer cameras are based on the JPEG format. How to accurately calibrate for reflectance 
-under changing illuminant conditions while limited to JPEG is an issue that has been addressed by others (for
+under changing illuminant conditions while limited to JPEG is an issue that has been addressed by others (for excellent
 work in this area see Public Lab postings [here](https://publiclab.org/notes/nedhorning/07-10-2014/using-a-raw-image-to-calibrate-a-jpeg-image)
 and [here](https://publiclab.org/notes/nedhorning/06-30-2015/automating-ndvi-calibration)). 
 

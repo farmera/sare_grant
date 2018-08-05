@@ -46,7 +46,7 @@ outshines other aerial methods considered.
 To capture the study area each drone flight yielded roughly 1200-1500 geotiff images using the [Sequoia camera]() representing 
 four narrow bands of light (plus RGB). The raw single band images were layered to produce from 300-350 composite images 
 which were then stitched into a single master geotiff containing all four bands (minus RGB). The process of stitching 
-geo-coded images is known as mosaicking (see [Section VI](pre_processing_steps.md) ). Mosaiking allows accurate placement of 
+geo-coded images is known as mosaicking (see [Section 6](pre_processing_steps.md) ). Mosaiking allows accurate placement of 
 acquired image data and projection of those data onto a map. The process is facilitated in this study by embedded latitude and 
 longitude tags in each image captured by the Sequoia camera. This allows us to create images of relatively high definition 
 containing a broader field of view. 
