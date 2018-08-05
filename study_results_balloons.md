@@ -56,7 +56,7 @@ community has been a leader in this field and the information they have compiled
 
 ![](img/2016_0513_122_rgb.jpg)
 ![](img/2016_0513_122_ndvi.jpg)
-###### Figure 2. NDVI image with reference color LUT. This image was captured with a Delta kite at height of 125ft.
+###### Figure 2. NDVI image processed using the Fuji. This image was captured with a Delta kite at height of 125ft.
 __Figure 2__ is an NDVI index derived from RGB and NIR imagesets using a pair of modified consumer cameras. It was taken 
 from a height of about about 125 ft early in the growth season.  
 
