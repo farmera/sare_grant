@@ -2,9 +2,9 @@
 
 #### Introduction
 
-When our project was initiated the plan was to use methods that are readily available to anyone and to apply these in 
+When our project began the plan was to use methods that are readily available to anyone and to apply these in 
 ways that do not impose a high barrier in terms of time and materials. Farmers are generally practical with regard to the 
-kinds of tools they are willing to try. Most are eager to learn a new method if it helps them solve 
+kinds of tools they are willing to try. Most are eager to learn a new method if it helps solve 
 a long-standing problem more efficiently. 
 
 As an example, crop scouting has existed as long as farming has and its methods 
@@ -29,7 +29,7 @@ wind is variable.
 
 #### JPEG versus RAW Format
 
-In addition to challenges imposed by weather are those associated with the type of camera used. 
+In addition to challenges imposed by weather the choice of camera may call into question the veracity of results. 
 Among these is the choice of image format. A common default for consumer cameras is to record images in the JPEG (Joint Photographic Experts Group) format. A 
 JPEG has processing built in at the time of capture, to adjust contrast, reduce noise 
 or brighten and sharpen the image before rendering it to a file. These processing steps are intended 
