@@ -92,6 +92,9 @@ element distinguishable, formed part of our initial assessment of cameras. The G
 the focal length of the lens, and by pixel size. Our choice of a Canon S100 meant a high pixel count but 
 a higher pixel count does not guarantee a higher ground resolution. 
 
+![](img/pixel-sizes.png)
+###### Figure 3. Relative pixel sizes depending on image source.
+
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
 
 
