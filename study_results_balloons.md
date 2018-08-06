@@ -33,7 +33,7 @@ In addition to challenges imposed by weather are those associated with the choic
 image format. A common default for consumer cameras is JPEG (Joint Photographic Experts Group). The JPEG format in many cameras 
 has processing built in at the time of capture, to adjust contrast, reduce noise or brighten and sharpen the image before 
 rendering it to a file. These processing steps are intended to render images that are visually appealing 
-to the human eye. As a result pixel values of a JPG-processed image lack a true relationship with the intensity of light 
+to the human eye. As a result pixel values of a JPG-processed image lack a 'true' relationship with the intensity of light 
 that originally impinges on the sensor. Details regarding how a JPEG file is processed by a particular camera are not easy 
 to come by and disabling such 'features' is usually not a practical option.
 
