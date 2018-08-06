@@ -75,10 +75,9 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 __Figure 3__ is another NDVI index derived from RGB and NIR image sets using a pair of modified consumer cameras. It was taken 
 from a height of about 200 ft.   
 
-Understanding the contribution made by the ground sampling distance (GSD) of an imaging sensor, i.e. the size of the smallest 
-element distinguishable, formed part of our initial assessment of cameras. The type of camera used has a direct impact on the amount of information
-contained in the final product following analysis. Ground sampling distance is determined by the height attained above ground, by 
-the focal length of the lens used in the camera, and by pixel size. Our choice of the Canon s100 as a consumer camera meant a high pixel count, 
+The contribution made by the imaging sensor to achieve sufficient ground sampling distance (GSD) i.e. the size of the smallest 
+element distinguishable, formed part of our initial assessment of cameras. The GSD is determined by the height attained by the sensor above ground, by 
+the focal length of the lens, and by pixel size. Our choice of a Canon s100 meant a high pixel count, 
 a higher pixel count doesn’t guarantee a higher ground resolution.
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
