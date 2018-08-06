@@ -74,11 +74,11 @@ __Figure 3__ is another NDVI index derived from RGB and NIR image sets using a p
 from a height of about 200 ft.   
 
 
-The ground sampling distance (GSD) of the imaging sensor, i.e. the size of the smallest element distinguishable, formed an 
-important piece in our assessment in the choice of a camera as this directly relates to the amount of information that can be
-derived. Ground sampling distance is determined by the aircraft’s height above the ground, the focal length 
-of the lens used, as well as the pixel size, a higher camera resolution doesn’t guarantee higher ground resolution. The Canon
-s100 consumer cameras used...
+The ground sampling distance (GSD) of an imaging sensor, i.e. the size of the smallest element distinguishable, formed an 
+important part of our assessment in the choice of camera as this choice directly impacts the amount of information that can be
+derived in the final product following analysis. Ground sampling distance is determined by the height attained above ground, by 
+the focal length of the lens used by the camera, as well as by pixel size. While our choice of a Canon s100 meant a high pixel count, 
+a higher pixel resolution doesn’t guarantee a higher ground resolution.
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
 
