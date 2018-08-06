@@ -29,13 +29,13 @@ wind is variable.
 
 #### JPEG versus RAW Format
 
-In addition to challenges imposed by weather the choice of camera may call into question the veracity of results. 
-Among these is the choice of image format. A common default for consumer cameras is to record images in the JPEG (Joint Photographic Experts Group) format. A 
-JPEG has processing built in at the time of capture, to adjust contrast, reduce noise 
-or brighten and sharpen the image before rendering it to a file. These processing steps are intended 
-to render images that are visually appealing to the human eye. As a result pixel values of a JPG-processed image lack a 
-true relationship with the intensity of light that originally impinges on the sensor. Details regarding how a 
-JPEG file is processed by a particular camera are not easy to come by and disabling such 'features' is usually not a practical option.
+In addition to challenges imposed by weather are those associated with the choice of camera, specifically the choice of 
+image format. A common default for consumer cameras is to record images in the JPEG (Joint Photographic Experts Group) 
+format. A JPEG has processing built in at the time of capture, to adjust contrast, reduce noise or brighten and sharpen 
+the image before rendering it to a file. These processing steps are intended to render images that are visually appealing 
+to the human eye. As a result pixel values of a JPG-processed image lack a true relationship with the intensity of light 
+that originally impinges on the sensor. Details regarding how a JPEG file is processed by a particular camera are not easy 
+to come by and disabling such 'features' is usually not a practical option.
 
 Other sources of artifact in JPEG images are compression and band distortion. Digital Image 
 Compression (DIC) attempts to address the issue of storage and transmission since space is usually at a premium in a consumer-grade 
