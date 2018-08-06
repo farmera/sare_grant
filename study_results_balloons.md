@@ -115,6 +115,9 @@ in or 0.06-0.17 sq ft per pixel.
 
 ![](img/3in-resolution.png)
 3 inches per pixel
+###### Figure 5. Relative pixel dimension depending on satellite image source provider.
+
+To put this into perspective consider the images in __Figure 5__.
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
 
