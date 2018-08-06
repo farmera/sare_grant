@@ -105,7 +105,7 @@ any satellite or airplane data service provider.
 
 #### Minimum Resolution for Study
 
-All resolutions we have discussed here are for standard RGB imagery. For multi- or hyper-spectral imagery 
+All resolutions we have discussed are for standard RGB imagery. For multi- or hyper-spectral imagery 
 the higher resolutions drop (in some cases by as much as 25%). Our choice of a pair of Canon S100's meant a high pixel 
 count with flight altitudes between 100 and 200 ft. At these heights our GSD using the dual-camera system was from 3-5 sq 
 in or 0.06-0.17 sq ft per pixel.
