@@ -78,7 +78,7 @@ from a height of about 200 ft.
 Various factors contribute to the overall resolution of an image taken from the air. Of interest in our study 
 was the ground sampling distance, i.e. the distance between pixel centers measured on the ground. It was desirable 
 to have as small a GSD as possible as the advantage of images captured by kite or balloon (or drone) is their ability to 
-fly low (hence improving resolution). One of several disadvantages of traditional methods such as planes and satellites 
+fly low (hence improving resolution). A disadvantage of traditional methods such as planes and satellites 
 is their low ground resolution.  
 
 For example, the GSD of a Landsat satellite image is ~30m. This means that the smallest unit that maps to a single pixel 
