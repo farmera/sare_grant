@@ -76,8 +76,9 @@ __Figure 3__ is another NDVI index derived from RGB and NIR image sets using a p
 from a height of about 200 ft.   
 
 Various factors contribute to the overall resolution of an image taken from the air. Of interest in our study 
-was the ground sampling distance, i.e. the distance between pixel centers measured on the ground. For our purposes it was
-desirable to have a minimum one-foot GSD, such that any pair of adjacent pixels in an image locations are 1 meter apart on the ground 
+was the ground sampling distance, i.e. the distance between pixel centers measured on the ground. It was thought desirable 
+to have as small a GSD as possible as one advantage of capturing images by kite or balloon (or drone) is the ability to control 
+this factor in a way not possible with traditional methods (i.e. satellites and airplanes).   
 
 The contribution made by an imaging sensor to achieve sufficient ground sampling distance (GSD) i.e. the size of the smallest 
 element distinguishable, formed part of our initial assessment of cameras. The GSD is determined by the height attained by the sensor above ground, by 
