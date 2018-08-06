@@ -25,7 +25,7 @@ scientific image analysis.
 
 To determine the height of a flight we carefully measured and marked the kite's flight line. This set of 
 captures was taken at a height of about 100ft. Maintaining a steady altitude like this with a kite can be a challenge when the 
-wind is variable. 
+wind is variable. This was a key challenge faced with kites. 
 
 #### JPEG versus RAW Format
 
