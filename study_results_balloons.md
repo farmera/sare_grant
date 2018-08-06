@@ -104,8 +104,8 @@ size. Our choice of a pair of Canon S100's meant a high pixel count, and with fl
 our GSD was from 3-5 sq in or 0.06-0.17 sq ft. 
 
 Commercial providers of satellite image data generally charge for their services while Landsat is free. There is a delay 
-of 16 days between captures of Landsat data and cloud-cover can be a significant issue for any satellite or airplane data 
-capture service. 
+of 16 days between successive captures of Landsat data and cloud-cover may be a significant issue for any satellite or 
+airplane data service. 
 
 ![](img/1m-resolution.png)
 1 meter per pixel
