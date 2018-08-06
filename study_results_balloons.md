@@ -91,7 +91,7 @@ is their high flight, low resolution.
 ![](img/pixel-sizes.png)
 ###### Figure 4. Relative pixel dimension depending on satellite image source provider.
 
-For example, the GSD of a Landsat satellite image is ~30m. This means that the smallest unit that maps to a single pixel 
+For example, the GSD of a Landsat satellite image is ~30m (b. in __Figure 4__). This means that the smallest unit that maps to a single pixel 
 in Landsat is 30m x 30m (i.e. 900 sq meters, 0.22 acres, ~8% of our total study area). Each of our thirty test sections 
 measures 100ft by 20ft thus a single pixel in Landsat is five times larger than a single section (see __Figure 4__). 
 
