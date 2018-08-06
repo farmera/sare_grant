@@ -82,6 +82,8 @@ to have as small a GSD as possible as the advantage of images captured by kite o
 fly low (hence improving resolution). A disadvantage of traditional methods such as planes and satellites 
 is their high flight, low resolution.  
 
+#### Ground Resolution
+
 ![](img/pixel-sizes.png)
 ###### Figure 4. Relative pixel dimension depends on satellite image source.
 
