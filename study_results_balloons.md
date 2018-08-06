@@ -100,7 +100,7 @@ GSD of 5 m, or a pixel size of roughly 250 sq ft, c. in __Figure 4__). The GeoEy
 over 1 sq ft per pixel.
 
 Commercial providers of satellite image data charge for their services (Landsat is free) and there is often a delay 
-between successive captures. In addition cloud-cover and other atmospheric effects present significant issues for 
+between successive captures. In addition to cost and generally low-resolution GSD, cloud-cover and other atmospheric effects present significant issues for 
 any satellite or airplane data service provider. 
 
 #### Minimum Resolution for Study
