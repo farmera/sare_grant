@@ -91,7 +91,7 @@ measures 100ft by 20ft thus a single pixel in Landsat is five times larger than 
 
 Commercial satellite imagery is available at higher resolutions (for a price) from providers like Planet Labs with a 
 GSD of 5 m, or a pixel size of roughly 250 sq ft. The GeoEye-1 satellite offers the highest resolution per pixel at a little 
-more than a square foot.
+over 1 sq ft per pixel.
 
 The GSD is determined by the height attained by the sensor above ground, by 
 the focal length of the lens, and by pixel size. Our choice of a Canon S100 meant a high pixel count but 
