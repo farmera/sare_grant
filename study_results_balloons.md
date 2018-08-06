@@ -80,7 +80,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
 
-#### Ground Resolution
+#### Ground Resolution Issues
 
 Various factors contribute to the overall resolution of an image taken from the air. Of interest in our study 
 was the ground sampling distance, i.e. the distance between pixel centers measured on the ground. It was desirable 
@@ -106,6 +106,8 @@ airplane data service.
 The GSD is determined by the height attained by the sensor above ground, by the focal length of the lens, and by pixel 
 size. Our choice of a pair of Canon S100's meant a high pixel count, and with flight altitudes between 100 and 200 ft 
 our GSD was from 3-5 sq in or 0.06-0.17 sq ft. 
+
+#### Minimum Resolution for Study
 
 ![](img/1m-resolution.png)
 1 meter per pixel
