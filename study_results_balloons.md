@@ -79,13 +79,11 @@ Various factors contribute to the overall resolution of an image taken from the 
 was the ground sampling distance, i.e. the distance between pixel centers measured on the ground. It was desirable 
 to have as small a GSD as possible as the advantage of images captured by kite or balloon (or drone) is their ability to 
 fly low (hence improving resolution). One of several disadvantages of traditional methods such as planes and satellites 
-is their low resolution.  
-
-mallest unit that maps to a single pixel within an image is ~30m x 30m
+is their low ground resolution.  
 
 For example, the GSD of a Landsat satellite image is ~30m. This means that the smallest unit that maps to a single pixel 
-for Landsat is 30m x 30m (900 sq meters, 0.22 acres, ~8% of our total study area). Each of our thirty test sections measures roughly 
-100ft by 60ft thus a single pixel in Landsat imagery (6000 sq ft) This is the peak resolution per pixel of Landsat imagery   
+in Landsat is 30m x 30m (i.e. 900 sq meters, 0.22 acres, ~8% of our total study area). Each of our thirty test sections 
+measures 100ft by 60ft thus a single pixel in Landsat is more than 3000 sq ft larger than a single section plot in our study area.
 
 The contribution made by an imaging sensor to achieve sufficient ground sampling distance (GSD) i.e. the size of the smallest 
 element distinguishable, formed part of our initial assessment of cameras. The GSD is determined by the height attained by the sensor above ground, by 
