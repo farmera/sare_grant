@@ -93,10 +93,10 @@ is their high flight, low resolution.
 
 For example, the GSD of a Landsat satellite image is ~30m (b. in __Figure 4__). This means that the smallest unit that maps to a single pixel 
 in Landsat is 30m x 30m (i.e. 900 sq meters, 0.22 acres, ~8% of our total study area). Each of our thirty test sections 
-measures 100ft by 20ft thus a single pixel in Landsat is five times larger than a single section (see __Figure 4__). 
+measures 100ft by 20ft thus a single pixel in Landsat is five times larger than a single section. 
 
 Commercial satellite imagery is available for a price at higher resolution (e.g. from providers like Planet Labs with a 
-GSD of 5 m, or a pixel size of roughly 250 sq ft). The GeoEye-1 satellite offers the highest resolution per pixel at a little 
+GSD of 5 m, or a pixel size of roughly 250 sq ft, c. in __Figure 4__). The GeoEye-1 satellite offers the highest resolution per pixel at a little 
 over 1 sq ft per pixel.
 
 Commercial providers of satellite image data charge for their services (Landsat is free) and there is often a delay 
