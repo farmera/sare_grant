@@ -89,7 +89,7 @@ fly low (hence improving resolution). A disadvantage of traditional methods such
 is their high flight, low resolution.  
 
 ![](img/pixel-sizes.png)
-###### Figure 4. Relative pixel dimension depending on satellite image source.
+###### Figure 4. Relative pixel dimension depending on satellite image source provider.
 
 For example, the GSD of a Landsat satellite image is ~30m. This means that the smallest unit that maps to a single pixel 
 in Landsat is 30m x 30m (i.e. 900 sq meters, 0.22 acres, ~8% of our total study area). Each of our thirty test sections 
