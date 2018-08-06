@@ -18,8 +18,8 @@ mind we discuss results obtained by experimenting with kites and balloons
 #### Image capture and preparation
 
 __Figure 1__ is a RGB composite image captured with a kite and stitched together 'by hand' with the help of ground control points (GCPs) 
-spray-painted into the field. Having GCPs in a set of images like this is critical to both stitch together the larger 
-image and to compare image sets over successive days. To support this process we used an open source software known as 
+spray-painted into the field. Having GCPs in a set of images like this is crucial both for stitching together the final 
+image and for comparing image sets over time. To support this process we used an open source software known as 
 [Fiji](https://fiji.sc/). Fiji is an image processing package that bundles an incredible variety of plugins to facilitate 
 scientific image analysis.  
 
@@ -73,10 +73,12 @@ from a height of about about 125 ft early in the growth season.
 __Figure 3__ is another NDVI index derived from RGB and NIR image sets using a pair of modified consumer cameras. It was taken 
 from a height of about 200 ft.   
 
-The ground sampling distance (GSD) of our imaging sensor, i.e. the size of the smallest element distinguishable, formed an 
-important point of assessment in our choice of a camera as it is directly linked to the amount of information that can be
-derived. Since ground sampling distance (GSD) is determined by the aircraft’s height above the ground, the focal length 
-of the lens used, as well as the pixel size, a higher camera resolution doesn’t guarantee higher ground resolution.
+
+The ground sampling distance (GSD) of the imaging sensor, i.e. the size of the smallest element distinguishable, formed an 
+important piece in our assessment in the choice of a camera as this directly relates to the amount of information that can be
+derived. Ground sampling distance is determined by the aircraft’s height above the ground, the focal length 
+of the lens used, as well as the pixel size, a higher camera resolution doesn’t guarantee higher ground resolution. The Canon
+s100 consumer cameras used...
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
 
