@@ -95,7 +95,7 @@ For example, the GSD of a Landsat satellite image is ~30m. This means that the s
 in Landsat is 30m x 30m (i.e. 900 sq meters, 0.22 acres, ~8% of our total study area). Each of our thirty test sections 
 measures 100ft by 20ft thus a single pixel in Landsat is five times larger than a single section plot in our study. 
 
-Commercial satellite imagery is available for a price at higher resolutions for a price (from providers like Planet Labs with a 
+Commercial satellite imagery is available for a price at higher resolutions (from providers like Planet Labs with a 
 GSD of 5 m, or a pixel size of roughly 250 sq ft). The GeoEye-1 satellite offers the highest resolution per pixel at a little 
 over 1 sq ft per pixel.
 
