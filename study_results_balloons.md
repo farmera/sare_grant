@@ -75,8 +75,8 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 __Figure 3__ is another NDVI index derived from RGB and NIR image sets using a pair of modified consumer cameras. It was taken 
 from a height of about 200 ft.   
 
-Various factors together contribute to the sum resolution of an image taken from the air. Of interest in our study 
-was the ground sampling distance, i.e. the distance between pixel centers measured on the ground. For our purposes it was
+Various factors contribute to the obverall sum resolution of an image taken from the air. Of interest in our study 
+was the ground sampling distance capacity of our methods, i.e. the distance between pixel centers measured on the ground. For our purposes it was
 desirable to have a minimum one-foot GSD, such that any pair of adjacent pixels in an image locations are 1 meter apart on the ground 
 
 The contribution made by an imaging sensor to achieve sufficient ground sampling distance (GSD) i.e. the size of the smallest 
