@@ -76,16 +76,20 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 __Figure 3__ is another NDVI index derived from RGB and NIR image sets using a pair of modified consumer cameras. It was taken 
 from a height of about 200 ft.   
 
-Various factors contribute to the overall resolution of an image taken from the air. Of interest in our study 
-was the ground sampling distance, i.e. the distance between pixel centers measured on the ground. It was desirable 
-to have as small a GSD as possible as the advantage of images captured by kite or balloon (or drone) is their ability to 
-fly low (hence improving resolution). A disadvantage of traditional methods such as planes and satellites 
-is their high flight, low resolution.  
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
 
 #### Ground Resolution
 
 ![](img/pixel-sizes.png)
 ###### Figure 4. Relative pixel dimension depends on satellite image source.
+
+Various factors contribute to the overall resolution of an image taken from the air. Of interest in our study 
+was the ground sampling distance, i.e. the distance between pixel centers measured on the ground. It was desirable 
+to have as small a GSD as possible as the advantage of images captured by kite or balloon (or drone) is their ability to 
+fly low (hence improving resolution). A disadvantage of traditional methods such as planes and satellites 
+is their high flight, low resolution.  
 
 For example, the GSD of a Landsat satellite image is ~30m. This means that the smallest unit that maps to a single pixel 
 in Landsat is 30m x 30m (i.e. 900 sq meters, 0.22 acres, ~8% of our total study area). Each of our thirty test sections 
