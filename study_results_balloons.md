@@ -83,7 +83,7 @@ is their low resolution.
 
 For example, the GSD of a Landsat satellite image is ~30m. This means that the smallest unit that maps to a single pixel 
 in Landsat is 30m x 30m (i.e. 900 sq meters, 0.22 acres, ~8% of our total study area). Each of our thirty test sections 
-measures 100ft by 60ft thus a single pixel in Landsat is more than 3000 sq ft larger than a single section plot in our study area.
+measures 100ft by 60ft thus a single pixel in Landsat is 3000 sq ft larger than a single section plot in our study.
 
 The contribution made by an imaging sensor to achieve sufficient ground sampling distance (GSD) i.e. the size of the smallest 
 element distinguishable, formed part of our initial assessment of cameras. The GSD is determined by the height attained by the sensor above ground, by 
