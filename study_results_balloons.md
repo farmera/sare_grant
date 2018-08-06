@@ -76,9 +76,12 @@ __Figure 3__ is another NDVI index derived from RGB and NIR image sets using a p
 from a height of about 200 ft.   
 
 Various factors contribute to the overall resolution of an image taken from the air. Of interest in our study 
-was the ground sampling distance, i.e. the distance between pixel centers measured on the ground. It was thought desirable 
-to have as small a GSD as possible as one advantage of capturing images by kite or balloon (or drone) is the ability to control 
-altitude and hence resolution in ways not possible using traditional methods (i.e. satellites and airplanes).   
+was the ground sampling distance, i.e. the distance between pixel centers measured on the ground. It was desirable 
+to have as small a GSD as possible as the advantage of images captured by kite or balloon (or drone) is their ability to 
+fly low and improve resolution. At least one disadvantage of traditional methods such as planes and satellites is their high altitude.  
+
+For example, the GSD of a Landsat satellite image is ~30m. This means that the smallest unit of measure for Landsat is 
+30m x 30m or 900 sq meters or 0.22 acres (~8% of our total study area). Each of our thirty test sections measures 100ft by This is the peak resolution per pixel of Landsat imagery   
 
 The contribution made by an imaging sensor to achieve sufficient ground sampling distance (GSD) i.e. the size of the smallest 
 element distinguishable, formed part of our initial assessment of cameras. The GSD is determined by the height attained by the sensor above ground, by 
