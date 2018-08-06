@@ -75,8 +75,8 @@ from a height of about 200 ft.
 
 
 The ground sampling distance (GSD) of an imaging sensor, i.e. the size of the smallest element distinguishable, formed an 
-important part of our assessment in the choice of camera. This choice has a direct impact on the amount of information that will be
-possible in the final product following analysis. Ground sampling distance is determined by the height attained above ground, by 
+important part in our assessment of camera selection. The type of camera used has a direct impact on the amount of information that is
+contained in the final product following analysis. Ground sampling distance is determined by the height attained above ground, by 
 the focal length of the lens used by the camera, as well as by pixel size. While our choice of a Canon s100 meant a high pixel count, 
 a higher pixel resolution doesn’t guarantee a higher ground resolution.
 
