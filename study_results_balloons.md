@@ -99,13 +99,13 @@ Commercial satellite imagery is available for a price at higher resolutions for 
 GSD of 5 m, or a pixel size of roughly 250 sq ft). The GeoEye-1 satellite offers the highest resolution per pixel at a little 
 over 1 sq ft per pixel.
 
-The GSD is determined by the height attained by the sensor above ground, by the focal length of the lens, and by pixel 
-size. Our choice of a pair of Canon S100's meant a high pixel count, and with flight altitudes between 100 and 200 ft 
-our GSD was from 3-5 sq in or 0.06-0.17 sq ft. 
-
 Commercial providers of satellite image data generally charge for their services while Landsat is free. There is a delay 
 of 16 days between successive captures of Landsat data and cloud-cover may be a significant issue for any satellite or 
 airplane data service. 
+
+The GSD is determined by the height attained by the sensor above ground, by the focal length of the lens, and by pixel 
+size. Our choice of a pair of Canon S100's meant a high pixel count, and with flight altitudes between 100 and 200 ft 
+our GSD was from 3-5 sq in or 0.06-0.17 sq ft. 
 
 ![](img/1m-resolution.png)
 1 meter per pixel
