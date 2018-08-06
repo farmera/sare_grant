@@ -73,9 +73,10 @@ from a height of about about 125 ft early in the growth season.
 __Figure 3__ is another NDVI index derived from RGB and NIR image sets using a pair of modified consumer cameras. It was taken 
 from a height of about 200 ft.   
 
-The ground resolved distance (GRD) of an imaging sensor, i.e. the size of the smallest element distinguishable on acquired imagery,
-is one of the most important sensor quality assessment factors, as it is directly linked to the amount of information that can be
-derived from the end product. 
+The ground sampling distance (GSD) of our imaging sensor, i.e. the size of the smallest element distinguishable, formed an 
+important point of assessment in our choice of a camera as it is directly linked to the amount of information that can be
+derived. Since ground sampling distance (GSD) is determined by the aircraft’s height above the ground, the focal length 
+of the lens used, as well as the pixel size, a higher camera resolution doesn’t guarantee higher ground resolution.
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
 
