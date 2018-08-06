@@ -75,7 +75,11 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 __Figure 3__ is another NDVI index derived from RGB and NIR image sets using a pair of modified consumer cameras. It was taken 
 from a height of about 200 ft.   
 
-The contribution made by the imaging sensor to achieve sufficient ground sampling distance (GSD) i.e. the size of the smallest 
+Various factors together contribute to the sum resolution of an image taken from the air. Of interest in our study 
+was the ground sampling distance, i.e. the distance between pixel centers measured on the ground. For our purposes it was
+desirable to have a minimum one-foot GSD, such that any pair of adjacent pixels in an image locations are 1 meter apart on the ground 
+
+The contribution made by an imaging sensor to achieve sufficient ground sampling distance (GSD) i.e. the size of the smallest 
 element distinguishable, formed part of our initial assessment of cameras. The GSD is determined by the height attained by the sensor above ground, by 
 the focal length of the lens, and by pixel size. Our choice of a Canon S100 meant a high pixel count but 
 a higher pixel count does not guarantee a higher ground resolution.
@@ -96,7 +100,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 #### Summary
 
-Early in the project we experimented with various capture systems (automatically-triggered cameras) and suspension methods 
+Early in the project we experimented with various automatically-triggered cameras and suspension systems 
 using kites and balloons. The central challenge of an aerial system based on wind alone is variability in the 
 control of height and nadir positioning of the camera. Wind can impact the performance of a balloon during flight. 
 Additional factors to consider are payload weight and total flight time. 
