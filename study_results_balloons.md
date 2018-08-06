@@ -29,7 +29,7 @@ wind is variable.
 
 #### JPEG versus RAW Format
 
-In addition to challenges imposed by weather are those associated with the choice of camera, especially the choice of 
+In addition to challenges imposed by weather there are those associated with the choice of camera, especially the choice of 
 image format. A common default for consumer cameras is JPEG (Joint Photographic Experts Group). The JPEG format in many cameras 
 has processing built in at the time of capture, to adjust contrast, reduce noise or brighten and sharpen the image before 
 rendering it to a file. These processing steps are intended to render images that are visually appealing 
