@@ -84,6 +84,9 @@ in the end, left our results in question.
 
 #### Ground Resolution Issues
 
+![](img/gsd.png)
+###### Figure 4. Relationship between height and ground sampling distance (GSD).
+
 Various factors contribute to the overall resolution of an image taken from the air. Of interest is the ground sampling 
 distance, i.e. the distance between pixel centers measured on the ground. Since a key advantage of a kite or balloon (or drone) 
 is the ability to fly closer to the ground we made an effort to understand the contribution of an improved GSD in our results. 
@@ -93,7 +96,7 @@ key advantage of such methods is their coverage. The goal in aerial imaging is t
 sacrificing resolution but the tension between the two factors can be complex.
 
 ![](img/pixel-sizes.png)
-###### Figure 4. Relative pixel dimension depending on satellite image source provider.
+###### Figure 5. Relative pixel dimension depending on satellite image source provider.
 
 For example, the GSD of a Landsat satellite image is ~30m (b. in __Figure 4__). This means that the smallest unit that 
 maps to a single pixel in Landsat is 30m x 30m (900 sq m, 0.22 acres, ~8% of our total study area). Each of 
@@ -119,7 +122,7 @@ and kites?
 1 meter per pixel
 ![](img/3in-resolution.png)
 3 inches per pixel
-###### Figure 5. High resolution differences between 1m and 3in GSD.
+###### Figure 6. High resolution differences between 1m and 3in GSD.
 
 To put this into perspective consider the images in __Figure 5__. The top image shows a more accurate depiction of a 1 meter
 per pixel GSD resolution. This means that each pixel covers an area on the ground of 1 sq meter (just under 11 sq ft) 
