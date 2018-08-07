@@ -79,8 +79,8 @@ __Figure 3__ is another NDVI index derived from RGB and NIR image sets, this tim
 Each image was taken on the same day with the same lighting conditions and in the same section of the field. Each was processed identically.    
 
 While we were able to understand these and other anomalies the purpose of this report is not to delve into the gritty details but
-to make a recommendation regarding the methods explored. It was our experience that such deviations from the expected result 
-tended to accumulate and, in the end, left our results in question. 
+to make a recommendation regarding the methods explored. It was our experience that such deviations tended to accumulate and, 
+in the end, left our results in question. 
 
 #### Ground Resolution Issues
 
