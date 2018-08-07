@@ -48,8 +48,8 @@ they are included in [spectral_lib.py]())
 ![](img/ndvi-pixel-scale.png) 
 ###### Figure 3. Scaling up.
 
-The image displayed in __Figure 3__ gives an idea of how coloring each pixel is accomplished. A more 
-detailed description comes in [Section 7](post_processing_steps.md) and [Section 9](study_results_drones.md). 
+The image displayed in __Figure 3__ gives an idea of how coloring each pixel works. A more 
+detailed description will come in [Section 7](post_processing_steps.md) and [Section 9](study_results_drones.md). 
 Here a portion of a single section showing three rows of early growth sugar cane has been imaged as NDVI and colored 
 using the color LUT described above. The range of NDVI values goes from low 'soil' to higher (0.15-0.5) for areas of growth. 
 An entire section is 412 by 72 pixels in size but on the left only a portion of the full section is shown. The middle image shows 
