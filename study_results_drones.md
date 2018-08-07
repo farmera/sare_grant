@@ -59,12 +59,11 @@ from which it was produced contains only luminosity data from the four bands of 
 also contains geotags which form part of the image's metadata. One of the challenges of precision mapping is to correctly 
 match a partial image - which may have been distorted in the process of capture - with an actual landmark on the ground. 
 
-Often this process is facilitated through use of ground control points (GCPs). A GCP is an invariant point of reference 
-on the ground that stitching software uses to match up points in an image. For our purposes this
+The process of stitching is often facilitated through use of ground control points (GCPs). A GCP is an invariant point of reference 
+on the ground that stitching software may use to better align points in an image to points on the ground. For our purposes this
 process was aided by using a camera that accurately records latitude and longitude points in each image such that they are 
 accurately matched in the final composite. A single GCP was used throughout the study, physically placed into the ground 
-and referenced from a known surveyor's benchmark. The GCP is located in the right-most part of the following image near 
-the intersection of two white lines.     
+and referenced from a known surveyor's benchmark.
 
 ![](img/NGR_SARE-Cropped.png)
 ###### Figure 5. A CIR composite showing section detail and the grid used to apply different nitrogen amounts. Color differences indicate different treatments.   
