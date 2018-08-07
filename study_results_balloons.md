@@ -131,8 +131,9 @@ had with a balloon but our focus has been mainly with the kite.) In [Section 9](
 achieved when using a aerial drone where the attained ground resolution was 2.7 centimeters or about 1 inch square per pixel.
 
 There are reasons to belabor the degree of resolution on the ground. During our study many other factors contributed 
-to reduce overall resolution and impact our final results. Each was a piece in the chain that ultimately would decide whether the
-final result might be held as a useful guide to decision.  
+to reduce overall resolution and impact our final results. Each was a piece in a chain that ultimately decided whether the
+final result might be held as a useful guide to decision-making. The results using balloon or kites and modified cameras
+would be the final answer but it proved to be the case that these methods, while certainly useful, were themselves insufficient.   
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
 
