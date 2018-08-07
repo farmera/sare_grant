@@ -76,7 +76,7 @@ while remaining fairly consistent overall in terms of vegetation.
 ###### Figure 3. RGB and NDVI image from 200 ft.
 __Figure 3__ is another NDVI index derived from RGB and NIR image sets, this time taken from a height of about 
 200 ft. The only difference between this figure and the one above it is an increase in altitude of 75 feet. 
-Each image was taken on the same day under the same lighting conditions and in the same section of the field. Each was processed identically.    
+Each image was taken on the same day with the same lighting conditions and in the same section of the field. Each was processed identically.    
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
 
@@ -86,7 +86,7 @@ Various factors contribute to the overall resolution of an image taken from the 
 distance, i.e. the distance between pixel centers measured on the ground. Since a key advantage of a kite or balloon (or drone) 
 is the ability to fly closer to the ground we made an effort to understand the contribution of an improved GSD in our results. 
 
-A disadvantage of traditional methods such as planes and satellites is their high flight and relatively low resolution. A
+A disadvantage of traditional methods such as planes and satellites is their cost and relatively low resolution. A
 key advantage of such methods is their coverage. The goal in aerial imaging is to get as high as possible without
 sacrificing resolution but the tension between the two factors can be a complex one.
 
