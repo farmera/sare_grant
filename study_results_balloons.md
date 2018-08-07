@@ -149,7 +149,7 @@ control of height and nadir positioning of the camera. Additional factors to con
 
 Our results using a kite and a pair of modified consumer cameras were insufficiently consistent to be useful for the main
 study goals of the project. However, they are eminently well-suited for other purposes. Having a Delta kite and a single 
-or dual camera rig ready in the back of one's pickup truck seems a no brainer for crop-scouting and general field intelligence.       
+or dual camera rig ready in the back of one's pickup truck seems a no brainer for crop-scouting and general field intelligence work.       
 
 ###### References
 
