@@ -136,7 +136,7 @@ final result should be held up as a useful guide to decision-making. Initially i
 would get the last word but it turned out that these methods, while certainly useful, were themselves insufficient.   
 
 All of the methods considered in our study were explored and utilized for the same reason: to produce, at reasonable cost, a consistent 
-set of image data that could be relied upon over time. Each in its own way does exactly this. Satellites produce a wealth of image data
+set of image data that could be relied upon over time. Each in its own way does this. Satellites produce a wealth of image data
 that may be usefully mined. Kites and modified cameras are easy to make and deploy and the results
 obtained from using them are often startlingly rich in detail.    
 
