@@ -147,7 +147,9 @@ Early in the project we experimented with various automatically-triggered camera
 using kites and balloons. The central challenge of an aerial system based on wind alone is variability in the 
 control of height and nadir positioning of the camera. Additional factors to consider are payload weight and total flight time. 
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Our results using a kite and a pair of modified consumer cameras were insufficiently consistent to be useful for the main
+study goals of the project. However, they are eminently well-suited for other purposes. Having a Delta kite and a single 
+or dual camera rig ready in the back of one's pickup truck seems a no brainer for crop-scouting and general field intelligence.       
 
 ###### References
 
