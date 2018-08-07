@@ -89,8 +89,8 @@ fly much  closer to the ground we made an effort to understand how GSD mattered 
 
 A disadvantage of traditional methods such as planes and satellites is their high flight and relatively low resolution. A
 key advantage of such methods is their coverage. While the goal in aerial imaging is to get as high as possible without
-sacrificing resolution, the tension between height and resolution is a complex one. The high peformer when it comes to 
-altitude is a satellite.   
+sacrificing resolution, the tension between height and resolution is a complex one. The high flyer when it comes to 
+altitude is the orbiting satellite.   
 
 ![](img/pixel-sizes.png)
 ###### Figure 4. Relative pixel dimension depending on satellite image source provider.
