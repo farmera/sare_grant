@@ -69,8 +69,7 @@ physically located in the ground.
 ###### Figure 5. A CIR composite showing section detail and the grid used to apply different nitrogen amounts. Color differences indicate different treatments.   
 
 __Figure 5__ shows results of a flight which occurred on July 28, 2017. This image has been rendered as an CIR composite 
-for practical reasons since the original raw geotiff from which it was produced is not easily visualized. The image clearly 
-shows, as red light, the conditional coloring of luminosities in the near infrared band. Also visible are differences in 
+and clearly shows, as red light, the conditional coloring of luminosities in the near infrared band. Also visible are differences in 
 the areas that have been treated with variable amounts of nitrogen.
 
 Our treatment schedule for 2017 was __0__ lbs N per acre, __40__ lbs, __80__ lbs, __120__ lbs, and __180__ lbs per acre.
