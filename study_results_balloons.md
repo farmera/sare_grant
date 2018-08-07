@@ -78,7 +78,9 @@ __Figure 3__ is another NDVI index derived from RGB and NIR image sets, this tim
 200 ft. The only difference between this figure and the one above it is an increase in altitude of 75 feet. 
 Each image was taken on the same day with the same lighting conditions and in the same section of the field. Each was processed identically.    
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+While we were able to understand these and other anomalies the purpose of this report is not to delve into the gritty details but
+to make a recommendation regarding the methods explored. It was our experience that such deviations from the expected result 
+tended to accumulate and, in the end, left our results in question. 
 
 #### Ground Resolution Issues
 
