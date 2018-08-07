@@ -124,7 +124,7 @@ was from 3-5 sq in or between 0.06-0.17 sq ft per pixel.
 3 inches per pixel
 ###### Figure 6. High resolution differences between 1m and 3in GSD.
 
-To put this into perspective consider the images in __Figure 5__. The top image shows an accurate depiction of a 1 meter
+To put this into perspective consider the images in __Figure 6__. The top image shows an accurate depiction of a 1 meter
 per pixel GSD resolution. Each pixel covers an area on the ground of 1 sq meter (just under 11 sq ft). The second image 
 below shows the sort of resolution we were able to attain with a kite and a modified dual-camera system. (The same resolution can be
 had with a balloon but our focus was with the kite only.) 
