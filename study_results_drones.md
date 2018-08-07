@@ -2,7 +2,7 @@
 
 #### Material and Methods
 
-* An area of second-year sugar cane 'stubble' measuring 1000 ft by 180 ft was dedicated during the 2017 year.
+* An area of second-year sugar cane 'stubble' measuring 1000 ft by 60 ft was dedicated during the 2017 year.
 * A series of random sections were laid out and treated with variable amounts of nitrogen fertilizer. 
 
 Once planted, a stand of sugarcane may be harvested up to four times in as many seasons. In Louisiana, a season runs about 9 months 
@@ -12,7 +12,7 @@ amounts of sucrose, the crop used in this study (a second-year 'stubble') is an 
 For the 2017 season, a single-factor field trial was laid out in a common randomized split-plot design on 19 April 2017. 
 	
 ![](img/study-area2.png)
-###### Figure 1. Ellendale study area measuring 1000 by 65 ft, 1.5 acres total. 
+###### Figure 1. Ellendale study area measuring 1000 by 60 ft, 1.5 acres total. 
 
 Five levels of nitrogen fertilization (0, 40, 80, 120 and 180 kg·N·ac−1) were applied in a setup with six replicates. 
 This resulted in 30 plots of size 100 × 20 sq ft each making a total trial size of 1.5 acres. 
