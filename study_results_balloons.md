@@ -76,19 +76,19 @@ while remaining fairly consistent overall in terms of vegetation.
 ###### Figure 3. RGB and NDVI image from 200 ft.
 __Figure 3__ is another NDVI index derived from RGB and NIR image sets, this time taken from a height of about 
 200 ft. The only difference between this figure and the one above it is an increase in altitude of 75 feet. 
-Each image was taken on the same day under the same light conditions and in the same section of the field. Each was processed identically.    
+Each image was taken on the same day under the same lighting conditions and in the same section of the field. Each was processed identically.    
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
 
 #### Ground Resolution Issues
 
-Various factors contribute to the overall resolution of an image taken from the air. Of interest is the ground sampling distance, i.e. the distance between pixel centers measured on the ground. 
-As a key advantage of a kite or balloon or drone is the ability to 
-fly much  closer to the ground we made an effort to understand how GSD mattered to our results. 
+Various factors contribute to the overall resolution of an image taken from the air. Of interest is the ground sampling 
+distance, i.e. the distance between pixel centers measured on the ground. Since a key advantage of a kite or balloon (or drone) 
+is the ability to fly closer to the ground we made an effort to understand the contribution of an improved GSD in our results. 
 
 A disadvantage of traditional methods such as planes and satellites is their high flight and relatively low resolution. A
-key advantage of such methods is their coverage. While the goal in aerial imaging is to get as high as possible without
-sacrificing resolution, the tension between height and resolution is a complex one.
+key advantage of such methods is their coverage. The goal in aerial imaging is to get as high as possible without
+sacrificing resolution but the tension between the two factors can be a complex one.
 
 ![](img/pixel-sizes.png)
 ###### Figure 4. Relative pixel dimension depending on satellite image source provider.
@@ -98,13 +98,12 @@ maps to a single pixel in Landsat is 30m x 30m (900 sq m, 0.22 acres, ~8% of our
 our thirty test sections measures 100ft by 20ft (a. in __Figure 4__) thus a single pixel in Landsat is five times larger 
 than a single section. 
 
-While Landsat data is freely available commercial satellite providers charge for these higher resolutions (e.g. providers like Planet Labs supply a 
-GSD of 5 m, or a pixel size of roughly 250 sq ft, c. in __Figure 4__). The GeoEye-1 satellite offers the highest resolution 
-at a little over 1 sq ft per pixel.
+While Landsat data is freely available commercial satellite providers charge for these higher resolutions (e.g. providers 
+like Planet Labs supply a GSD of 5 m, or a pixel size of roughly 250 sq ft, c. in __Figure 4__). The GeoEye-1 satellite 
+offers the highest resolution at a little over 1 sq ft per pixel.
 
-Commercial providers of satellite image data charge for their services (Landsat is free) and there is often a delay 
-between successive captures. In addition to cost and generally low-resolution GSD, cloud-cover and other atmospheric 
-effects present significant issues for any satellite or airplane data service provider. 
+In addition to cost and a generally lower GSD, delays between successive captures, cloud-cover, and other atmospheric 
+effects can present significant challenges to a grower's reliance on satellite or airplane data service providers. 
 
 #### Minimum Resolution for Accuracy
 
