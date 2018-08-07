@@ -12,15 +12,15 @@ was first to fly and photograph the city of Paris from above in 1858.
 ![](img/nadar.png)
 ###### Figure 1. Gaspard-Félix Tournachon hangs on, makes history. 
 
-Whatever method is used the object remains the same: position the camera[s] at sufficient height, point 
-them down (as close to nadir as possible), get the shot, return safely to the ground. None of the 
-methods discussed in our report performs perfectly. 
+Whatever method is used the object remains the same: position the camera at sufficient height, point 
+it downward (as close to nadir as possible), get the shots, return the rig safely to the ground. None of the 
+methods discussed in our report performed perfectly in all respects considered. 
 
 #### Kites
 * Kites are easy to understand.
 * In certain conditions kites are incredibly stable and will fly for extended periods.
 
-The image in __Figure 2__ (courtesy of Ron Marcisak) shows a camera being suspended from a kite using a device 
+The image in __Figure 2__ shows a camera being suspended from a kite using a device 
 known as a Picavet (named for French inventor Pierre Picavet). The Picavet attaches the camera to the line that flies 
 the kite and holds it more or less in place. A Picavet consists of a rigid cross suspended below the kite line from 
 two points.
@@ -29,12 +29,12 @@ two points.
 ###### Figure 2. A camera system suspended via Picavet from a Delta-style kite. 
 
 Kites represent an easy and accessible solution to suspending cameras in flight and almost everyone has had some experience 
-with them.  Given a strong and stable enough wind, a flying kite will remain suspended in the air for long periods without
-attention if it is tied off to something. On the other hand, while Picavets are capable of orienting the angle 
-of a camera roughly down, they don't prevent cameras from being jostled about during flight. In the event of a 
+with them.  Given a strong and stable enough wind, a flying kite may be tied off and will remain suspended in the air for long periods without
+attention. On the other hand, while Picavets are capable of orienting the angle 
+of a camera roughly down, they don't prevent a camera from being jostled about during flight. In the event of a 
 change in speed or wind direction the result may be many blurried images mixed in with a few good captures. Another 
-consideration is the amount of effort required to retrieve a high-flying kite when it's facing a stiff wind. For kite flying
-a pair of heavy leather gloves is always recommended. 
+consideration is the amount of effort required to retrieve a high-flying kite when it's facing into a stiff wind. For kite flying
+a pair of heavy leather gloves is always recommended! 
 
 
 #### Balloons
