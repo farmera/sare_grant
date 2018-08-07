@@ -72,7 +72,7 @@ growth. At low altitudes our dual-camera system tended to record non-vegetation 
 while remaining fairly consistent overall in terms of vegetation.  
 
 ![](img/2016_0513_141_rgb.jpg)
-![](img/2016_0513_168_ndvi_color.jpg)
+![](img/2016_0513_141_ndvi_color.jpg)
 ###### Figure 3. RGB and NDVI image from 200 ft.
 __Figure 3__ is another NDVI index derived from RGB and NIR image sets using a pair of modified consumer cameras. It was taken 
 from a height of about 200 ft.   
