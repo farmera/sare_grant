@@ -4,7 +4,6 @@
 
 * An area of second-year sugar cane 'stubble' measuring 1000 ft by 180 ft was dedicated during the 2017 year.
 * A series of random sections were laid out and treated with variable amounts of N fertilizer. 
-* An aerial drone (described in [Section 4](study_methods.md)) was flown to capture the image data.  
 
 Once planted, a stand of sugar cane may be harvested up to four times in as many seasons. A season runs about 9 months 
 and after each harvest the cane remaining in the ground sends up new shoots. While successive harvests give decreasing 
@@ -39,8 +38,8 @@ outshines other aerial methods considered.
 
 #### Processing Steps
 
-* After pre-processing steps, each flight yielded a single composite image.
-* The composite image was segmented by an automated process into the thirty individual sections.  
+* After pre-processing, each flight yielded a single composite image.
+* The composite was segmented by an automated process into the thirty individual sections.  
 * Statistical analyses was performed on each section in terms of four spectral indices.
 
 To capture the study area each drone flight yielded roughly 1200-1500 geotiff images using the [Sequoia camera]() representing 
