@@ -54,7 +54,7 @@ Here a portion of a single section showing three rows of early growth sugarcane 
 using the color LUT described above. The range of NDVI values goes from low 'soil' to higher areas of growth. 
 An entire section is 412 by 72 pixels (100 x 20 ft) but on the left only a portion of the full section is visible. The middle image shows 
 more detail. In the right-most part individual pixels are visible. Each pixel has a ground resolution of 2.7 
-centimeters meaning each individual pixel corresponds to a ground coverage of 1 square inch. 
+centimeters, i.e. each individual pixel corresponds to a ground coverage of 1 square inch. 
 
 In summary, each pixel of the final vegetation index has a value representing a number between 0 and 1 and represents a known
 area covering the ground. The strength of the NDVI value is used to infer a physical property, in this case the relative amount of photosynthesis occurring at that specific 
