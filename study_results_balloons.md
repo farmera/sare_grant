@@ -91,9 +91,9 @@ Various factors contribute to the overall resolution of an image taken from the 
 distance, i.e. the distance between pixel centers measured on the ground. Since a key advantage of a kite or balloon (or drone) 
 is the ability to fly closer to the ground we made an effort to understand the contribution of an improved GSD in our results. 
 
-Why should the resolutions of satellite imagery be relevant when this section concerns the results obtained for balloons 
-and kites? In part because satellites, airplanes, etc. have traditionally been the only available solution to a sugarcane farmer. 
-In addition, these methods demonstrate why other lower-cost method are desirable.  
+The available resolution of satellite imagery is relevant here. Satellite and airplane generated aerial imagery has 
+traditionally been the only available solution to a sugarcane farmer. In addition, these methods demonstrate why other 
+lower-cost method are desirable.  
 
 ![](img/pixel-sizes.png)
 ###### Figure 5. Relative pixel dimension depending on satellite image source provider.
