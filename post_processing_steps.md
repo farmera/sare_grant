@@ -83,10 +83,10 @@ corresponding to NDVI values from the 05/25 image, though these are not as promi
 Examining the histogram of 'uncorrected' NDVI values in __Figure 2__ we see that the mean NDVI value for 04/25 and 05/25 is 
 0.26 and 0.52, respectively. These averages include the soil pixel values in addition to the plant material. We can 
 use the same data that generates the histogram as input into a type of 'classification' machine learning algorithm known
-as a __minimum threshold__. This algorithm assumes that the image contains two pixel classes (foreground and background) which 
+as __minimum threshold__. This algorithm assumes that the image contains two pixel classes (foreground and background) which 
 are used to calculate an optimum threshold to separate the two. In plain English this means that by applying the algorithm 
-we're automatically masked the more prevalent pixel value (in this case the non-photosynthetic parts) in a manner that is repeatable, 
-i.e. it is not based solely on one individual's personal judgement.        
+we're automatically masked the more prevalent pixel type (in this case the non-photosynthetic ones) in a manner that is repeatable, 
+i.e. it is not solely based on one individual's judgement.        
 
 ![](img/ndvi_1_corrected.png)
 ###### Figure 2. Histogram of 'corrected' NDVI values.
@@ -98,11 +98,11 @@ crop, minus the noise. These values (in the 'corrected' versions for 04/25 and 0
 
 ![](img/uncorrected_ndvi_three.png)
 ![](img/corrected_ndvi_three.png)
-###### Figure 3. Set of uncorrected and corrected NDVI images.
+###### Figure 3. Set of soil corrected and uncorrected NDVI images.
 
-This example use of machine learning illustrates how automating a single step in the chain reduces error. __Figure 4__ shows a set of three uncorrected/corrected NDVI images from May 25, 2017. The nitrogen treatments are, from left 
-to right, 40 lbs N, 60 lbs N and 80lbs N. In the top row the unbiased standard deviations are 0.17, 0.17, and 0.18, 
-respectively, while in the corrected versions they are 0.9 across. In this case we've managed to remove some of the 'noise' 
+This simple use of machine learning illustrates how automating a single step in the chain reduces error overall. __Figure 4__ shows a set of three uncorrected/corrected NDVI images from May 25, 2017. The nitrogen treatments are, from left 
+to right, 40 lbs N, 80 lbs N and 120lbs N. In the top row the unbiased standard deviations are 0.17, 0.17, and 0.18, 
+respectively, while in the corrected versions they are 0.9 in each. In this case we've managed to remove some of the 'noise' 
 from the samples which proves to be of significance when a final interpretation of these data is made.  
 
 #### Extraction of Image-Derived Statistics
