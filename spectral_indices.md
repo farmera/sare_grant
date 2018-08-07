@@ -46,9 +46,10 @@ table that we use throughout the study to accomplish this. (For those interested
 they are included in [spectral_lib.py]())
 
 ![](img/ndvi-pixel-scale.png) 
-###### Figure 2. Scaling up.
+###### Figure 3. Scaling up.
 
-The specific images here are 412 by 72 pixels in size, where each pixel has a ground resolution of 2.7 centimeters (~1 square inch). 
+The image displayed in __Figure 3__ gives a better sense of how coloring each pixel values works in our study. A more 
+detailed descriptions of our results comes in [Section ]here are 412 by 72 pixels in size, where each pixel has a ground resolution of 2.7 centimeters (~1 square inch). 
 
 In summary, each pixel of the final vegetation index has a value representing a number between 0 and 1. The strength of that value 
 is used to infer a physical property, in this case the relative amount of photosynthesis occurring at that specific 
