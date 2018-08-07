@@ -49,7 +49,8 @@ they are included in [spectral_lib.py]())
 ###### Figure 3. Scaling up.
 
 The image displayed in __Figure 3__ gives a better sense of how coloring each pixel values works in our study. A more 
-detailed descriptions of our results comes in [Section ]here are 412 by 72 pixels in size, where each pixel has a ground resolution of 2.7 centimeters (~1 square inch). 
+detailed descriptions of our results comes in [Section 7](post_processing_steps.md) and [Section 9](study_results_drones.md). 
+here are 412 by 72 pixels in size, where each pixel has a ground resolution of 2.7 centimeters (~1 square inch). 
 
 In summary, each pixel of the final vegetation index has a value representing a number between 0 and 1. The strength of that value 
 is used to infer a physical property, in this case the relative amount of photosynthesis occurring at that specific 
