@@ -98,7 +98,7 @@ sacrificing resolution but the tension between the two factors can be complex.
 ![](img/pixel-sizes.png)
 ###### Figure 5. Relative pixel dimension depending on satellite image source provider.
 
-Why have we spent time discussing resolutions of satellite imagery when this section concerns the results of for balloons 
+Why should the resolutions of satellite imagery be relevant when this section concerns the results obtained for balloons 
 and kites? In part because satellites, airplanes, etc. have traditionally been the only available solution to a sugarcane farmer. 
 In addition, these methods demonstrate why other lower-cost method are desirable.  
 
