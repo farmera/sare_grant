@@ -105,10 +105,10 @@ any satellite or airplane data service provider.
 
 #### Minimum Resolution for Study
 
-All resolutions we have discussed are for standard RGB imagery. For multi- or hyper-spectral imagery 
-the higher resolutions drop (in some cases by as much as 25%). Our choice of a pair of Canon S100's meant a high pixel 
-count with flight altitudes between 100 and 200 ft. At these heights our GSD using the dual-camera system was from 3-5 sq 
-in or 0.06-0.17 sq ft per pixel.
+All resolutions we have discussed are for standard RGB imagery. For multi-spectral imagery bands such as NIR 
+the resolutions drop somewhat (in some cases by as much as 25%) so RGB is the best it can be. Our choice of a pair of Canon 
+S100's meant a high pixel count with flight altitudes between 100 and 200 ft. At these heights our GSD using the dual-camera 
+system was from 3-5 sq in or 0.06-0.17 sq ft per pixel.
 
 ![](img/1m-resolution.png)
 1 meter per pixel
@@ -117,7 +117,8 @@ in or 0.06-0.17 sq ft per pixel.
 3 inches per pixel
 ###### Figure 5. Relative pixel dimension depending on satellite image source provider.
 
-To put this into perspective consider the images in __Figure 5__.
+To put this into perspective consider the images in __Figure 5__. The top image shows a more accurate depiction of a 1 meter
+per pixel GSD resolution. This means that each pixel covers an area on the ground of 1 sq meter (just under 11 sq ft) 
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
 
