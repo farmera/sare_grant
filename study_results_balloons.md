@@ -130,7 +130,8 @@ shows the sort of resolution that we were able to attain with a kite and using a
 had with a balloon but our focus has been mainly with the kite.) In [Section 9](study_results_drones.md) we discuss results 
 achieved when using a aerial drone (where the attained ground resolution was 2.7 centimeters or about 1 inch square per pixel).
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+There are good reasons to belabor the degree of resolution on the ground. During our study many other factors contributed 
+to reduce overall resolution and impact the results attained. 
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
 
