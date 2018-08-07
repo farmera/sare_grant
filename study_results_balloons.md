@@ -98,6 +98,10 @@ sacrificing resolution but the tension between the two factors can be complex.
 ![](img/pixel-sizes.png)
 ###### Figure 5. Relative pixel dimension depending on satellite image source provider.
 
+Why have we spent time discussing resolutions of satellite imagery when this section concerns the results of for balloons 
+and kites? In part because satellites, airplanes, etc. have traditionally been the only available solution to a sugarcane farmer. 
+In addition, these methods demonstrate why other lower-cost method are desirable.  
+
 For example, the GSD of a Landsat satellite image is ~30m (b. in __Figure 4__). This means that the smallest unit that 
 maps to a single pixel in Landsat is 30m x 30m (900 sq m, 0.22 acres, ~8% of our total study area). Each of 
 our thirty test sections measures 100ft by 20ft (a. in __Figure 4__) thus a single pixel in Landsat is five times larger 
@@ -109,10 +113,6 @@ offers the highest resolution at a little over 1 sq ft per pixel. In addition to
 effects can present significant challenges to a grower's reliance on satellite or airplane data service providers. 
 
 #### Minimum Resolution for Accuracy
-
-Why have we spent time discussing resolutions of satellite imagery when this section concerns the results of for balloons 
-and kites? In part because satellites, airplanes, etc. have traditionally been the only available solution to a sugarcane farmer. 
-In addition, these methods demonstrate why other lower-cost method are desirable.  
 
 All resolutions we have discussed thus far are for standard RGB imagery. For multi-spectral bands including NIR 
 these resolutions drop somewhat (in some cases by as much as 25%) thus RGB alone is higher resolution compared to all bands 
