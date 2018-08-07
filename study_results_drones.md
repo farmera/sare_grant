@@ -42,9 +42,9 @@ outperforms other aerial methods considered.
 * The composite was segmented by an automated process into the thirty individual sections.  
 * Statistical analyses was performed on each section in terms of four spectral indices.
 
-To capture the study area each drone flight yielded roughly 1200-1500 geotiff images using the [Sequoia camera]() representing 
-four narrow bands of light (plus RGB). Raw single band images seperately contaning each band were layered to produce from 300-350 composites 
-which were then stitched into a single master geotiff. 
+To capture the study area each drone flight yielded roughly 1200-1500 geotiff images using the Sequoia camera. Raw single 
+band images containing the four bands of light (plus RGB) were layered to produce from 300-350 composites. These composite 
+images were then stitched into a single master geotiff. 
 
 The process of stitching geo-coded images is known as mosaicking (see [Section 6](pre_processing_steps.md) ). Mosaiking allows accurate placement of 
 acquired image data and projection of those data onto a map. The process is facilitated in this study by embedded latitude and 
