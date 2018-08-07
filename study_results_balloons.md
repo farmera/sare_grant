@@ -105,10 +105,10 @@ any satellite or airplane data service provider.
 
 #### Minimum Resolution for Study
 
-All resolutions we have discussed are for standard RGB imagery. For multi-spectral imagery bands such as NIR 
-the resolutions drop somewhat (in some cases by as much as 25%) so RGB is the best it can be. Our choice of a pair of Canon 
-S100's meant a high pixel count with flight altitudes between 100 and 200 ft. At these heights our GSD using the dual-camera 
-system was from 3-5 sq in or 0.06-0.17 sq ft per pixel.
+All resolutions we have discussed are for standard RGB imagery. For multi-spectral imagery bands including NIR 
+the resolutions drop somewhat (in some cases by as much as 25%) so RGB is higher than when all bands are taken together. 
+Our choice of a pair of Canon S100's meant a high pixel count with flight altitudes between 100 and 200 ft. At these heights 
+our GSD using the dual-camera system was from 3-5 sq in or between 0.06-0.17 sq ft per pixel.
 
 ![](img/1m-resolution.png)
 1 meter per pixel
