@@ -86,11 +86,9 @@ Various factors contribute to the overall resolution of an image taken from the 
 As a key advantage of a kite or balloon or drone is the ability to 
 fly much  closer to the ground we made an effort to understand how GSD mattered to our results. 
 
-
 A disadvantage of traditional methods such as planes and satellites is their high flight and relatively low resolution. A
 key advantage of such methods is their coverage. While the goal in aerial imaging is to get as high as possible without
-sacrificing resolution, the tension between height and resolution is a complex one. The high flyer when it comes to 
-altitude is the orbiting satellite.   
+sacrificing resolution, the tension between height and resolution is a complex one.
 
 ![](img/pixel-sizes.png)
 ###### Figure 4. Relative pixel dimension depending on satellite image source provider.
@@ -100,9 +98,9 @@ maps to a single pixel in Landsat is 30m x 30m (900 sq m, 0.22 acres, ~8% of our
 our thirty test sections measures 100ft by 20ft (a. in __Figure 4__) thus a single pixel in Landsat is five times larger 
 than a single section. 
 
-Commercial satellite imagery is available for a price at higher resolution (e.g. from providers like Planet Labs with a 
-GSD of 5 m, or a pixel size of roughly 250 sq ft, c. in __Figure 4__). The GeoEye-1 satellite offers the highest resolution per pixel at a little 
-over 1 sq ft per pixel.
+While Landsat data is freely available commercial satellite providers charge for these higher resolutions (e.g. providers like Planet Labs supply a 
+GSD of 5 m, or a pixel size of roughly 250 sq ft, c. in __Figure 4__). The GeoEye-1 satellite offers the highest resolution 
+at a little over 1 sq ft per pixel.
 
 Commercial providers of satellite image data charge for their services (Landsat is free) and there is often a delay 
 between successive captures. In addition to cost and generally low-resolution GSD, cloud-cover and other atmospheric 
