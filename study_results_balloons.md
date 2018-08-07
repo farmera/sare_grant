@@ -115,8 +115,8 @@ effects can present significant challenges to a grower's reliance on satellite o
 
 All resolutions discussed thus far are for standard RGB imagery. For multi-spectral bands including NIR 
 these resolutions drop slightly thus RGB alone is a higher resolution image when compared to all bands 
-taken together. Our choice of a pair of Canon S100's meant a high pixel count and with flight altitudes of between 100 
-and 200 ft we were assured, in principle, that our GSD was more than adequate. At these heights our GSD using the dual-camera system was from 3-5 sq in or between 0.06-0.17 sq ft per pixel.
+taken together. Our choice of a pair of Canon S100's consumer cameras meant a high pixel count and with flight altitudes 
+of between 100 and 200 ft we were confident, in principle, that our GSD was more than adequate. At these heights our GSD using the dual-camera system was from 3-5 sq in or between 0.06-0.17 sq ft per pixel.
 
 ![](img/1m-resolution.png)
 1 meter per pixel
