@@ -66,7 +66,8 @@ over the years has served both as inspiration and as a guide throughout our work
 ###### Figure 2. NDVI image processed using Fuji. This image was captured with a Delta kite at a height of 125ft.
 __Figure 2__ is an NDVI index derived from RGB and NIR sets using a pair of modified consumer cameras. It was taken 
 from a height of about about 125 ft early in the growth season. The vertical LUT displays NDVI values between 0.45 and 0.60. 
-This particular image shows an interesting effect that we saw throughout when using a dual-camera NDVI system: 
+This particular image shows an interesting effect that we saw throughout while using our dual-camera NDVI system. The NDVI 
+values of soil (here partially covered by the remaining husks of a previously harvested season)
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
 
