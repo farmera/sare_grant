@@ -32,7 +32,7 @@ Kites represent an easy and accessible solution to suspending cameras in flight 
 with them.  Given a strong and stable enough wind, a flying kite may be tied off and will remain suspended in the air for long periods without
 attention. On the other hand, while Picavets are capable of orienting the angle 
 of a camera roughly down, they don't prevent a camera from being jostled about during flight. In the event of a 
-change in speed or wind direction the result may be many blurried images mixed in with a few good captures. Another 
+change in speed or wind direction the result may be blurried images mixed in with a few good captures. Another 
 consideration is the amount of effort required to retrieve a high-flying kite when it's facing into a stiff wind. For kite flying
 a pair of heavy leather gloves is always recommended! 
 
@@ -43,7 +43,7 @@ a pair of heavy leather gloves is always recommended!
 * Helium is an expensive and non-renewable resource. 
 
 __Figure 3__ shows a 2-meter wide polyethelene balloon filled with helium gas. It employs a Picavet system from which it 
-suspends a dual-camera system similar to the one shown with a kite. The main difference between balloons and kites is 
+suspends a dual-camera system similar to the one shown with the kite. The main difference between balloons and kites is 
 in how each flies. Depending on size and payload (i.e. the weight of the camera plus the suspension system) a kite requires 
 a sustained wind to become airborne. During this study our main rig consisted of a 12' Delta-style kite suspending nearly a 
 half-pound of camera gear and triggering mechanism. Getting this rig into the air required a minimum sustained wind of 8-10 mph. 
@@ -74,9 +74,9 @@ and stored, after use it eventually escapes into space forever.
 A recent development in aerial photography addresses some of the weaknesses found in other methods. While a UAV is 
 technically an aircraft without a human pilot in fact all aerial drones rely on human direction. Perhaps 
 it's more accurate to say that drones act semi-autonomously while being piloted remotely. Either way, they represent a 
-significant improvement over other methods discussed in agriculture.
+significant improvement over other methods discussed for precision agriculture.
 
-Several key attributes make UAVs unique among the other methods. Chief among these is the ability to receive a pre-programmed 
+Several key attributes make UAVs unique among other methods. Chief among these is the ability to receive a pre-programmed 
 flight plan where the height and extent of every flight is reproducible from one flight to the next. As we will see in 
 later sections, this capability is especially important in the context of agriculture. 
 
