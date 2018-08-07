@@ -89,13 +89,14 @@ fly much  closer to the ground we made an effort to understand how GSD mattered 
 
 A disadvantage of traditional methods such as planes and satellites is their high flight and relatively low resolution. A
 key advantage of such methods is their coverage. While the goal in aerial imaging is to get as high as possible without
-sacrificing resolution, the tension between height and resolution is a complex one.   
+sacrificing resolution, the tension between height and resolution is a complex one. The high peformer when it comes to 
+altitude is a satellite.   
 
 ![](img/pixel-sizes.png)
 ###### Figure 4. Relative pixel dimension depending on satellite image source provider.
 
 For example, the GSD of a Landsat satellite image is ~30m (b. in __Figure 4__). This means that the smallest unit that 
-maps to a single pixel in Landsat is 30m x 30m (i.e. 900 sq meters, 0.22 acres, ~8% of our total study area). Each of 
+maps to a single pixel in Landsat is 30m x 30m (900 sq m, 0.22 acres, ~8% of our total study area). Each of 
 our thirty test sections measures 100ft by 20ft (a. in __Figure 4__) thus a single pixel in Landsat is five times larger 
 than a single section. 
 
