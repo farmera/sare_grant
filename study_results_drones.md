@@ -30,7 +30,7 @@ reasons) where each flight overlapped in the center of the field. Calibration of
 
 A primary advantage of the drone compared with other methods is the ability to pre-program an exact height (250ft) and range 
 prior to each flight. This advantage is clearly demonstrated in __Figure 2__ taken from  'nadir' perspective. It shows 
-two 100 x 60 ft sections in perspective. Here the precision offered by semi-autonomous, programmable drones 
+two 100 x 60 ft sections in perspective. As indicated here the precision offered by semi-autonomous, programmable drones 
 outperforms other aerial methods considered.  
 
 ![](img/RGB_SARE-Cropped.png)
