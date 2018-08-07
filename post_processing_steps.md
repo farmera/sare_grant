@@ -11,7 +11,7 @@ While a number of technical details are discussed we hope to present them in a m
 accessible to non-technical users. A primary goal of this study is to provide information and access to methods 
 for working farmers, not technical people. While there will always be specialized knowledge, much of this work is 
 accessible, more so than might first appear. It's an under-appreciated fact that growers are, as a rule, adept at 
-picking up a new technology as often they must be.
+picking up new technology as often they have to be.
 
 #### Open Source Automation Tools
 
