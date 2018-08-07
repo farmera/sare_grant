@@ -115,6 +115,8 @@ includes many ways to model and analyze a group of variables with special focus 
 variable and one or more independent variables. The independent variables are generally known as 'predictors' while the 
 dependent variable is the quantity one hopes to predict. 
 
+In our study the dependent variable was the final sucrose yield from each of thirty different sections variably treated with nitrogen. 
+
 ![](img/ndvi/ndvi_winner.png)
 ![](img/N_bar.png)
 
