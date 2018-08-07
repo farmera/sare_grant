@@ -76,7 +76,7 @@ while remaining fairly consistent overall in terms of vegetation.
 ###### Figure 3. RGB and NDVI image from 200 ft.
 __Figure 3__ is another NDVI index derived from RGB and NIR image sets this time taken from a height of about 
 200 ft. The only difference between this figure and one above it is about 75 feet in height. Each original image was 
-taken on the same day under the same sky of the same field. Each was processed identically.    
+taken on the same day under the same sky in the same section of field. Each was processed identically.    
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
 
