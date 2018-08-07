@@ -29,9 +29,9 @@ these flights were used in the analysis. The study area was flown and captured o
 reasons) where each flight overlapped in the center of the field. Calibration of the Sequoia camera was performed between each flight. 
 
 A primary advantage of the drone compared with other methods is the ability to pre-program an exact height (250ft) and range 
-prior to each flight. This advantage is clearly demonstrated in __Figure 2__ of the area taken from  'nadir' perspective. It shows 
-two 100ft x 60 ft sections in perspective. Here the precision offered by semi-autonomous, programmable drones easily 
-outshines several other aerial methods considered.  
+prior to each flight. This advantage is clearly demonstrated in __Figure 2__ taken from  'nadir' perspective. It shows 
+two 100 x 60 ft sections in perspective. Here the precision offered by semi-autonomous, programmable drones 
+outperforms other aerial methods considered.  
 
 ![](img/RGB_SARE-Cropped.png)
 ###### Figure 3. A 'nadir' view indicating the relative scale of individual sections.
@@ -43,9 +43,10 @@ outshines several other aerial methods considered.
 * Statistical analyses was performed on each section in terms of four spectral indices.
 
 To capture the study area each drone flight yielded roughly 1200-1500 geotiff images using the [Sequoia camera]() representing 
-four narrow bands of light (plus RGB). The raw single band images were layered to produce from 300-350 composite images 
-which were then stitched into a single master geotiff containing all four bands (minus RGB). The process of stitching 
-geo-coded images is known as mosaicking (see [Section 6](pre_processing_steps.md) ). Mosaiking allows accurate placement of 
+four narrow bands of light (plus RGB). Raw single band images seperately contaning each band were layered to produce from 300-350 composites 
+which were then stitched into a single master geotiff. 
+
+The process of stitching geo-coded images is known as mosaicking (see [Section 6](pre_processing_steps.md) ). Mosaiking allows accurate placement of 
 acquired image data and projection of those data onto a map. The process is facilitated in this study by embedded latitude and 
 longitude tags in each image captured by the Sequoia camera. This allows us to create images of relatively high definition 
 containing a broader field of view. 
