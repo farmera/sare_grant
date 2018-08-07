@@ -54,9 +54,9 @@ containing a broader field of view.
 ![](img/NGR_highlight.png)
 ###### Figure 4. A detail of two treatment sections rendered as a CIR composite image.   
 
-The image in __Figure 4__ has been rendered as an CIR composite for visualization. The original raw geotiff 
+The image in __Figure 4__ has been rendered as an CIR composite for visualization purposes. The original raw geotiff 
 from which it was produced contains only luminosity data from the four bands of captured light. The original composite 
-contains geotags which form part of the image's metadata. One of the challenges of precision mapping is to correctly 
+also contains geotags which form part of the image's metadata. One of the challenges of precision mapping is to correctly 
 match a partial image - which may have been distorted in the process of capture - with an actual landmark on the ground. 
 
 Often this process is facilitated through use of ground control points (GCPs). A GCP is an invariant point of reference 
