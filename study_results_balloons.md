@@ -75,7 +75,7 @@ while remaining fairly consistent overall in terms of vegetation.
 ![](img/2016_0513_141_ndvi_color.jpg)
 ###### Figure 3. RGB and NDVI image from 200 ft.
 __Figure 3__ is another NDVI index derived from RGB and NIR image sets this time taken from a height of about 
-200 ft. The only difference between this figure and one above it is about 75 feet in height. Each original image was 
+200 ft. The only difference between this figure and the one above it is about 75 feet in height. Each original image was 
 taken on the same day under the same sky in the same section of field. Each was processed identically.    
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
@@ -114,7 +114,7 @@ our GSD using the dual-camera system was from 3-5 sq in or between 0.06-0.17 sq 
 1 meter per pixel
 ![](img/3in-resolution.png)
 3 inches per pixel
-###### Figure 5. Relative pixel dimension depending on satellite image source provider.
+###### Figure 5. High resolution differences between 1m and 3in GSD.
 
 To put this into perspective consider the images in __Figure 5__. The top image shows a more accurate depiction of a 1 meter
 per pixel GSD resolution. This means that each pixel covers an area on the ground of 1 sq meter (just under 11 sq ft) 
