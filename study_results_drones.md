@@ -5,7 +5,7 @@
 * An area of second-year sugar cane 'stubble' measuring 1000 ft by 180 ft was dedicated during the 2017 year.
 * A series of random sections were laid out and treated with variable amounts of nitrogen fertilizer. 
 
-Once planted, a stand of sugar cane may be harvested up to four times in as many seasons. A season runs about 9 months 
+Once planted, a stand of sugarcane may be harvested up to four times in as many seasons. In Louisiana, a season runs about 9 months 
 and after each harvest the cane remaining in the ground sends up new shoots. While successive harvests give decreasing 
 yields, the crop used in this study (a second-year 'stubble') is an ideal 'nitrogen-absorber' and was thus well-suited. 
 
