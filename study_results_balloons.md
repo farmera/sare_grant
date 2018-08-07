@@ -13,7 +13,7 @@ can do the same work while adding more information then chances are these tools 
 mind we discuss results obtained by experimenting with kites and balloons
 
 ![](img/kite_image_rgb.png)
-###### Figure 1. RGB image captured with a Delta kite at height of 100ft. Ground control points (in yellow) are visible.
+###### Figure 1. RGB image captured with a Delta kite at height of 125ft. Ground control points (in yellow) are visible.
 
 #### Image capture and preparation
 
@@ -24,7 +24,7 @@ image and for comparing image sets over time. To support this process we used an
 scientific image analysis.  
 
 To determine the height of a flight we carefully measured and marked the kite's flight line. This set of 
-captures was taken at a height of about 100ft. Maintaining a steady altitude like this with a kite can be a challenge when the 
+captures was taken at a height of about 125ft. Maintaining a steady altitude like this with a kite can be a challenge when the 
 wind is variable. This was a key challenge faced with kites. 
 
 #### JPEG versus RAW Format
