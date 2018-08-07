@@ -50,7 +50,10 @@ they are included in [spectral_lib.py]())
 
 The image displayed in __Figure 3__ gives an idea of how coloring each pixel is accomplished. A more 
 detailed description comes in [Section 7](post_processing_steps.md) and [Section 9](study_results_drones.md). 
-here are 412 by 72 pixels in size, where each pixel has a ground resolution of 2.7 centimeters (~1 square inch). 
+Here a portion of a single section showing three rows of early growth sugar cane has been imaged as NDVI and colored 
+using the color LUT described above. The range of NDVI values goes from low 0.15-0.30 'soil' values and higher 0.5 values 
+for areas of growth. An entire section is 412 by 72 pixels in size but here only a portion of the full section is shown. 
+The middle image shows more detail and in the right most image individual pixels a visible. where each pixel has a ground resolution of 2.7 centimeters (~1 square inch). 
 
 In summary, each pixel of the final vegetation index has a value representing a number between 0 and 1. The strength of that value 
 is used to infer a physical property, in this case the relative amount of photosynthesis occurring at that specific 
