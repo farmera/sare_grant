@@ -48,7 +48,7 @@ they are included in [spectral_lib.py]())
 ![](img/ndvi-pixel-scale.png) 
 ###### Figure 3. Scaling up.
 
-The image displayed in __Figure 3__ gives an idea of how coloring each pixel works. A more 
+The image displayed in __Figure 3__ gives an idea of how coloring each pixel is accomplished. A more 
 detailed description comes in [Section 7](post_processing_steps.md) and [Section 9](study_results_drones.md). 
 here are 412 by 72 pixels in size, where each pixel has a ground resolution of 2.7 centimeters (~1 square inch). 
 
