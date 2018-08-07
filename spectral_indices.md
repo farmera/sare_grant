@@ -50,14 +50,14 @@ they are included in [spectral_lib.py]())
 
 The image displayed in __Figure 3__ gives an idea of how coloring each pixel works. A more 
 detailed description will come in [Section 7](post_processing_steps.md) and [Section 9](study_results_drones.md). 
-Here a portion of a single section showing three rows of early growth sugar cane has been imaged as NDVI and colored 
+Here a portion of a single section showing three rows of early growth sugarcane has been imaged as NDVI and colored 
 using the color LUT described above. The range of NDVI values goes from low 'soil' to higher areas of growth. 
 An entire section is 412 by 72 pixels (100 x 20 ft) but on the left only a portion of the full section is visible. The middle image shows 
 more detail. In the right-most part individual pixels are visible. Each pixel has a ground resolution of 2.7 
 centimeters meaning each individual pixel corresponds to a ground coverage of 1 square inch. 
 
-In summary, each pixel of the final vegetation index has a value representing a number between 0 and 1. The strength of that value 
-is used to infer a physical property, in this case the relative amount of photosynthesis occurring at that specific 
+In summary, each pixel of the final vegetation index has a value representing a number between 0 and 1 and represents a known
+area covering the ground. The strength of the NDVI value is used to infer a physical property, in this case the relative amount of photosynthesis occurring at that specific 
 point on the ground. NDVI and other index values are 'dimensionless' meaning that the physical values 
 from which they originate cancel one another out (when taking the ratio). In other words NDVI and other forms of
 vegetation index do not purport to measure a actual physical quantity. At best they only _infer_ one. 
