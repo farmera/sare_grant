@@ -70,7 +70,7 @@ physically located in the ground.
 
 __Figure 5__ shows results of a flight which occurred on July 28, 2017. This image has been rendered as an CIR composite 
 and clearly shows, as red light, the conditional coloring of luminosities in the near infrared band. Also visible are differences in 
-the areas that have been treated with variable amounts of nitrogen.
+areas that have been treated with variable amounts of nitrogen.
 
 Our treatment schedule for 2017 was __0__ lbs N per acre, __40__ lbs, __80__ lbs, __120__ lbs, and __180__ lbs per acre.
 These amounts were chosen as they reflect a sensible range around the recommended treatment for this particular species 
@@ -80,9 +80,9 @@ These amounts were chosen as they reflect a sensible range around the recommende
 
 * Section treatments were analyzed during early, mid, and late-season growth.
 
-The development and growth of the leafy part of the sugar cane plant plays an important role in helping maximize the 
+The development and growth of the leafy part of the sugar cane plant plays a role in helping to maximize the 
 interception of solar energy for photosynthesis. This leads to the accumulation of biomass and ultimately to a higher crop 
-yield. Our first successful data capture occurred just a week following treatment of the section plots with nitrogen.  
+yield. Our first successful data capture occurred just a week following treatment of the sections with nitrogen.  
 
 ![](img/2017-04-25_001_3_CIR.png)
 ![](img/2017-04-25_001_3_NDVI.png)
@@ -93,7 +93,7 @@ In __Figure 6__ three images are displayed: a CIR composite of a single section 
 processed from the same section for NDVI and GNDVI. The color bars to the right represent index values on a scale 
 of 0 to 1. The mean 'soil-corrected' index value for each section was __0.46__ for NDVI and __0.4__ for GNDVI. These values 
 were generated for all sections, for all treatments, and used in the final regression analysis. Our
-approach was to average a cumulative 'index signal' for each section and compare this with the final sucrose yield 
+approach was to average a cumulative 'index signal' for each section and then compare this with the final sucrose yield 
 for that section following harvest. 
  
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
