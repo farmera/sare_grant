@@ -9,9 +9,9 @@ the final sucrose yield in sugar cane.
 
 While a number of technical details are discussed we hope to present them in a manner that remains
 accessible to non-technical users. A primary goal of this study is to provide information and access to methods 
-for working farmers, not technical people. Of course there will always be specialized knowledge, one cannot
-be expected to know all of it. Still, much of this work is accessible, more so than might first appear.
-It's an under-appreciated fact that growers are, as a rule, adept at picking up a new technology as often they must be.
+for working farmers, not technical people. While there will always be specialized knowledge, much of this work is 
+accessible, more so than might first appear. It's an under-appreciated fact that growers are, as a rule, adept at 
+picking up a new technology as often they must be.
 
 #### Open Source Automation Tools
 
