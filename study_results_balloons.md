@@ -84,15 +84,20 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 Various factors contribute to the overall resolution of an image taken from the air. Of interest is the ground sampling distance, i.e. the distance between pixel centers measured on the ground. 
 As a key advantage of a kite or balloon or drone is the ability to 
-fly much  closer to the ground we made an effort to understand how GSD mattered in our results. 
-A disadvantage of traditional methods such as planes and satellites is their high flight, low resolution.  
+fly much  closer to the ground we made an effort to understand how GSD mattered to our results. 
+
+
+A disadvantage of traditional methods such as planes and satellites is their high flight and relatively low resolution. A
+key advantage of such methods is their coverage. While the goal in aerial imaging is to get as high as possible without
+sacrificing resolution, the tension between height and resolution is a complex one.   
 
 ![](img/pixel-sizes.png)
 ###### Figure 4. Relative pixel dimension depending on satellite image source provider.
 
-For example, the GSD of a Landsat satellite image is ~30m (b. in __Figure 4__). This means that the smallest unit that maps to a single pixel 
-in Landsat is 30m x 30m (i.e. 900 sq meters, 0.22 acres, ~8% of our total study area). Each of our thirty test sections 
-measures 100ft by 20ft (a. in __Figure 4__) thus a single pixel in Landsat is five times larger than a single section. 
+For example, the GSD of a Landsat satellite image is ~30m (b. in __Figure 4__). This means that the smallest unit that 
+maps to a single pixel in Landsat is 30m x 30m (i.e. 900 sq meters, 0.22 acres, ~8% of our total study area). Each of 
+our thirty test sections measures 100ft by 20ft (a. in __Figure 4__) thus a single pixel in Landsat is five times larger 
+than a single section. 
 
 Commercial satellite imagery is available for a price at higher resolution (e.g. from providers like Planet Labs with a 
 GSD of 5 m, or a pixel size of roughly 250 sq ft, c. in __Figure 4__). The GeoEye-1 satellite offers the highest resolution per pixel at a little 
