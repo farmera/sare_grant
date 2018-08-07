@@ -106,7 +106,7 @@ maps to a single pixel in Landsat is 30m x 30m (900 sq m, 0.22 acres, ~8% of our
 our thirty test sections measures 100ft by 20ft (a. in __Figure 4__) thus a single pixel in Landsat is five times larger 
 than a single section. 
 
-While Landsat data is freely available commercial satellite providers charge for these higher resolutions (e.g. providers 
+While Landsat data is freely available commercial satellite providers charge for higher resolutions (e.g. providers 
 like Planet Labs supply a GSD of 5 m, or a pixel size of roughly 250 sq ft, c. in __Figure 4__). The GeoEye-1 satellite 
 offers the highest resolution at a little over 1 sq ft per pixel. In addition to cost and a generally lower GSD, delays between successive captures, cloud-cover, and other atmospheric 
 effects can present significant challenges to a grower's reliance on satellite or airplane data service providers. 
@@ -115,8 +115,8 @@ effects can present significant challenges to a grower's reliance on satellite o
 
 All resolutions discussed thus far are for standard RGB imagery. For multi-spectral bands including NIR 
 these resolutions drop slightly thus RGB alone is a higher resolution image when compared to all bands 
-taken together. Our choice of a pair of Canon S100's meant a high pixel count with flight altitudes between 100 and 200 ft. 
-At these heights our GSD using the dual-camera system was from 3-5 sq in or between 0.06-0.17 sq ft per pixel.
+taken together. Our choice of a pair of Canon S100's meant a high pixel count and with flight altitudes of between 100 
+and 200 ft we were assured, in principle, that our GSD was more than adequate. At these heights our GSD using the dual-camera system was from 3-5 sq in or between 0.06-0.17 sq ft per pixel.
 
 ![](img/1m-resolution.png)
 1 meter per pixel
