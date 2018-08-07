@@ -62,7 +62,7 @@ match a partial image - which may have been distorted in the process of capture 
 The process of stitching is often facilitated through use of ground control points (GCPs). A GCP is an invariant point of reference 
 on the ground that stitching software uses to better align corresponding points in an image. For our purposes this
 process was aided by use of a camera that accurately records and embeds latitude, longitude and elevation data in each image 
-such that they are matched in the final composite. GCP's referenced from a surveyor's benchmark were also used and were 
+such that they are matched together in the final composite. GCP's referenced from a surveyor's benchmark were also used and were 
 physically located in the ground.
 
 ![](img/NGR_SARE-Cropped.png)
