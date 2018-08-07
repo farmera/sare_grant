@@ -82,11 +82,10 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 #### Ground Resolution Issues
 
-Various factors contribute to the overall resolution of an image taken from the air. Of interest in our study 
-was the ground sampling distance, i.e. the distance between pixel centers measured on the ground. It was desirable 
-to have as small a GSD as possible as the advantage of images captured by kite or balloon (or drone) is their ability to 
-fly low (hence improving resolution). A disadvantage of traditional methods such as planes and satellites 
-is their high flight, low resolution.  
+Various factors contribute to the overall resolution of an image taken from the air. Of interest is the ground sampling distance, i.e. the distance between pixel centers measured on the ground. 
+As a key advantage of a kite or balloon or drone is the ability to 
+fly much  closer to the ground we made an effort to understand how GSD mattered in our results. 
+A disadvantage of traditional methods such as planes and satellites is their high flight, low resolution.  
 
 ![](img/pixel-sizes.png)
 ###### Figure 4. Relative pixel dimension depending on satellite image source provider.
@@ -100,8 +99,8 @@ GSD of 5 m, or a pixel size of roughly 250 sq ft, c. in __Figure 4__). The GeoEy
 over 1 sq ft per pixel.
 
 Commercial providers of satellite image data charge for their services (Landsat is free) and there is often a delay 
-between successive captures. In addition to cost and generally low-resolution GSD, cloud-cover and other atmospheric effects present significant issues for 
-any satellite or airplane data service provider. 
+between successive captures. In addition to cost and generally low-resolution GSD, cloud-cover and other atmospheric 
+effects present significant issues for any satellite or airplane data service provider. 
 
 #### Minimum Resolution for Accuracy
 
@@ -110,8 +109,8 @@ the resolutions drop somewhat (in some cases by as much as 25%) so RGB is higher
 Our choice of a pair of Canon S100's meant a high pixel count with flight altitudes between 100 and 200 ft. At these heights 
 our GSD using the dual-camera system was from 3-5 sq in or between 0.06-0.17 sq ft per pixel.
 
-Why have we spent time here discussing the resolutions of satellite imagery when the purported results for this section 
-are for balloons and kites?
+Why have we spent time discussing resolutions of satellite imagery when this section concerns the results of for balloons 
+and kites?
 
 ![](img/1m-resolution.png)
 1 meter per pixel
