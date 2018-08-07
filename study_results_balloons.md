@@ -138,8 +138,8 @@ would get the last word but it turned out that these methods, while certainly us
 All of the methods considered in our study were explored and utilized for the same reason: to produce, at reasonable cost, a consistent 
 set of image data that could be relied upon over time. Each in its own way does this. Satellites produce a wealth of image data
 that may be usefully mined. Kites and modified cameras are easy to make and deploy and the results
-obtained from using them are often startlingly rich in detail. In [Section 9](study_results_drones.md) we will see that aerial drones 
-are a kind of sweet spot between the two.    
+obtained from using them are often startlingly rich in detail. In [Section 9](study_results_drones.md) we will see how the performance 
+of aerial drones form a kind of sweet spot between the two.    
 
 #### Summary
 
