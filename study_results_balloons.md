@@ -113,7 +113,6 @@ our GSD using the dual-camera system was from 3-5 sq in or between 0.06-0.17 sq 
 
 ![](img/1m-resolution.png)
 1 meter per pixel
-
 ![](img/3in-resolution.png)
 3 inches per pixel
 ###### Figure 5. Relative pixel dimension depending on satellite image source provider.
