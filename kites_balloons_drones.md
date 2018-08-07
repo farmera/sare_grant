@@ -43,25 +43,25 @@ a pair of heavy leather gloves is always recommended!
 * Helium is an expensive and non-renewable resource. 
 
 __Figure 3__ shows a 2-meter wide polyethelene balloon filled with helium gas. It employs a Picavet system from which it 
-suspends a dual-camera system similar to the one shown for the kite. The main difference between balloons and kites is 
+suspends a dual-camera system similar to the one shown with a kite. The main difference between balloons and kites is 
 in how each flies. Depending on size and payload (i.e. the weight of the camera plus the suspension system) a kite requires 
-sustained wind to become airborne. During this study our main rig consisted of a 12' Delta-style kite suspending nearly a 
-pound of camera gear and triggering mechanisms. Getting this kite into the air required a minimum sustained wind speed of 8-10 mph. 
-On the other hand a helium balloon is sensitive to wind and will be guided quickly off course by even light winds. On a 
-windless day a balloon will rise easily to great altitude and remain steady in place for hours.    
+a sustained wind to become airborne. During this study our main rig consisted of a 12' Delta-style kite suspending nearly a 
+half-pound of camera gear and triggering mechanism. Getting this rig into the air required a minimum sustained wind of 8-10 mph. 
+On the other hand a helium balloon is sensitive to wind and will be guided off course by even light wind. On a 
+windless day the balloon rose easily to great altitude and remained steady in place for extended periods.    
  
 ![](img/balloons.png)
 ###### Figure 3. A helium-filled balloon suspends a dual-camera system. 
 
 We have found balloons and kites to be very practical and complimentary tools for aerial photography in agriculture. On windless days
-a helium balloon performs well while on a blustery one the kite is a better choice. In either case weather is paramount.
+a helium balloon performs well while on a blustery one a kite is the better choice. In either case weather is key.
 The caveat of never putting into the air anything you aren't prepared to lose holds special meaning with either, but especially 
 with a balloon. While a kite will eventually descend, if you lose control of a balloon it will continue ascending and may 
-drift into an area where it doesn't belong (i.e. into an airport's flight path). 
+drift into areas where it doesn't belong (i.e. into an airport's flight path). 
 
 A more practical concern regarding helium-filled balloons is that the element is in short supply. In some areas of the 
 world helium use is restricted only to essential medical and research purposes. Shortage in helium supplies has led 
-to a sharp rise in the cost of this lighter-than-air gas. One should consider this when deciding on helium 
+to a sharp rise in the cost of this lighter-than-air gas. One should consider this fact when deciding on helium 
 use for non-critical purposes. While helium is naturally released from fossil fuel production sites and may be captured 
 and stored, after use it eventually escapes into space forever. 
 
