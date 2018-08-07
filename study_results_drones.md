@@ -110,7 +110,10 @@ together and obscure from above the cane stalks below.
 
 #### Regression Analysis
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+In statistics, regression analysis is a set of processes for estimating a relationship among variables. Regression 
+includes many ways to model and analyze a group of variables with special focus on the relationship between a dependent 
+variable and one or more independent variables. The independent variables are generally known as 'predictors' while the 
+dependent variable is the quantity one hopes to predict. 
 
 ![](img/ndvi/ndvi_winner.png)
 ![](img/N_bar.png)
