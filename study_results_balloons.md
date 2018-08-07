@@ -135,7 +135,8 @@ to reduce overall resolution and impact the final result. Each step was a piece 
 final result should be held up as a useful guide to decision-making. Initially it was our thought that results using a kite and a modified camera
 would get the last word but it turned out that these methods, while certainly useful, were themselves insufficient.   
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+All of the methods considered in our study were explored and utilized for the same end: to produce, at reasonable cost, a consistent 
+set of image data that could be relied upon over time.  
 
 #### Summary
 
