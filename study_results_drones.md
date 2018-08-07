@@ -21,7 +21,7 @@ This resulted in 30 plots of size 100 × 60 sq ft each making a total trial size
 ###### Figure 2. Treatment schedule applied during the 2017 sugarcane season.
 
 Sugarcane growth was monitored at 6, 21, 36, 100, 147, and 208 days following N treatment. At 216 days the experimental 
-plots were harvested and analysis of sucrose yields was performed. [See Section xxx for details]. The yield was measured following manual harvesting and 
+plots were harvested and analysis of sucrose yields was performed. The yield was measured following manual harvest and 
 weighing by means of load cells.
 
 Drone flights were made over the study area during the 2017 growth season on eleven separate occasions. Data from half of 
