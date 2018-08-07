@@ -110,7 +110,7 @@ together and obscure from above the cane stalks below.
 
 #### Regression Analysis
 
-In statistics, regression analysis is a set of processes for estimating a relationship among variables. Regression 
+In statistics, regression analysis is a set of processes for estimating relationships among variables. Regression 
 includes many ways to model and analyze a group of variables with special focus on the relationship between a dependent 
 variable and one or more independent variables. The independent variables are generally known as 'predictors' while the 
 dependent variable is the quantity one hopes to predict. 
