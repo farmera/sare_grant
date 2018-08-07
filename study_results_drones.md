@@ -12,10 +12,10 @@ amounts of sucrose, the crop used in this study (a second-year 'stubble') is an 
 For the 2017 season, a single-factor field trial was laid out in a common randomized split-plot design on 19 April 2017. 
 	
 ![](img/study-area2.png)
-###### Figure 1. Ellendale study area measuring 1000 by 120 ft, 2.7 acres total. 
+###### Figure 1. Ellendale study area measuring 1000 by 65 ft, 1.5 acres total. 
 
 Five levels of nitrogen fertilization (0, 40, 80, 120 and 180 kg·N·ac−1) were applied in a setup with six replicates. 
-This resulted in 30 plots of size 100 × 60 sq ft each making a total trial size of 2.75 acres. 
+This resulted in 30 plots of size 100 × 20 sq ft each making a total trial size of 1.5 acres. 
 
 ![](img/SARE_GRID.png)
 ###### Figure 2. Treatment schedule applied during the 2017 sugarcane season.
