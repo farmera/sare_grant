@@ -110,12 +110,14 @@ together and obscure from above the cane stalks below.
 
 #### Regression Analysis
 
-In statistics, regression analysis is a set of processes used to estimate relationships among variables. Regression 
-includes many ways to model and analyze a group of variables with special focus on the relationship between a dependent 
+In statistics, regression analysis is a set of techniques used to estimate relationships among variables. Regression 
+is a broad subject with many ways of modeling and analyzing a group of variables with special focus on the relationship between a dependent 
 variable and one or more independent variables. The independent variables are generally known as 'predictors' while the 
 dependent variable is the quantity one hopes to predict. 
 
-In our study the dependent variable was the final sucrose yield from each of thirty different sections variably treated with nitrogen. 
+In our study the dependent variable was the final sucrose yield from each of thirty different sections variably treated with nitrogen.
+Following analysis we knew what that value was for each section. Thus, in truth the dependent variable was also the spectral
+index value that was generated for a particular section.  
 
 ![](img/ndvi/ndvi_winner.png)
 ![](img/N_bar.png)
