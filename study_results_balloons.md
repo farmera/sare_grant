@@ -137,8 +137,8 @@ would get the last word but it turned out that these methods, while certainly us
 
 All of the methods considered in our study were explored and utilized for the same reason: to produce, at reasonable cost, a consistent 
 set of image data that could be relied upon over time. Each in its own way does exactly this. Satellites produce a wealth of image data
-that may be very usefully mined for information. Kites and modified cameras are easy to make and deploy and the results
-that we obtained from them were often startlingly rich in detail.    
+that may be usefully mined. Kites and modified cameras are easy to make and deploy and the results
+obtained from using them are often startlingly rich in detail.    
 
 #### Summary
 
