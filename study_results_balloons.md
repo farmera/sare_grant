@@ -128,7 +128,7 @@ To put this into perspective consider the images in __Figure 6__. The top image 
 per pixel GSD resolution. Each pixel covers an area on the ground of 1 sq meter (just under 11 sq ft). The second image 
 shows the sort of resolution that we were able to attain with a kite and using a modified dual-camera system. (The same resolution can be
 had with a balloon but our focus has been mainly with the kite.) In [Section 9](study_results_drones.md) we discuss results 
-achieved when using a aerial drone (where the attained ground resolution was 2.7 centimeters per pixel or about 1 inch square).
+achieved when using a aerial drone (where the attained ground resolution was 2.7 centimeters or about 1 inch square per pixel).
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
 
