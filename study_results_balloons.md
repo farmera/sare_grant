@@ -90,7 +90,7 @@ is the ability to fly closer to the ground we made an effort to understand the c
 
 A disadvantage of traditional methods such as planes and satellites is their cost and relatively low resolution. A
 key advantage of such methods is their coverage. The goal in aerial imaging is to get as high as possible without
-sacrificing resolution but the tension between the two factors can be a complex one.
+sacrificing resolution but the tension between the two factors can be complex.
 
 ![](img/pixel-sizes.png)
 ###### Figure 4. Relative pixel dimension depending on satellite image source provider.
@@ -109,8 +109,8 @@ effects can present significant challenges to a grower's reliance on satellite o
 
 All resolutions we have discussed thus far are for standard RGB imagery. For multi-spectral bands including NIR 
 these resolutions drop somewhat (in some cases by as much as 25%) thus RGB alone is higher resolution compared to all bands 
-taken together. Our choice of a pair of Canon S100's meant a high pixel count with flight altitudes between 100 and 200 ft. At these heights 
-our GSD using the dual-camera system was from 3-5 sq in or between 0.06-0.17 sq ft per pixel.
+taken together. Our choice of a pair of Canon S100's meant a high pixel count with flight altitudes between 100 and 200 ft. 
+At these heights our GSD using the dual-camera system was from 3-5 sq in or between 0.06-0.17 sq ft per pixel.
 
 Why have we spent time discussing resolutions of satellite imagery when this section concerns the results of for balloons 
 and kites?
