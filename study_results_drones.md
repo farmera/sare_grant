@@ -60,7 +60,7 @@ also contains geotags which form part of the image's metadata. One of the challe
 match a partial image - which may have been distorted in the process of capture - with an actual landmark on the ground. 
 
 The process of stitching is often facilitated through use of ground control points (GCPs). A GCP is an invariant point of reference 
-on the ground that stitching software uses to better align image points with points on the ground. For our purposes this
+on the ground that stitching software uses to better align image points. For our purposes this
 process was aided by using a camera that records latitude and longitude points in each image such that they are 
 matched in the final composite. GCP's were used throughout our study and were physically placed into the ground 
 and referenced from a surveyor's benchmark.
