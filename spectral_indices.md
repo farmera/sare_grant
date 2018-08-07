@@ -58,7 +58,7 @@ centimeters, i.e. each individual pixel corresponds to a ground coverage of 1 sq
 
 In summary, each pixel of the final vegetation index has a value representing a number between 0 and 1 and represents a known
 area covering the ground. The strength of the NDVI value is used to infer a physical property, in this case the relative amount of photosynthesis occurring at that specific 
-point on the ground. NDVI and other index values are 'dimensionless' meaning that the physical values 
+point. NDVI and other index values are 'dimensionless' meaning that the physical values 
 from which they originate cancel one another out (when taking the ratio). In other words NDVI and other forms of
 vegetation index do not purport to measure a actual physical quantity. At best they only _infer_ one. 
 
