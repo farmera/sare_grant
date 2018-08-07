@@ -40,16 +40,16 @@ that this binds them between -1 and 1. Plant NDVI values can range from 0 to 1 b
 ![](img/lut_ndvi_fastie.png) 
 ###### Figure 2. Fastie LUT (Look Up Table)
 
-Since human eyes cannot see NIR light (or the ratio of differences and sums of NIR and red) the final result must be 
-'colorized' in some way in order to have it make visual sense. The image in __Figure 2__ is a color 'LUT' or look up 
+Human eyes cannot see NIR light (or the ratio of differences and sums of NIR and red) thus the final result must be 
+'colorized' in some way to have it make visual sense. The image in __Figure 2__ is a color 'LUT' or look up 
 table that we use throughout the study to accomplish this. (For those interested in the RGB values used to create this LUT 
 they are included in [spectral_lib.py]())
 
 ![](img/ndvi-pixel-scale.png) 
 ###### Figure 3. Scaling up.
 
-The image displayed in __Figure 3__ gives a better sense of how coloring each pixel values works in our study. A more 
-detailed descriptions of our results comes in [Section 7](post_processing_steps.md) and [Section 9](study_results_drones.md). 
+The image displayed in __Figure 3__ gives an idea of how coloring each pixel works. A more 
+detailed description comes in [Section 7](post_processing_steps.md) and [Section 9](study_results_drones.md). 
 here are 412 by 72 pixels in size, where each pixel has a ground resolution of 2.7 centimeters (~1 square inch). 
 
 In summary, each pixel of the final vegetation index has a value representing a number between 0 and 1. The strength of that value 
