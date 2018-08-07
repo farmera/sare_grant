@@ -54,7 +54,7 @@ vertical positioning of the camera with respect to the ground. A hand-held GPS d
 control points in these images but it was not always possible 'geo-tag' and match each capture with a known position 
 on the ground. Having obtained a set of images we then scripted a process in Fiji to help align, stitch and create the vegetation index.  
    
-#### Post-processing JPEG images from a kite flight.
+#### Post-processing JPEG images
 Details regarding how to create a vegetation index such as NDVI using the Fiji software package are described in detail by Chris Fastie
 and Ned Horning on Public Lab's website [here](https://publiclab.org/wiki/photo-monitoring-plugin) and 
 [here](https://publiclab.org/notes/nedhorning/5-31-2012/registering-and-processing-photos-acquired-two-cameras). 
@@ -91,16 +91,16 @@ Various factors contribute to the overall resolution of an image taken from the 
 distance, i.e. the distance between pixel centers measured on the ground. Since a key advantage of a kite or balloon (or drone) 
 is the ability to fly closer to the ground we made an effort to understand the contribution of an improved GSD in our results. 
 
-A disadvantage of traditional methods such as planes and satellites is their cost and relatively low resolution. A
-key advantage of such methods is their coverage. The goal in aerial imaging is to get as high as possible without
-sacrificing resolution but the tension between the two factors can be complex.
+Why should the resolutions of satellite imagery be relevant when this section concerns the results obtained for balloons 
+and kites? In part because satellites, airplanes, etc. have traditionally been the only available solution to a sugarcane farmer. 
+In addition, these methods demonstrate why other lower-cost method are desirable.  
 
 ![](img/pixel-sizes.png)
 ###### Figure 5. Relative pixel dimension depending on satellite image source provider.
 
-Why should the resolutions of satellite imagery be relevant when this section concerns the results obtained for balloons 
-and kites? In part because satellites, airplanes, etc. have traditionally been the only available solution to a sugarcane farmer. 
-In addition, these methods demonstrate why other lower-cost method are desirable.  
+A disadvantage of traditional methods such as planes and satellites is their cost and relatively low resolution. A
+key advantage of such methods is their coverage. The goal in aerial imaging is to get as high as possible without
+sacrificing resolution but the tension between the two factors can be complex.
 
 For example, the GSD of a Landsat satellite image is ~30m (b. in __Figure 4__). This means that the smallest unit that 
 maps to a single pixel in Landsat is 30m x 30m (900 sq m, 0.22 acres, ~8% of our total study area). Each of 
