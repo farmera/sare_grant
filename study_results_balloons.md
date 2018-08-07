@@ -69,7 +69,7 @@ from a height of about about 125 ft early in the growth season. The vertical LUT
 This particular image shows an interesting effect that we saw throughout while using our dual-camera NDVI system. The NDVI 
 values of soil show values in the lower range (0.45) compared to the green areas of early 
 growth. At low altitudes our dual-camera system tended to record non-vegetation sources somewhat lower than at higher altitudes 
-while remaining consistent overall in terms of vegetation.  
+while remaining fairly consistent overall in terms of vegetation.  
 
 ![](img/2016_0513_141_rgb.jpg)
 ![](img/2016_0513_168_ndvi_color.jpg)
