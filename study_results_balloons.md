@@ -114,7 +114,7 @@ effects can present significant challenges to a grower's reliance on satellite o
 #### Minimum Resolution for Accuracy
 
 All resolutions discussed thus far are for standard RGB imagery. For multi-spectral bands including NIR 
-these resolutions drop slightly thus RGB alone is higher resolution compared to all bands 
+these resolutions drop slightly thus RGB alone is a higher resolution image when compared to all bands 
 taken together. Our choice of a pair of Canon S100's meant a high pixel count with flight altitudes between 100 and 200 ft. 
 At these heights our GSD using the dual-camera system was from 3-5 sq in or between 0.06-0.17 sq ft per pixel.
 
