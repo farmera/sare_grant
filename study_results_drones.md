@@ -111,7 +111,7 @@ together and obscure from above the cane stalks below.
 #### Regression Analysis
 
 In statistics, regression analysis is a set of techniques used to estimate relationships among variables. Regression 
-is a broad subject with many ways of modeling and analyzing a group of variables with special focus on the relationship between a dependent 
+is a broad topic containing many ways to model and analyze a group of variables with special focus on the relationship between a dependent 
 variable and one or more independent variables. The independent variables are generally known as 'predictors' while the 
 dependent variable is the quantity one hopes to predict. 
 
