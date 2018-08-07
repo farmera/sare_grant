@@ -103,7 +103,10 @@ Commercial providers of satellite image data charge for their services (Landsat 
 between successive captures. In addition to cost and generally low-resolution GSD, cloud-cover and other atmospheric effects present significant issues for 
 any satellite or airplane data service provider. 
 
-#### Minimum Resolution for Study
+#### Minimum Resolution for Accuracy
+
+Why have we spent time here discussing the resolutions of satellite imagery when the purported results for this section 
+are for balloons and kites?
 
 All resolutions we have discussed are for standard RGB imagery. For multi-spectral imagery bands including NIR 
 the resolutions drop somewhat (in some cases by as much as 25%) so RGB is higher than when all bands are taken together. 
