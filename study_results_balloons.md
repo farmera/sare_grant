@@ -114,7 +114,7 @@ effects can present significant challenges to a grower's reliance on satellite o
 
 All resolutions discussed thus far are for standard RGB imagery. For multi-spectral bands including NIR 
 these resolutions drop slightly thus RGB alone is a higher resolution image when compared to all bands 
-taken together. Our choice of a pair of Canon S100's consumer cameras meant a high pixel count and with flight altitudes 
+taken together. Our choice of a pair of Canon S100 consumer cameras meant a high pixel count and with flight altitudes 
 between 100 and 200 ft we were confident, in principle, that our GSD was more than adequate. At these heights our GSD 
 was from 3-5 sq in or between 0.06-0.17 sq ft per pixel.
 
@@ -126,7 +126,7 @@ was from 3-5 sq in or between 0.06-0.17 sq ft per pixel.
 
 To put this into perspective consider the images in __Figure 6__. The top image shows an accurate depiction of a 1 meter
 per pixel GSD resolution. Each pixel covers an area on the ground of 1 sq meter (just under 11 sq ft). The second image 
-shows the sort of resolution that we were able to attain with a kite and a modified dual-camera system. (The same resolution can be
+shows the sort of resolution that we were able to attain with a kite and using a modified dual-camera system. (The same resolution can be
 had with a balloon but our focus was with the kite only.) 
 
 The specific images here are 412 by 72 pixels in size, where each pixel has a ground resolution of 2.7 centimeters (~1 square inch). 
