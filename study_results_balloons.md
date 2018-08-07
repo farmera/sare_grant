@@ -68,9 +68,7 @@ __Figure 2__ is an NDVI index derived from RGB and NIR sets using a pair of modi
 from a height of about about 125 ft early in the growth season. The vertical LUT displays NDVI values between 0.45 and 0.60. 
 This particular image shows an interesting effect that we saw throughout while using our dual-camera NDVI system. The NDVI 
 values of soil (here partially covered by chaff) show values in the lower range (0.45) compared to the green areas of early 
-growth. 
-
-At lower altitudes our dual-camera system tended to record non-vegetation sources somewhat lower than at higher altitudes while
+growth. At low altitudes our dual-camera system tended to record non-vegetation sources somewhat lower than at higher altitudes while
 it remained consistent in terms of vegetation values.  
 
 ![](img/2016_0513_141_rgb.jpg)
