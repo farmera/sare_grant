@@ -6,8 +6,8 @@
 * A series of random sections were laid out and treated with variable amounts of nitrogen fertilizer. 
 
 Once planted, a stand of sugarcane may be harvested up to four times in as many seasons. In Louisiana, a season runs about 9 months 
-and after each harvest the cane remaining in the ground sends up new shoots. While successive harvests give decreasing 
-yields, the crop used in this study (a second-year 'stubble') is an ideal 'nitrogen-absorber' and was thus well-suited. 
+and after each harvest the cane remaining in the ground sends up new shoots. While successive harvests yield decreasing 
+amounts of sucrose, the crop used in this study (a second-year 'stubble') is an ideal 'nitrogen-absorber' and was thus well-suited. 
 
 For the 2017 season, a single-factor field trial was laid out in a common randomized split-plot design on 19 April 2017. 
 	
