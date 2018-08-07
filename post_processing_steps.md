@@ -9,22 +9,20 @@ the final sucrose yield in sugar cane.
 
 While a number of technical details are discussed we hope to present them in a manner that remains
 accessible to non-technical users. A primary goal of this study is to provide information and access to methods 
-for working farmers, not technical people. Of course there will always be specialized knowledge and one cannot
-be expected to know all of it. Still, much of this work is accessible, more so than might appear on first blush.
-It's an under-appreciated fact that growers are, as a rule, quite adept at picking up a new technology. 
-Often they have had to be.
+for working farmers, not technical people. Of course there will always be specialized knowledge, one cannot
+be expected to know all of it. Still, much of this work is accessible, more so than might first appear.
+It's an under-appreciated fact that growers are, as a rule, adept at picking up a new technology as often they must be.
 
 #### Open Source Automation Tools
 
-* A range of open source tools is available to assist in processing multi-spectral imagery. 
-* Automation of the processing steps is both possible and desirable using open source tools.
-* In this way one may achieve, at reasonable cost, a level of sophistication once beyond reach.
+* A range of open source tools are available to assist in processing multi-spectral imagery. 
+* Automation of the processing steps is both possible and desirable using open source models.
 
 Our study made use of a number of software tools and libraries that are freely available as open source
 projects. Among other things, 'open-source' means that installing, learning and using these software products is open to 
-anyone who has an interest. There are no licensing fees. In the context of this project all tools described here have been 
+anyone who has an interest. There are no licensing fees. In the context of this project all tools described have been 
 applied during the study and new code continues to be added on a daily basis to our project repository [here](). 
-We have drawn on the strength of these open-source tools in order to implement many pre- and post-processing steps. In fact, 
+We have drawn on the strength of open-source tools in order to implement many pre- and post-processing steps. In fact, 
 even the drone used in the study runs a stripped-down version of the open-source Linux operating system, i.e. one may 
 login, get a command prompt, and execute code on the drone. 
 
@@ -47,24 +45,24 @@ statistics__.
 
 #### Practical Examples
 
-* Seasonal variation in spectral data can be addressed through basic machine learning techniques.
 * Different spectral indices offer alternate views of the same data. 
+* Seasonal variation in spectral data can be addressed through basic machine learning techniques.
 
 We tested a variety of spectral index types during this study, always with the goal of discovering which was best suited 
-to the task of revealing an often elusive set of values.
+to the task of revealing an elusive set of values.
 
 One question we sought to answer was how interaction of NIR light with soil effects the spectral index
 of an early sugar cane crop. __Figure 1__ shows a pair of early season NDVI images, one taken in late April 
 and one from late May. Nitrogen treatments for this crop occurred on April 19, 2017. The two images 
-are significant insofar as they potentially reveal the initial response to treatment and the sensitivity of a specific 
+are significant insofar as they reveal the initial response to treatment and the sensitivity of a specific 
 index type in capturing it. Each image is an NDVI of the same section over time following application of 80 lbs N per hectare. 
 The first was taken 6 days after N application and serves as a baseline. The second is
 one month later in the season. 
 
 It turns out that this is a typical sort of task in post-processing spectral data. We want to analyze image pairs in 
 order to derive a better sense of the sensitivity of a particular index, and to correlate the average index values of each 
-pair. However, at least half of the visible area in these images of early sugar cane is composed of __soil__ which should not 
-be included in the averaged NDVI value (e.g. since soil is _not_ photosynthetic).
+pair. However, at least half of the visible area in these images is composed of __soil__ which should not 
+be included in the averaged NDVI value (e.g. soil is _not_ photosynthetic).
 
 Thus the task is to remove pixels from an image where those pixel values represent soil. How might one accomplish this? 
 One way is to open up each image in an editor, examine every pixel and guess, based on color, whether it should be 
@@ -83,8 +81,8 @@ corresponding to NDVI values from the 05/25 image, though these are not as promi
 #### Masking
 
 Examining the histogram of 'uncorrected' NDVI values in __Figure 2__ we see that the mean NDVI value for 04/25 and 05/25 is 
-0.26 and 0.52, respectively. These averages include the soil pixel values in addition to the plant material values. We can 
-use the same data that generates this histogram as input into a type of 'classification' machine learning algorithm known
+0.26 and 0.52, respectively. These averages include the soil pixel values in addition to the plant material. We can 
+use the same data that generates the histogram as input into a type of 'classification' machine learning algorithm known
 as a __minimum threshold__. This algorithm assumes that the image contains two pixel classes (foreground and background) which 
 are used to calculate an optimum threshold to separate the two. In plain English this means that by applying the algorithm 
 we're automatically masked the more prevalent pixel value (in this case the non-photosynthetic parts) in a manner that is repeatable, 
