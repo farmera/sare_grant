@@ -63,7 +63,7 @@ over the years has served both as inspiration and as a guide throughout our work
 
 ![](img/2016_0513_122_rgb.jpg)
 ![](img/2016_0513_122_ndvi.jpg)
-###### Figure 2. RGB and NDVI image processed using Fuji. This image was captured with a Delta kite at a height of 125ft.
+###### Figure 2. RGB and NDVI image processed using Fuji. The RGB image was captured with a Delta kite at a height of 125ft.
 __Figure 2__ is an NDVI index derived from RGB and NIR sets using a pair of modified consumer cameras. It was taken 
 from a height of about about 125 ft early in the growth season. The vertical LUT displays NDVI values between 0.45 and 0.60. 
 This particular image shows an interesting effect that we saw throughout while using our dual-camera NDVI system. The NDVI 
