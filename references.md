@@ -32,6 +32,9 @@ http://www.pcigeomatics.com/geomatica-help/COMMON/concepts/Mosaic_explainMosaick
 * image source: https://gamaya.com/wp-content/themes/gamaya/images/sugarcane-banner.jpg
 * image source: https://gamaya.com/blog-post/hyperspectral-imaging-in-agriculture/
 
+###### Section 8
+https://blog.dronedeploy.com/seven-ways-to-improve-the-accuracy-of-your-drone-maps-9d3161f05956
+
 * Zhang, C.; Kovacs, J.M. The application of small unmanned aerial systems for precision agriculture:
 A review. Precis. Agric. 2012, 13, 693–712.
 
