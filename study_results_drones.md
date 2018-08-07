@@ -96,8 +96,6 @@ were generated for all sections, for all treatments, and used in the final regre
 approach was to average a cumulative 'index signal' for each section and then compare this with the final sucrose yield 
 for that section following harvest. 
  
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-
 ![](img/2017-07-28_021_3_CIR.png)
 ![](img/2017-07-28_021_3_NDVI.png)
 ![](img/2017-07-28_021_3_GNDVI.png)
