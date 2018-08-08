@@ -116,9 +116,8 @@ dependent variable and one or more independent variables. The independent variab
 while the dependent variable is the quantity one hopes to predict. In our study a host of known and unknown quantities could have 
 served as independent variables - soil moisture content, foliar nitrogen level, canopy structure, growing days.
 
-Our dependent variable was the final sucrose yield from each of thirty sections variably treated with nitrogen.
-Following analysis we knew what that value was for each section. Thus, in truth the dependent variable was also the spectral
-index value that was generated for a particular section.  
+Our dependent variable was the final sucrose yield of each of the thirty sections that we variably treated with nitrogen.
+Thus, in truth the dependent variable was also the spectral index value that was generated for a particular section.  
 
 ![](img/ndvi/ndvi_winner.png)
 ![](img/N_bar.png)
