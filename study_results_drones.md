@@ -114,10 +114,10 @@ together and obscure from above the cane stalks below.
 
 #### Regression Analysis
 
-Regression is a statistical technique used to estimate relationships among variables. In most cases the focus is on a 
+Regression is a statistical technique used to estimate relationships among variables where the focus is on a 
 dependent variable and one or more independent variables. The independent variable is a 'predictor' 
 while the dependent variable is the quantity one hopes to predict. In our study a host of different quantities might have 
-served as independent variables - soil moisture content, foliar nitrogen level, growing days, the list of possible candidates
+served as independent variables - soil moisture content, foliar nitrogen level, growing days, the list of candidates
 is long. Our goal of predicting yield made sucrose level the dependent variable.   
 
 estimates the conditional expectation of the dependent variable given the independent variables 
