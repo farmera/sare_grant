@@ -118,7 +118,7 @@ Regression is a statistical technique used to estimate relationships among varia
 dependent variable and one or more independent variables. The independent variable is a 'predictor' 
 while the dependent variable is the quantity one hopes to predict. In our study a host of quantities might have 
 served as independent variables - soil moisture content, foliar nitrogen level, canopy structure, growing days. Our goal 
-of yield prediction made the amount of sucrose produced the dependent variable.   
+of yield prediction made the amount of sucrose produced at the end of season the dependent variable.   
 
 estimates the conditional expectation of the dependent variable given the independent variables 
 
