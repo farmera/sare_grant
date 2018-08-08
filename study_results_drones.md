@@ -115,7 +115,7 @@ Regression is a statistical technique used to estimate relationships among varia
 dependent variable along with one or more independent variables. The independent variable is the 'predictor' 
 while the dependent variable is the quantity we hope to predict. During our study a question was posed regarding whether two 
 variables might be correlated and to what degree. Another was asked regarding whether one variable might be predictive of another.
-In linear regression, plotted observations are the assumed result of random deviation from an underlying relationship 
+In linear regression, it is assumed that the plotted observations are the result of random deviation from an underlying relationship 
 between dependent and independent variables.  
 
 Our dependent variable was the amount of sucrose produced in each of thirty sections variably 
