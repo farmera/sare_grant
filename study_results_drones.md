@@ -125,7 +125,8 @@ along with our primary independent variable nitrogen, was known to us prior to a
 
 The first question raised in our study is whether or not variable nitrogen rates applied to sugarcane can be 
 correlated with low-cost multi-spectral imagery? The graph in __Figure 8__ is a scatterplot of sixteen data points each 
-representing a single section. NDVI values during the height of the growing season on July 28, 2017. 
+representing a single treatment section of our study area. Each point is colored in terms of one of five classes of treatment.
+NDVI values during the height of the growing season on July 28, 2017. 
 
 ![](img/ndvi/ndvi_winner.png)
 ![](img/N_bar.png)
