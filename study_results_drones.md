@@ -120,9 +120,7 @@ while the dependent variable is the quantity one hopes to predict. In our study 
 served as independent variables - soil moisture content, foliar nitrogen level, canopy structure, growing days. The goal 
 of yield prediction made the amount of sucrose produced at the end of season our dependent variable.   
 
-estimates the conditional expectation of the dependent variable given the independent variables 
-
-In our study the dependent variable was the final sucrose yield from each of thirty different sections variably treated with nitrogen.
+The dependent variable was the final sucrose yield from each of thirty different sections variably treated with nitrogen.
 Following analysis we knew what that value was for each section. Thus, in truth the dependent variable was also the spectral
 index value that was generated for a particular section.  
 
