@@ -115,8 +115,8 @@ Regression is a statistical technique used to estimate relationships among varia
 dependent variable along with one or more independent variables. The independent variable is the 'predictor' 
 while the dependent variable is the quantity one hopes to predict. In our study a host of known and unknown quantities might have 
 served as independent variables - soil moisture content, foliar nitrogen level, canopy structure, growing days. In a more 
-rigorous study each of these values might have been monitored and their relative contributions measured. Our goal here was not 
-to produce a technical report but to use make useful recommendations to working sugarcane farmers.   
+rigorous study each of these values might have been monitored and their relative contributions assessed. Our goal was not 
+to produce a highy technical report but to make a useful recommendation to working sugarcane farmers.   
 
 In technical terms, regression analysis works by estimating the conditional expectation of the dependent variable given the 
 independent variables. Our dependent variable was the final sucrose yield of each of thirty sections that had been variably 
