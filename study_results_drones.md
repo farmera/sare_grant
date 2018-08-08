@@ -114,11 +114,11 @@ that the values are basically equivalent (after accounting for the scale differe
 Regression is a statistical technique used to estimate relationships among variables where the focus is on a 
 dependent variable and one or more independent variables. The independent variable is a 'predictor' 
 while the dependent variable is the quantity one hopes to predict. In our study a host of known and unknown quantities could have 
-served as independent variables - soil moisture content, foliar nitrogen level, canopy structure, growing days. In a more scientific
-assessment each of these values might have been tracked and the complex relationships between them monitored.  
+served as independent variables - soil moisture content, foliar nitrogen level, canopy structure, growing days. In a more 
+rigorous study each of these quantities might have been carefully tracked and monitored.   
 
-Our dependent variable was the final sucrose yield of each of the thirty sections that we variably treated with nitrogen.
-Thus, in truth the dependent variable was also the spectral index value that was generated for a particular section.  
+Our dependent variable was the final sucrose yield of each of thirty sections that we variably treated with nitrogen. 
+
 
 ![](img/ndvi/ndvi_winner.png)
 ![](img/N_bar.png)
