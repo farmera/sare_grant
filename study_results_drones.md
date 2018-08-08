@@ -80,6 +80,10 @@ These amounts were chosen as they reflect a sensible range around the recommende
 
 * Section treatments were analyzed during early, mid, and late-season growth.
 
+Prior to analysis the master geotiff file for each date (containing precise coordinates of latitude and longitude) was sectioned 
+to produce thirty consistent areas representing each treatment. Sectioning was performed using an automated technique guided
+by embedded latitude and longitude coordinates.    
+  
 The development and growth of the leafy part of the sugar cane plant plays a role in helping to maximize the 
 interception of solar energy for photosynthesis. This leads to the accumulation of biomass and ultimately to a higher crop 
 yield. Our first successful data capture occurred just a week following treatment of the sections with nitrogen.  
@@ -110,10 +114,13 @@ together and obscure from above the cane stalks below.
 
 #### Regression Analysis
 
-In statistics, regression is a technique used to estimate relationships among variables. Regression 
-is a broad subject and provides many ways to model and analyze variable groups. In most cases special focus is paid to the 
-relationship between a dependent variable and one or more independent variables. The independent variables are generally 
-referred to as 'predictors' while the dependent variable is the quantity one hopes to predict. 
+Regression is a statistical technique used to estimate relationships among variables. In most cases the focus is on the 
+relationship between a dependent variable and one or more independent variables. The independent variable[s] are generally 
+known as 'predictors' while the dependent variable is the quantity one would like to predict. In our study a host of 
+different quantities were available to serve as independent variables while the primary dependent variable we were interested 
+in was sucrose yield.   
+
+estimates the conditional expectation of the dependent variable given the independent variables 
 
 In our study the dependent variable was the final sucrose yield from each of thirty different sections variably treated with nitrogen.
 Following analysis we knew what that value was for each section. Thus, in truth the dependent variable was also the spectral
