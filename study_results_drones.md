@@ -118,8 +118,10 @@ served as independent variables - soil moisture content, foliar nitrogen level, 
 rigorous study each of these might have been carefully monitored. Our goal was not to produce a scientific report but to make 
 a meaningful recommendation to working sugarcane farmers.   
 
-In more technical terms, regression analysis works by estimating the conditional expectation of the dependent variable given the 
-independent variables.  Our dependent variable was the final sucrose yield of each of thirty sections that were variably treated with nitrogen. 
+In technical terms, regression analysis works by estimating the conditional expectation of the dependent variable given the 
+independent variables. Our dependent variable was known at the end of the growing season: it was the final sucrose yield 
+of each of thirty sections that had been variably treated with nitrogen. One of our key independent variables, nitrogen level, 
+was also given. 
 
 
 ![](img/ndvi/ndvi_winner.png)
