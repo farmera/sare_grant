@@ -116,8 +116,7 @@ dependent variable along with one or more independent variables. The independent
 while the dependent variable is the quantity one hopes to predict. In our study a host of known and unknown quantities might have 
 served as independent variables - soil moisture content, foliar nitrogen level, canopy structure, growing days. In a more 
 rigorous study each of these would have been monitored and their contributions carefully assessed. However, our goal was to 
-make a set of useful recommendations for working sugarcane farmers based on the most salient factors, it was not to produce 
-a scientific report.   
+make a set of recommendations for working sugarcane growers based on salient factors, it was not to produce a scientific report.   
 
 In technical terms, regression analysis works by estimating the conditional expectation of the dependent variable given the 
 independent variables. Our dependent variable was the amount of sucrose produced in each of thirty sections that had been variably 
