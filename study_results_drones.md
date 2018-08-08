@@ -124,9 +124,8 @@ treated with known nitrogen levels. The final sucrose yield was carefully measur
 along with our primary independent variable nitrogen, was known to us prior to analysis. 
 
 The first question raised in our study is whether or not variable nitrogen rates applied to sugarcane can be 
-correlated with low-cost multi-spectral imagery? The graph in __Figure 8__ is a 2D scatterplot with overlaid regression lines 
-containing sixteen points each representing a single section of the thirty sections. NDVI values during the height of 
-the growing season on July 28, 2017. 
+correlated with low-cost multi-spectral imagery? The graph in __Figure 8__ is a scatterplot of sixteen data points each 
+representing a single section of the thirty sections. NDVI values during the height of the growing season on July 28, 2017. 
 
 ![](img/ndvi/ndvi_winner.png)
 ![](img/N_bar.png)
