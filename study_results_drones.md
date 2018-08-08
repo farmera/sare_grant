@@ -123,10 +123,10 @@ of independent variables. Our dependent variable was the amount of sucrose produ
 treated with known nitrogen levels. The final sucrose yield was carefully measured in the lab at the end of the season and, 
 along with our primary independent variable nitrogen, was known to us prior to analysis. 
 
-The first question raised in our study is whether or not variable nitrogen rates applied to sugarcane can be 
-correlated with low-cost multi-spectral imagery? The graph in __Figure 8__ is a scatterplot of sixteen points each 
-representing a single treatment. Each point is colored in terms of the treatment received. On the x axis are NDVI values
-NDVI values during the height of the growing season on July 28, 2017. 
+The graph in __Figure 8__ is a scatterplot of sixteen points each representing a single treatment. Each point is colored 
+in terms of the treatment received. On the x axis are NDVI values NDVI values during the height of the growing season on 
+July 28, 2017. The first question raised in our study is whether or not variable nitrogen rates applied to sugarcane can 
+be correlated with low-cost multi-spectral imagery?  
 
 ![](img/ndvi/ndvi_winner.png)
 ![](img/N_bar.png)
