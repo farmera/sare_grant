@@ -125,7 +125,7 @@ treated with known nitrogen levels. The final sucrose yield was carefully measur
 along with our primary independent variable nitrogen, was known to us prior to analysis. 
 
 The first question raised in our study was whether or not variable nitrogen rates applied to sugarcane could be 
-correlated with low-cost multi-spectral imagery? The system employed to generate these results was acquired 
+correlated with low-cost multi-spectral imagery? The system used to generate these results was acquired 
 for under $5000 (a detailed breakdown of costs is included in [Section xxx]()) 
 
 ![](img/ndvi/ndvi_winner.png)
