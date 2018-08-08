@@ -111,10 +111,10 @@ that the values are basically equivalent (after accounting for the scale differe
 
 #### Regression Analysis
 
-Regression is a statistical technique used to estimate relationships among variables where the focus is on a 
+Regression is a statistical technique used to estimate relationships among variables where focus is put a 
 dependent variable along with one or more independent variables. The independent variable is the 'predictor' 
-while the dependent variable is the quantity we want to predict. In our study one of the questions asked was whether two 
-values might be correlated (and to what degree) while another asked whether one might be predicted from the other.  
+while the dependent variable is the quantity we want to predict. During our study a question asked was whether two 
+values might be correlated (and to what degree) while another was whether one might be predictive of another.  
 
 a host of known and unknown quantities might have 
 served as independent variables - soil moisture content, foliar nitrogen level, canopy structure, growing days. In a more 
