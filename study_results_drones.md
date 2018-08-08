@@ -120,8 +120,9 @@ a meaningful recommendation to working sugarcane farmers.
 
 In technical terms, regression analysis works by estimating the conditional expectation of the dependent variable given the 
 independent variables. Our dependent variable was the final sucrose yield of each of thirty sections that had been variably 
-treated with nitrogen. One of our key independent variables, nitrogen level, was also known. In other words, our dependent 
-variable was measured at the end of the season and, along with our primary independent variable, nitrogen level, was known. 
+treated with nitrogen. One of our key independent variables, nitrogen, was also known. In other words, our dependent 
+variable was measured at the end of the season and, along with our primary independent variable nitrogen level, was known to us
+prior to analysis. 
 
 ![](img/ndvi/ndvi_winner.png)
 ![](img/N_bar.png)
