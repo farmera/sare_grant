@@ -120,7 +120,7 @@ to produce a highy technical report but to make a useful recommendation to worki
 
 In technical terms, regression analysis works by estimating the conditional expectation of the dependent variable given the 
 independent variables. Our dependent variable was the final sucrose yield of each of thirty sections that had been variably 
-treated with known amounts of nitrogen. Our dependent variable was measured at the end of the season and, 
+treated with known amounts of nitrogen. The final sucrose yield was carefully measured in the lab at the end of the season and, 
 along with our primary independent variable nitrogen, was known to us prior to analysis. 
 
 ![](img/ndvi/ndvi_winner.png)
