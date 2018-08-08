@@ -112,10 +112,10 @@ that the values are basically equivalent (after accounting for the scale differe
 #### Regression Analysis
 
 Regression is a statistical technique used to estimate relationships among variables where the focus is on a 
-dependent variable along with one or more independent variables. The independent variable is a 'predictor' 
-while the dependent variable is the quantity one hopes to predict. In our study a host of known and unknown quantities could have 
+dependent variable along with one or more independent variables. The independent variable is the 'predictor' 
+while the dependent variable is the quantity one hopes to predict. In our study a host of known and unknown quantities might have 
 served as independent variables - soil moisture content, foliar nitrogen level, canopy structure, growing days. In a more 
-rigorous study each of these might have been carefully monitored. Our goal was not to produce a scientific report but to make 
+rigorous study each of these could have been carefully monitored. Our goal was not to produce a scientific report but to make 
 a meaningful recommendation to working sugarcane farmers.   
 
 In technical terms, regression analysis works by estimating the conditional expectation of the dependent variable given the 
