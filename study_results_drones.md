@@ -119,7 +119,7 @@ rigorous study each of these values might have been monitored and their contribu
 make a set of useful recommendations for working sugarcane farmers, it was not to produce a highy technical report.   
 
 In technical terms, regression analysis works by estimating the conditional expectation of the dependent variable given the 
-independent variables. Our dependent variable was the final sucrose yield of each of thirty sections that had been variably 
+independent variables. Our dependent variable was the amount of sucrose produced in each of thirty sections that had been variably 
 treated with known amounts of nitrogen. The final sucrose yield was carefully measured in the lab at the end of the season and, 
 along with our primary independent variable nitrogen, was known to us prior to analysis. 
 
