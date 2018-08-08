@@ -113,8 +113,8 @@ that the values are basically equivalent (after accounting for the scale differe
 
 Regression is a statistical technique used to estimate relationships among variables where the focus is on a 
 dependent variable along with one or more independent variables. The independent variable is the 'predictor' 
-while the dependent one is the quantity we hope to predict. In our study one of the questions asked was whether two 
-values could be correlated (and if yes then to what degree) while another asked whether one might be predicted from the other.  
+while the dependent variable is the quantity we want to predict. In our study one of the questions asked was whether two 
+values might be correlated (and to what degree) while another asked whether one might be predicted from the other.  
 
 a host of known and unknown quantities might have 
 served as independent variables - soil moisture content, foliar nitrogen level, canopy structure, growing days. In a more 
