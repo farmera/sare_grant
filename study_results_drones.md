@@ -111,19 +111,22 @@ that the values are basically equivalent (after accounting for the scale differe
 
 #### Regression Analysis
 
-Regression is a statistical technique used to estimate relationships among variables where focus is put a 
+Regression is a statistical technique used to estimate relationships among variables where focus is put on a 
 dependent variable along with one or more independent variables. The independent variable is the 'predictor' 
-while the dependent variable is the quantity we want to predict. During our study a question asked was whether two 
-values might be correlated (and to what degree) while another was whether one might be predictive of another.  
+while the dependent variable is the quantity we hope to predict. During our study a question was posed regarding whether two 
+variables might be correlated and to what degree. Another was asked regarding whether one variable might be predictive of another.
+In linear regression, plotted observations are the assumed result of random deviation from an underlying relationship 
+between dependent and independent variables.  
+
+Our dependent variable was the amount of sucrose produced in each of thirty sections variably 
+treated with known nitrogen levels. The final sucrose yield was carefully measured in the lab at the end of the season and, 
+along with our primary independent variable, was known to us prior to analysis. 
 
 a host of known and unknown quantities might have 
 served as independent variables - soil moisture content, foliar nitrogen level, canopy structure, growing days. In a more 
 rigorous study each of these would have been carefully monitored and their contributions assessed. However, our goal was to 
 make a set of recommendations for working sugarcane growers, it was not to produce a detailed scientific report.   
 
-Our dependent variable was the amount of sucrose produced in each of thirty sections variably 
-treated with known nitrogen levels. The final sucrose yield was carefully measured in the lab at the end of the season and, 
-along with our primary independent variable, was known to us prior to analysis. 
 
 The graph in __Figure 8__ is a scatterplot of sixteen points each representing a single treatment. Each point is colored 
 in terms of the treatment received. On the x axis are NDVI values NDVI values during the height of the growing season on 
