@@ -115,10 +115,10 @@ together and obscure from above the cane stalks below.
 #### Regression Analysis
 
 Regression is a statistical technique used to estimate relationships among variables. In most cases the focus is on the 
-relationship between a dependent variable and one or more independent variables. The independent variable[s] are generally 
-known as 'predictors' while the dependent variable is the quantity one would like to predict. In our study a host of 
-different quantities were available to serve as independent variables while the primary dependent variable we were interested 
-in was sucrose yield.   
+relationship between a dependent variable and one or more independent variables. The independent variable is generally 
+known as 'predictors' while the dependent variable is the quantity one hopes to predict. In our study a host of 
+different quantities were available to serve as independent variables while the primary dependent variable of 
+interest was sucrose yield.   
 
 estimates the conditional expectation of the dependent variable given the independent variables 
 
