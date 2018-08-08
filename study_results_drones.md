@@ -124,8 +124,8 @@ treated with known nitrogen levels. The final sucrose yield was carefully measur
 along with our primary independent variable nitrogen, was known to us prior to analysis. 
 
 The first question raised in our study is whether or not variable nitrogen rates applied to sugarcane could be 
-correlated with low-cost multi-spectral imagery? The graph in __Figure 8__ shows NDVI values during the first month of 
-the growing season, from late April, 2017 (one week following application of N fertilizer) to late May.
+correlated with low-cost multi-spectral imagery? The plot in __Figure 8__ shows NDVI values during the height of 
+the growing season on July 28, 2017. 
 
 ![](img/ndvi/ndvi_winner.png)
 ![](img/N_bar.png)
