@@ -109,7 +109,7 @@ In __Figure 7__ a CIR composite, NDVI and GNDVI from a section taken on July 28,
 index value for these was __0.83__ for NDVI and __0.73__ for GNDVI. Given the obvious visual difference of these two images,
 that the values are basically equivalent (after accounting for the scale difference) is of interest. 
 
-#### Regression Analysis
+#### A Digression on Regression Analysis
 
 Regression is a statistical technique used to estimate relationships among variables where focus is often put on a 
 dependent variable along with one or more independent variables. The independent variable is the 'predictor' 
