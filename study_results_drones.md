@@ -125,7 +125,7 @@ prior to data capture. The final yields (30 of them) were measured in the lab at
 'independent' variable, were known prior to analysis. 
 
 The graph in __Figure 8__ is a scatterplot of sixteen points each representing a single treatment. Each point is colored 
-in terms of the treatment that section received. On the x axis are NDVI values and on the 'y' axis are 'pounds sucrose per section' 
+in terms of the treatment received by that section. On the 'x' axis are NDVI values and on the 'y' axis are 'pounds sucrose per section' 
 (PSPS).
 
 ![](img/ndvi/ndvi_winner.png)
