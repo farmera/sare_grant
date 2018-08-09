@@ -116,30 +116,26 @@ dependent variable along with one or more independent variables. The independent
 while the dependent variable is the quantity one hopes to predict. During our study a question was posed regarding whether two 
 variables might be correlated with one another and to what degree. Another was asked regarding whether one variable might be predictive of the other.
 
-There's a popular saying in statistics which asserts that 'correlation does not imply causation'. While 
+There's a popular saying in statistics that asserts that 'correlation does not imply causation'. While 
 certainly true that saying carries with it a negative connotation, as if correlation were not something of value in itself. 
 Correlation and other measures of association may be useful for purposes of prediction _regardless of causation_. 
 
 Our 'dependent' variable was the amount of sucrose produced in each of thirty sections treated with a known level of nitrogen
 prior to data capture. The final yields (30 of them) were measured in the lab at the end of the season and, along with our 
-'independent' variable, was known prior to analysis. 
-
-a host of known and unknown quantities might have 
-served as independent variables - soil moisture content, foliar nitrogen level, canopy structure, growing days. In a more 
-rigorous study each of these would have been carefully monitored and their contributions assessed. However, our goal was to 
-make a set of recommendations for working sugarcane growers, it was not to produce a detailed scientific report.   
-
+'independent' variable, were known prior to analysis. 
 
 The graph in __Figure 8__ is a scatterplot of sixteen points each representing a single treatment. Each point is colored 
-in terms of the treatment received. On the x axis are NDVI values NDVI values during the height of the growing season on 
-July 28, 2017. The first question raised in our study is whether or not variable nitrogen rates applied to sugarcane can 
-be correlated with low-cost multi-spectral imagery?  
+in terms of the treatment that section received. On the x axis are NDVI values and on the 'y' axis are 'pounds sucrose per section' 
+(PSPS).
 
 ![](img/ndvi/ndvi_winner.png)
 ![](img/N_bar.png)
 
 ###### Figure 8. foo bar foo bar foo bar foo bar foo bar foo bar foo bar foo bar foo bar 
 
+While a host of additional known and unknown quantities might also have served as independent variables - soil moisture content, foliar nitrogen level, canopy structure, growing days. In a more 
+rigorous study each of these would have been carefully monitored and their contributions assessed. However, our goal was to 
+make a set of recommendations for working sugarcane growers, it was not to produce a detailed scientific report.   
 
 
 #### Multiple Regression
