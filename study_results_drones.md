@@ -111,16 +111,18 @@ that the values are basically equivalent (after accounting for the scale differe
 
 #### Regression Analysis
 
-Regression is a statistical technique used to estimate relationships among variables where focus is put on a 
+Regression is a statistical technique used to estimate relationships among variables where focus is often put on a 
 dependent variable along with one or more independent variables. The independent variable is the 'predictor' 
-while the dependent variable is the quantity we hope to predict. During our study a question was posed regarding whether two 
-variables might be correlated and to what degree. Another was asked regarding whether one variable might be predictive of another.
-In linear regression, it is assumed that the plotted observations are the result of random deviation from an underlying relationship 
-between dependent and independent variables.  
+while the dependent variable is the quantity one hopes to predict. During our study a question was posed regarding whether two 
+variables might be correlated with one another and to what degree. Another was asked regarding whether one variable might be predictive of the other.
 
-Our dependent variable was the amount of sucrose produced in each of thirty sections variably 
-treated with known nitrogen levels. The final sucrose yield was carefully measured in the lab at the end of the season and, 
-along with our primary independent variable, was known to us prior to analysis. 
+There's a popular saying in statistics which asserts that 'correlation does not imply causation'. While 
+certainly true that saying carries with it a negative connotation, as if correlation were not something of value in itself. 
+Correlation and other measures of association may be useful for purposes of prediction _regardless of causation_. 
+
+Our 'dependent' variable was the amount of sucrose produced in each of thirty sections treated with a known level of nitrogen
+prior to data capture. The final yields (30 of them) were measured in the lab at the end of the season and, along with our 
+'independent' variable, was known prior to analysis. 
 
 a host of known and unknown quantities might have 
 served as independent variables - soil moisture content, foliar nitrogen level, canopy structure, growing days. In a more 
