@@ -130,7 +130,7 @@ in terms of the treatment received by that section. On the 'x' axis are NDVI val
 ![](img/ndvi/ndvi_winner.png)
 ![](img/N_bar.png)
 
-###### Figure 8. foo bar foo bar foo bar foo bar foo bar foo bar foo bar foo bar foo bar 
+###### Figure 8. Scatterplot of a vegetation index (NDVI) versus sucrose yield, meausred in pounds of sucrose per section (PSPS).
 
 While a host of additional known and unknown quantities might also have served as independent variables - soil moisture content, foliar nitrogen level, canopy structure, growing days. In a more 
 rigorous study each of these would have been carefully monitored and their contributions assessed. However, our goal was to 
