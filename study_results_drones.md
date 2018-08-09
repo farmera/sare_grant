@@ -154,6 +154,10 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 ![](img/animated/animated-ndvi.gif)
 ###### Figure 10. Animated plot of correlation evolution between vegetation index (NDVI) and the yield produced by that section.
 
+
+![](img/multiples.png)
+###### Figure 10. Multiple plots ...
+
 #### Faceted Regression Results
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
