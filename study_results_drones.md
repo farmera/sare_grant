@@ -156,7 +156,8 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 
 ![](img/multiples.png)
-###### Figure 10. Multiple plots ...
+###### Figure 10. Multiple plots: GNDVI, NDRE, NDVI, NDVIC. Plots for each index versus PSPS are in the top row.
+ 
 
 #### Faceted Regression Results
 
