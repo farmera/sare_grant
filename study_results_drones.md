@@ -107,7 +107,7 @@ the final sucrose yield for that section following harvest.
 
 In __Figure 7__ a CIR composite, NDVI and GNDVI from a section taken later in the season on July 28, 2017. The mean 'soil-corrected' 
 index value for these was __0.83__ for NDVI and __0.73__ for GNDVI. Given the obvious visual difference of these two images,
-that the values are basically equivalent (after accounting for the scale difference) is of interest. 
+that the values are basically the same (after accounting for the scale difference) was of interest. 
 
 #### A Digression on Regression Analysis
 
