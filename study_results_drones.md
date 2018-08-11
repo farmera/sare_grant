@@ -93,12 +93,12 @@ yield. Our first successful data capture occurred just a week following treatmen
 ![](img/2017-04-25_001_3_GNDVI.png)
 ###### Figure 6. CIR composite image, NDVI versus GNDVI index in an early sugar cane crop. 
 
-In __Figure 6__ three images are displayed: a CIR composite of a single section (taken on April 25, 2017) followed by two index images
-processed from the same section for NDVI and GNDVI. The color bars to the right represent index values on a scale 
-of 0 to 1. The mean 'soil-corrected' index value for each section was __0.46__ for NDVI and __0.4__ for GNDVI. These values 
-were generated for all sections, for all treatments, and used in the final regression analysis. Our
-approach was to average a cumulative 'index signal' for each section and then compare this with the final sucrose yield 
-for that section following harvest. 
+In __Figure 6__ three images from early in the season are displayed: on top is a CIR composite of a single section (taken on 
+April 25, 2017) followed by two index images below processed from the same section for NDVI and GNDVI. The color bars to 
+the right represent index values on a scale of 0 to 1. The mean 'soil-corrected' index value for each section was __0.46__ 
+for NDVI and __0.4__ for GNDVI. These values were generated for all sections, for all treatments, and used in the final 
+regression analysis. Our approach was to average a cumulative 'index signal' for each section and then compare this with 
+the final sucrose yield for that section following harvest. 
  
 ![](img/2017-07-28_021_3_CIR.png)
 ![](img/2017-07-28_021_3_NDVI.png)
@@ -155,7 +155,7 @@ a rigorous scientific report. Our goal was to make a set of recommendations to w
 of results using tools and technologies available at low-cost.   
 
 
-#### Multiple Regression
+#### Multiple Regressions
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
 
