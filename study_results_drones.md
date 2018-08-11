@@ -134,7 +134,7 @@ in terms of the treatment received by that section. On the 'x' axis are NDVI val
 We have spoken of the bugbear of cumulative error and the issue is no where more relevant than here in __Figure 8__. 
 The values representing each data point (there are six per treatment group) are index values averaged over a set of 30,000 pixels 
 representing an area of 100 ft by 20 ft. All points of error previously discussed regarding the accuracy of a camera's placement, the prevailing wind, sun angle, azimuth,  and a 
-hundred others are focused here in every point in the graph. And yet in spite of this we see a logical pattern of
+hundred others are focused in every point in the graph. And yet in spite of this we see a logical pattern of
 correlation. These particular data were captured on July 28, 2017 at the height of the grand growth phase. The index type 
 shown is NDVI.     
  
