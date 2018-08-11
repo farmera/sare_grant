@@ -135,7 +135,7 @@ We have spoken of the bugbear of cumulative error and that issue is no where mor
 The values representing each data point (there are six per treatment group) are index values averaged over a set of 30,000 pixels 
 representing an area of 100 ft by 20 ft. All points of error previously discussed regarding the accuracy of a camera's placement, 
 the prevailing wind, sun angle, azimuth, and a hundred others are focused in every point in the graph. And yet in spite of this we see a very logical pattern of
-correlation. These particular data were captured on July 28, 2017 at the height of the grand growth phase. The index type 
+correlation. These data were captured on July 28, 2017 at the height of the grand growth phase. The index type 
 shown is NDVI.     
  
  
@@ -144,7 +144,7 @@ shown is NDVI.
 
 ###### Figure 8. Scatterplot of a vegetation index (NDVI) versus sucrose yield, measured in pounds of sucrose per section (PSPS).
 
-This plot says fewer things on its own than when compared with others. However, viewed by itself it does indicate that 
+This plot says less on its own than when compared with other plots. However, viewed by itself it does indicate that 
 correlation between recorded NDVI values and yield was strongest at 120 lbs N per acre (treatment #4). This is the recommended 
 treatment for this variety of sugarcane. The degree of correlation is weaker for treatments both above and below this amount 
 with the exception of 80 lbs per acre. 
