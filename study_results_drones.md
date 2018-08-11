@@ -105,7 +105,7 @@ the final sucrose yield for that section following harvest.
 ![](img/2017-07-28_021_3_GNDVI.png)
 ###### Figure 7. CIR composite image, NDVI versus GNDVI index in mid-season sugarcane growth. 
 
-In __Figure 7__ a CIR composite, NDVI and GNDVI from a section taken on July 28, 2017 are shown. The mean 'soil-corrected' 
+In __Figure 7__ a CIR composite, NDVI and GNDVI from a section taken later in the season on July 28, 2017. The mean 'soil-corrected' 
 index value for these was __0.83__ for NDVI and __0.73__ for GNDVI. Given the obvious visual difference of these two images,
 that the values are basically equivalent (after accounting for the scale difference) is of interest. 
 
