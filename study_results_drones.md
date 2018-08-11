@@ -116,9 +116,13 @@ dependent variable along with one or more independent variables. The independent
 while the dependent variable is the quantity one hopes to predict. During our study a question was posed regarding whether two 
 variables might be correlated with one another and to what degree. Another was asked regarding whether one variable might be predictive of the other.
 
-There's a popular saying in statistics: 'correlation does not imply causation'. While certainly true this familiar saying carries with it a negative connotation, as if correlation were not something of value in itself. 
-Correlation and other measures of association may be useful for purposes of prediction _regardless of causation_. 
-
+There's a popular truism in statistics: 'correlation does not imply causation'. The saying carries with it a negative 
+connotation, as if correlation were something of lesser value. When one finds a correlation between 
+variables it can be tempting to say that there must be a causative relationship between the two. However, while we present evidence of 
+correlation between vegetation index values and sucrose yield there is no causative element here (obviously 
+the index didn't cause the sugarcane to form sucrose). Still, correlation and other measures of association can be 
+useful for purposes of prediction _irrespective_ of a causative connection.
+  
 Our 'dependent' variable was the amount of sucrose produced in each of thirty sections treated with a known level of nitrogen
 prior to data capture. The final yields (30 of them) were measured in the lab at the end of the season and, along with our 
 'independent' variable, were known prior to analysis. 
@@ -155,10 +159,6 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 ###### Figure 10. Animated plot of correlation evolution between vegetation index (NDVI) and the yield produced by that section.
 
 
-![](img/multiples.png)
-###### Figure 10. Multiple plots: GNDVI, NDRE, NDVI, NDVIC. Plots for each index versus PSPS are in the top row. Index values versus treatment type on the bottom. 
- 
-
 #### Faceted Regression Results
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
@@ -173,7 +173,7 @@ _ndvi_
 ![](img/ndvi/ndvi_all_spectral_data_mark.png)
 ![](img/N_bar.png)
 
-###### Figure 11. Regression 'facets' showing index values versus yield (April to November 2017).
+###### Figure 12. Regression 'facets' showing index values versus yield (April to November 2017).
 
 
 #### Temporal Evolution of Vegetation Index in Sugarcane
@@ -183,12 +183,12 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
 
 ![](img/ndvic/ndvic_correlation.png)
-###### Figure 12. Correlation of NDVI-C Index with Yield (lbs sugar per section).
+###### Figure 13. Correlation of NDVI-C Index with Yield (lbs sugar per section).
 
 __Figure 12__ shows the temporal evolution of a 'soil-corrected' spectral index during the 2017 growing season.  
 
 ![](img/ndre/ndre_correlation.png)
-###### Figure 13. Correlation of NDRE Index with Yield (lbs sugar per section).
+###### Figure 14. Correlation of NDRE Index with Yield (lbs sugar per section).
 
 __Figure 13__ shows the temporal evolution of the NDRE spectral index during the 2017 growing season.  
 
