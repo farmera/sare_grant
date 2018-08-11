@@ -144,8 +144,7 @@ shown is NDVI.
 
 ###### Figure 8. Scatterplot of a vegetation index (NDVI) versus sucrose yield, measured in pounds of sucrose per section (PSPS).
 
-This plot says fewer things on its own than when compared with others. Viewed by itself it indicates that the 
-degree of correlation between recorded NDVI values and yield was strongest at 120 lbs N per acre (#4)
+This plot says fewer things on its own than when compared with others. However, viewed by itself it does indicate that correlation between recorded NDVI values and yield was strongest at 120 lbs N per acre (#4)
 
 A host of additional known and unknown quantities might also have served as independent variables in our study - soil moisture content, foliar nitrogen level, canopy structure, growing days. In a more 
 rigorous study each of these would have been carefully monitored and their contributions assessed. However, our goal was to 
