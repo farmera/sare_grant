@@ -150,9 +150,8 @@ treatment for this variety of sugarcane. The degree of correlation is weaker for
 with the exception of 80 lbs per acre. 
 
 While a host of additional known and unknown quantities might have served as 'independent' variables for our study - e.g. 
-soil moisture content, foliar nitrogen level, canopy structure, the number of growing days. If this had been a more 
-rigorous scientific study each of these could have been monitored and assessed. However, our goal was to make a set of recommendations 
-for working sugarcane growers, it was not to produce a detailed scientific report.   
+soil moisture content, foliar nitrogen level, canopy structure, the number of growing days - it was not our intention to create
+a rigorous scientific study. Our goal was to make a set of recommendations for working sugarcane growers, it was not to produce a detailed scientific report.   
 
 
 #### Multiple Regression
