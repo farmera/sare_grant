@@ -132,9 +132,9 @@ in terms of the treatment received by that section. On the 'x' axis are NDVI val
 (PSPS).
 
 We have spoken elsewhere about the bugbear of error and no where is the issue of cumulative error more apparent than in this graph. 
-The values representing each data point (there are six of these per treatment group) are index values averaged over a 100 ft by 20 ft section.
+The values representing each data point (there are six per treatment group) are index values averaged over a 100 ft by 20 ft section.
 All points of error previously discussed regarding the accuracy of a camera's placement, the prevailing wind, sun angle, azimuth,  and a 
-hundred others not discussed are focused here in each point. And yet in spite of this we see a rather remarkable pattern of
+hundred others are focused here in each point. And yet in spite of this we see a rather remarkable pattern of
 correlation. These particular data were captured on July 28, 2017 at the height of the grand growth phase. The index type 
 shown is NDVI.     
  
