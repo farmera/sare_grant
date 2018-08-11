@@ -81,7 +81,7 @@ These amounts were chosen as they reflect a sensible range around the recommende
 * Section treatments were analyzed during early, mid, and late-season growth.
 
 Prior to analysis the master geotiff file for each date (containing precise coordinates of latitude and longitude) was sectioned 
-to produce thirty consistent areas representing each treatment. Sectioning was performed using an automated technique guided
+to produce thirty consistent areas representing each treatment section. Sectioning was performed using an automated method guided
 by embedded latitude and longitude coordinates.    
   
 The development and growth of the leafy part of the sugar cane plant plays a role in helping to maximize the 
