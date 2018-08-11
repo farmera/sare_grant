@@ -124,7 +124,7 @@ the index didn't cause the sugarcane to form sucrose). Still, correlation and ot
 useful for purposes of prediction _irrespective_ of a causative connection.
   
 Our 'dependent' variable was the amount of sucrose produced in each of thirty sections treated with a known level of nitrogen
-prior to data capture. The final yields (30 of them) were measured in the lab at the end of the season and, along with our 
+prior to data capture. The final yields (numbering 30) were measured in the lab at the end of the season and, along with our 
 'independent' variable, were known prior to analysis. 
 
 The graph in __Figure 8__ is a scatterplot of sixteen points each representing a single treatment. Each point is colored 
