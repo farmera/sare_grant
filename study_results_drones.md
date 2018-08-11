@@ -123,9 +123,9 @@ correlation between vegetation index values and sucrose yield there is no causat
 the index didn't cause the sugarcane to form sucrose). Still, correlation and other measures of association can be 
 useful for purposes of prediction _irrespective_ of a causative connection.
   
-Our 'dependent' variable was the amount of sucrose produced in each of thirty sections treated with a known level of nitrogen
-prior to data capture. The final yields (numbering 30) were measured in the lab at the end of the season and, along with our 
-'independent' variable, were known prior to analysis. 
+Our 'dependent' variable was the amount of sucrose produced in each of thirty sections treated with a known level of 
+nitrogen. The final yields (numbering 30) were measured in the lab at the end of the season and, along with our 'independent' 
+variable, were known prior to analysis. 
 
 The graph in __Figure 8__ is a scatterplot of sixteen points each representing a single treatment. Each point is colored 
 in terms of the treatment received by that section. On the 'x' axis are NDVI values and on the 'y' axis are 'pounds sucrose per section' 
