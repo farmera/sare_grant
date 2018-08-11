@@ -146,7 +146,8 @@ shown is NDVI.
 
 This plot says fewer things on its own than when compared with others. However, viewed by itself it does indicate that 
 correlation between recorded NDVI values and yield was strongest at 120 lbs N per acre (treatment #4). This is the recommended 
-treatment for this variety of sugarcane.
+treatment for this variety of sugarcane. The degree of correlation is weaker for treatments both above and below this amount 
+with the exception of 80 lbs per acre. 
 
 A host of additional known and unknown quantities might also have served as independent variables in our study - soil moisture content, foliar nitrogen level, canopy structure, growing days. In a more 
 rigorous study each of these would have been carefully monitored and their contributions assessed. However, our goal was to 
