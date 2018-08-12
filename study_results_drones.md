@@ -138,7 +138,6 @@ the prevailing wind, sun angle, azimuth, and a hundred others) are embodied in e
 correlation. These data were captured on July 28, 2017 at the height of the grand growth phase. The index type 
 shown is NDVI.     
  
- 
 ![](img/ndvi/ndvi_winner.png)
 ![](img/N_bar.png)
 
