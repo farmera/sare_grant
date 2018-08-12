@@ -131,7 +131,7 @@ The graph in __Figure 8__ is a scatterplot of sixteen points each representing a
 in terms of the treatment received by that section. On the 'x' axis are NDVI values and on the 'y' axis are 'pounds sucrose per section' 
 (PSPS).
 
-We have spoken of the bugbear of cumulative error and that issue is no where more relevant than here in __Figure 8__. 
+Earlier we spoke of the bugbear of cumulative error and that issue is no where more relevant than here in __Figure 8__. 
 The values representing each data point (there are six per treatment group) are index values averaged over a set of ~30,000 pixels 
 representing an area of 100 ft by 20 ft. The points of error that we have previously discussed (i.e. the accuracy of a camera's placement, 
 the prevailing wind, sun angle, azimuth, and a hundred others) are embodied in every point in this graph. And yet in spite of this we see a very logical pattern of
