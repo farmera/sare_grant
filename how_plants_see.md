@@ -89,11 +89,11 @@ Specialized multispectral cameras contain 'band-pass' filters which narrow the w
 narrow bands. Having access to these narrower bands provides a far more precise estimate of the luminosity of 
 light reflecting off of plants.  
 
-In __Figure 3__  the spectral response of a Parrot Sequoia camera is shown. Green here is captured in the 530–570 nm band 
+In __Figure 3__  the spectral response of a Parrot Sequoia camera is shown. Green is captured in the 530–570 nm band 
 with peak absorption around 550 nm. The reflectance of green light is often correlated with leaf chlorophyll content. 
 
 Red light is very strongly absorbed by plant material and its variation often relates to factors such as biomass, humidity and plant stress. 
-Red reflectance patterns may also help distinguish plant material from soil. Red is the most extensively used band used 
+Red reflectance patterns also help distinguish plant material from soil. Red is the most extensively used band used 
 when creating a vegetation index in agriculture.
 
 Following red is a band known as Red Edge (730–740 nm). This band corresponds with the abrupt switch from red to high reflectance NIR. 
