@@ -24,8 +24,8 @@ plant is - i.e. the more photosynthesis it carries out - the more red light it w
 directly related to the functional health of choloroplast cells within the plant since these are the locus of the photosynthetic process. 
 
 If a plant's chloroplasts are compromised then it will absorb less red light and more NIR light, and its ability to 
-photosynthesize and produce sugar will be diminished. Plants also absorb a lot of blue light, in fact they absorb more blue than red, however the rate of photosynthesis is higher
-in red light. 
+photosynthesize and produce sugar will be diminished. Plants also absorb a lot of blue light, in fact they absorb more 
+blue than red, however the rate of photosynthesis is higher in red light. 
 
 ![](img/spectral-signature.jpg)
 ###### Figure 1. Spectral signature showing behavior of healthy (green), stressed (red), nitrogen deficient (yellow), and necrotic (purple). 
@@ -85,8 +85,7 @@ narrow-band multi-spectral instruments.
 ![](img/sequoia.png)
 ###### Figure 3. Narrow band spectral response of a Parrot Sequoia camera.
 
-Specialized multispectral cameras contain 'band-pass' filters which narrow the wavelengths of light to more 
-narrow bands. Having access to these narrower bands provides a far more precise estimate of the luminosity of 
+Specialized multispectral cameras contain 'band-pass' filters which taper the wavelengths of light into narrower bands. Having access to these narrower bands provides a far more precise estimate of the luminosity of 
 light reflecting off of plants.  
 
 In __Figure 3__  the spectral response of a Parrot Sequoia camera is shown. Green is captured in the 530–570 nm band 
