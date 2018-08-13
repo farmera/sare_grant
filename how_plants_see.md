@@ -88,7 +88,7 @@ narrow-band multi-spectral instruments.
 Specialized multispectral cameras contain 'band-pass' filters which taper the wavelengths of light into narrower bands. Having access to these narrower bands provides a far more precise estimate of the luminosity of 
 light reflecting off of plants.  
 
-In __Figure 3__  the spectral response of a Parrot Sequoia camera is shown. Green is captured in the 530–570 nm band 
+In __Figure 3__  the spectral response of a Parrot Sequoia camera is shown. Using this camera, green is captured in the 530–570 nm band 
 with peak absorption around 550 nm. The reflectance of green light is often correlated with leaf chlorophyll content. 
 
 Red light is very strongly absorbed by plant material and its variation often relates to factors such as biomass, humidity and plant stress. 
