@@ -97,7 +97,7 @@ Following Red is a band known as Red Edge (730–740 nm). This band corresponds 
 and the much higher reflectance values of NIR light. An increase in Red Edge reflectance occurs when a plant is under 
 nutrient stress.
 
-The Near Infrared (NIR) band is captured in the 770-810 nm range. NIR is reflected away the most when compared with other bands 
+The Near Infrared (NIR) band is captured in the 770-810 nm range. NIR is reflected away most when compared with the other bands 
 and is generally sensitive to plant health and type. Since chlorophyll pigment does not influence NIR reflectance it is 
 often used to 'normalize' the more chlorophyll-receptive bands. A drop in NIR reflectance usually indicates that a plant is under stress. 
 The Red and NIR bands were the most extensively used bands in this study.   
