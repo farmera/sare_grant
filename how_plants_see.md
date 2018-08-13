@@ -89,7 +89,7 @@ Specialized multispectral cameras contain 'band-pass' filters which narrow the w
 narrow bands. Having access to these narrower bands provides a far more precise estimate of the luminosity of 
 light reflecting off of plants. In __Figure 3__  the spectral response of a Parrot Sequoia camera is shown. 
 
-The green light is captured in the 530–570 nm spectral band with a peak absorption at around 550 nm. This band can be 
+Green light is captured in the 530–570 nm spectral band with a peak absorption at around 550 nm. This band can be 
 correlated with leaf chlorophyll content. Red light is captured in the 640–680 nm spectral band. Reflectance in the red band 
 varies in proportion to factors such as biomass, humidity and plant stress. Red light is only partially reflected most is used by the plant
 to drive photosynthesis. The red band is used most often when creating a vegetation index for agriculture. Following red is
