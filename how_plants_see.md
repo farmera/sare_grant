@@ -87,12 +87,16 @@ camera designed from the ground up to function as a truly narrow-band multi-spec
 
 Specialized multispectral cameras contain 'band-pass' filters which narrow the wavelengths of light to more 
 narrow bands. Having access to these narrower bands provides a far more precise estimate of the luminosity of 
-light reflecting off of plants. In __Figure 3__  the spectral response of a Parrot Sequoia camera is shown. 
+light reflecting off of plants.  
 
-Green light is captured in the 530–570 nm spectral band with a peak absorption at around 550 nm. Green reflectance values are 
-often correlated with leaf chlorophyll content. The red light is captured in the 640–680 nm spectral band. Reflectance in the red band 
-varies in proportion to factors such as biomass, humidity and plant stress. Red is only partially reflected and most is used by the plant
-to drive photosynthesis. Following red is a band known as Red Edge (730–740 nm). This band corresponds with the abrupt switch from red to high reflectance NIR. 
+In __Figure 3__  the spectral response of a Parrot Sequoia camera is shown. Green is being captured in the 530–570 nm band 
+with peak absorption around 550 nm. Green reflectance values are often correlated with leaf chlorophyll content. 
+
+Red light is strongly absorbed by plants and its variation often relates to factors such as biomass, humidity and plant stress. 
+Red reflectance patterns may also help distinguish plant material from soil. Red is the most extensively used band used 
+when creating a vegetation index in agriculture.
+
+Following red is a band known as Red Edge (730–740 nm). This band corresponds with the abrupt switch from red to high reflectance NIR. 
 An increase in reflectance of this band results when a plant is under nutrient stress.
 
 Near Infrared, which corresponds to the wavelengths in the 770 nm to 810 nm range, has the strongest reflectance of the bands studied. This band is sensitive to plant vigor and crop type. Pigments such as chlorophyll do not influence the Near Infrared so it is often used to normalize chlorophyll-sensitive wavebands. Moreover, a reduction of the reflectance in this band results when a plant is under stress. Along with the Red spectral band, Infrared is extensively used for compiling most of the vegetation indices in agriculture.   
