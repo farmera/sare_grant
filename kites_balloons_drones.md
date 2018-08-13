@@ -1,6 +1,6 @@
 ### 4 - Kites, Balloons, and Drones
 
-#### Aerial Photography
+#### Introduction
 * The goal in aerial data capture is to produce consistent, stable images.
 * Cameras in flight are inherently unstable.
 
