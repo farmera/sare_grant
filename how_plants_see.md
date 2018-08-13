@@ -85,7 +85,7 @@ camera designed from the ground up to function as a truly narrow-band multi-spec
 ![](img/sequoia.png)
 ###### Figure 3.
 
-Specialized multispectral cameras contain 'band-pass' filters which whittle down the wavelengths of light to more 
+Specialized multispectral cameras contain 'band-pass' filters which narrow the wavelengths of light to more 
 narrow bands. Having access to these narrower bands provides a far more precise estimate of the luminosity of 
 light reflecting off of plants.    
 
