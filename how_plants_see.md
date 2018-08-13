@@ -99,7 +99,8 @@ when creating a vegetation index for agriculture.
 Following red is a band known as Red Edge (730–740 nm). This band corresponds with the abrupt switch from red to high 
 reflectance NIR light. An sharp increase in this band's reflectance occurs when a plant is under nutrient stress.
 
-Near Infrared, which corresponds to the wavelengths in the 770 nm to 810 nm range, has the strongest reflectance of the bands studied. This band is sensitive to plant vigor and crop type. Pigments such as chlorophyll do not influence the Near Infrared so it is often used to normalize chlorophyll-sensitive wavebands. Moreover, a reduction of the reflectance in this band results when a plant is under stress. Along with the Red spectral band, Infrared is extensively used for compiling most of the vegetation indices in agriculture.   
+Near Infrared (NIR) light is captured in the 770-810 nm range. NIR light is reflected of all the bands. 
+This band is sensitive to plant vigor and crop type. Pigments such as chlorophyll do not influence the Near Infrared so it is often used to normalize chlorophyll-sensitive wavebands. Moreover, a reduction of the reflectance in this band results when a plant is under stress. Along with the Red spectral band, Infrared is extensively used for compiling most of the vegetation indices in agriculture.   
 
 #### Summary
 
