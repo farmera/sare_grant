@@ -96,12 +96,12 @@ Red light is strongly absorbed by plants and its variation may often relate to a
 Red reflectance also helps to distinguish plant life from soil. The Red band is used extensively when creating a 
 vegetation index.
 
-Following Red is a band known as Red Edge (730–740 nm). This band corresponds with an abrupt switch that occurs between red 
-light and much higher reflectance values of NIR light. An increase in Red Edge reflectance occurs when a plant is under 
+Following Red is a band known as Red Edge (730–740 nm). This band corresponds with an abrupt switch that occurs between Red 
+and much higher reflectance values of NIR light. An increase in Red Edge reflectance occurs when a plant is under 
 nutrient stress.
 
-The Near Infrared (NIR) band is captured in the 770-810 nm range. NIR light is reflected away the most compared with all other bands. 
-and is sensitive to plant health and variety. Since chlorophyll pigments do not influence NIR it is often used to 'normalize' 
+The Near Infrared (NIR) band is captured in the 770-810 nm range. NIR light is reflected away the most compared with other bands 
+and is generally sensitive to plant health and variety. Since chlorophyll pigments do not influence NIR it is often used to 'normalize' 
 the more chlorophyll-receptive bands. A drop in NIR reflectance indicates that a plant is under stress. 
 The Red and NIR bands were most extensively used in creating the vegetation indices used in this study.   
 
