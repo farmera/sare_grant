@@ -67,12 +67,12 @@ demonstrated by the following graphic:
 ![](img/consumer.png)
 ###### Figure 2.
 
-__Figure 2__ highlights the spectral characteristic of a generic consumer camera. What this graph shows is that the spectral 
-sensitivity of a consumer camera is not especially specific to each specific band, i.e. the bands overlap. In addition,
-each band is fairly broad, for example the red and green bands are more than 100nm wide while the blue is somewhat less so. 
-Consumer cameras are not designed to separate each band of incident light which is acceptable in the context of taking 
-most consumer pictures. When the intended goal is to provide separation for the purpose of quantifying the value of incident 
-light it's not ideal. 
+__Figure 2__ highlights the spectral characteristic of a generic consumer camera. This graph indicates that consumer camera 
+are not specifically sensitive to each narrow band, i.e. the bands overlap. In addition,
+each band is fairly broad, for example the red and green bands are more than 100nm wide while the blue is somewhat less. 
+Consumer cameras are not designed to separate bands of incident light which is acceptable in the context of taking 
+most consumer pictures. When the intended goal is to provide separation for the purpose of quantifying the value of 
+light it's less than ideal. 
 
 #### Professional Multi-Spectral Cameras
 
