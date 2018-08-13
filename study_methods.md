@@ -201,7 +201,13 @@ __Figure 8__ indicates what is so valuable about the Sequoia camera with respect
 The most troublesome aspect of a consumer camera (as discussed in [Section 4](kites_balloons_drones.md)) is the image format and 
 the difficulty of calibrating each image such that the final stitched product contains uniform pixel intensities which accurately
 reflect the intensity of light during a particular flight. Calibration is critical both within a flight (since many images 
-are stitched together) and between flights on successive days (since illuminant conditions will differ).
+are stitched together) and between flights on successive days (since illuminant conditions will change from day to day). 
+If the intensity of light varies from moment to moment or from day to day, the amount of reflected light energy from the 
+field will be altered and the result will be distortion of the result. 
+
+To manage variability of light the Sequoia camera uses a 'sunshine sensor' in addition that continuously records the 
+ambient light in the same spectral bands as the multi-spectral sensor in the camera. This allows the camera to be used in 
+clear or overcast conditions.
 
 #### Summary
 
