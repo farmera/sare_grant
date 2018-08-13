@@ -205,10 +205,10 @@ are stitched together) and between flights on successive days (since illuminant 
 If the intensity of light varies from moment to moment or from day to day, the amount of reflected light energy from the 
 field will be altered and the result will be distortion of the result. 
 
-To manage variability of light the Sequoia camera uses a 'sunshine sensor' in addition that continuously records the 
-ambient light in the same spectral bands as the multi-spectral sensor in the camera. This allows the camera to be used in 
-clear or overcast conditions on the same day as each image can be adjusted accordingly on the fly. This improvement was key
-to allowing us to record image data in a consistent and repeatable way. 
+To manage the inherent variability of light the Sequoia camera uses a 'sunshine sensor' to continuously record the 
+ambient light condition in the same spectral bands as the multi-spectral sensor does in the camera. This allows the camera to be used in 
+clear or overcast conditions on the same day as each image may be adjusted accordingly on-the-fly. This improvement was key
+to allowing us to record image data in a consistent and repeatable manner. 
 
 #### Summary
 
