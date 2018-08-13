@@ -77,7 +77,7 @@ each band of light it's less than ideal.
 #### Professional Multi-Spectral Cameras
 
 * Multispectral cameras are tuned to capture multiple, narrow bands of light.
-* The 'spectral signature' of a plant helps indicate its productivity.
+* The 'spectral signature' of a plant can help us understand its health and productivity.
 
 An alternative to consumer-grade RGB cameras is a more expensive 
 camera designed from the ground up to function as a truly narrow-band multi-spectral instrument. 
