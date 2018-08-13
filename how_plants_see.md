@@ -94,7 +94,7 @@ with peak absorption around 550 nm. The reflectance of green light is often corr
 
 Red light is very strongly absorbed by plant material and its variation often relates to factors such as biomass, humidity and plant stress. 
 Red reflectance patterns also help distinguish plant material from soil. Red is the most extensively used band used 
-when creating a vegetation index in agriculture.
+when creating a vegetation index for agriculture.
 
 Following red is a band known as Red Edge (730–740 nm). This band corresponds with the abrupt switch from red to high reflectance NIR. 
 An increase in reflectance of this band results when a plant is under nutrient stress.
