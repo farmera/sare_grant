@@ -193,12 +193,6 @@ to do so in the 2017 season.
 The Sequoia camera is the same size as a GoPro, it's small, lightweight and well-suited as a payload for a consumer-style 
 drone such as the 3DR Solo. The camera includes a 'sun sensor' which sits on top of the drone (the camera is below pointing 
 down).  
- 
-
-![](img/cane-reflect.png)
-###### Figure 3. Spectral signature yielded from a sugarcane plant in healthy or stressed conditions. 
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
 
 ![](img/sequoia-concept.png)
 ###### Figure 8. A typical spectral signature as yielded from a sugarcane field. 
