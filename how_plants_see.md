@@ -79,8 +79,8 @@ each band of light it's less than ideal.
 * Multispectral cameras are tuned to capture multiple, narrow bands of light.
 * The 'spectral signature' of a plant can help us understand its health and productivity.
 
-An alternative to consumer-grade RGB cameras is a more expensive 
-camera designed from the ground up to function as a truly narrow-band multi-spectral instrument. 
+An alternative to consumer-grade RGB cameras are more expensive cameras designed from the ground up to function as a 
+narrow-band multi-spectral instruments. 
 
 ![](img/sequoia.png)
 ###### Figure 3. Narrow band spectral response of a Parrot Sequoia camera.
