@@ -92,15 +92,18 @@ an object.
 In __Figure 3__  the spectral response of a Parrot Sequoia camera is shown. With this camera green light is captured in the 530–570 nm band 
 with peak absorption around 550 nm. The reflectance of green is often correlated with leaf chlorophyll content. 
 
-Red light is very strongly absorbed by plants and variation in its reflectance often relates to factors such as biomass, humidity and plant stress. 
-Red reflectance patterns also help distinguish plant material from soil. Red is the most extensively used band used 
-when creating a vegetation index for agriculture.
+Red light is strongly absorbed by plants and its variation may often relate to attributes such as biomass, humidity and stress level. 
+Red reflectance may also help to distinguish plant from soil. Red is the most extensively used band when creating a 
+vegetation index in agriculture.
 
-Following red is a band known as Red Edge (730–740 nm). This band corresponds to the abrupt switch that occurs from red to high 
-reflectance NIR light. An sharp increase in this band's reflectance occurs when a plant is under nutrient stress.
+Following red is a band known as Red Edge (730–740 nm). This band corresponds with the abrupt switch that occurs between red 
+and the much higher reflectance value of NIR light. An increase in Red Edge reflectance occurs whenever a plant is under 
+nutrient stress.
 
-Near Infrared (NIR) light is captured in the 770-810 nm range. NIR light is reflected of all the bands. 
-This band is sensitive to plant vigor and crop type. Pigments such as chlorophyll do not influence the Near Infrared so it is often used to normalize chlorophyll-sensitive wavebands. Moreover, a reduction of the reflectance in this band results when a plant is under stress. Along with the Red spectral band, Infrared is extensively used for compiling most of the vegetation indices in agriculture.   
+The Near Infrared (NIR) band is captured in the 770-810 nm range. NIR light is reflected away most of all the bands. 
+and is sensitive to plant health and variety. Since chlorophyll pigments do not influence NIR it is often used to 'normalize' 
+the more chlorophyll-receptive bands. A drop in NIR reflectance indicates that a plant is under stress. 
+The Red and NIR bands were most extensively used in creating the vegetation indices used in this study.   
 
 #### Summary
 
