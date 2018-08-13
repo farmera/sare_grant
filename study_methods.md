@@ -182,7 +182,7 @@ more than a couple hundred yards cost anywhere from $10–30K. Small, high-resol
 could add another $15-35K. 
 
 ![](img/sequoia_sensor.png)
-###### Figure 7. A multi-spectral narrow band camera, the Sequoia, produced by Parrot. On the right is the Sunshine sensor. 
+###### Figure 7. A multi-spectral narrow band camera, the Sequoia, developed by Micasense. On the right is the Sunshine sensor. 
 
 At the same time that UAV drone prices were rapidly falling so too were options presented to us regarding use of a 
 professional grade instrument (in place of a consumer camera). A Washington state-based company named Micasense produced 
@@ -190,8 +190,8 @@ the first small form-factor multi-spectral camera, the Sequoia, in 2016. Though 
 to a modified consumer camera, it was not out of the question that we might test it. With Micasense's help we were able 
 to do so in the 2017 season. 
 
-The Sequoia camera is the same size as a GoPro camera, it's small and lightweight and well-suited as payload for a consumer 
-style drone such as the 3DR Solo. The camera also includes a 'sun sensor' which sits on top of the drone (the camera is below pointing
+The Sequoia camera is the same size as a GoPro, it's small, lightweight and well-suited as a payload for a consumer-style 
+drone such as the 3DR Solo. The camera includes a 'sun sensor' which sits on top of the drone (the camera is below pointing 
 down).  
  
 
