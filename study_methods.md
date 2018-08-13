@@ -184,7 +184,12 @@ could add another $15-35K.
 ![](img/sequoia_sensor.png)
 ###### Figure 7. A multi-spectral narrow band camera, the Sequoia, produced by Parrot. On the right is the Sunshine sensor. 
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+At the same time that UAV drone prices were rapidly falling so too were options presented to us regarding use of a 
+professional grade instrument (in place of a consumer camera). A Washington state-based company named Micasense produced 
+the first small form-factor multi-spectral camera, the Sequoia, in 2016. Though the price of this instrument is high relative 
+to a modified consumer camera, it was not out of the question that we might test it. With Micasense's help we were able 
+to do so in the 2017 season. 
+ 
 
 ![](img/cane-reflect.png)
 ###### Figure 3. Spectral signature yielded from a sugarcane plant in healthy or stressed conditions. 
