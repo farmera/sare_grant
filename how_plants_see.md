@@ -91,17 +91,17 @@ In __Figure 3__  the spectral response of a Parrot Sequoia camera is shown. With
 with peak absorption around 550 nm. The reflectance of Green is often correlated with leaf chlorophyll content. 
 
 Red light is strongly absorbed by plants and its variation may often relate to attributes such as biomass, humidity and stress level. 
-Red reflectance also helps to distinguish plant life from soil. The Red band is used extensively when creating a 
+Red reflectance also helps to distinguish plant from soil. The Red band is used extensively when creating a 
 vegetation index.
 
 Following Red is a band known as Red Edge (730–740 nm). This band corresponds with an abrupt switch that occurs between Red 
-and much higher reflectance values of NIR light. An increase in Red Edge reflectance occurs when a plant is under 
+and the much higher reflectance values of NIR light. An increase in Red Edge reflectance occurs when a plant is under 
 nutrient stress.
 
-The Near Infrared (NIR) band is captured in the 770-810 nm range. NIR light is reflected away the most compared with other bands 
-and is generally sensitive to plant health and variety. Since chlorophyll pigments do not influence NIR it is often used to 'normalize' 
-the more chlorophyll-receptive bands. A drop in NIR reflectance indicates that a plant is under stress. 
-The Red and NIR bands were most extensively used in creating the vegetation indices used in this study.   
+The Near Infrared (NIR) band is captured in the 770-810 nm range. NIR is reflected away the most when compared with other bands 
+and is generally sensitive to plant health and type. Since chlorophyll pigments do not influence NIR it is often used to 'normalize' 
+more chlorophyll-receptive bands. A drop in the reflectance of NIR usually indicates that a plant is under stress. 
+The Red and NIR bands were the most extensively used bands when creating the vegetation indices used in this study.   
 
 #### Summary
 
