@@ -189,6 +189,10 @@ professional grade instrument (in place of a consumer camera). A Washington stat
 the first small form-factor multi-spectral camera, the Sequoia, in 2016. Though the price of this instrument is high relative 
 to a modified consumer camera, it was not out of the question that we might test it. With Micasense's help we were able 
 to do so in the 2017 season. 
+
+The Sequoia camera is the same size as a GoPro camera, it's small and lightweight and well-suited as payload for a consumer 
+style drone such as the 3DR Solo. The camera also includes a 'sun sensor' which sits on top of the drone (the camera is below pointing
+down).  
  
 
 ![](img/cane-reflect.png)
