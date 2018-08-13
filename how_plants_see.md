@@ -86,7 +86,7 @@ true narrow-band multi-spectral instrument.
 ###### Figure 3. Narrow band spectral response of a Parrot Sequoia camera.
 
 Specialized multispectral cameras contain 'band-pass' filters which taper each wavelength of light. 
-Gaining access to a much narrower band in this way allows for more precise estimation of actual luminosity values.  
+Gaining access to a much narrower band in this way allows for more precise estimation of the actual luminosity values.  
 
 In __Figure 3__  the spectral response of a Parrot Sequoia camera is shown. With this camera Green light is captured in the 530–570 nm band 
 with peak absorption around 550 nm. The reflectance of Green is often correlated with leaf chlorophyll content. 
