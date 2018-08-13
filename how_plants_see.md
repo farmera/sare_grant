@@ -70,7 +70,7 @@ demonstrated by the following graphic:
 __Figure 2__ highlights the spectral characteristic of a generic consumer camera. This graph indicates that consumer cameras 
 are not specifically sensitive in the narrow band, i.e. the red, green and blue bands overlap. In addition,
 each is fairly broad, for example the red and green bands are more than 100nm wide while the blue is somewhat less. 
-Consumer cameras were not designed to separate each band of incident light which is acceptable in the context of taking 
+Consumer cameras were not designed to separate bands of incident light which is acceptable in the context of taking 
 most consumer pictures. When the intended goal is to provide separation for the purpose of quantifying values of 
 each band of light it's less than ideal. 
 
