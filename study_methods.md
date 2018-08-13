@@ -199,8 +199,9 @@ down).
 
 __Figure 8__ indicates what is so valuable about the Sequoia camera with respect to other camera solutions that were tried.
 The most troublesome aspect of a consumer camera (as discussed in [Section 4](kites_balloons_drones.md)) is the image format and 
-the difficulty of calibrating each image such that the final stitched image contains uniform pixel intensities that accurately
-reflect the intensity of light during a particular flight. 
+the difficulty of calibrating each image such that the final stitched product contains uniform pixel intensities which accurately
+reflect the intensity of light during a particular flight. Calibration is critical both within a flight (since many images 
+are stitched together) and between flights on successive days (since illuminant conditions will differ).
 
 #### Summary
 
