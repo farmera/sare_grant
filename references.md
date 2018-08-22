@@ -21,7 +21,11 @@
 
 * Elvidge, C. D., and Chen, Z. (1995). Comparison of broad-band and narrow- band red and near-infrared vegetation indices. Remote Sens. Environ. 54, 38–48. doi: 10.1016/0034-4257(95)00132-K
 
+* Gitelson, A., and M. Merzlyak. "Remote Sensing of Chlorophyll Concentration in Higher Plant Leaves." Advances in Space Research 22 (1998): 689-692.
+
 * Guilherme, M.S. Duft, D.G., Kölln, O.T., et.al. The potential for RGB images obtained using unmanned aerial vehicle to assess and predict yield in sugarcane fields, International Journal of Remote Sensing, DOI: 10.1080/01431161.2018.1448484 (2018).
+
+* Guyot, G., 1990, Optical properties of vegetation canopies. In Application of Remote Sensing in Agriculture, M.
 
 * Haboudane, D., Miller, J. R., Tremblay, N., Zarco-Tejada, P. J., and Dextraze, L. (2002). Integrated narrow-band vegetation indices for prediction of crop chlorophyll content for application to precision agriculture. Remote Sens. Environ. 81, 416–426. doi: 10.1016/S0034-4257(02)00018-4.
 
@@ -73,31 +77,38 @@ PLoS ONE 2016, 11, e0158268.
 * Zhang, C.; Kovacs, J.M. The application of small unmanned aerial systems for precision agriculture:
 A review. Precis. Agric. 2012, 13, 693–712.
 
+
+###### Section 1
+ 
+* image source: https://gamaya.com/wp-content/themes/gamaya/images/sugarcane-banner.jpg (used with permission)
+
 ###### Section 2 
-http://www.pcigeomatics.com/geomatica-help/COMMON/concepts/Mosaic_explainMosaicking.html
 
-###### Section 3 
-* History of Aerial Photography Professional Aerial Photographers Association (retrieved 5 October 2016)
-* https://en.wikipedia.org/wiki/Nadar
-* Ron Marcisak https://www.flickr.com/photos/ronskap/13173764143/in/pool-kaprigs/
-* Alan McConchie https://www.flickr.com/photos/almccon/
-* Sam Pepple, Sample Cartography (stiched map image)
-* Chris Fastie, Courtesy of the [Public Lab](https://publiclab.org/).
+__Figure 1__ image source: https://gamaya.com/blog-post/hyperspectral-imaging-in-agriculture/ (used with permission).
+__Figure 2__ image source: https://www.micasense.com/ (used with permission).
+__Figure 3__ image source: https://www.micasense.com/ (used with permission).
 
 ###### Section 4 
-* __Figure 1__ Image source: https://earthobservatory.nasa.gov/Features/MeasuringVegetation/measuring_vegetation_2.php
 
-###### Section 4 
-* Gitelson, A., and M. Merzlyak. "Remote Sensing of Chlorophyll Concentration in Higher Plant Leaves." Advances in Space Research 22 (1998): 689-692.
-* GUYOT, G., 1990, Optical properties of vegetation canopies. In Application of Remote Sensing in Agriculture, M.
+* https://en.wikipedia.org/wiki/Nadar (Brooklyn Museum, no known copyright restrictions).
+* Ron Marcisak https://www.flickr.com/photos/ronskap/13173764143/in/pool-kaprigs/ (used with permission).
+* Alan McConchie https://www.flickr.com/photos/almccon/ (used with permission) .
+* Sam Pepple, Sample Cartography (used with permission)
+* Chris Fastie, Courtesy of the [Public Lab](https://publiclab.org/), (used with permission).
 
 ###### Section 5 
-* image source: https://gamaya.com/wp-content/themes/gamaya/images/sugarcane-banner.jpg
-* image source: https://gamaya.com/blog-post/hyperspectral-imaging-in-agriculture/
-* image source: https://www.webcoursesbangkok.com/blog/vector-graphics/
+__Figure 4__ image source: https://www.micasense.com/ (used with permission).
+__Figure 5__ image source: https://gamaya.com/wp-content/themes/gamaya/images/sugarcane-banner.jpg (used with permission)
+* image source: https://gamaya.com/blog-post/hyperspectral-imaging-in-agriculture/. (used with permission)
+
+###### Section 6
+__Figure 1__ image source: http://www.pcigeomatics.com/geomatica-help/COMMON/concepts/Mosaic_explainMosaicking.html (used with permission).
+__Figure 2__ image source: http://www.pcigeomatics.com/geomatica-help/COMMON/concepts/Ortho_explainRigorous.html (used with permission).
 
 ###### Section 8
+
 https://blog.dronedeploy.com/seven-ways-to-improve-the-accuracy-of-your-drone-maps-9d3161f05956
+http://www.pcigeomatics.com/geomatica-help/COMMON/concepts/Mosaic_explainMosaicking.html
 
 ![](img/farmera.png) 
 
