@@ -2,115 +2,60 @@
 
 #### Basic Plant Biology
 
-* Plants use chlorophyll, water, and carbon dioxide to synthesize sugar. Sugars make the plant.
-* Chloroplasts cells contain chlorophyll which absorbs light, mainly in red and blue wavelengths.
+* Plants use chlorophyll, water, and carbon dioxide to synthesize sugars.
+* Chloroplasts cells contain chlorophyll which absorbs light, mainly in Red and Blue wavelengths.
 
-While our study's purpose was to provide an assessment regarding use of aerial tools for determining the health 
-and productivity of sugar cane, before discussing our approach, we first discuss basic principles of what such 
-systems measure and how they achieve their results. 
+Our study sought to provide an assessment regarding the use of aerial imaging to determine the health and productivity of sugarcane. Before discussing our work, we first consider some basic principles of what such systems measure and how they achieve their results.
 
-Photosynthesis is the process that plants use to synthesize sugar from carbon dioxide and water. 
-The leaves of a plant contain photosynthetic engines called chloroplasts. When sunlight hits these cells they absorb the 
-red and blue wavelengths of light while reflecting away most of the others. Thus it is __filtered light__, along with water 
-and carbon dioxide, that produces sugar for the plant and oxygen for the environment.
+Photosynthesis is the process used by plants to synthesize sugar from carbon dioxide and water. The leaves of a plant contain photosynthetic engines known as chloroplasts. When sunlight hits these cells they absorb the Red and Blue wavelengths of light while reflecting away most others. Water, carbon dioxide, and __filtered light__ produce sugars for the plant and oxygen for the environment.
 
 #### Blue, Green, Red and Near Infra Red (NIR)
 
-* Healthy plants absorb red and blue but reflect away most of the NIR light.
+* Healthy plants absorb Red and Blue bands of light while reflecting away most of the NIR.
+* Near infrared (NIR) light is generally damaging to plants.
 
-Light visible to the human eye lies roughly between 380 and 750 nanometers (nm) along the continuous electromagnetic spectrum. 
-Plants are also receptive to light, although the mechanism involved is quite distinct from humans. The more healthy a 
-plant is - i.e. the more photosynthesis it carries out - the more red light it will tend to absorb. This tendency is 
-directly related to the functional health of choloroplast cells within the plant since these are the locus of the photosynthetic process. 
+Light visible to the human eye lies roughly between 380 and 750 nanometers (nm) along the electromagnetic spectrum. Plants are also receptive to light though the mechanisms involved are distinct from humans. The more healthy a plant is – i.e. the more photosynthesis it carries out – the more Red it tends to absorb. This behavior is correlated with the functional health of chloroplast cells as these are the drivers of photosynthesis.
 
-If a plant's chloroplasts are compromised then it will absorb less red light and more NIR light, and its ability to 
-photosynthesize and produce sugar will be diminished. Plants also absorb a lot of blue light, in fact they absorb more 
-blue than red, however the rate of photosynthesis is higher in red light. 
+If a plant’s chloroplasts are damaged they will tend to absorb less Red light while reflecting away less near infrared (NIR). The ability to photosynthesize and produce sugar will likewise be diminished. Plants also absorb Blue, in fact they absorb more Blue than Red, however the rate of photosynthesis is higher in terms of the amount of Red absorbed.
 
-![](img/spectral-signature.jpg)
+In addition to absorbing Red (and Blue) and reflecting Green, healthy plants reflect away most of the NIR. NIR light is not visible to humans and neither may plants convert this higher energy form of light to useful work. It is in part to avoid the damage that NIR might otherwise cause that plants reflect most of it away.
+
+
+![](images/spectral-signature.jpg)
 ###### Figure 1. Spectral signature showing behavior of healthy (green), stressed (red), nitrogen deficient (yellow), and necrotic (purple). 
 
-In addition to absorbing red (and blue) and reflecting green, most healthy plants tend to reflect away most of 
-the NIR light. This tendency is shown in the graph above. NIR light is not in the human visible spectrum 
-and neither may plants convert the higher energy of NIR to do useful work. It is in part to avoid the 
-damage that NIR might otherwise cause that plants reflect most of it away. 
+In __Figure 1__ reflectance values are on the ‘y’ (vertical) axis while the wavelength of light is on the ‘x’ (horizontal) axis. In healthy plants Blue is largely absorbed and only a little is reflected. As we move into the Green the amount of reflectance increases. In the Red it is again diminished while in the NIR (the grey region) almost all is reflected away.
 
-In the above graph, reflectance values are on the 'y' (vertical) axis while the wavelength of light is on the 'x' 
-(horizontal) axis. In healthy plants blue light is largely absorbed and only a little is reflected. As we move further 
-into the green we see that the amount of reflectance increases. In the red it is again diminished while in the NIR 
-(the grey region) almost all is reflected away. 
+In addition to showing the ‘spectral signature’ of a generic plant this graph indicates important differences between healthy and unhealthy plants. The green line shows the reflectance profile of a healthy plant while the red line indicates a distressed one. Note that unhealthy plants absorb less in the Blue and Red while absorbing more (reflecting much less) in the NIR portion.
 
-In addition to showing the generic 'spectral signature' of plants this graph also indicates the difference 
-between plants that are healthy and those that are not. The green line indicates health while red demonstrates distress. 
-Note that an unhealthy plant absorbs less in the blue and red parts of the spectrum while absorbing more (reflecting less) 
-in the NIR portion.   
+The spectral signature of sugarcane generally follows that of any other green leafy plant – it absorbs 60 to 85 percentage of incident light minus the Green band (most is reflected away, hence leaves appear green to us) and minus most of the NIR light. Sugarcane’s outer leaf is nearly transparent to infrared light while its inner mesophyll scatters this radiation either upward (reflection) or downward (transmission).
+
+In recent decades remote sensing technology has improved and use of multi-spectral imagery has become an effective tool in monitoring vegetation conditions. The goal in gathering multi-spectral imagery for crop monitoring is to use a camera with sufficient sensitivity in all bands of the spectrum. As the price of sensors has continued to drop the range of options has increased, sometimes dramatically.    
  
+![](images/consumer.png)
+###### Figure 2. Spectral signature of a typical consumer-type RGB camera.
 
-#### Consumer RGB Cameras
-* Spectral bands collected by RGB cameras overlap, which may lead to contaminated values.
-* Modified RGB cameras are difficult to calibrate.
 
-So how does one 'see' the sorts of spectral signatures that a field of sugarcane exhibits? An obvious start (discussed in 
-[Section 3](study_methods.md)) is to get the right sort of camera into the air and take a lot of pictures.
-In a market that's rapidly evolving knowing how to choose the right camera at reasonable cost can be a challenge.
-
-In a sense all cameras are multi-spectral insofar as they capture more than a single band of light. The typical consumer
-camera is sensitive to light in the red, green and blue parts of the spectrum. As a rule they do 
-not capture light outside of the familiar RGB range. Or do they? In fact any standard Canon Powershot (the kind you can 
-find on Ebay for $100) in fact __does__ capture NIR light but this capacity has been concealed by the manufacturer (to 
-reinstate it just remove a filter). Suffice it to say that mass production provides digital sensors with a
-high degree of often unrealized sophistication.
- 
-While consumer cameras may be 'hacked' such that they absorb both visible and NIR light, a problem in doing so is 
-demonstrated by the following graphic:
-
-![](img/consumer.png)
-###### Figure 2.
-
-__Figure 2__ highlights the spectral characteristic of a generic consumer camera. This graph indicates that consumer cameras 
-are not specifically sensitive in the narrow band, i.e. the red, green and blue bands overlap. In addition,
-each is fairly broad, for example the red and green bands are more than 100nm wide while the blue is somewhat less. 
-Consumer cameras were not designed to separate bands of incident light which is acceptable in the context of taking 
-most consumer pictures. When the intended goal is to provide separation for the purpose of quantifying values it's less than ideal. 
+__Figure 2__ highlights the spectral characteristic of a generic consumer camera. The graph indicates that consumer cameras are sensitive in the Red, Green and Blue parts of the spectrum but not specifically in each narrow band, i.e. the RGB bands overlap. The ‘width’ of the Blue and Red bands is 100nm while the Green is somewhat less wide. Consumer cameras are not designed to separate each band of light which is acceptable in the context of taking consumer pictures. When the intended goal is to provide separation for purposes of quantifying luminosity values it’s less than ideal.
 
 #### Professional Multi-Spectral Cameras
+* Multi-spectral cameras are tuned to capture multiple, narrow bands of light.
+* The ‘spectral signature’ of a plant can help us understand its health and productivity.
+ 
+Our study made use of consumer cameras as tools for gathering multi-spectral imagery with mixed results. An alternative to consumer-grade RGB cameras is a more expensive camera designed from the ground up to function as a true narrow-band instrument. Specialized multi-spectral cameras contain ‘band-pass’ filters which taper each wavelength of light. Gaining access to a narrower band in this way allows for more precise estimation of luminosity values.
 
-* Multispectral cameras are tuned to capture multiple, narrow bands of light.
-* The 'spectral signature' of a plant can help us understand its health and productivity.
-
-An alternative to consumer-grade RGB cameras is a more expensive camera designed from the ground up to function as a 
-true narrow-band multi-spectral instrument. 
-
-![](img/sequoia.png)
+![](images/sequoia.png)
 ###### Figure 3. Narrow band spectral response of a Parrot Sequoia camera.
 
-Specialized multispectral cameras contain 'band-pass' filters which taper each wavelength of light. 
-Gaining access to a much narrower band in this way allows for more precise estimation of the actual luminosity values.  
+In __Figure 3__ the spectral response of a Parrot Sequoia camera is shown. With this camera Green is captured in the 530–570 nm band with peak absorption around 550 nm. The reflectance of Green is often correlated with leaf chlorophyll content. Variation in the Red band (660nm) often reflects changing attributes such as biomass, humidity and stress. Red reflectance also helps to distinguish plant from soil material.
 
-In __Figure 3__  the spectral response of a Parrot Sequoia camera is shown. With this camera Green light is captured in the 530–570 nm band 
-with peak absorption around 550 nm. The reflectance of Green is often correlated with leaf chlorophyll content. 
+Following Red is a very narrow band known as the Red Edge (730–740 nm). This band corresponds to the abrupt switch that occurs between Red and the higher reflectance values of NIR. An increase in Red Edge reflectance occurs often when a plant is experiencing nutrient stress.
 
-Red light is strongly absorbed by plants and its variation may often relate to attributes such as biomass, humidity and stress level. 
-Red reflectance also helps to distinguish plant from soil. 
-
-Following Red is a band known as Red Edge (730–740 nm). This band corresponds with an abrupt switch that occurs between Red 
-and the much higher reflectance values of NIR light. An increase in Red Edge reflectance occurs when a plant is under 
-nutrient stress.
-
-The Near Infrared (NIR) band is captured in the 770-810 nm range. NIR is reflected away most when compared with the other bands 
-and is generally sensitive to plant health and type. Since chlorophyll pigment does not influence NIR reflectance it is 
-often used to 'normalize' the more chlorophyll-receptive bands. A drop in NIR reflectance usually indicates that a plant is under stress. 
-The Red and NIR bands were the most extensively used bands in this study.   
+The near infrared (NIR) band is captured in the 770-810 nm range. NIR is reflected away most when compared to the other bands and is sensitive to plant health and type. Since chlorophyll pigment does not influence NIR reflectance it is often used to ‘normalize’ the more chlorophyll-receptive bands. A drop in NIR reflectance indicates a plant under stress. The Red and NIR were the most extensively used bands in this study.  
 
 #### Summary
 
-In sections to come we go into greater detail concerning the low and high end multi-spectral cameras used in by study (with examples 
-of each in action). We'll also discuss strategies for managing the large volumes of image data generated by this sort of workflow.
-Finally, we'll consider ways of interpreting the various vegetation indices under changing environmental conditions. 
-Open-source software and image processing tools exist to make these tasks more accessible to the average user.
+In the next section we discuss different types of multi-spectral camera used in this study and provide examples of each. We also discuss strategies for managing large volumes of data that are generated by this sort of workflow. It will become apparent that managing the data along with understanding how each vegetation index performs under changing environmental conditions presents certain challenges. Open-source software and image processing tools will be used throughout to make these tasks more tractable and accessible to the average user.
 
-###### References
-
-[TBD]
  
 ![](img/farmera.png) 
