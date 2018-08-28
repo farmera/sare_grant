@@ -1,4 +1,4 @@
-### 2 - Through the Eyes of a Plant
+### Section 2 - Through the Eyes of a Plant
 
 #### Basic Plant Biology
 
