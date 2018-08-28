@@ -33,29 +33,29 @@ Our report provides background and results of a two-year study on the feasibilit
 
 Our report is organized into twelve sections. At the end of each section there is a link back to the Table of Contents.
 
-* [Abstract](abstract.md) 
+* [1 - Abstract](abstract.md) 
     * This document.
-* [Through the Eyes of a Plant](how_plants_see.md)
+* [2 - Through the Eyes of a Plant](how_plants_see.md)
     * An introduction to the biology of plant life. 
-* [Background on Methods](study_methods.md)
+* [3 - Background on Methods](study_methods.md)
     * An overview of approaches used this study. 
-* [Kites, Balloons, and Drones](kites_balloons_drones.md)
+* [4 - Kites, Balloons, and Drones](kites_balloons_drones.md)
     * A description of low-cost aerial options available, their strengths and weaknesses.
-* [Varieties of Spectral Index](spectral_indices.md)
+* [5 - Varieties of Spectral Index](spectral_indices.md)
     * A look at the kind of vegetation index used in this study.
-* [Pre-Processing Steps](pre_processing_steps.md)
+* [6 - Pre-Processing Steps](pre_processing_steps.md)
     * How raw image data were initially prepared.
-* [Post-Processing Steps](post_pricessing_steps.md)
+* [7 - Post-Processing Steps](post_pricessing_steps.md)
     * How the image data were prepared for statistical analysis.
-* [Study Results I – Balloons and Kites](study_results_balloons.md)
+* [8 - Study Results I – Balloons and Kites](study_results_balloons.md)
     * Results when using balloons and kites.
-* [Study Results II – Aerial Drones](study_results_drones.md)
+* [9 - Study Results II – Aerial Drones](study_results_drones.md)
     * Results when using Unassisted Autonomous Vehicles (UAVs), i.e. aerial drones. 
-* [Summary](summary.md)
+* [10 - Summary](summary.md)
     * What we’ve learned so far.
-* [Credits](credits.md)
+* [11 - Credits](credits.md)
     * Credits and appreciation. 
-* [References](references.md)
+* [12 - References](references.md)
     * Comprehensive listing of resources used in this study.
     
 ### Acknowledgements
@@ -65,4 +65,4 @@ projects. The goal of the SARE Producer Grant program is to provide the working 
 that address specific challenges while developing information on what works and doesn’t work. A core mission is to provide 
 information to other farmers who may be facing similar challenges.
 
-#### Next section >> [Through the Eyes of a Plant](how_plants_see.md)
+#### Next section >> [2 - Through the Eyes of a Plant](how_plants_see.md)
