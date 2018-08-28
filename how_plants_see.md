@@ -60,4 +60,4 @@ In the next section we discuss different types of multi-spectral camera used in 
  
 #### Next section >> [Background on Methods](study_methods.md)
 
-[Table of Contents](abstract.md)
+### [Table of Contents](abstract.md)
