@@ -4,26 +4,18 @@
 * The goal in aerial data capture is to produce consistent, stable images.
 * Cameras in flight are inherently unstable.
 
-The history of taking photos from high-flying objects is long and storied, involving blimps, balloons, 
-parachutes, kites, pigeons and personal drones. All these and more have been set aloft with ingenious cameras 
-attached and tools to trigger them either remotely or automatically. The French caricaturist Gaspard-Félix Tournachon (known as 'Nadar') 
-was first to fly and photograph the city of Paris from above in 1858.
+The history of taking photos from high-flying objects is long and storied, involving blimps, balloons, parachutes, kites, pigeons and personal drones. All these and more have been set aloft with ingenious cameras attached and tools to trigger them either remotely or automatically. The French caricaturist Gaspard-Félix Tournachon (known as ‘Nadar’) was first to fly and photograph the city of Paris from above in 1858.
 
 ![](img/nadar.png)
 ###### Figure 1. Gaspard-Félix Tournachon hangs on, makes history. 
 
-Whatever method is used the object remains the same: position the camera at sufficient height, point 
-it downward (as close to nadir as possible), get the shots, return the rig safely to the ground. None of the 
-methods discussed in our report performed perfectly in all respects considered. 
+Whatever method is used the object remains the same: position the camera at sufficient height, point it downward (as close to nadir as possible), get the shots, return the rig safely to the ground. None of the methods discussed in our report performed perfectly in all respects considered.
 
 #### Kites
-* Kites are easy to understand.
 * In certain conditions kites are incredibly stable and will fly for extended periods.
+* Kites are easy to understand. Most people have flown one.
 
-The image in __Figure 2__ shows a camera being suspended from a kite using a device 
-known as a Picavet (named for French inventor Pierre Picavet). The Picavet attaches the camera to the line that flies 
-the kite and holds it more or less in place. A Picavet consists of a rigid cross suspended below the kite line from 
-two points.
+The image in __Figure 2__ shows a camera being suspended from a kite using a device known as a Picavet (named for French inventor Pierre Picavet). The Picavet attaches the camera to the line that flies the kite and holds it more or less in place. A Picavet consists of a rigid cross suspended below the kite line from two points.
 
 ![](img/kite.png)
 ###### Figure 2. A camera system suspended via Picavet from a Delta-style kite. 
@@ -42,28 +34,14 @@ a pair of heavy leather gloves is always recommended!
 * Balloons serve as an alternative to kites on windless days.
 * Helium is an expensive and non-renewable resource. 
 
-__Figure 3__ shows a 2-meter wide polyethelene balloon filled with helium gas. It employs a Picavet system from which it 
-suspends a dual-camera system similar to the one shown with the kite. The main difference between balloons and kites is 
-in how each flies. Depending on size and payload (i.e. the weight of the camera plus the suspension system) a kite requires 
-a sustained wind to become airborne. During this study our main rig consisted of a 12' Delta-style kite suspending nearly a 
-half-pound of camera gear and triggering mechanism. Getting this rig into the air required a minimum sustained wind of 8-10 mph. 
-On the other hand a helium balloon is sensitive to wind and will be guided off course by even light wind. On a 
-windless day the balloon rose easily to great altitude and remained steady in place for extended periods.    
+__Figure 3__ shows a 2-meter wide polyethelene balloon filled with helium gas. It uses a Picavet from which it suspends a dual-camera system similar to the one shown for the kite. The main difference between balloons and kites is in how each flies. Depending on size and payload (i.e. the weight of the camera plus the suspension system) a kite requires a sustained wind to become airborne. During this study our kite rig consisted of a 12′ Delta-style suspending nearly half a pound of camera and triggering gear. Getting this rig into the air required a minimum sustained wind of 8-10 mph. On the other hand a helium balloon is sensitive and will be guided off course by a light wind. On a windless day the balloon rises easily to great altitude and remains steady in place for extended periods.   
  
 ![](img/balloons.png)
 ###### Figure 3. A helium-filled balloon suspends a dual-camera system. 
 
-We have found balloons and kites to be very practical and complimentary tools for aerial photography in agriculture. On windless days
-a helium balloon performs well while on a blustery one a kite is the better choice. In either case weather is key.
-The caveat of never putting into the air anything you aren't prepared to lose holds special meaning with either, but especially 
-with a balloon. While a kite will eventually descend, if you lose control of a balloon it will continue ascending and may 
-drift into areas where it doesn't belong (i.e. into an airport's flight path). 
+We have found balloons and kites to be very practical and complimentary tools for aerial photography in agriculture. On windless days a helium balloon performs well while on a blustery one a kite is the better choice. In either case weather is key. The caveat of never putting into the air anything you aren’t prepared to lose holds special meaning with either but especially with a balloon. While a kite will eventually descend, if you lose control of a balloon it will continue ascending and may drift into areas where it doesn’t belong (i.e. into an airport’s flight path).
 
-A more practical concern regarding helium-filled balloons is that the element is in short supply. In some areas of the 
-world helium use is restricted only to essential medical and research purposes. Shortage in helium supplies has led 
-to a sharp rise in the cost of this lighter-than-air gas. One should consider this fact when deciding on helium 
-use for non-critical purposes. While helium is naturally released from fossil fuel production sites and may be captured 
-and stored, after use it eventually escapes into space forever. 
+A more practical concern regarding helium-filled balloons is that the element is in short supply. In some areas of the world helium use is restricted to essential medical and research purposes. Shortage in helium supplies has led to a rise in the cost of this lighter-than-air gas. One should consider this when deciding on helium use for non-critical purposes. While helium is naturally released from fossil-fuel production sites and may be captured and stored, after use it eventually escapes into space forever.
 
 
 #### Unmanned Aerial Vehicles (i.e. Drones)
@@ -71,18 +49,13 @@ and stored, after use it eventually escapes into space forever.
 * Aerial drones (UAVs) are unique among the other methods discussed.
 * UAVs provide stability and reproducibility over individual flights.
 
-A recent development in aerial photography addresses some of the weaknesses found in other methods. While a UAV is 
-technically an aircraft without a human pilot in fact all aerial drones rely on human direction. Perhaps 
-it's more accurate to say that drones act semi-autonomously while being piloted remotely. Either way, they represent a 
-significant improvement over other methods discussed for precision agriculture.
+A recent development in aerial photography addresses some of the weaknesses found in other methods tried. While a UAV is technically an aircraft without a human pilot in fact all aerial drones rely on human direction. Perhaps it’s more accurate to say that drones act semi-autonomously while being piloted remotely. Either way, they represent a significant improvement over other methods discussed.
 
-Several key attributes make UAVs unique among other methods. Chief among these is the ability to receive a pre-programmed 
-flight plan where the height and extent of every flight is reproducible from one flight to the next. As we will see in 
-later sections, this capability is especially important in the context of agriculture. 
+Several attributes make UAVs unique among other methods. Chief among these is the ability to receive a pre-programmed flight plan where the height and extent of every mission is reproducible from one flight to the next. As we will see in later sections, this capability is especially important in the context of precision agriculture.
 
-Aerial drone prices have dropped in recent years but owning and operating one remains an substantial 
-expense. While a number of turnkey services provide all-in-one flight and data services, as in any new endeavor, 
-understanding the steps involved and the actual value-add is crucial for success.  
+Aerial drone prices have dropped but owning and operating one remains an substantial expense. While a number of turnkey services provide all-in-one flight and data services, as in any new endeavor, understanding the steps involved and the actual value-add is crucial for success.
+
+ 
 
 
 ![](img/drone.png)
@@ -107,20 +80,11 @@ Here are some ways that aerial drone technology is being applied in agriculture:
     and identify which areas are healthy or unhealthy. Vegetation indices can be used to track changes 
     in crop health over time. 
     
-The goals of our study limits discussion to the last two categories (i.e. to monitoring and assessment of the health of a crop) 
-however these and other developments like them have created a kind of revolution in agricultural science and practice. 
-When we began this study the autonomous drone was a mere figment, their use was limited and largely theoretical. UAVs were 
-not a viable option unless one had very deep pockets and a background in aviation. Since that time UAVs have quickly evolved 
-and become firmly established as a new norm in agriculture.
+The goals of our study limits discussion to the last two categories (i.e. to monitoring and assessment of the health of a crop) however these and other developments like them have created a kind of revolution in agricultural science and practice. When we began this study the autonomous drone was a figment, its use in agriculture was limited and largely theoretical. UAVs were not a viable option unless one had very deep pockets and a background in aviation. Since that time UAVs have quickly evolved and become firmly established as a new norm in agriculture.
 
 #### Summary
-Small and large growers alike can benefit from the steep reduction in price and complexity of UAVs. With such 
-tools growers can acquire valuable forms of data as needed and suit them to their specific need. [Kites, balloons, 
-single or dual camera systems are good for some things not good for others but they are a leveling force in technology
-that will allow smaller growers to compete more effectively.]
+Small and large growers alike can benefit from the steep reduction in price and complexity of UAVs and multi-spectral cameras. Using such tools growers can acquire valuable forms of data as required and suit them to their specific needs. In addition to drones and precision cameras we also used kites, balloons, along with single and dual camera systems. Each has its place in agriculture and taken together all represent a leveling force of technology which holds the potential to assist small and medium-sized growers in farming more precisely and sustainably.
 
-###### References
+#### Next section >> [5 – Varieties of Spectral Index](spectral_indices.md)
 
-[TBD]
-
-![](img/farmera.png) 
+### [Table of Contents](abstract.md)
