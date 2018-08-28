@@ -1,5 +1,5 @@
 
-### 1 – Background
+### 1 – Abstract
 
 First introduced into Louisiana in 1751, sugarcane (Saccharum officinarum) is the highest valued row-crop in the state. Its continuous production is an important historic and economic component of Louisiana’s overall economy. While recent decades have seen a drop in Louisiana sugarcane acreage, crop values have remained stable due to increases in sucrose yield. Significant increases in yield are mainly attributable to the addition of nitrogen (N) fertilizer.
 
@@ -33,7 +33,7 @@ Our report provides background and results of a two-year study on the feasibilit
 
 Our report is organized into twelve sections. At the end of each section there is a link back to the Table of Contents.
 
-* [Introduction](abstract.md) 
+* [Abstract](abstract.md) 
     * This document.
 * [Through the Eyes of a Plant](how_plants_see.md)
     * An introduction to the biology of plant life. 
