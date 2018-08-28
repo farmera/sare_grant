@@ -57,3 +57,12 @@ Our report is organized into twelve sections. At the end of each section there i
     * Credits and appreciation. 
 * [References](references.md)
     * Comprehensive listing of resources used in this study.
+    
+### Acknowledgements
+This work was funded by the __Sustainable Agriculture Research & Education__ program at USDA (also known as __SARE__). 
+SARE is a USDA granting and outreach provider for farmers, researchers and educators seeking to develop innovative
+projects. The goal of the SARE Producer Grant program is to provide the working farmer an opportunity to conduct projects 
+that address specific challenges while developing information on what works and doesn’t work. A core mission is to provide 
+information to other farmers who may be facing similar challenges.
+
+### Next section [Through the Eyes of a Plant](how_plants_see.md)
