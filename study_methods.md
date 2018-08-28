@@ -111,6 +111,6 @@ For agricultural purposes, the broadband sensors contained in a modified camera 
 
 In the next we discuss the various bands of reflected and captured light and how these are used to facilitate our understanding of crop health. In [Section 5](spectral_indices.md) we consider in greater detail how such principles allow us to manipulate the captured bands and reveal more interesting and specific patterns. Here we have focused on general principles which makes all of this possible. More detailed results from balloon and kite methods are presented in [Section 8](study_results_balloons.md) and in [Section 9](study_results_drones.md).
 
-#### Next section >> [Kites, Balloons, and Drones](kites_balloons_drones.md)
+#### Next section >> [3 - Kites, Balloons, and Drones](kites_balloons_drones.md)
 
 ### [Table of Contents](abstract.md)
