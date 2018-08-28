@@ -65,4 +65,4 @@ projects. The goal of the SARE Producer Grant program is to provide the working 
 that address specific challenges while developing information on what works and doesn’t work. A core mission is to provide 
 information to other farmers who may be facing similar challenges.
 
-### Next section [Through the Eyes of a Plant](how_plants_see.md)
+#### Next section: [Through the Eyes of a Plant](how_plants_see.md)
