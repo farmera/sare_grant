@@ -1,4 +1,4 @@
-### 4 - Kites, Balloons, and Drones
+### Section 4 - Kites, Balloons, and Drones
 
 #### Introduction
 * The goal in aerial data capture is to produce consistent, stable images.

@@ -1,4 +1,4 @@
-### 6 - Pre-Processing Spectral Imagery
+### Section 6 – Pre-Processing Spectral Imagery
 
 #### Introduction
 
