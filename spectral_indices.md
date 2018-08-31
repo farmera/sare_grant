@@ -22,8 +22,9 @@ radiation for that particular band as it comes into contact with the sensors of 
 used in this study make use of an inverse relationship between red and near infra-red reflectance values commonly associated 
 with healthy green vegetation. 
 
-![](img/rasterbands.gif)
-###### Figure 1. Raster arrays representing different bands of light.  
+![](img/image-raster-leaves.jpg)
+
+###### Figure 1. Vector versus raster image.  
 
 An example vegetation index is NDVI which is calculated from an image in the following way: 
 1. Subtract the NIR band reflectance values in all pixels from all the Red values. 
@@ -46,7 +47,7 @@ table that we use throughout the study to accomplish this. (For those interested
 they are included in [spectral_lib.py]())
 
 ![](img/ndvi-pixel-scale.png) 
-###### Figure 3. Scaling up.
+###### Figure 3. Scaling up an NDVI-processed section of the study area. The final image is a raster where each pixel represents a distinct reflectance value.
 
 The image displayed in __Figure 3__ gives an idea of how coloring each pixel works. A more 
 detailed description will come in [Section 7](post_processing_steps.md) and [Section 9](study_results_drones.md). 
@@ -129,7 +130,7 @@ reveal important information about different stages of growth or at different le
 ###### Figure 3. Stages of sugarcane growth that formed the focus of our study. 
 
 Sugarcane growth was monitored in our study in terms of the vegetation indices listed above (NDVI, GNDVI, NDRE, and the 
-CIR composite) at days 6, 21, 36, 100, 147, and 208 following nitrogen treatment. These times correspond to the shaded 
+CIR composite) at days __6__, __21__, __36__, __100__, __147__, and __208__ following nitrogen treatment. These times correspond to the shaded 
 portions of __Figure 3__, i.e. they occur during the tillering, grand growth and maturation phases of the season. 
 
 Sugarcane is a perennial crop that grows to ~4 meters in height (in Louisiana) with a very high rate of photosynthesis 
@@ -143,13 +144,10 @@ perform matrix arithmetic over large arrays.
     
 Thus far we've discussed simple calculations applied to single pixels. In practice, generating a vegetative index
 over a crop involves much more. In addition to separate individual bands as arrays we 
-need to scale these sorts of manipulations up to potentially __millions and millions__ of pixels covering __hundreds 
-and hundreds__ of megabytes of image data. In coming sections we'll discuss how to achieve this degree of scaling. Luckily, open-source software and image processing 
+need to scale these sorts of manipulations up to potentially millions and millions of pixels covering hundreds 
+and hundreds of megabytes of image data. In coming sections we'll discuss how to achieve this degree of scaling. Luckily, open-source software and image processing 
 tools exist to make these tasks accessible.
 
+#### Next section >> [Section 6 – Pre-Processing Spectral Imagery](pre_processing_steps.md)
 
-###### References
-
-[TBD]
-
-![](img/farmera.png) 
+### [Table of Contents](abstract.md)
