@@ -55,8 +55,6 @@ Several attributes make UAVs unique among other methods. Chief among these is th
 
 Aerial drone prices have dropped but owning and operating one remains an substantial expense. While a number of turnkey services provide all-in-one flight and data services, as in any new endeavor, understanding the steps involved and the actual value-add is crucial for success.
 
- 
-
 
 ![](img/drone.png)
 ###### Figure 4. A 3DR Solo drone in mid-flight. The Solo was used in this study. 
